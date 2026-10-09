@@ -15,7 +15,9 @@
 - 输出目录：dist
 - Node：建议 22 LTS
 - 若整个项目文件夹上传仓库：根目录设仓库根；若上传外层目录：根目录设 linna-research-lab。
-- 可选择 Vercel、Netlify 等静态托管；实际启用时核对当时套餐、额度和条款。本说明未配置账户或执行上线。
+- 已配置 Sites 静态托管，站点 ID 保存在 .openai/hosting.json；使用原生 Sites 工具核对实际发布状态。生产地址：https://linna-research-lab.luckyaspen8.chatgpt.site。
+- 云端内容从 GitHub public/content.json 读取，日常内容更新不需要重新部署。定时任务规则见 CLOUD-UPDATES.zh-CN.md。
+- Sites 发布需要将当前源码推送至其独立部署源，保存对应构建归档后发布；GitHub 是项目及内容版本仓库。使用 Sites 插件 source helper 管理部署源，凭证仅经内存与 stdin 传递，不写文件。
 - 使用 hash 路由，不依赖服务端路由重写。外部分享文章地址需要保留 `/#/research/文章id` 部分。
 
 ## Git

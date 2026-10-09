@@ -1,6 +1,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { validateSnapshot } from '../src/public-content.js';
 
 export const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 export const kinds = ['research', 'journal', 'lesson', 'weekly', 'briefing', 'topic'];
@@ -54,6 +55,13 @@ export function loadContent(directory = path.join(root, 'content/public')) {
 }
 export function generate() {
   const entries = loadContent();
+  const snapshot = { schemaVersion: 1, updatedAt: new Date().toISOString(), entries };
+  validateSnapshot(snapshot);
+  fs.mkdirSync(path.join(root, 'public'), { recursive: true });
+  const previous = path.join(root, 'public/content.json');
+  let unchanged = false;
+  try { unchanged = JSON.stringify(JSON.parse(fs.readFileSync(previous, 'utf8')).entries) === JSON.stringify(entries); } catch {}
+  if (!unchanged) fs.writeFileSync(previous, JSON.stringify(snapshot, null, 2) + '\n');
   fs.writeFileSync(path.join(root, 'src/content.generated.json'), JSON.stringify(entries, null, 2) + '\n');
   console.log(`内容校验通过：${entries.length} 条，正式发布 ${entries.filter(x => x.status === 'approved').length} 条，演示 ${entries.filter(x => x.status === 'demo').length} 条`);
 }

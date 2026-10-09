@@ -9,3 +9,6 @@ private/
 backups/
 
 src/content.generated.json
+
+.sites-runtime/
+.openai/*.tar*
