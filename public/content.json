@@ -1,7 +1,43 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-09T17:29:04.892Z",
+  "updatedAt": "2026-10-10T09:03:00+08:00",
   "entries": [
+    {
+      "id": "briefing-2026-10-10",
+      "kind": "briefing",
+      "title": "今日事实简报：就业降温、AI 算力与以太坊升级",
+      "category": "每日简报",
+      "date": "2026-10-10",
+      "summary": "截至北京时间 2026-10-10 09:03，汇总美国就业、英伟达业绩及以太坊协议与加密 ETF 监管事实。",
+      "tags": [
+        "宏观",
+        "股票",
+        "Crypto"
+      ],
+      "status": "curated",
+      "ownerViewpoint": false,
+      "sourceVerified": true,
+      "updatedAt": "2026-10-10T09:03:00+08:00",
+      "sources": [
+        {
+          "title": "美国劳工统计局：2026 年 9 月就业报告",
+          "url": "https://www.bls.gov/news.release/empsit.nr0.htm"
+        },
+        {
+          "title": "NVIDIA：2027 财年第二季度业绩",
+          "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Second-Quarter-Fiscal-2027/"
+        },
+        {
+          "title": "Ethereum Foundation：Glamsterdam Testnet Announcement",
+          "url": "https://blog.ethereum.org/2026/09/17/glamsterdam-testnet-announcement"
+        },
+        {
+          "title": "美国 SEC：34-106577 批准令",
+          "url": "https://www.sec.gov/rule-release/34-106577"
+        }
+      ],
+      "body": "## 更新时间\n\n北京时间 2026-10-10 09:03。以下只陈述已核验事实与待观察变量，不构成 Linna 的投资观点。\n\n## 宏观\n\n美国劳工统计局 10 月 2 日发布的 9 月就业报告显示：非农就业增加 2.9 万，失业率为 4.2%；过去 12 个月平均每月新增就业 4.5 万。平均时薪环比上升 0.1%，同比上升 3.0%。7 月与 8 月新增就业合计下修 6 万。\n\n待观察：9 月 CPI 将于美国东部时间 10 月 14 日 08:30 发布。在此之前，不能用尚未公布的数据确认通胀路径。\n\n## 股票与 AI 算力\n\nNVIDIA 8 月 26 日公布的 2027 财年第二季度收入为 962 亿美元，同比增长 106%；数据中心收入为 890 亿美元，同比增长 117%；GAAP 毛利率为 75.0%。公司给出的第三季度收入指引为 1,080 亿美元，上下浮动 2%，并明确该指引未假设来自中国的数据中心计算收入。\n\n可继续验证的问题：收入增速能否持续高于资本开支与运营费用增速；客户集中、供电与产能约束会怎样影响兑现节奏。\n\n## Crypto\n\nEthereum Foundation 的官方公告把 Glamsterdam 的 Sepolia 激活时间列为 2026 年 10 月 6 日 13:53:36 UTC，并说明 Hoodi 与主网时间仍待确定。该升级重点包括协议内提议者—构建者分离、区块级访问列表及 gas 计价调整。这里不把测试网计划等同于主网上线。\n\n美国 SEC 于 10 月 2 日发布 34-106577 号批准令，涉及在 Cboe BZX 规则下上市交易 3 倍黄金、白银、比特币、以太坊、原油与天然气 ETF。批准上市规则不等于产品适合长期持有；杠杆产品的路径依赖、波动损耗与费用仍需单独研究。\n\n## 今天最值得追踪的三件事\n\n- 10 月 14 日美国 CPI 是否改变“就业降温但工资仍正增长”的组合。\n- NVIDIA 下一季收入指引与毛利率能否同时兑现。\n- Glamsterdam 从 Sepolia 测试到 Hoodi、主网排期时，客户端兼容性与验证者操作要求如何变化。"
+    },
     {
       "id": "lesson-2026-10-10-inflation",
       "kind": "lesson",
@@ -26,6 +62,69 @@
         }
       ],
       "body": "## 学习来源\n\n打开上方英格兰银行的官方页面，阅读英文说明并观看页面中的视频。播放可能要求同意视频相关 Cookie；视频确切时长以原页面播放器为准。这里的“五分钟”指建议练习时间，不是核验后的视频时长。暂未取得可核验的字幕与片段时间戳，因此不提供虚构转录。\n\n## 今天的知识问题\n\n价格水平是价格处于什么位置，通胀率则描述价格变化的速度。通胀率下降，如果仍为正，意味着涨价放慢，不等于价格已经回落。整体价格下降才涉及通货紧缩。\n\n## 一个原创算术练习\n\n假设同一篮商品价格先从 100 变成 110，再从 110 变成 115.5。两次涨幅分别为 10% 和 5%，价格仍然上涨。这是解释概念的假设例子，不是当前市场数据。\n\n## 金融词汇\n\n- Inflation — 通货膨胀\n- Inflation rate — 通胀率\n- Price level — 价格水平\n- Consumer Price Index（CPI）— 消费者价格指数\n- Basket of goods and services — 商品与服务篮子\n- Deflation — 通货紧缩\n- Interest rate — 利率\n\n## 英文输出表达\n\n以下是为练习编写的表达，不是视频逐字引文。\n\n> Prices can keep rising even when inflation slows.\n\n> We should distinguish a change in the price level from a change in the inflation rate.\n\n> In this example, prices rise more slowly, but they do not fall.\n\n## 五分钟练习\n\n1. 阅读官方页面并观看视频，听出 inflation、prices、interest rates 等关键词。\n2. 不看笔记，用英文解释上面的 100 → 110 → 115.5 例子。\n3. 回答：为什么“inflation is falling”和“prices are falling”含义不同？\n4. 把疑问与自己的解释拿去和 ChatGPT 讨论，聊完将总结发到这里。\n\n## 完成后的归档\n\n收到你的总结后，再创建当天学习记录，记录一句话收获、讨论内容、发现的误解和下一步练习。本材料本身不表示你已经学完，也不是 Linna 的投资观点。"
+    },
+    {
+      "id": "topic-2026-10-10-frontier-research",
+      "kind": "topic",
+      "title": "研究选题候选：AI 医疗、航天、量价与 RWA",
+      "category": "研究选题",
+      "date": "2026-10-10",
+      "summary": "锚点 2026-10-10 的首期候选：四个可由官方或学术材料推进的小研究问题。",
+      "tags": [
+        "AI 医疗",
+        "航空航天",
+        "威科夫",
+        "量价",
+        "RWA"
+      ],
+      "status": "curated",
+      "ownerViewpoint": false,
+      "sourceVerified": true,
+      "sources": [
+        {
+          "title": "FDA：AI-Enabled Medical Devices List",
+          "url": "https://www.fda.gov/medical-devices/artificial-intelligence-enabled-medical-devices/list-artificial-intelligence-enabled-medical-devices"
+        },
+        {
+          "title": "NASA：Artemis II Mission",
+          "url": "https://www.nasa.gov/mission/artemis-ii/"
+        },
+        {
+          "title": "NBER：Foundations of Technical Analysis",
+          "url": "https://www.nber.org/papers/w7613"
+        },
+        {
+          "title": "BIS：When bricks meet bytes",
+          "url": "https://www.bis.org/publications/working-paper-1311-when-bricks-meet-bytes-does-tokenisation-fill-gaps-traditional-real-estate-markets"
+        }
+      ],
+      "body": "## 生成规则\n\n本期日期距固定锚点 2026-10-10 为 0 天，符合“非负 5 的整数倍”。现有公开内容中没有非演示 topic，因此只补这一期，不把候选写成 Linna 已确认的研究文章。\n\n## 候选一：AI 医疗器械的商业化是否被“放射科集中”高估？\n\n为什么值得研究：FDA 的 AI 医疗器械列表为已获美国上市授权的设备提供可追踪样本；列表最新可见记录仍大量集中在 Radiology。相比讨论抽象的“AI 改变医疗”，这个问题可以落到审批路径、科室分布与商业模式。\n\n核心问题：按年份与医疗专科统计新增授权后，AI 医疗器械是否正从影像诊断扩散到治疗决策、监测或工作流？收入机会来自一次性设备、软件订阅，还是按检查量收费？\n\n可查证证据：FDA 明确说明列表用于识别已获美国上市授权的 AI 医疗器械，同时提醒该列表并不完备；每个 submission number 可继续核对 510(k)、De Novo 或 PMA 文件。\n\n反方解释：放射科占比高可能来自数字影像数据天然适配 AI，也可能来自 FDA 的识别关键词与公开摘要口径；授权数量不能直接代表临床采用、支付覆盖或收入。\n\n## 候选二：Artemis II 之后，哪些航天环节真正形成可投资的重复收入？\n\n为什么值得研究：NASA 页面显示 Artemis II 已于 2026 年 4 月 1 日发射、4 月 10 日溅落，历时 9 天 1 小时 32 分。任务完成后，可以从“概念预期”转向验证供应链、地面系统、通信、热防护与后续任务复用。\n\n核心问题：任务中哪些硬件或服务具有可重复采购、可跨任务复用与较高切换成本？政府主导项目的收入确认和商业发射市场有何不同？\n\n可查证证据：NASA 任务页列出 SLS、Orion、Exploration Ground Systems 与任务结果，可进一步沿合同公告和承包商披露追踪订单。\n\n反方解释：技术成功不必然转化为股东回报；成本加成合同、延期、政治预算和单一客户依赖都可能削弱商业质量。\n\n## 候选三：把威科夫“量价语言”改写为可证伪规则\n\n为什么值得研究：威科夫最容易出现的偏差不是术语太少，而是事后解释太自由。Lo、Mamaysky 与 Wang 的研究提供了把图形识别转化为算法与统计检验的范式。\n\n核心问题：能否把“放量突破、缩量回测、供应耗尽”分别定义为固定窗口、分位数与失效条件，并在 BTC、港股和美股上做样本外检验？\n\n可查证证据：NBER Working Paper 7613 用非参数方法识别技术形态并比较条件收益分布，说明部分形态可能提供增量信息，但研究样本与今天市场不同。\n\n反方解释：任何正结果都可能来自数据挖掘、参数选择、交易成本或制度时期差异；如果规则无法在看图前写清楚，就不算可证伪。\n\n## 候选四：RWA 的“流动性改善”是谁提供的？\n\n为什么值得研究：RWA 项目常把代币化本身等同于流动性，但 BIS 对美国代币化房地产平台的研究指出，压力期流动性改善依赖平台回购机制，而回购又与更高偿付风险相关。\n\n核心问题：股票代币或地产代币的二级流动性来自自然买卖盘、做市商、发行人回购还是抵押融资？当支持方退出时，折价、赎回和结算风险怎样传导？\n\n可查证证据：BIS Working Paper 1311 使用 2019–2025 年多平台数据；研究发现自然灾害后两天代币化房地产交易量累计上升 35%，但流动性优势依赖回购安排。\n\n反方解释：房地产平台样本不能直接外推到股票代币；不同底层资产、法律权利、赎回机制与做市深度可能产生完全不同的结果。\n\n## 建议优先级\n\n如果本周只选一个，优先候选三：它能直接把现有威科夫学习转化为一份小型、可复用的交易研究方法论；真正写成研究文章前仍需 Linna 确认。"
+    },
+    {
+      "id": "weekly-2026-10-10-ethereum-account-model",
+      "kind": "weekly",
+      "title": "本周 Crypto 英语精听：重新思考 Ethereum 账户模型",
+      "category": "Crypto 英语",
+      "date": "2026-10-10",
+      "summary": "用 Devcon 官方 8 分 57 秒闪电演讲练习听懂全局状态、并行执行与账户中心模型的取舍。",
+      "tags": [
+        "金融英语",
+        "Crypto",
+        "Ethereum",
+        "Devcon"
+      ],
+      "status": "curated",
+      "ownerViewpoint": false,
+      "sourceVerified": true,
+      "videoUrl": "https://archive.devcon.org/devcon-7/rethinking-ethereums-account-model/",
+      "duration": "8 分 57 秒",
+      "sources": [
+        {
+          "title": "Devcon Archive：Rethinking Ethereum’s account model",
+          "url": "https://archive.devcon.org/devcon-7/rethinking-ethereums-account-model/"
+        }
+      ],
+      "body": "## 已核验材料\n\nDevcon 官方档案页列出的演讲为 “Rethinking Ethereum’s account model”，讲者 Will Villanueva，类型为 Lightning Talk，时长 8 分 57 秒，活动为 Devcon 7（2024 年 11 月）。页面内含 YouTube 播放器。\n\n档案页没有提供可逐句核验的完整字幕，因此下面不伪造逐字稿，也不标注未经核验的片段时间戳。\n\n## 先懂知识，再听英语\n\n演讲提出的核心张力是：Ethereum 的全局账户状态让许多调用需要触碰共享状态，可能形成串行处理瓶颈；账户中心模型尝试为各账户拆分更确定的状态位置，使一部分 ERC-20 转账或 DEX 调用具备并行处理空间。\n\n这是一项架构主张，不等于已经证明“账户中心模型一定更快、更安全”。研究时还要检查状态一致性、跨账户调用、开发者复杂度与兼容成本。\n\n## 关键词\n\n- account model — 账户模型\n- global state — 全局状态\n- global lock — 全局锁\n- deterministic address — 确定性地址\n- parallel execution — 并行执行\n- state contention — 状态竞争\n- throughput — 吞吐量\n- trade-off — 取舍\n- backward compatibility — 向后兼容\n- security assumption — 安全假设\n\n## 地道表达\n\n以下句子是根据演讲主题编写的输出模板，不是视频原句。\n\n> The proposal reframes scalability as a state-management problem.\n\n> Parallel execution can improve throughput, but it may introduce new coordination costs.\n\n> The key question is whether the performance gain survives real-world contract interactions.\n\n## 三遍精听\n\n1. 第一遍不暂停：只写下 speaker 的问题、方案与结论，各一句英文。\n2. 第二遍允许暂停：记录至少五个技术名词，并用中文解释它们之间的关系。\n3. 第三遍做反方检查：找出讲者的一个隐含假设，并写一句 “This argument depends on ...”。\n\n## 输出练习\n\n用 60 秒英文回答：\n\n“Why might a global account model limit parallel execution, and what new trade-offs could an account-centric model create?”\n\n完成后再把自己的答案交给 ChatGPT 纠错；本条不记录或声称你已经完成。"
     },
     {
       "id": "j1",
