@@ -1,7 +1,74 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T09:03:00+08:00",
+  "updatedAt": "2026-10-11T09:04:00+08:00",
   "entries": [
+    {
+      "id": "briefing-2026-10-11",
+      "kind": "briefing",
+      "title": "今日事实简报：美联储加息、Micron 业绩与 Ethereum 升级",
+      "category": "每日简报",
+      "date": "2026-10-11",
+      "summary": "截至北京时间 2026-10-11 09:04，核验美联储政策、Micron 最新财报与公司行动、Ethereum Glamsterdam 状态。",
+      "tags": [
+        "宏观",
+        "股票",
+        "MU",
+        "Crypto"
+      ],
+      "status": "curated",
+      "ownerViewpoint": false,
+      "sourceVerified": true,
+      "updatedAt": "2026-10-11T09:04:00+08:00",
+      "sources": [
+        {
+          "title": "Federal Reserve：FOMC Statement, September 16, 2026",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm"
+        },
+        {
+          "title": "美国劳工统计局：2026 年 9 月就业报告",
+          "url": "https://www.bls.gov/news.release/empsit.nr0.htm"
+        },
+        {
+          "title": "Micron：2026 财年第四季度及全年业绩",
+          "url": "https://investors.micron.com/news/press-release/2026/Micron-Technology-Inc--Reports-Record-Fiscal-Fourth-Quarter-and-Full-Year-2026-Results/default.aspx"
+        },
+        {
+          "title": "ethereum.org：Glamsterdam",
+          "url": "https://ethereum.org/roadmap/glamsterdam/"
+        }
+      ],
+      "body": "## 更新时间\n\n北京时间 2026-10-11 09:04。以下是来源可追溯的事实摘要，不构成 Linna 的投资观点。\n\n## 宏观：政策已收紧，就业数据随后转弱\n\n美联储 9 月 16 日把联邦基金利率目标区间上调 25 个基点至 3.75%–4.00%，表决结果为 12 比 0。声明称经济活动稳健扩张、国内支出有韧性，同时强调通胀仍然偏高。\n\n美国劳工统计局随后公布的 9 月就业报告显示：非农就业增加 2.9 万，失业率为 4.2%，7 月和 8 月新增就业合计下修 6 万。两份材料放在一起看，核心矛盾是政策正在收紧，而新增就业与此前估计相比更弱。\n\n下一项明确时间点：美国 9 月 CPI 计划于 10 月 14 日美国东部时间 08:30 发布。在数据公布前，不能把通胀重新加速或重新回落写成事实。\n\n## 股票：Micron 的最新业绩与公司行动\n\nMicron 9 月 30 日公布的 2026 财年第四季度收入为 542.29 亿美元，上一季度为 414.56 亿美元，上年同期为 113.15 亿美元；GAAP 毛利率为 86.8%。公司给出的 2027 财年第一季度收入指引为 615 亿美元，上下浮动 15 亿美元。\n\n资本开支方面，第四季度净资本开支为 107.7 亿美元，全年为 273.7 亿美元。研究重点不应只看收入增速，还要看新增产能、客户预付款和应收账款如何转化为可持续现金流。\n\n公司行动方面，该业绩公告宣布每股 0.15 美元季度股息：10 月 14 日收盘时登记，10 月 29 日支付。对公告全文检索没有发现 “split” 一词；这只能说明这份业绩公告本身没有宣布拆股，不能替代对后续 8-K、董事会公告和投资者关系页面的持续监控。\n\n## Crypto：Glamsterdam 仍不能按主网上线处理\n\nethereum.org 的 Glamsterdam 页面把状态标为“在开发网络测试”，主网预期窗口写为 2026 年第四季度，但日期尚未确认；页面列出的下一里程碑是 10 月 6 日 Sepolia 分叉。\n\n因此，研究或产品文档中应明确区分：\n\n- 已公布的测试网里程碑；\n- 尚未确认日期的主网上线；\n- 仍可能在主网上线前变化的 EIP 范围与参数。\n\n## 今天值得继续验证\n\n- 10 月 14 日 CPI 是否支持美联储“通胀仍偏高”的判断。\n- Micron 的超高毛利率与客户协议能否跨季度保持，现金流是否跟上收入确认。\n- Glamsterdam 的 Hoodi 与主网日期何时由官方确认。\n- Micron 是否另行发布拆股相关董事会或监管文件；截至本次核验，没有用这份财报之外的缺失证据下结论。"
+    },
+    {
+      "id": "lesson-2026-10-11-fomc-statement",
+      "kind": "lesson",
+      "title": "今日金融英语：听懂 FOMC 加息声明",
+      "category": "宏观英语",
+      "date": "2026-10-11",
+      "summary": "结合美联储 2026 年 9 月 FOMC 官方开场视频与声明，练习听懂利率决定、双重使命和政策措辞。",
+      "tags": [
+        "金融英语",
+        "美联储",
+        "FOMC",
+        "利率"
+      ],
+      "status": "curated",
+      "ownerViewpoint": false,
+      "sourceVerified": true,
+      "videoUrl": "https://www.youtube.com/watch?v=hgpxmJrsPBY",
+      "duration": "建议练习 10 分钟",
+      "sources": [
+        {
+          "title": "Federal Reserve：FOMC Introductory Statement, September 16, 2026",
+          "url": "https://www.youtube.com/watch?v=hgpxmJrsPBY"
+        },
+        {
+          "title": "Federal Reserve：FOMC Statement, September 16, 2026",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm"
+        }
+      ],
+      "body": "## 已核验材料\n\n视频标题为 “FOMC Introductory Statement, September 16, 2026”，由美联储官方 YouTube 页面发布。配套的美联储书面声明显示，FOMC 以 12 比 0 通过决定，把联邦基金利率目标区间上调 25 个基点至 3.75%–4.00%。\n\n当前可核验页面没有提供完整逐字稿和可靠片段时间戳，因此这里不伪造字幕；“10 分钟”是建议练习时间，不代表视频时长。\n\n## 先懂知识，再听英语\n\nFOMC 声明通常把信息分成三层：\n\n- 决定：利率升、降或不变，以及新的目标区间。\n- 判断：经济活动、就业和通胀处于什么状态。\n- 反应函数：未来决策取决于哪些数据和风险，而不是给出无条件承诺。\n\n这次声明把加息与双重使命联系起来，同时说经济活动稳健扩张、国内支出有韧性、通胀仍然偏高。听视频时要区分“发生了什么”和“为什么这样做”。\n\n## 关键词\n\n- target range — 目标区间\n- federal funds rate — 联邦基金利率\n- quarter percentage point — 四分之一个百分点，即 25 个基点\n- dual mandate — 充分就业与价格稳定的双重使命\n- ample reserves — 充足准备金\n- economic activity — 经济活动\n- resilient spending — 有韧性的支出\n- elevated inflation — 仍然偏高的通胀\n- price stability — 价格稳定\n- policy action — 政策行动\n\n## 地道表达\n\n以下句子是为输出练习编写的表达，不是视频逐字引文。\n\n> The Committee raised the target range by twenty-five basis points.\n\n> The statement describes domestic spending as resilient while inflation remains elevated.\n\n> A policy decision should be separated from the conditions that may shape the next move.\n\n## 三步练习\n\n1. 第一遍只听决定：写下 raise、target range 和 3.75%–4.00%。\n2. 第二遍按“增长—就业—通胀”分三栏记录关键词。\n3. 对照官方书面声明，检查自己是否把事实判断听成了未来承诺。\n\n## 输出练习\n\n用 60 秒英文回答：\n\n“What did the FOMC decide, what reasons did it give, and which facts would you watch before the next meeting?”\n\n完成后可以把自己的答案交给 ChatGPT 纠错；本条不记录或声称你已经完成。"
+    },
     {
       "id": "briefing-2026-10-10",
       "kind": "briefing",
