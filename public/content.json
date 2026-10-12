@@ -1,7 +1,71 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-11T09:04:00+08:00",
+  "updatedAt": "2026-10-12T08:57:00+08:00",
   "entries": [
+    {
+      "id": "briefing-2026-10-12",
+      "kind": "briefing",
+      "title": "今日事实简报：Fed 预测、TSMC 月营收与机构级 Ethereum",
+      "category": "每日简报",
+      "date": "2026-10-12",
+      "summary": "截至北京时间 2026-10-12 08:57，核验美联储最新预测、TSMC 9 月营收与 Ethereum 机构采用页面。",
+      "tags": [
+        "宏观",
+        "股票",
+        "TSM",
+        "Crypto",
+        "RWA"
+      ],
+      "status": "curated",
+      "ownerViewpoint": false,
+      "sourceVerified": true,
+      "updatedAt": "2026-10-12T08:57:00+08:00",
+      "sources": [
+        {
+          "title": "Federal Reserve：2026 年 9 月经济预测摘要",
+          "url": "https://www.federalreserve.gov/monetarypolicy/fomcprojtabl20260916.htm"
+        },
+        {
+          "title": "TSMC：2026 Monthly Revenue",
+          "url": "https://investor.tsmc.com/english/monthly-revenue/2026"
+        },
+        {
+          "title": "TSMC：Financial Calendar",
+          "url": "https://investor.tsmc.com/english/financial-calendar"
+        },
+        {
+          "title": "Ethereum for Institutions",
+          "url": "https://institutions.ethereum.org/"
+        }
+      ],
+      "body": "## 更新时间\n\n北京时间 2026-10-12 08:57。以下为来源可追溯的事实摘要与待验证问题，不构成 Linna 的投资观点，也不包含实时买卖建议。\n\n## 宏观：Fed 的“增长上修”与“通胀风险偏上”并存\n\n美联储 9 月 16 日发布的经济预测摘要显示，FOMC 参与者对 2026 年实际 GDP 增长的中位预测为 2.3%，高于 6 月预测的 2.2%；2026 年失业率中位预测为 4.1%，低于 6 月的 4.3%。同一张表中，2026 年 PCE 通胀中位预测为 3.7%，核心 PCE 为 3.4%，分别比 6 月预测高 0.1 个百分点。\n\n18 位参与者中，17 位认为 PCE 通胀风险偏向上行，17 位认为通胀预测的不确定性高于过去 20 年的典型水平。点阵图中 2026 年末联邦基金利率中位数为 4.1%，但这是参与者对“适当政策”的个别判断，不是委员会承诺。\n\n待验证：10 月 14 日发布的美国 9 月 CPI 是否改变市场对增长、通胀与政策路径的组合判断；在数据公布前，不把任何方向写成既定事实。\n\n## 股票：TSMC 9 月营收已披露，三季报仍待发布\n\nTSMC 官方月营收页显示，2026 年 9 月合并净营收为新台币 5,118.57 亿元，同比增长 54.6%；2026 年前九个月累计为新台币 3.898727 兆元，同比增长 41.1%。页面明确标注 2026 年数字尚未经审计。\n\n公司财务日历列出，2026 年第三季度业绩说明会将在 10 月 15 日台湾时间 14:00–15:30 举行。因此，9 月营收可以视为已披露事实，但毛利率、先进制程占比、资本开支和全年指引仍应等待正式季报与电话会核验。\n\n研究问题：月营收增速能否转化为持续的自由现金流；AI 需求、客户集中、汇率与海外建厂成本会怎样共同影响利润率。\n\n## Crypto / RWA：官方机构门户强化了“结算层”叙事\n\nEthereum 官方机构门户把 RWA 与稳定币、DeFi、隐私与合规、Layer 2 列为机构用例，并称公开主网可提供透明度，企业级隐私方案用于保密和控制。页面把 Ethereum 及其 L2 描述为资产代币化的重要平台，并展示网络安全、稳定币、DeFi 与 DEX 流动性等动态指标。\n\n这些数值会随市场变化，且页面不同区块的稳定币统计口径与更新时间可能不一致，因此不把单一即时数字当作审计结论。真正需要核验的是：代币对应何种法律权利、谁负责托管与赎回、隐私方案怎样满足监管、L2 结算与桥接风险由谁承担。\n\n## 今天继续追踪\n\n- 10 月 14 日 CPI 与 Fed 9 月预测之间是否出现偏离。\n- 10 月 15 日 TSMC 三季报能否解释 9 月高增长的产品、客户与利润率来源。\n- 机构级 RWA 项目能否披露可执行权利、赎回机制与链上/链下对账，而不只是规模叙事。"
+    },
+    {
+      "id": "lesson-2026-10-12-ocr-transmission",
+      "kind": "lesson",
+      "title": "今日金融英语：官方现金利率如何传导到银行利率",
+      "category": "宏观英语",
+      "date": "2026-10-12",
+      "summary": "结合新西兰储备银行官方教育视频与逐字稿，学习 OCR 走廊、批发融资与利率传导。",
+      "tags": [
+        "金融英语",
+        "货币政策",
+        "OCR",
+        "利率传导"
+      ],
+      "status": "curated",
+      "ownerViewpoint": false,
+      "sourceVerified": true,
+      "videoUrl": "https://www.rbnz.govt.nz/en/education/our-financial-education-videos",
+      "duration": "建议练习 10 分钟",
+      "sources": [
+        {
+          "title": "Reserve Bank of New Zealand：Our financial education videos（更新于 2026-06-10）",
+          "url": "https://www.rbnz.govt.nz/en/education/our-financial-education-videos"
+        }
+      ],
+      "body": "## 已核验材料\n\n新西兰储备银行的官方金融教育页面包含视频 “How do we use the OCR to influence short-term interest rates?” 及页面逐字稿。该页面发布于 2022 年 2 月 28 日，最近更新于 2026 年 6 月 10 日。\n\n页面没有显示可核验的视频时长，因此“10 分钟”是建议练习时间，不是视频时长；下面的表达为学习输出模板，不冒充视频原句。\n\n## 先懂知识，再听英语\n\nOCR 是 Official Cash Rate，即官方现金利率。央行通过存款与借款安排形成利率走廊：银行把钱存入央行可获得接近 OCR 的回报，向央行借款则付出更高利率。这个上下边界会影响银行之间的隔夜批发利率。\n\n央行还会调节结算现金，使短期批发利率靠近 OCR。银行获得资金后会加入信用风险、期限、运营和利润等溢价，形成企业与家庭看到的存贷款利率。长期固定按揭利率还会受到未来利率预期与全球市场影响，因此 OCR 的变化不是对所有利率一比一、同时传导。\n\n## 关键词\n\n- official cash rate (OCR) — 官方现金利率\n- wholesale rate — 批发利率\n- overnight rate — 隔夜利率\n- corridor system — 利率走廊体系\n- deposit facility — 存款便利\n- lending facility — 贷款便利\n- settlement cash — 结算现金\n- funding cost — 融资成本\n- pass-through — 传导\n- interest-rate expectations — 利率预期\n\n## 地道表达\n\n以下句子是根据官方讲解编写的输出模板，不是视频逐字引文。\n\n> The policy rate anchors short-term wholesale funding costs.\n\n> Banks add a margin before passing funding costs on to borrowers.\n\n> The pass-through to long-term mortgage rates is neither immediate nor one-for-one.\n\n## 三步练习\n\n1. 第一遍只听因果链：OCR → wholesale rates → bank funding costs → customer rates。\n2. 第二遍记录 corridor、upper limit、lower limit 与 settlement cash，分别用中文解释作用。\n3. 对照页面逐字稿，检查自己是否把短期利率传导误解为所有贷款利率同步变化。\n\n## 输出练习\n\n用 60 秒英文回答：\n\n“How does an OCR corridor influence overnight rates, and why can long-term mortgage rates respond differently?”\n\n完成后可以把自己的答案交给 ChatGPT 纠错；本条不记录或声称你已经完成学习。"
+    },
     {
       "id": "briefing-2026-10-11",
       "kind": "briefing",
