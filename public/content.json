@@ -1,7 +1,68 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-12T08:57:00+08:00",
+  "updatedAt": "2026-10-13T09:00:00+08:00",
   "entries": [
+    {
+      "id": "briefing-2026-10-13",
+      "kind": "briefing",
+      "title": "今日事实简报：生活成本政策、AI 医疗协作与 Crypto 托管提案",
+      "category": "每日简报",
+      "date": "2026-10-13",
+      "summary": "截至北京时间 2026-10-13 09:00，核验 IMF 生活成本研究、Tempus 个体化肿瘤治疗协作与 SEC 加密托管提案。",
+      "tags": [
+        "宏观",
+        "股票",
+        "TEM",
+        "AI 医疗",
+        "Crypto",
+        "监管"
+      ],
+      "status": "curated",
+      "ownerViewpoint": false,
+      "sourceVerified": true,
+      "updatedAt": "2026-10-13T09:00:00+08:00",
+      "sources": [
+        {
+          "title": "IMF：World Economic Outlook, October 2026（发布日程与第 2、3 章）",
+          "url": "https://www.imf.org/en/publications/weo/issues/2026/10/13/world-economic-outlook-october-2026"
+        },
+        {
+          "title": "Tempus AI：Multi-Year Collaboration with Moderna and Merck",
+          "url": "https://investors.tempus.com/news-releases/news-release-details/tempus-announces-multi-year-collaboration-moderna-and-merck"
+        },
+        {
+          "title": "SEC：Statement on Proposal to Address the Custody of Crypto Assets",
+          "url": "https://www.sec.gov/newsroom/speeches-statements/atkins-crypto-custody-100126-statement-proposal-address-custody-crypto-assets-under-investment-advisers-act-investment-company"
+        }
+      ],
+      "body": "## 更新时间\n\n北京时间 2026-10-13 09:00。以下仅整理已核验事实、来源口径与待验证问题，不构成 Linna 的投资观点或买卖建议。\n\n## 宏观：生活成本冲击下，定向转移支付优于普遍压价\n\nIMF《世界经济展望》2026 年 10 月版的第 2 章研究生活必需品价格急升、购买力下降和不平等恶化时的政策选择。基于全球政策干预数据库和经济模型，IMF 的结论是：面向脆弱家庭、临时性的转移支付通常更有效且更节省财政资源，也更能保留价格信号。\n\n报告指出，压低价格的广泛措施可能需要定向转移支付 3 至 22 倍的财政资源；财政空间有限或多国同时采用时，效果还可能下降。这里的倍数来自 IMF 模型与样本，不应机械外推到每个国家。\n\n完整 WEO 与第 1 章计划在曼谷时间 10 月 13 日 09:00、即北京时间 10:00 发布。截至本次核验仍标为“即将发布”，因此不提前填写全球增长预测。\n\n## 股票 / AI 医疗：Tempus 进入个体化疗法的交付链条\n\nTempus AI 10 月 7 日宣布扩大与 Moderna、Merck 的多年合作，为个体化新抗原疗法 intismeran autogene 的潜在商业化做准备。该疗法正与 KEYTRUDA 联合评估，涉及完全切除的 IIB–IV 期黑色素瘤及其他癌种。\n\nTempus 将负责肿瘤组织与血液样本的及时收集和转运；在取得适用监管批准后，还将提供下一代测序服务，以支持疗法设计与生产。公告没有披露合作的财务条款，也没有说明收入确认、毛利率或最低采购承诺。\n\n因此，这条消息能证明 Tempus 正尝试把数据与测序能力嵌入真实临床工作流，但不能直接证明疗法会获批、商业化会成功或合作会带来特定利润。后续需要追踪监管进展、样本周转时间、检测量、单位经济性和合同披露。\n\n## Crypto：托管框架仍处于提案阶段\n\nSEC 主席 10 月 1 日的声明称，委员会提出针对投资顾问和基金持有加密资产的托管框架，目标是解决现有规则主要围绕传统资产设计的问题。声明特别提到，新加密资产推出后，合格托管能力可能滞后数月。\n\n这仍是监管提案，不是已经生效的最终规则。研究 RWA 或代币化证券时，需要继续区分：资产是否属于证券、谁是允许的托管人、私钥控制如何证明、链上转移怎样与账簿所有权对齐，以及资产上线与合规托管之间的时间差。\n\n## 今天继续验证\n\n- 北京时间 10:00 后 IMF 完整 WEO 的增长与通胀预测，不在发布前抢跑。\n- Tempus 合作是否在后续文件中披露财务条款、业务量与商业化里程碑。\n- SEC 托管提案的正式文本、征求意见期与最终规则；在此之前不把主席声明写成现行义务。"
+    },
+    {
+      "id": "lesson-2026-10-13-bank-stress-tests",
+      "kind": "lesson",
+      "title": "今日金融英语：银行压力测试到底在测什么",
+      "category": "金融稳定英语",
+      "date": "2026-10-13",
+      "summary": "结合新西兰储备银行官方视频与逐字稿，学习严重但合理的情景、资本韧性与系统性反馈。",
+      "tags": [
+        "金融英语",
+        "银行",
+        "压力测试",
+        "金融稳定"
+      ],
+      "status": "curated",
+      "ownerViewpoint": false,
+      "sourceVerified": true,
+      "videoUrl": "https://www.rbnz.govt.nz/en/education/our-financial-education-videos",
+      "duration": "建议练习 10 分钟",
+      "sources": [
+        {
+          "title": "Reserve Bank of New Zealand：Stress tests（页面更新于 2026-06-10）",
+          "url": "https://www.rbnz.govt.nz/en/education/our-financial-education-videos"
+        }
+      ],
+      "body": "## 已核验材料\n\n新西兰储备银行官方金融教育页面包含视频 “Stress tests” 及页面逐字稿。页面发布于 2022 年 2 月 28 日，最近更新于 2026 年 6 月 10 日。\n\n原页面没有显示可核验的视频时长，因此“10 分钟”是建议练习时间，不是视频时长。下面的英文句子为输出模板，不冒充视频逐字引文。\n\n## 先懂知识，再听英语\n\n银行压力测试不是预测“最可能发生什么”，而是设置严重但仍合理的假设情景，观察银行在房价大跌、失业上升、利率跳升或多重冲击同时发生时能否继续运作。\n\n测试通常关注资本、流动性、贷款损失与融资能力。单家银行看似合理的应对措施，例如同时收紧信贷或出售资产，若全行业一起采取，可能放大经济与市场压力。因此还要看系统范围的反馈效应。\n\n官方视频强调，压力测试不是简单的及格或不及格考试，而是帮助监管机构和银行识别当前与新出现的风险，并制定缓释措施。\n\n## 关键词\n\n- stress test — 压力测试\n- hypothetical scenario — 假设情景\n- severe but plausible — 严重但合理\n- capital buffer — 资本缓冲\n- liquidity — 流动性\n- credit loss — 信贷损失\n- funding pressure — 融资压力\n- resilience — 韧性\n- emerging risk — 新出现的风险\n- system-wide impact — 系统范围影响\n\n## 地道表达\n\n以下为根据官方主题编写的练习表达，不是视频原句。\n\n> A stress test asks whether a bank can absorb losses under a severe but plausible scenario.\n\n> The exercise is designed to reveal vulnerabilities, not to predict the next crisis.\n\n> Actions that protect one bank may amplify stress when every bank responds in the same way.\n\n## 三步练习\n\n1. 第一遍只记录四类冲击：house prices、unemployment、interest rates、multiple shocks。\n2. 第二遍写下测试目的，区分 forecast、scenario 和 pass-or-fail test。\n3. 第三遍用自己的话解释为什么单家银行的反应可能产生 system-wide impact。\n\n## 输出练习\n\n用 60 秒英文回答：\n\n“Why is a stress test different from a forecast, and how can banks’ collective actions affect the wider financial system?”\n\n完成后可以把自己的答案交给 ChatGPT 纠错；本条不记录或声称你已经完成学习。"
+    },
     {
       "id": "briefing-2026-10-12",
       "kind": "briefing",
