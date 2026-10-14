@@ -1,7 +1,75 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-13T09:00:00+08:00",
+  "updatedAt": "2026-10-14T09:02:00+08:00",
   "entries": [
+    {
+      "id": "briefing-2026-10-14",
+      "kind": "briefing",
+      "title": "今日事实简报：CPI 发布前、ASML 指引与稳定币资金替代",
+      "category": "每日简报",
+      "date": "2026-10-14",
+      "summary": "截至北京时间 2026-10-14 09:02，核验美国 CPI 发布边界、ASML 已披露业绩与指引，以及 BIS 最新稳定币研究。",
+      "tags": [
+        "宏观",
+        "股票",
+        "ASML",
+        "Crypto",
+        "稳定币"
+      ],
+      "status": "curated",
+      "ownerViewpoint": false,
+      "sourceVerified": true,
+      "updatedAt": "2026-10-14T09:02:00+08:00",
+      "sources": [
+        {
+          "title": "美国劳工统计局：Consumer Price Index Summary — August 2026",
+          "url": "https://www.bls.gov/news.release/cpi.nr0.htm"
+        },
+        {
+          "title": "ASML：Q2 2026 Financial Results",
+          "url": "https://www.investor.asml.com/news-releases/news-release-details/q2-2026-financial-results"
+        },
+        {
+          "title": "ASML：Quarterly Results",
+          "url": "https://www.investor.asml.com/quarterly-results"
+        },
+        {
+          "title": "BIS Working Paper 1382：Are stablecoins and bank deposits substitutes?",
+          "url": "https://www.bis.org/publications/working-paper-1382-are-stablecoins-and-bank-deposits-substitutes"
+        }
+      ],
+      "body": "## 更新时间\n\n北京时间 2026-10-14 09:02。以下仅整理已核验事实和待验证问题，不构成 Linna 的投资观点或买卖建议。\n\n## 宏观：9 月 CPI 尚未发布\n\n美国劳工统计局当前页面仍是 2026 年 8 月 CPI：总体 CPI 环比上升 0.4%、同比上升 3.4%；剔除食品和能源的核心 CPI 环比上升 0.3%、同比上升 2.4%。8 月能源指数环比上升 2.1%，其中汽油上升 3.9%；住房指数上升 0.3%。\n\nBLS 明确写明，9 月 CPI 将于 10 月 14 日美国东部时间 08:30 发布，对应北京时间当日 20:30。在发布前，不能把市场预测、媒体预估或价格波动写成正式数据。\n\n今晚核验时需要分开看：总体与核心、环比与同比、住房与服务、能源与食品。只看一个同比数字，容易忽略当月结构变化。\n\n## 股票：ASML 三季度结果尚待当天披露\n\nASML 官方页面显示，公司将在 10 月 14 日公布 2026 年第三季度业绩。截至北京时间 09:02，当前可核验的最新完整财务数据仍是第二季度结果，因此这里不提前填写三季度数字。\n\nASML 第二季度净销售额为 93.26 亿欧元，毛利率 54.0%，净利润 29.18 亿欧元；新售光刻系统 86 台。公司当时给出的第三季度指引为净销售额 110 亿至 120 亿欧元、毛利率 55% 至 57%；全年净销售额指引为 430 亿至 450 亿欧元。\n\n今天业绩发布后，重点不是只比较收入是否落在区间内，还要核对订单、EUV 与 DUV 组合、Installed Base Management 收入、毛利率以及 2027–2028 产能扩张说法。第二季度指引是管理层预期，不是已经实现的事实。\n\n## Crypto：稳定币与银行存款可能是部分替代品\n\nBIS 10 月 13 日发布的 Working Paper 1382 使用 2019 年 1 月至 2025 年 6 月的美国周度数据，研究银行存款利率变化与储备支持型稳定币市值增长之间的关系。\n\n论文发现，存款利率提高之后，稳定币增长往往放缓；USDC 的关系强于 USDT。结果在不同存款产品以及供应给 DeFi 协议的稳定币样本中仍存在，但对非稳定币加密资产没有发现同样关系。\n\n作者把结果解释为稳定币与银行存款存在“部分替代”。但论文也明确说明，这不等于稳定币增长必然减少银行体系总存款或贷款。研究使用历史样本和计量识别，不能直接当作未来规模预测；而且论文观点不代表 BIS 或成员央行的官方立场。\n\n## 今天继续验证\n\n- 北京时间 20:30 后，用 BLS 原始发布核对 9 月 CPI，而不是引用预期值。\n- ASML 三季度实际收入、毛利率、订单与全年指引是否相互一致。\n- 稳定币无息或低息特征在收益型稳定币、代币化国债和不同司法辖区中是否仍支持“部分替代”结论。"
+    },
+    {
+      "id": "lesson-2026-10-14-asml-earnings-video",
+      "kind": "lesson",
+      "title": "今日金融英语：听懂 ASML 财报视频里的业绩与指引",
+      "category": "公司财报英语",
+      "date": "2026-10-14",
+      "summary": "结合 ASML 官方 CEO/CFO 视频与文字稿，练习区分已实现业绩、管理层指引和需求叙事。",
+      "tags": [
+        "金融英语",
+        "财报",
+        "ASML",
+        "半导体"
+      ],
+      "status": "curated",
+      "ownerViewpoint": false,
+      "sourceVerified": true,
+      "videoUrl": "https://www.investor.asml.com/quarterly-results",
+      "duration": "建议练习 12 分钟",
+      "sources": [
+        {
+          "title": "ASML：Quarterly Results — Q2 2026 CEO/CFO Video and Transcript",
+          "url": "https://www.investor.asml.com/quarterly-results"
+        },
+        {
+          "title": "ASML：Q2 2026 Financial Results",
+          "url": "https://www.investor.asml.com/news-releases/news-release-details/q2-2026-financial-results"
+        }
+      ],
+      "body": "## 已核验材料\n\nASML 官方季度业绩页面在 2026 年第二季度栏目提供 CEO/CFO video 和 Video Transcript；配套新闻稿发布日期为 2026 年 7 月 15 日，内容讨论第二季度业绩、第三季度及全年展望。\n\n页面没有显示可核验的视频时长，因此“12 分钟”是建议练习时间，不是视频时长。下面的表达为输出模板，不冒充视频逐字引文。\n\n## 先懂知识，再听英语\n\n财报沟通至少要分成三层：\n\n- Actual results：已经实现并披露的收入、毛利率、净利润与出货量。\n- Guidance：管理层对下一季度或全年的区间预测。\n- Narrative：管理层对 AI 需求、客户扩产、订单可见度和产能计划的解释。\n\nASML 第二季度净销售额为 93.26 亿欧元，毛利率 54.0%，净利润 29.18 亿欧元。管理层给出的第三季度净销售额指引为 110 亿至 120 亿欧元，毛利率指引为 55% 至 57%。听视频时，应把已实现数字与前瞻性陈述分开记录。\n\n## 关键词\n\n- total net sales — 净销售额\n- gross margin — 毛利率\n- net income — 净利润\n- guidance range — 指引区间\n- order intake — 新增订单\n- customer commitment — 客户承诺\n- installed base management — 已安装设备管理与服务业务\n- capacity expansion — 产能扩张\n- demand visibility — 需求可见度\n- forward-looking statement — 前瞻性陈述\n\n## 地道表达\n\n以下为根据官方材料编写的练习表达，不是视频逐字引文。\n\n> Revenue came in above guidance, supported by stronger service sales.\n\n> Management raised its full-year outlook, but the guidance remains forward-looking.\n\n> Strong order intake improves visibility without guaranteeing future revenue recognition.\n\n## 三步练习\n\n1. 第一遍只记 actual results：sales、gross margin、net income。\n2. 第二遍单列 guidance：Q3 range、full-year range、capacity plans。\n3. 第三遍找出三个解释性词组，例如 driven by、translating into、providing visibility，并判断它们连接的是事实还是预期。\n\n## 输出练习\n\n用 75 秒英文回答：\n\n“What did ASML report for Q2, what did management guide for Q3, and which statements should investors treat as forward-looking?”\n\n完成后可以把自己的答案交给 ChatGPT 纠错；本条不记录或声称你已经完成学习。"
+    },
     {
       "id": "briefing-2026-10-13",
       "kind": "briefing",
