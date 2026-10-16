@@ -1,7 +1,103 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-15T09:05:00+08:00",
+  "updatedAt": "2026-10-16T08:55:00+08:00",
   "entries": [
+    {
+      "id": "briefing-2026-10-16",
+      "kind": "briefing",
+      "title": "今日事实简报：亚洲能源与 AI、台积电业绩及以太坊交易保护",
+      "category": "每日财经简报",
+      "date": "2026-10-16",
+      "summary": "基于 IMF、台积电与以太坊基金会最新正式材料，核对亚洲增长冲击、先进制程需求和链上交易结果保护的事实边界。",
+      "tags": [
+        "宏观",
+        "亚洲",
+        "台积电",
+        "Crypto",
+        "以太坊"
+      ],
+      "status": "curated",
+      "ownerViewpoint": false,
+      "sourceVerified": true,
+      "updatedAt": "2026-10-16T08:55:00+08:00",
+      "sources": [
+        {
+          "title": "IMF Media Center：Asia-Pacific Department Press Briefing",
+          "url": "https://mediacenter.imf.org/news/imf-asia-pacific-department-press-briefing/s/bbb3be9e-4560-44ee-9467-a437b643d42e"
+        },
+        {
+          "title": "TSMC：Third Quarter 2026 Results",
+          "url": "https://investor.tsmc.com/english/quarterly-results/2026/q3"
+        },
+        {
+          "title": "Ethereum Foundation：How native transaction assertions could enforce a transaction's final outcome",
+          "url": "https://blog.ethereum.org/2026/10/05/transaction-assertions"
+        }
+      ],
+      "body": "## 更新时间\n\n北京时间 2026 年 10 月 16 日 08:55。下列内容只摘要已发布事实，不包含实时价格、买卖建议或 Linna 的个人观点。\n\n## 宏观：亚洲同时面对能源冲击与 AI 驱动的分化\n\nIMF 亚太部在 2026 年 10 月 14 日的新闻发布会上把亚洲当前环境概括为三股力量，其中两项尤其值得拆开看：一是始于 2 月的能源冲击，许多亚洲经济体高度依赖从中东进口石油和天然气；二是科技与 AI 热潮，它让韩国和部分东盟经济体的增长预测上调，也使未充分受益的经济体面临下调。\n\nIMF 还报告了其初步实证结果：对 AI 暴露更高的岗位，雇主需求下降约 10%，而且在 AI 能力继续提高时仍未恢复。这个指标指招聘需求，不等于现有就业人数下降 10%，也不能单独证明 AI 是唯一原因。\n\n边界：发布会给出 IMF 的分析与估计，不是已实现的单一路径。能源价格、贸易条件、技能供给和各国政策都会改变结果。\n\n## 股票：台积电第三季度实际值高于原收入指引上沿，第四季度仍是前瞻区间\n\n台积电公布 2026 年第三季度净营收 467.2 亿美元，毛利率 66.4%，营业利润率 58.7%。此前公司给出的第三季度收入指引为 446 亿至 458 亿美元，因此实际收入高于该区间上沿；毛利率落在 65%–67% 指引内，营业利润率略高于 56%–58% 指引上沿。\n\n公司对第四季度给出的收入指引为 523 亿至 543 亿美元、毛利率 65%–67%、营业利润率 56.5%–58.5%。\n\n边界：第三季度数字是已披露结果，第四季度数字是公司指引；指引会受终端需求、汇率、产能利用率和成本变化影响，不能当作已经实现的收入或利润率。\n\n## Crypto：以太坊基金会提出“交易结果断言”，仍处设计阶段\n\n以太坊基金会 2026 年 10 月 5 日的研究文章指出，签名只能授权请求，最终结果还取决于执行时的代码和链上状态。其讨论的原生 transaction assertions 设想让只读逻辑在交易动作执行后检查余额、存储、代码或事件的净变化；若结果不符合签名时一并附带的规则，交易动作回滚。\n\n文章把 EIP-7906 列为一种可能方案，但明确说明它尚未确认进入升级，而且交易若不主动包含断言也不会自动获得保护。规则若来自已被攻破的前端，同样可能放行攻击。\n\n边界：这是安全设计与候选提案，不是已经在以太坊主网上普遍可用的保证；它也不能覆盖跨链路线的完整结果。"
+    },
+    {
+      "id": "lesson-2026-10-16-asia-ai-energy-shocks",
+      "kind": "lesson",
+      "title": "今日金融英语：听懂 IMF 如何谈亚洲的能源冲击与 AI 就业",
+      "category": "宏观金融英语",
+      "date": "2026-10-16",
+      "summary": "用 IMF 亚太部官方发布会练习区分能源冲击、增长预测修正、AI 岗位暴露与政策应对。",
+      "tags": [
+        "金融英语",
+        "IMF",
+        "亚洲",
+        "能源",
+        "AI就业"
+      ],
+      "status": "curated",
+      "ownerViewpoint": false,
+      "sourceVerified": true,
+      "videoUrl": "https://mediacenter.imf.org/news/imf-asia-pacific-department-press-briefing/s/bbb3be9e-4560-44ee-9467-a437b643d42e",
+      "duration": "建议练习 15 分钟",
+      "sources": [
+        {
+          "title": "IMF Media Center：Asia-Pacific Department Press Briefing（含官方视频）",
+          "url": "https://mediacenter.imf.org/news/imf-asia-pacific-department-press-briefing/s/bbb3be9e-4560-44ee-9467-a437b643d42e"
+        }
+      ],
+      "body": "## 已核验材料\n\nIMF 媒体中心页面提供 2026 年 10 月 14 日亚太部新闻发布会视频，并标明页面于 10 月 15 日发布。页面与视频围绕能源冲击、科技与 AI 热潮、亚洲增长分化、就业和结构改革展开。可核验页面没有给出稳定的视频时长或逐字时间轴，因此“15 分钟”是建议练习时间，本条不编造时长、时间戳或逐字字幕。\n\n## 先懂知识，再听英语\n\n听这类宏观发布会时，把信息分成四层：\n\n- Shock：能源价格或供应突然变化，对净能源进口国的贸易条件、通胀和增长产生压力。\n- Exposure：一个行业或岗位受到 AI 影响的程度；高暴露不自动等于岗位必然消失。\n- Revision：机构根据新信息上调或下调预测，描述的是基准情景变化，不是确定结果。\n- Policy response：技能培训、社会保障、能源多元化、政策缓冲和区域合作，用来降低冲击或改善适应能力。\n\nIMF 的表述值得特别辨析：雇主对高 AI 暴露岗位的需求下降约 10%，说的是招聘需求指标，不是现有就业存量直接减少 10%。听到数字时，要马上问清对象、口径和因果边界。\n\n## 关键词\n\n- energy shock — 能源冲击\n- oil-importing economy — 石油进口型经济体\n- terms of trade — 贸易条件\n- growth revision — 增长预测修正\n- upside surprise — 超预期的正面变化\n- labor-market exposure — 劳动力市场暴露度\n- employer demand — 雇主招聘需求\n- skill mismatch — 技能错配\n- social protection — 社会保障\n- policy buffers — 政策缓冲\n- energy diversification — 能源多元化\n- regional integration — 区域一体化\n\n## 地道表达\n\n以下是依据官方材料改写的输出模板，不冒充视频逐字引文。\n\n> Energy-importing economies are more exposed to a sustained supply shock.\n\n> The technology boom is lifting some economies while leaving others behind.\n\n> Lower employer demand does not necessarily translate one-for-one into job losses.\n\n> The policy challenge is to build buffers without delaying structural reform.\n\n## 三步练习\n\n1. 第一遍只记三类名词：shock、exposure、revision。\n2. 第二遍记录每个数字的主语与口径，尤其区分 employer demand 和 employment。\n3. 第三遍用 while、whereas、does not necessarily mean 各造一句对比句。\n\n## 输出练习\n\n用 90 秒英文回答：\n\n“How can an energy shock and an AI boom affect Asian economies differently, and what policy responses could reduce the risks?”\n\n回答时至少使用 exposure、growth revision、skill mismatch、policy buffers 四个词。完成后可把答案交给 ChatGPT 纠错；本条不记录或声称你已经完成学习。"
+    },
+    {
+      "id": "weekly-2026-10-16-tokenization-future-securities",
+      "kind": "weekly",
+      "title": "本周 Crypto 精听：代币化证券如何改变清算、结算与市场基础设施",
+      "category": "Crypto 演讲精听",
+      "date": "2026-10-16",
+      "summary": "用美国众议院金融服务委员会官方听证会，练习理解代币化证券、法律权利、清算结算、互操作性与投资者保护之间的权衡。",
+      "tags": [
+        "Crypto英语",
+        "Tokenization",
+        "RWA",
+        "证券",
+        "市场基础设施"
+      ],
+      "status": "curated",
+      "ownerViewpoint": false,
+      "sourceVerified": true,
+      "videoUrl": "https://financialservices.house.gov/calendar/eventsingle.aspx?EventID=411038",
+      "duration": "建议精听 20 分钟",
+      "sources": [
+        {
+          "title": "U.S. House Committee on Financial Services：Tokenization and the Future of Securities（官方听证会与视频）",
+          "url": "https://financialservices.house.gov/calendar/eventsingle.aspx?EventID=411038"
+        },
+        {
+          "title": "DTCC：Written Testimony of Christian Sabella",
+          "url": "https://docs.house.gov/meetings/BA/BA00/20260325/119103/HHRG-119-BA00-Wstate-SabellaC-20260325.pdf"
+        },
+        {
+          "title": "Nasdaq：Written Testimony of John Zecca",
+          "url": "https://docs.house.gov/meetings/BA/BA00/20260325/119103/HHRG-119-BA00-Wstate-ZeccaJ-20260325.pdf"
+        }
+      ],
+      "body": "## 已核验材料\n\n美国众议院金融服务委员会于 2026 年 3 月 25 日举行“Tokenization and the Future of Securities: Modernizing Our Capital Markets”听证会。委员会官方页面提供听证会视频、备忘录和五位证人的书面证词；本练习同时使用 DTCC 与 Nasdaq 的正式证词校对概念。\n\n官方页面没有提供可稳定核验的章节时间轴，本条也未对视频片段做逐秒读回，因此不写时间戳。“20 分钟”是建议精听时间，不是视频总时长。\n\n## 先懂知识，再听英语\n\n代币化证券不能只理解为“把资产放上链”。听证会中的争议至少分四层：\n\n- Legal entitlement：链上记录是否与投资者的法定所有权、发行人名册和公司行动一致。\n- Market infrastructure：经纪商、交易场所、清算机构、托管人与转让代理人的职责如何延续或改变。\n- Settlement：更快或可编程的结算能否减少摩擦，同时不削弱净额结算、流动性管理和最终性。\n- Interoperability：不同网络与传统系统能否互通，避免形成新的技术孤岛。\n\nDTCC 的书面证词强调开放接入、互操作性以及把传统金融基础设施与数字账本连接；Nasdaq 的证词则可用来辨析交易场所、市场完整性和现有证券监管如何适用于新技术。双方都是行业参与者，其陈述应与监管规则和独立证据交叉核验。\n\n## 关键词\n\n- tokenized securities — 代币化证券\n- legal entitlement — 法律权利\n- beneficial owner — 实益拥有人\n- settlement finality — 结算最终性\n- clearing agency — 清算机构\n- broker-dealer — 经纪交易商\n- transfer restrictions — 转让限制\n- investor protection — 投资者保护\n- interoperability — 互操作性\n- secondary-market liquidity — 二级市场流动性\n- corporate actions — 公司行动\n- on-chain record — 链上记录\n\n## 地道表达\n\n以下是依据官方听证材料改写的输出模板，不冒充证人逐字引文。\n\n> Tokenization changes the record-keeping layer, but it does not eliminate legal obligations.\n\n> Faster settlement may reduce some risks while increasing intraday liquidity demands.\n\n> Interoperability is essential if tokenized markets are to avoid fragmented pools of liquidity.\n\n> The policy question is how to preserve investor protection without freezing useful experimentation.\n\n## 精听方法\n\n1. 先听开场陈述，分别记录每位证人主张的 benefit、risk 和 safeguard。\n2. 再选一段问答，只追踪 legal ownership、settlement、interoperability 三条线。\n3. 对照书面证词，标出听到但没听懂的术语；不要用书面稿假装自己已经听清。\n4. 用一张两列表总结：哪些环节可以技术升级，哪些法律或市场功能仍必须保留。\n\n## 输出练习\n\n用两分钟英文回答：\n\n“Which parts of securities settlement could tokenization improve, and which legal or market-infrastructure risks would remain?”\n\n回答时至少使用 settlement finality、clearing agency、interoperability、investor protection 四个词，并给出一条支持理由和一条反方解释。完成后可把答案交给 ChatGPT 纠错；本条不记录或声称你已经完成学习。"
+    },
     {
       "id": "briefing-2026-10-15",
       "kind": "briefing",
