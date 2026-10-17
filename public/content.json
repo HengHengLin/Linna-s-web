@@ -1,7 +1,68 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-16T08:55:00+08:00",
+  "updatedAt": "2026-10-17T09:03:00+08:00",
   "entries": [
+    {
+      "id": "briefing-2026-10-17",
+      "kind": "briefing",
+      "title": "今日事实简报：欧洲能源韧性、美国银行业绩与加密资产托管",
+      "category": "每日财经简报",
+      "date": "2026-10-17",
+      "summary": "基于 IMF、Bank of America 与 SEC 最新正式材料，核对欧洲能源冲击、美国银行第三季度业绩和加密资产托管规则提案的事实边界。",
+      "tags": [
+        "宏观",
+        "欧洲",
+        "Bank of America",
+        "Crypto",
+        "托管"
+      ],
+      "status": "curated",
+      "ownerViewpoint": false,
+      "sourceVerified": true,
+      "updatedAt": "2026-10-17T09:03:00+08:00",
+      "sources": [
+        {
+          "title": "IMF Media Center：European Department Press Briefing",
+          "url": "https://mediacenter.imf.org/news/imf-european-department-press-briefing/s/dbb4424b-ed62-4ac2-a3e7-526b055cf20a"
+        },
+        {
+          "title": "Bank of America：Third Quarter 2026 Financial Results",
+          "url": "https://investor.bankofamerica.com/regulatory-and-other-filings/select-sec-filings/content/0000070858-26-000481/bac09302026ex991.htm"
+        },
+        {
+          "title": "U.S. SEC：Proposal on Custody of Crypto Assets",
+          "url": "https://www.sec.gov/newsroom/press-releases/2026-100-sec-proposal-would-address-how-investment-advisers-funds-can-custody-crypto-assets-under-federal"
+        }
+      ],
+      "body": "## 更新时间\n\n北京时间 2026 年 10 月 17 日 09:03。下列内容只摘要已发布事实，不包含实时价格、买卖建议或 Linna 的个人观点。\n\n## 宏观：欧洲扛住了最初冲击，但高能源价格与通胀黏性仍是约束\n\nIMF 欧洲部在 2026 年 10 月 16 日发布会上表示，欧洲受到乌克兰战争和中东长期冲突影响，但对后者最初冲击的承受程度好于此前担忧；可再生能源采用和能源转型降低了对进口化石燃料的依赖，是韧性的一个来源。\n\nIMF 同时强调，欧洲增长仍低于战争前预期，高能源价格将继续拖累经济；欧元区通胀预计到 2028 年之前仍高于目标，部分中东欧和东南欧经济体可能持续更久。其政策建议包括继续能源转型、推进国内改革与欧盟单一市场建设，以及改善中东欧和东南欧的增长条件。\n\n边界：这是 IMF 的区域展望和条件性预测，不是已实现结果。能源价格、战争进程、货币政策和各国财政选择都会改变路径。\n\n## 股票：美国银行收入增长，但监管和解费用压低了报告利润\n\nBank of America 于 2026 年 10 月 14 日披露第三季度收入（扣除利息费用后）300 亿美元，同比增长 3%；净利息收入 164 亿美元，同比增长 8%。报告净利润为 69 亿美元、稀释每股收益 0.91 美元，低于上年同期的 83 亿美元和 1.04 美元。\n\n公司同时披露本季度包含 12 亿美元监管和解费用；剔除该费用后，调整后净利润为 81 亿美元、调整后每股收益 1.08 美元。平均贷款与租赁余额同比增长 6%，平均存款增长 2%；信贷损失拨备约 13 亿美元，与上年同期大体持平。\n\n边界：报告口径与调整后口径必须分开，调整值属于非 GAAP 补充指标。单季净利息收入增长也不能单独代表未来盈利趋势，还需观察利率、存贷款量、信用成本和费用。\n\n## Crypto：SEC 提议建立投顾与受监管基金的加密资产托管框架\n\n美国 SEC 于 2026 年 10 月 1 日提出规则及修订案，拟为注册投资顾问、注册投资公司和业务发展公司持有加密资产建立专门托管框架。提案还涉及投资顾问财务报表审计、受监管基金使用经纪交易商托管服务等要求。\n\nSEC 表示，提案在特定条件下允许自托管，也允许州信托公司作为客户和基金加密资产的托管人；公众意见期为提案在《联邦公报》发布后 60 天。\n\n边界：这仍是提案，不是生效的最终规则。允许某类托管安排也不代表所有资产、机构或具体结构自动合规；最终文本、评论期反馈和其他联邦或州法律仍可能改变适用范围。"
+    },
+    {
+      "id": "lesson-2026-10-17-fiscal-policy-energy-shock",
+      "kind": "lesson",
+      "title": "今日金融英语：听懂 IMF 如何区分“保护居民”与“压低能源价格”",
+      "category": "宏观金融英语",
+      "date": "2026-10-17",
+      "summary": "用 IMF 财政监测官方发布会练习理解能源冲击、普惠价格补贴、定向支持、财政整顿与债务路径。",
+      "tags": [
+        "金融英语",
+        "IMF",
+        "财政政策",
+        "能源冲击",
+        "公共债务"
+      ],
+      "status": "curated",
+      "ownerViewpoint": false,
+      "sourceVerified": true,
+      "videoUrl": "https://mediacenter.imf.org/news/imf-fiscal-monitor-press-briefing/s/a86f20e4-944a-44d2-8453-aaac954ee802",
+      "duration": "建议练习 15 分钟",
+      "sources": [
+        {
+          "title": "IMF Media Center：Fiscal Monitor Press Briefing（含官方视频）",
+          "url": "https://mediacenter.imf.org/news/imf-fiscal-monitor-press-briefing/s/a86f20e4-944a-44d2-8453-aaac954ee802"
+        }
+      ],
+      "body": "## 已核验材料\n\nIMF 媒体中心于 2026 年 10 月 16 日发布财政监测新闻发布会页面并提供完整视频。发布会讨论 2026 年能源冲击、广泛价格抑制措施的财政成本、全球债务路径、税制设计和财政整顿。\n\n可核验页面没有给出稳定的视频总时长或逐字时间轴，因此“15 分钟”是建议练习时间，不是视频时长；本条不编造时间戳或逐字字幕。\n\n## 先懂知识，再听英语\n\n面对能源冲击，财政政策至少有三种不同做法：\n\n- Price suppression：通过普遍补贴、限价或减税压低所有人的能源价格，操作直观，但成本大、容易让高消费家庭获得更多绝对补贴，也削弱稀缺价格信号。\n- Targeted support：让价格反映稀缺性，同时向脆弱家庭提供临时、定向、量身设计的收入支持。\n- Fiscal consolidation：在高债务或高风险国家，通过可信计划逐步缩小赤字、稳定债务路径，同时避免在衰退中突然紧缩。\n\nIMF 估计，各国应对 2026 年能源冲击的相关措施合计财政成本约为全球 GDP 的 0.5%，并预计全球债务率即使在改善情景下仍会在十年末升至 GDP 的 100%。这些是机构估计与预测，不是已经发生的终值。\n\n## 关键词\n\n- fiscal pressure — 财政压力\n- energy shock — 能源冲击\n- price suppression — 价格抑制\n- scarcity signal — 稀缺性信号\n- broad-based measure — 普惠或广泛覆盖的措施\n- targeted support — 定向支持\n- regressive — 累退性的；对低收入群体相对更不利的\n- fiscal cost — 财政成本\n- debt ratio — 债务率\n- fiscal consolidation — 财政整顿\n- credible plan — 可信计划\n- distortionary tax — 扭曲性税收\n- safeguard revenue — 保障财政收入\n\n## 地道表达\n\n以下是依据官方材料改写的输出模板，不冒充视频逐字引文。\n\n> Protecting households is not the same as suppressing energy prices.\n\n> Broad-based subsidies can be costly, regressive, and poorly targeted.\n\n> A credible consolidation plan should rest on realistic assumptions.\n\n> Better tax design can reduce distortions while safeguarding revenue.\n\n## 三步练习\n\n1. 第一遍只分辨 problem、instrument、trade-off：问题是什么、用了什么工具、代价是什么。\n2. 第二遍记录数字的单位和性质：0.5% 是估计的全球财政成本，100% 是十年末债务率预测。\n3. 第三遍用 rather than、while、even if 各造一句，表达政策取舍与不确定性。\n\n## 输出练习\n\n用 90 秒英文回答：\n\n“Why might targeted income support be preferable to broad-based energy price suppression, and when would fiscal consolidation still be necessary?”\n\n回答时至少使用 scarcity signal、targeted support、regressive、credible plan 四个词。完成后可把答案交给 ChatGPT 纠错；本条不记录或声称你已经完成学习。"
+    },
     {
       "id": "briefing-2026-10-16",
       "kind": "briefing",
