@@ -1,7 +1,133 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-19T09:00:00+08:00",
+  "updatedAt": "2026-10-20T09:00:00+08:00",
   "entries": [
+    {
+      "id": "briefing-2026-10-20",
+      "kind": "briefing",
+      "title": "今日事实简报：全球双重冲击、J&J 财报与 Ethereum 测试网升级",
+      "category": "每日财经简报",
+      "date": "2026-10-20",
+      "summary": "基于 IMF、Johnson & Johnson 与 Ethereum Foundation 正式材料，核对全球供需冲击、医药与医疗器械公司第三季度业绩，以及 Glamsterdam 测试网升级边界。",
+      "tags": [
+        "宏观",
+        "IMF",
+        "Johnson & Johnson",
+        "Crypto",
+        "Ethereum"
+      ],
+      "status": "curated",
+      "ownerViewpoint": false,
+      "sourceVerified": true,
+      "updatedAt": "2026-10-20T09:00:00+08:00",
+      "sources": [
+        {
+          "title": "IMF Media Center：World Economic Outlook Press Briefing（含官方视频）",
+          "url": "https://mediacenter.imf.org/news/imf-world-economic-output-press-briefing/s/85df82f1-2ffe-44b3-91c4-a7a0e01042ae"
+        },
+        {
+          "title": "Johnson & Johnson：Q3 2026 Results",
+          "url": "https://www.investor.jnj.com/investor-news/news-details/2026/Johnson--Johnson-reports-Q3-2026-results-raises-2026-guidance/default.aspx"
+        },
+        {
+          "title": "Ethereum Foundation：Glamsterdam Hoodi Testnet Announcement",
+          "url": "https://blog.ethereum.org/2026/10/16/glamsterdam-hoodi-announcement"
+        }
+      ],
+      "body": "## 更新时间\n\n北京时间 2026 年 10 月 20 日 09:00。下列内容只摘要已发布事实，不包含实时价格、买卖建议或 Linna 的个人观点。\n\n## 宏观：负向供给冲击与正向 AI 需求冲击同时作用\n\nIMF 在 2026 年 10 月 14 日发布的世界经济展望新闻发布会材料中预计，全球经济 2026 年增长 3.1%，比 2025 年低 0.4 个百分点，2027 年增长 3.4%。其框架把当前前景拆成两股相反力量：能源和其他商品价格上涨类似负向全球供给冲击，会同时推高价格并压低活动；AI 带动的科技投资则类似正向需求冲击，会推高活动、贸易和投资，也可能增加价格压力。\n\nIMF 同时提示，AI 供应链集中在少数国家、行业和企业，可能形成瓶颈；较高融资成本和利息支出也可能挤出关键公共支出。建议包括控制需求压力、高债务国家推进可信的财政整顿、必要支持应临时且定向，并维护央行独立性和金融稳定。\n\n边界：3.1% 和 3.4% 是 IMF 的预测，不是已实现结果。供给冲击和需求冲击可能同时存在，且能源价格、战争、气候事件、AI 投资和政策反应都会改变增长与通胀路径。\n\n## 股票：J&J 销售增长，但一次性项目使报告利润与调整后利润显著分化\n\nJohnson & Johnson 于 2026 年 10 月 13 日公布第三季度业绩：报告销售额 253.99 亿美元，同比增长 5.9%；其中 Innovative Medicine 销售 167.57 亿美元，同比增长 7.7%，MedTech 销售 86.42 亿美元，同比增长 2.5%。\n\n报告净利润为 2.10 亿美元、稀释每股收益 0.09 美元，分别同比下降 95.9% 和 95.8%；调整后净利润为 63.39 亿美元、调整后每股收益 2.59 美元，分别同比下降 6.8% 和 7.5%。公司说明，报告 EPS 受到拟议滑石粉诉讼解决方案的一次性特别费用，以及收购和合作项目影响。公司把 2026 年报告销售额指引中值提高至 1,012 亿美元，并把调整后 EPS 指引中值提高至 11.10 美元。\n\n边界：调整后指标剔除了无形资产摊销和特殊项目，不能替代 GAAP 结果；诉讼方案、并购整合、研发管线与最终监管结果都可能改变未来现金流。单季业绩和公司指引不构成股价预测。\n\n## Crypto：Glamsterdam 将先在 Hoodi 激活，主网上线日期仍未决定\n\nEthereum Foundation 于 2026 年 10 月 16 日宣布，Glamsterdam 升级计划于 10 月 26 日 17:42:48 UTC 在 Hoodi 测试网激活，并在同一 epoch 把 Hoodi gas limit 提高至 200M。节点运营者需要在激活前同时更新执行层和共识层客户端。\n\n该升级包含协议内 proposer-builder separation（ePBS）、block-level access lists（BALs）和 gas 定价调整。官方说明，ePBS 把提议者与构建者之间的承诺、披露和支付更多纳入协议；BALs 记录区块访问的账户、存储位置和状态变化，以支持并行读取与验证。\n\n边界：这是 Hoodi 测试网安排，不是 Ethereum 主网升级公告；主网日期仍为待定。200M gas limit 也不等于主网吞吐量已经提升，实际效果仍取决于客户端兼容、测试结果、节点成本和后续主网决策。"
+    },
+    {
+      "id": "lesson-2026-10-20-supply-demand-shocks",
+      "kind": "lesson",
+      "title": "今日金融英语：分清供给冲击与需求冲击",
+      "category": "宏观金融英语",
+      "date": "2026-10-20",
+      "summary": "用 IMF 世界经济展望官方发布会练习辨认负向供给冲击、正向需求冲击、瓶颈、财政挤出与下行风险。",
+      "tags": [
+        "金融英语",
+        "IMF",
+        "供给冲击",
+        "需求冲击",
+        "AI"
+      ],
+      "status": "curated",
+      "ownerViewpoint": false,
+      "sourceVerified": true,
+      "videoUrl": "https://mediacenter.imf.org/news/imf-world-economic-output-press-briefing/s/85df82f1-2ffe-44b3-91c4-a7a0e01042ae",
+      "duration": "建议练习 15 分钟",
+      "sources": [
+        {
+          "title": "IMF Media Center：World Economic Outlook Press Briefing（含官方视频）",
+          "url": "https://mediacenter.imf.org/news/imf-world-economic-output-press-briefing/s/85df82f1-2ffe-44b3-91c4-a7a0e01042ae"
+        }
+      ],
+      "body": "## 已核验材料\n\nIMF 媒体中心于 2026 年 10 月 14 日发布世界经济展望新闻发布会页面，并链接完整官方视频。材料讨论全球增长、能源与商品供给冲击、AI 投资带来的需求冲击、供应链集中和财政缓冲。\n\n可核验页面没有标出稳定的视频总时长或逐字时间轴，因此“15 分钟”是建议练习时间，不是视频时长；本条不编造时间戳或逐字字幕。\n\n## 先懂知识，再听英语\n\n同样是“推高通胀”，供给冲击与需求冲击的宏观含义不同：\n\n- Negative supply shock：供给能力下降或投入成本上升，通常同时推高价格、压低产出，政策取舍最困难。\n- Positive demand shock：消费、投资或政府支出增强，通常推高产出和价格；如果经济接近产能上限，通胀压力更明显。\n- Chokepoint：增长依赖少数国家、企业或关键环节时，一处受阻就可能放大为系统性瓶颈。\n- Crowding out：利息支出或其他刚性支出上升，可能挤占基础设施、教育、医疗等生产性支出。\n- Risks tilted to the downside：不是说基准预测必然失败，而是较差结果的概率或影响更突出。\n\n听的时候不要只抓 rise、fall 这些方向词，还要记录冲击来自 supply 还是 demand，以及它对 prices 和 activity 的影响是否同向。\n\n## 关键词\n\n- negative supply shock — 负向供给冲击\n- positive demand shock — 正向需求冲击\n- commodity prices — 大宗商品价格\n- hamper activity — 抑制经济活动\n- growth trajectory — 增长轨迹\n- supply-chain concentration — 供应链集中\n- potential chokepoint — 潜在瓶颈\n- borrowing costs — 融资成本\n- crowd out — 挤出\n- fiscal buffer — 财政缓冲\n- downside risk — 下行风险\n- price signal — 价格信号\n- targeted support — 定向支持\n- central bank independence — 央行独立性\n\n## 地道表达\n\n以下句子依据官方材料改写，用于输出练习，不冒充视频逐字引文。\n\n> A negative supply shock can raise prices while weakening economic activity.\n\n> AI investment may act as a positive demand shock, but its benefits are highly concentrated.\n\n> Higher interest payments can crowd out productive public spending.\n\n> The baseline remains positive, although risks are tilted to the downside.\n\n## 三步练习\n\n1. 第一遍画四格：supply、demand、prices、activity，只记录方向。\n2. 第二遍听出 under strain、chokepoint、crowd out、tilted to the downside 的上下文。\n3. 第三遍用 while、although、depending on 各写一句，表达“同一冲击对增长和通胀的不同影响”。\n\n## 输出练习\n\n用 90 秒英文回答：\n\n“How can a negative supply shock and a positive demand shock occur at the same time, and why does that complicate policy?”\n\n回答时至少使用 supply shock、chokepoint、crowd out、downside risk 四个词。完成后可把答案交给 ChatGPT 纠错；本条不记录或声称你已经完成学习。"
+    },
+    {
+      "id": "topic-2026-10-20-frontier-research",
+      "kind": "topic",
+      "title": "研究选题候选：AI 药研可信度、商业空间站、短卖量与永续期货",
+      "category": "研究选题",
+      "date": "2026-10-20",
+      "summary": "锚点 2026-10-10 后第二个五日周期的四项候选，聚焦可验证的监管、合同、市场数据与衍生品结构问题。",
+      "tags": [
+        "AI 医疗",
+        "航空航天",
+        "威科夫",
+        "量价",
+        "Crypto",
+        "衍生品"
+      ],
+      "status": "curated",
+      "ownerViewpoint": false,
+      "sourceVerified": true,
+      "sources": [
+        {
+          "title": "FDA：Guiding Principles of Good AI Practice in Drug Development",
+          "url": "https://www.fda.gov/about-fda/artificial-intelligence-drug-development/guiding-principles-good-ai-practice-drug-development"
+        },
+        {
+          "title": "NASA：Commercial Low Earth Orbit Destination Contract",
+          "url": "https://www.nasa.gov/johnson/jsc-procurement/cldc/"
+        },
+        {
+          "title": "FINRA：Short Interest—What It Is, What It Is Not",
+          "url": "https://www.finra.org/investors/insights/short-interest"
+        },
+        {
+          "title": "CFTC：No-Action Letter on True Broad-Based Security Index Perpetual Futures",
+          "url": "https://www.cftc.gov/PressRoom/PressReleases/9308-26"
+        }
+      ],
+      "body": "## 生成规则\n\n本期日期距固定锚点 2026-10-10 为 10 天，是非负 5 的整数倍。现有公开内容已有 10 月 10 日和 10 月 15 日两期，但没有 10 月 20 日非演示 topic，因此只补最近一期。以下均为候选，不是 Linna 已确认的研究文章或投资观点。\n\n## 候选一：AI 药研的“可信度”能否成为真正的监管护城河？\n\n为什么值得研究：FDA 与 EMA 在 2026 年发布的良好 AI 药物开发原则强调明确使用场景、数据治理、风险评估、生命周期管理和必要信息披露。竞争优势可能不只来自模型准确率，也来自能否持续证明模型在特定监管用途下可信。\n\n核心问题：哪些 AI 药研公司能够把 context of use、数据谱系、外部验证、漂移监控和人工监督做成可复用的监管资产？这些能力是平台护城河，还是每个项目都要重新建设的合规成本？\n\n可查证证据：FDA 页面列出十项原则，包括以人为本、风险导向、明确使用场景、数据治理、模型开发、性能评估和生命周期管理。可进一步抽取药企披露、临床方案和监管提交中的验证方法。\n\n反方解释：原则属于高层框架，不保证形成统一审批门槛；模型能力、独家数据、临床执行和商业合作可能比合规流程更决定价值。监管文件也不能证明任何公司的产品有效。\n\n## 候选二：NASA 从“建空间站”转向“购买服务”，谁能形成可持续现金流？\n\n为什么值得研究：NASA 的 Commercial LEO Destination Contract 页面显示，最终 RFP 于 2026 年 10 月 9 日发布，提案截止 12 月 8 日，预计 2027 年春季授标。采购目标包含商业低轨目的地及端到端载人运输服务，为研究商业空间站收入结构提供了具体合同窗口。\n\n核心问题：潜在承包商收入中，开发里程碑、NASA 服务采购和非政府客户各占多少？在 ISS 退役前，利用率、认证、运输和保险成本能否支持正现金流，而不是长期依赖政府补贴？\n\n可查证证据：NASA 采购页保留 RFP、技术库、时间表和预提案材料，可逐项核对安全要求、交付节点、提案期限与合同安排。\n\n反方解释：RFP 和获奖并不等于盈利；开发延期、认证失败、发射成本、客户集中和空间站利用率不足都可能让合同收入无法覆盖资本开支。\n\n## 候选三：把 FINRA 短卖量加入威科夫量价框架，会增加信息还是制造误读？\n\n为什么值得研究：市场讨论常把 daily short sale volume 直接解释为新增看空仓位，但 FINRA 明确说明，它与每月两次申报的 short interest 不是同一数据。这个差异适合被写成一套可证伪的量价研究规则。\n\n核心问题：在放量突破、spring 或 upthrust 前后，短卖成交量占比是否对后续收益有样本外解释力？加入总成交量、场内外成交、波动率和市场状态后，信号是否仍然存在？\n\n可查证证据：FINRA 解释，short interest 是特定时点持仓快照；daily short sale volume 是特定交易日内符合条件的短卖成交量。研究应分别使用两套数据，预先写明窗口、对照组和失效条件。\n\n反方解释：短卖成交可能来自做市、对冲或订单处理，不等于方向性看空；FINRA 数据也不覆盖所有市场成交。若只挑选成功图形，任何“供应吸收”解释都可能是事后归因。\n\n## 候选四：真正的永续期货进入股指后，Crypto 的资金费率经验还能迁移吗？\n\n为什么值得研究：CFTC 于 2026 年 10 月 5 日给予指定合约市场限时不行动安排，允许符合条件的现有广义证券指数“perpetual-style”期货移除到期日，转换为真正的永续期货。这为比较 Crypto 永续与受监管股指永续提供了制度实验。\n\n核心问题：没有到期日后，价格锚定依赖什么机制：资金费率、现金流调整、保证金还是做市套利？客户退出安排、风险披露和指数成分变化怎样影响基差与流动性？\n\n可查证证据：CFTC 要求征求持仓参与者反馈、提前通知并给予退出机会、提供适当风险披露、不修改其他重大条款，并按法规备案和认证合规；该不行动安排于 2026 年 10 月 20 日到期。\n\n反方解释：限时监管豁免不等于产品一定上线或形成流动性；股指期货的法律结构、结算、参与者和风险控制与 Crypto 永续不同，资金费率经验可能无法直接外推。\n\n## 建议优先级\n\n如果本期只推进一个，优先候选三：它能直接服务威科夫与量价学习，又能把最常见的数据误读改写成可验证实验。真正写成研究文章前仍需 Linna 确认。"
+    },
+    {
+      "id": "weekly-2026-10-20-agentic-defi",
+      "kind": "weekly",
+      "title": "本周 Crypto 英语精听：DeFi 自动化代理是在压缩复杂度，还是转移风险？",
+      "category": "Crypto 英语",
+      "date": "2026-10-20",
+      "summary": "用 Devconnect 官方 14 分 49 秒演讲练习理解自主金融代理、用户策略、确定性执行、收益比较与 DeFi 风险边界。",
+      "tags": [
+        "金融英语",
+        "Crypto",
+        "DeFi",
+        "AI Agent",
+        "Ethereum"
+      ],
+      "status": "curated",
+      "ownerViewpoint": false,
+      "sourceVerified": true,
+      "videoUrl": "https://archive.devcon.org/devconnect-arg/intelligent-compression-for-finance-or-renc-korzay-at-agentic-zero/",
+      "duration": "14 分 49 秒",
+      "sources": [
+        {
+          "title": "Devcon Archive：Intelligent Compression for Finance | Renç Korzay at Agentic Zero",
+          "url": "https://archive.devcon.org/devconnect-arg/intelligent-compression-for-finance-or-renc-korzay-at-agentic-zero/"
+        }
+      ],
+      "body": "## 已核验材料\n\nDevcon 官方档案页收录 “Intelligent Compression for Finance | Renç Korzay at Agentic Zero”，活动为 Devconnect ARG，日期标注为 2026 年 9 月，时长 14 分 49 秒，页面内含 YouTube 播放器。档案页未填写讲者字段，但标题和简介标明 Renç Korzay。\n\n页面没有提供可逐句核验的完整字幕，因此本条不复制或伪造逐字稿，也不提供未经实际核验的片段时间戳。\n\n## 先懂知识，再听英语\n\n演讲把 DeFi agent 描述为“复杂度压缩层”：用户设定资产、风险或策略边界，代理持续观察并按确定性规则执行。这个框架可以减少手动切换协议和重复操作，但不会消除底层风险。\n\n档案简介列出 30 亿美元交易量、100 万次决策、65% 个性化以及稳定币策略收益约为静态头寸两倍等数字；这些是演讲方在官方档案页呈现的项目主张，不等于独立审计或可重复的投资结果。\n\n研究这类产品至少要拆开五层：用户授权范围、密钥与撤销机制、智能合约和预言机风险、gas 与滑点、收益比较的基准与样本。界面更简单，不代表风险结构更简单。\n\n## 关键词\n\n- autonomous financial agent — 自主金融代理\n- intelligent compression — 智能压缩\n- user-defined policy — 用户定义的策略\n- deterministic execution — 确定性执行\n- decision engine — 决策引擎\n- static position — 静态头寸\n- capital allocation — 资本配置\n- execution constraint — 执行约束\n- key management — 密钥管理\n- revocation mechanism — 撤销机制\n- oracle risk — 预言机风险\n- smart-contract risk — 智能合约风险\n- benchmark — 比较基准\n- risk-adjusted return — 风险调整后收益\n\n## 地道表达\n\n以下句子根据演讲主题编写，不是视频逐字引文。\n\n> The agent compresses operational complexity, but it does not eliminate financial risk.\n\n> Automation is only as safe as its permissions, constraints, and revocation mechanism.\n\n> A yield comparison is meaningful only when the benchmark and risk exposure are comparable.\n\n> Deterministic execution can improve consistency while reducing human discretion.\n\n## 三遍精听\n\n1. 第一遍不暂停：写下 problem、solution、evidence，各一句英文。\n2. 第二遍允许暂停：记录讲者如何从 wallet access 过渡到 accessible opportunities，并区分产品主张与可验证机制。\n3. 第三遍做反方检查：写出三个风险，并用 “This claim depends on ...” 表达一个隐含前提。\n\n## 输出练习\n\n用 90 秒英文回答：\n\n“Does an autonomous DeFi agent democratize access, or does it mainly move complexity from the user interface into permissions and smart contracts?”\n\n回答时至少使用 user-defined policy、deterministic execution、benchmark、revocation mechanism 四个词。本条不记录或声称你已经完成精听。"
+    },
     {
       "id": "briefing-2026-10-19",
       "kind": "briefing",
