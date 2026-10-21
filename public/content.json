@@ -1,7 +1,69 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-20T09:00:00+08:00",
+  "updatedAt": "2026-10-21T09:04:00+08:00",
   "entries": [
+    {
+      "id": "briefing-2026-10-21",
+      "kind": "briefing",
+      "title": "今日事实简报：美国温和增长、Netflix 季报与代币化结算层",
+      "category": "每日财经简报",
+      "date": "2026-10-21",
+      "summary": "基于美联储、Netflix 与 BIS 正式材料，核对美国地区经济与价格压力、流媒体公司第三季度盈利，以及稳定币与代币化存款的结算边界。",
+      "tags": [
+        "宏观",
+        "美联储",
+        "Netflix",
+        "Crypto",
+        "RWA",
+        "稳定币"
+      ],
+      "status": "curated",
+      "ownerViewpoint": false,
+      "sourceVerified": true,
+      "updatedAt": "2026-10-21T09:04:00+08:00",
+      "sources": [
+        {
+          "title": "Federal Reserve：Beige Book National Summary, October 2026",
+          "url": "https://www.federalreserve.gov/monetarypolicy/beigebook202610-summary.htm"
+        },
+        {
+          "title": "Netflix：Q3 2026 Letter to Shareholders",
+          "url": "https://ir.netflix.net/files/doc_financials/2026/q3/FINAL-Q3-26-Shareholder-Letter.pdf"
+        },
+        {
+          "title": "BIS：The sovereign money question—CBDCs, stablecoins, and the settlement layer",
+          "url": "https://www.bis.org/speeches/20261019-big-issues-debate-sovereign-money-question-cbdcs-stablecoins-and-fight-settlement-layer"
+        }
+      ],
+      "body": "## 更新时间\n\n北京时间 2026 年 10 月 21 日 09:04。下列内容只摘要已发布事实，不包含实时价格、买卖建议或 Linna 的个人观点。\n\n## 宏观：美国经济温和扩张，但就业近乎不变、能源成本继续传导\n\n美联储 2026 年 10 月 14 日发布的褐皮书全国摘要显示，十二个地区中两个报告经济活动温和增长，三个为小幅增长，四个为轻微增长，三个没有显著变化。制造业表现相对更强，但多数地区的整体消费支出变化不大，超过一半地区提到消费更多由高收入家庭驱动。\n\n就业总体变化不大，专业、技术和技能工种仍存在短缺；五个地区提到，部分企业在通过 AI 提高生产率后减少人员、推迟招聘或预计新增岗位下降。价格方面，三个地区称总体价格增长强劲，八个称温和，一个称小幅；油价上升出现在全部地区报告中，并通过柴油、运费和燃油附加费向供应链传导。\n\n边界：褐皮书基于截至 2026 年 10 月 5 日收集的企业与市场联系人信息，属于定性、轶事性调查，不是美联储官员观点，也不是 GDP、就业或通胀的正式统计预测。\n\n## 股票：Netflix 利润率扩张，但第四季度指引显示费用时点与增长节奏变化\n\nNetflix 于 2026 年 10 月 20 日发布第三季度股东信：收入 128.74 亿美元，同比增长 11.8%；营业利润 44.59 亿美元，营业利润率 34.6%，高于上年同期的 28.2%；净利润 36.64 亿美元，稀释每股收益 0.87 美元；自由现金流 28.84 亿美元。\n\n公司表示，第三季度利润率高于自身预测，主要与费用确认时点和收入略高于预期有关。其 2026 年预期为收入 511 亿美元、同比增长约 13%，全年营业利润率 31.5%。第四季度预测收入 134.42 亿美元、营业利润率 26.0%、净利润 27.87 亿美元、稀释每股收益 0.67 美元。\n\n边界：第三季度高利润率部分来自费用时点，不应机械年化；第四季度数字是公司预测而非已实现结果。内容投入、定价、广告业务、汇率、竞争和重组费用都可能改变最终表现，单季财报不构成股价判断。\n\n## Crypto / RWA：代币化能压缩结算步骤，但“最终性”和“货币单一性”仍是核心\n\nBIS 于 2026 年 10 月 19 日发布关于 CBDC、稳定币和结算层的讨论材料。其观点是，代币化可以带来原子结算、可编程性、组合性和全天候执行；原子结算把多个先后步骤合并为一次“全部完成或全部失败”的执行，有望降低对手方和结算风险。\n\nBIS 同时认为，稳定币目前处于央行结算体系之外，难以跨发行人和网络保证等价兑换与货币单一性；预先注资的发行方式限制弹性，赎回能力还取决于储备资产流动性。其 Project Agorá 由八家伙伴央行和四十多家金融机构参与，已展示以批发央行货币跨币种原子结算代币化商业银行货币的技术可行性，但规模化仍待测试。\n\n边界：这是一份 BIS 管理层政策讨论，不是对所有稳定币的统一法律结论，也不是已经落地的全球结算标准。Project Agorá 仍是实验；技术可行不等于法律确定、商业可持续、流动性充足或跨司法辖区互操作已经解决。"
+    },
+    {
+      "id": "lesson-2026-10-21-exchange-rate-supply-demand",
+      "kind": "lesson",
+      "title": "今日金融英语：谁决定汇率，为什么加息不保证货币升值？",
+      "category": "宏观金融英语",
+      "date": "2026-10-21",
+      "summary": "用英格兰银行官方视频练习理解汇率报价、升值与贬值、货币供需、进出口影响和利率传导的条件性。",
+      "tags": [
+        "金融英语",
+        "汇率",
+        "外汇",
+        "英格兰银行",
+        "利率"
+      ],
+      "status": "curated",
+      "ownerViewpoint": false,
+      "sourceVerified": true,
+      "videoUrl": "https://www.bankofengland.co.uk/explainers/who-sets-exchange-rates",
+      "duration": "建议练习 12 分钟",
+      "sources": [
+        {
+          "title": "Bank of England：Who sets exchange rates?（含官方视频与文字稿）",
+          "url": "https://www.bankofengland.co.uk/explainers/who-sets-exchange-rates"
+        }
+      ],
+      "body": "## 已核验材料\n\n英格兰银行官方解释页 “Who sets exchange rates?” 提供英文视频和页面文字稿，页面最后更新时间为 2020 年 5 月 6 日。材料解释汇率报价、英镑供需、进口与出口，以及央行利率如何间接影响汇率。\n\n页面没有标注稳定的视频总时长，因此“12 分钟”是建议练习时间，不是视频时长；本条不编造时间戳，也不复制完整文字稿。\n\n## 先懂知识，再听英语\n\n汇率首先是一种相对价格。GBP/USD = 1.35 表示 1 英镑可兑换 1.35 美元；如果该数值上升，通常称英镑相对美元升值。\n\n在浮动汇率制度下，货币价格由市场供需形成。进口商、出口商、投资者、企业融资与风险管理都会产生买卖货币的需求。央行通常不是每天直接“定价”，但货币政策、金融稳定和市场预期会改变资金对该货币的需求。\n\n利率上升有时会提高持有该货币资产的相对吸引力，但“加息 = 必然升值”不成立。汇率同时取决于预期差：如果市场早已计价，或加息反映经济风险上升、资本避险外流，货币仍可能走弱。\n\n货币升值也不是简单的好或坏。它可以降低进口商品和海外消费成本，却可能使本国出口对外国买家更贵，并压缩出口企业以本币计价的收入。\n\n## 关键词\n\n- exchange rate — 汇率\n- currency pair — 货币对\n- base currency — 基础货币\n- quote currency — 报价货币\n- appreciate / strengthen — 升值 / 走强\n- depreciate / weaken — 贬值 / 走弱\n- supply and demand — 供给与需求\n- foreign-exchange market — 外汇市场\n- capital inflow — 资本流入\n- interest-rate differential — 利差\n- priced in — 已被市场计价\n- importer — 进口商\n- exporter — 出口商\n- purchasing power — 购买力\n- pass-through — 传导\n\n## 地道表达\n\n以下句子依据官方材料和汇率知识改写，用于输出练习，不冒充视频逐字引文。\n\n> An exchange rate is the price of one currency in terms of another.\n\n> Higher interest rates may support a currency, but the outcome depends on expectations.\n\n> A stronger currency lowers import costs while making exports more expensive abroad.\n\n> The policy move was largely priced in before the announcement.\n\n## 三步练习\n\n1. 第一遍只记录谁在买英镑、谁在卖英镑，以及每一方的目的。\n2. 第二遍画两栏：stronger pound 与 weaker pound，分别写出对进口商、出口商和消费者的影响。\n3. 第三遍用 may、depends on、priced in 各造一句，避免把汇率关系说成确定因果。\n\n## 输出练习\n\n用 90 秒英文回答：\n\n“Why can a central bank influence an exchange rate without directly setting it, and why does a rate hike not always strengthen the currency?”\n\n回答时至少使用 interest-rate differential、capital inflow、priced in、pass-through 四个词。完成后可把答案交给 ChatGPT 纠错；本条不记录或声称你已经完成学习。"
+    },
     {
       "id": "briefing-2026-10-20",
       "kind": "briefing",
