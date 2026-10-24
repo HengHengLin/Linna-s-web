@@ -1,7 +1,72 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-23T09:03:00+08:00",
+  "updatedAt": "2026-10-24T09:00:00+08:00",
   "entries": [
+    {
+      "id": "briefing-2026-10-24",
+      "kind": "briefing",
+      "title": "今日事实简报：资源发现的预期通胀、Bloom Energy 季报与 SEC 加密托管提案",
+      "category": "每日财经简报",
+      "date": "2026-10-24",
+      "summary": "基于 BIS、Bloom Energy 与 SEC 的正式材料，核对未来资源产出的“新闻冲击”、Bloom Energy 第三季度增长与利润率，以及美国加密资产托管提案的适用范围。",
+      "tags": [
+        "宏观",
+        "BIS",
+        "通胀",
+        "Bloom Energy",
+        "股票",
+        "Crypto",
+        "托管",
+        "SEC"
+      ],
+      "status": "curated",
+      "ownerViewpoint": false,
+      "sourceVerified": true,
+      "updatedAt": "2026-10-24T09:00:00+08:00",
+      "sources": [
+        {
+          "title": "BIS Working Paper No 1389：News shocks and inflation: theory and evidence from large oil discoveries",
+          "url": "https://www.bis.org/publications/working-paper-1389-news-shocks-and-inflation-theory-and-evidence-from-large-oil-discoveries"
+        },
+        {
+          "title": "Bloom Energy：Third Quarter 2026 Financial Results",
+          "url": "https://investor.bloomenergy.com/press-releases/press-release-details/2026/Bloom-Energy-Reports-Record-Third-Quarter-2026-Financial-Results-and-Raises-Full-Year-2026-Guidance/default.aspx"
+        },
+        {
+          "title": "SEC：Proposal on custody of crypto assets for advisers and funds",
+          "url": "https://www.sec.gov/newsroom/press-releases/2026-100-sec-proposal-would-address-how-investment-advisers-funds-can-custody-crypto-assets-under-federal"
+        }
+      ],
+      "body": "## 更新时间\n\n北京时间 2026 年 10 月 24 日 09:00。以下仅摘要已发布材料，不包含实时价格、买卖建议或 Linna 的个人观点。\n\n## 宏观：未来供给的好消息，也可能先推高当前内需与非贸易品价格\n\nBIS 于 2026 年 10 月 23 日发布工作论文第 1389 号。研究者整理了 1980—2019 年、79 个经济体的 1,309 次大型油气发现，并聚焦实际投产至少滞后五年的样本，把“发现”视为未来产出增加、但当前物理供给尚未变化的可观察新闻冲击。\n\n论文发现，大型发现之后核心消费价格在随后十年持续上升，累计涨幅约一半发生在开采开始之前；变化主要集中在非贸易品和服务，生产者价格与贸易品价格反应较小。实际活动在投产前扩张，实际汇率持续升值；经常账户先因内需上升而恶化，投产后转为顺差。通胀反应主要出现在汇率较不灵活的制度下，在灵活汇率制度下明显较弱。\n\n解释边界：这是跨国历史样本和模型结合的研究结果，不意味着每次资源发现都会机械地产生相同通胀路径。发现规模、财政制度、进口能力、汇率安排及样本选择都可能改变结果；工作论文也注明作者观点不必然代表 BIS 或其成员央行。\n\n## 股票：Bloom Energy 的高速增长同时伴随利润率扩张，但仍需拆解收入质量\n\nBloom Energy 于 2026 年 10 月 22 日公布截至 9 月 30 日的第三季度结果。收入为 12.358 亿美元，同比增长 138.1%；其中产品收入 10.736 亿美元，同比增长 179.4%。GAAP 毛利率为 33.8%，同比提高 453 个基点；GAAP 营业利润 2.254 亿美元，营业利润率 18.2%，上年同期为 1.5%。\n\n公司将 2026 全年收入指引上调至 44 亿—46 亿美元，非 GAAP 毛利率约 34%，非 GAAP 营业利润 9.60 亿—10.30 亿美元，非 GAAP 每股收益 3.10—3.40 美元。管理层把需求与可靠的现场发电、数据中心等用电增长联系起来。\n\n解释边界：高增长率是在上年同期 5.190 亿美元收入基础上计算，不能只看百分比；全年指引属于前瞻信息。GAAP 与非 GAAP 指标口径不同，仍需结合客户集中度、订单确认、设备与服务组合、资本支出和现金流判断增长能否延续。\n\n## Crypto：SEC 提议为顾问与受监管基金建立加密资产托管框架，但规则尚未生效\n\nSEC 于 2026 年 10 月 1 日提出规则及修订建议，面向注册投资顾问、注册投资公司和业务发展公司，为加密资产托管建立专门框架。提案称，其目标是更新既有托管规则，并为投资顾问和受监管基金提供合规路径。\n\n提案包括：在特定条件下允许加密资产自托管；允许州信托公司担任客户及受监管基金加密资产的托管人；并更新与注册投资顾问财务报表审计、以及经纪交易商为受监管基金提供托管服务有关的要求。SEC 表示，公众意见期将在提案刊登于《联邦公报》后开放 60 天。\n\n解释边界：这是提案，不是已生效的最终规则；最终文本、适用条件和实施时间都可能因公众意见与后续表决改变。“允许自托管”也不是无条件豁免，不能据新闻稿推断所有钱包、顾问、基金或代币都自动合规。"
+    },
+    {
+      "id": "lesson-2026-10-24-financial-market-infrastructure",
+      "kind": "lesson",
+      "title": "今日金融英语：交易完成之前，金融市场的“管道”做了什么？",
+      "category": "金融市场英语",
+      "date": "2026-10-24",
+      "summary": "用英格兰银行官方视频理解金融市场基础设施如何支持支付、证券转移与银行间交易，并练习 clearing、settlement、finality 和 operational resilience。",
+      "tags": [
+        "金融英语",
+        "FMI",
+        "支付",
+        "清算",
+        "结算",
+        "市场基础设施"
+      ],
+      "status": "curated",
+      "ownerViewpoint": false,
+      "sourceVerified": true,
+      "videoUrl": "https://www.youtube.com/watch?v=6n87QQNoFRk",
+      "duration": "建议练习 15 分钟",
+      "sources": [
+        {
+          "title": "Bank of England：Financial market infrastructures – what happens when you pay?（含官方视频与文字稿）",
+          "url": "https://www.bankofengland.co.uk/explainers/financial-market-infrastructures-what-happens-when-you-pay"
+        }
+      ],
+      "body": "## 已核验材料\n\n英格兰银行官方解释页 “Financial market infrastructures – what happens when you pay?” 提供英文视频和页面文字稿，页面最后更新于 2019 年 1 月 10 日。材料把金融市场基础设施（financial market infrastructures, FMIs）比作金融体系的“管道”，说明它们如何支持日常支付、证券转移和银行间融资。\n\n“15 分钟”是建议练习时间，不是视频总时长；本条不编造时间戳，也不复制完整文字稿。页面中的支付规模是 2019 年口径，今天的练习不把它当作当前统计数字。\n\n## 先懂知识，再听英语\n\n交易者点击“买入”并不等于交易已经彻底完成。交易先需要确认双方义务：谁应交付证券，谁应支付现金，这一过程通常涉及 clearing。随后证券和资金实际转移，才进入 settlement。若系统规则确认转移不可撤销，就涉及 settlement finality。\n\n支付系统、中央证券存管机构、中央对手方和证券结算系统都属于广义 FMI。它们不一定像银行那样接受存款或发放贷款，但会记录、净额计算、担保或完成大量交易。它们提高效率，也会形成集中风险：若关键系统停摆，日常支付、证券交易与银行间流动性都可能受阻。\n\n中央对手方（central counterparty, CCP）站在原买卖双方之间，成为每个卖方的买方、每个买方的卖方。这样可以降低双边关系的复杂度并管理违约风险，但风险并未消失，而是需要通过保证金、违约基金、流动性安排和严格治理来控制。\n\n因此，金融市场基础设施的核心指标不只是速度。安全、结算终局性、业务连续性、网络韧性和压力期间的流动性同样重要。对代币化证券也是如此：把记录搬到链上，并不会自动消除托管、现金腿、法律终局性或公司行动处理问题。\n\n## 关键词\n\n- financial market infrastructure (FMI) — 金融市场基础设施\n- payment system — 支付系统\n- clearing — 清算；确认并计算交易义务\n- settlement — 结算；完成资金与资产转移\n- settlement finality — 结算终局性\n- central counterparty (CCP) — 中央对手方\n- securities depository — 证券存管机构\n- netting — 净额结算\n- counterparty risk — 对手方风险\n- margin — 保证金\n- default fund — 违约基金\n- operational resilience — 运营韧性\n- business continuity — 业务连续性\n- plumbing of the financial system — 金融体系的“管道”\n- underpin the financial system — 支撑金融体系\n- transfer of ownership — 所有权转移\n\n## 地道表达\n\n以下句子依据官方材料和市场基础设施知识改写，用于输出练习，不冒充视频逐字引文。\n\n> FMIs provide the plumbing that allows financial transactions to take place.\n\n> Clearing determines what each party owes; settlement completes the transfer.\n\n> A central counterparty reduces bilateral complexity but concentrates risk management.\n\n> Operational resilience matters because a failure can disrupt payments and market liquidity.\n\n## 三步练习\n\n1. 第一遍只记下视频提到的三种日常活动，以及它们为什么需要 FMI。\n2. 第二遍用英文区分 bank 与 FMI，再用一句话分别定义 clearing 和 settlement。\n3. 第三遍解释“交易成交”为什么不等于“法律和资金层面已经最终完成”，并加入 finality 与 counterparty risk。\n\n## 输出练习\n\n用 90 秒英文回答：\n\n“What has to happen after a trade is agreed before it is truly complete?”\n\n回答时至少使用 clearing、settlement、finality、central counterparty、operational resilience 五个词。完成后可把答案交给 ChatGPT 纠错；本条不记录或声称你已经完成学习。"
+    },
     {
       "id": "briefing-2026-10-23",
       "kind": "briefing",
