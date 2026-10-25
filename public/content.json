@@ -1,7 +1,119 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-24T09:00:00+08:00",
+  "updatedAt": "2026-10-25T09:01:00+08:00",
   "entries": [
+    {
+      "id": "briefing-2026-10-25",
+      "kind": "briefing",
+      "title": "今日事实简报：AI 的金融稳定传导、TI 季报与 Glamsterdam 测试网延期",
+      "category": "每日财经简报",
+      "date": "2026-10-25",
+      "summary": "基于 BIS、Texas Instruments 与 Ethereum Foundation 的正式材料，核对 AI 对价格形成、羊群行为和网络风险的潜在影响，TI 第三季度业绩，以及 Hoodi 测试网升级延期的技术边界。",
+      "tags": [
+        "宏观",
+        "BIS",
+        "AI",
+        "金融稳定",
+        "Texas Instruments",
+        "半导体",
+        "Ethereum",
+        "Glamsterdam"
+      ],
+      "status": "curated",
+      "ownerViewpoint": false,
+      "sourceVerified": true,
+      "updatedAt": "2026-10-25T09:01:00+08:00",
+      "sources": [
+        {
+          "title": "BIS：Artificial intelligence, monetary policy and financial stability",
+          "url": "https://www.bis.org/speeches/20261021-artificial-intelligence-monetary-policy-and-financial-stability"
+        },
+        {
+          "title": "Texas Instruments：Q3 2026 financial results and shareholder returns",
+          "url": "https://investor.ti.com/static-files/92651fc5-a8bf-4327-b864-55e178f45abd"
+        },
+        {
+          "title": "Ethereum Foundation：Glamsterdam on Hoodi Postponed",
+          "url": "https://blog.ethereum.org/2026/10/22/glamsterdam-hoodi-delay"
+        }
+      ],
+      "body": "## 更新时间\n\n北京时间 2026 年 10 月 25 日 09:01。以下仅摘要已发布事实，不包含实时价格、买卖建议或 Linna 的个人观点。\n\n## 宏观：AI 不只影响生产率，也可能改变价格传导、羊群行为与网络风险\n\nBIS 于 2026 年 10 月 21 日发布 Tao Zhang 为北京金融街论坛准备的讲话。讲话把 AI 对宏观经济和金融稳定的潜在影响分成三个渠道：价格形成、羊群行为和网络风险。\n\n第一，采用算法定价的企业可以更频繁地根据成本、需求、汽油价格或汇率调整价格，因此总量冲击可能更快传导到消费价格，改变通胀动态。第二，金融机构若使用相似模型、数据和决策规则，可能同时形成拥挤交易、同步收缩贷款或降低风险偏好；杠杆和难以出售的资产会放大这一过程。第三，AI 既能增强防御，也能帮助攻击者加速侦察、自动化攻击和生成更可信的信息；金融机构对共同技术、数据和服务商的依赖可能把单点故障扩散为系统问题。\n\n政策边界：讲话强调，AI 可以帮助央行整理信息和识别模式，但不能替代对通胀含义与政策反应的判断。以上是风险传导框架，不是 AI 已经导致更高通胀或金融危机的实证结论；讲话也不等于 BIS 成员央行的共同政策决定。\n\n## 股票：TI 的模拟与嵌入式业务同步增长，但自由现金流口径需拆开看\n\nTexas Instruments 于 2026 年 10 月 21 日公布第三季度结果：收入 60.55 亿美元，同比增长 28%、环比增长 11%；营业利润 28.74 亿美元，同比增长 73%；净利润 24.25 亿美元，同比增长 78%；稀释每股收益 2.62 美元，上年同期为 1.48 美元。\n\n分业务看，Analog 收入 49.11 亿美元，同比增长 32%，营业利润 25.05 亿美元，同比增长 69%；Embedded Processing 收入 8.58 亿美元，同比增长 21%，营业利润 2.27 亿美元，同比增长 110%。公司称工业、汽车和数据中心需求实现广泛增长。第四季度指引为收入 58 亿—63 亿美元，每股收益 2.45—2.79 美元。\n\n过去十二个月经营现金流为 98.96 亿美元，TI 定义的自由现金流为 84.22 亿美元。但该自由现金流是经营现金流减资本开支，再加《CHIPS and Science Act》激励所得；同期资本开支为 25.78 亿美元，CHIPS Act 激励所得为 11.04 亿美元。\n\n解释边界：第四季度区间属于前瞻信息；半导体收入受库存周期、终端需求和产能利用率影响。自由现金流是公司定义的非 GAAP 指标，不能与未加政府激励的口径直接比较，也不能单凭同比增速推断周期已经稳定。\n\n## Crypto：Hoodi 的 Glamsterdam 激活延期，不是以太坊主网回滚\n\nEthereum Foundation Protocol Cluster 于 2026 年 10 月 22 日宣布，原定 10 月 26 日 17:42:48 UTC 在 Hoodi 测试网激活的 Glamsterdam 升级已延期，新日期尚未确定。核心开发者在 ACDE #248 决定延后，以进一步调查 EIP-8037 与主网智能合约的交互。\n\n延期取消了原计划同一 epoch 的 Amsterdam 执行层激活、Gloas 共识层激活，以及把 Hoodi gas limit 提高到 200M 的安排。公告明确，这只是撤回未来升级配置，不会回滚 Hoodi 已有链历史。Hoodi 节点和验证者应检查执行层与共识层客户端，确认使用的版本明确移除了原 10 月 26 日激活配置。\n\n解释边界：Hoodi 是测试网，延期不等于 Ethereum 主网停机、现有交易被回滚或 Glamsterdam 被永久取消；主网激活日期本来就未在本公告中确定。客户端列表会继续更新，不能把旧公告中的兼容版本当作已包含延期修正。"
+    },
+    {
+      "id": "lesson-2026-10-25-project-agora-atomic-settlement",
+      "kind": "lesson",
+      "title": "今日金融英语：Project Agorá 如何把跨境支付从“接力”改成原子结算？",
+      "category": "金融市场英语",
+      "date": "2026-10-25",
+      "summary": "用 BIS 官方英文视频理解代币化央行准备金、商业银行存款、原子结算与 PvP，并分清原型验证和正式投产。",
+      "tags": [
+        "金融英语",
+        "BIS",
+        "Project Agorá",
+        "跨境支付",
+        "代币化存款",
+        "原子结算"
+      ],
+      "status": "curated",
+      "ownerViewpoint": false,
+      "sourceVerified": true,
+      "videoUrl": "https://www.youtube.com/watch?v=Ooi117Vhch8",
+      "duration": "视频 3 分 28 秒；建议练习 15 分钟",
+      "sources": [
+        {
+          "title": "BIS：Project Agorá（含 2026-10-23 官方视频、项目说明与测试结果）",
+          "url": "https://www.bis.org/project/agora"
+        },
+        {
+          "title": "BIS YouTube：Project Agorá — A shared programmable platform for wholesale cross-border payments",
+          "url": "https://www.youtube.com/watch?v=Ooi117Vhch8"
+        }
+      ],
+      "body": "## 已核验材料\n\nBIS 的 Project Agorá 项目页于 2026 年 10 月 23 日列出英文官方视频 “Project Agorá: exploring tokenisation of wholesale cross-border payments”，时长 3 分 28 秒。页面同时说明项目目标、原型结构和 2026 年 7 月真实价值测试结果。\n\n本条只依据可核验的视频标题、时长和项目页事实编写，不复制完整字幕，也不编造逐字引文或时间戳。\n\n## 先懂知识，再听英语\n\n传统跨境支付常经过多家代理行。每一环都可能独立做合规检查、账务更新、外汇兑换和流动性安排，导致流程串行、状态不透明，并把资金分散在不同 nostro accounts 中。\n\nProject Agorá 的思路不是发行一种新的无许可加密货币，而是在共享、可编程的平台上表示两类银行货币：tokenised central bank reserves 和 tokenised commercial bank deposits。央行准备金承担最终结算资产的角色，商业银行存款则继续体现银行对客户的负债。\n\nAtomic settlement 指相互依赖的步骤要么全部完成，要么全部不发生。对于外汇，payment-versus-payment（PvP）可以让两种货币的支付腿同步交割，减少一方已经付款、另一方尚未付款的 principal risk。智能合约还可以嵌入合规检查、条件付款和工作流逻辑。\n\n项目在 2026 年 7 月完成受控环境中的真实价值测试：28 家金融机构和央行使用六种货币完成 17 类交易场景，总额约 80 万瑞士法郎，单笔等值 9,000—125,000 瑞士法郎；从发起到结算平均约 80 秒。测试覆盖企业和银行间单币种、双币种付款、PvP 及集团内转账，并通过 ISO 20022 信息与外部系统交互。\n\n关键边界是 prototype versus production。BIS 明确说 Agorá 不是已经完成的产品；测试证明某些技术和操作流程可行，但没有证明所有司法辖区的法律终局性、反洗钱、隐私、可扩展性和商业成本问题都已解决。\n\n## 关键词\n\n- wholesale cross-border payment — 批发跨境支付\n- correspondent banking — 代理银行业务\n- nostro account — 本方银行开在境外银行的账户\n- tokenised central bank reserves — 代币化央行准备金\n- tokenised commercial bank deposits — 代币化商业银行存款\n- shared programmable platform — 共享可编程平台\n- atomic settlement — 原子结算\n- payment-versus-payment (PvP) — 支付对支付\n- principal risk — 本金风险\n- settlement finality — 结算终局性\n- reconciliation — 对账\n- end-to-end visibility — 端到端可见性\n- compliance requirement — 合规要求\n- real-value testing — 真实价值测试\n- proof of concept / prototype — 概念验证 / 原型\n- production system — 正式生产系统\n\n## 地道表达\n\n以下句子依据官方材料和支付知识改写，用于输出练习，不冒充视频逐字引文。\n\n> Cross-border payments still rely on complex, sequential processes and fragmented liquidity.\n\n> Atomic settlement ensures that linked payment legs either complete together or do not complete at all.\n\n> Tokenised deposits remain commercial bank money, while tokenised reserves provide central bank settlement.\n\n> The prototype demonstrates feasibility, but it is not yet a production system.\n\n## 三步练习\n\n1. 第一遍只记录视频如何描述现有跨境支付的三个问题。\n2. 第二遍用英文画出 commercial bank deposits、central bank reserves 和 shared platform 的关系。\n3. 第三遍解释 atomic settlement 与 PvP 怎样降低 principal risk，再补一句 prototype 不代表什么。\n\n## 输出练习\n\n用 90 秒英文回答：\n\n“How can tokenisation improve wholesale cross-border payments without replacing the two-tier banking system?”\n\n回答时至少使用 correspondent banking、tokenised deposits、central bank reserves、atomic settlement、settlement finality 五个词。完成后可把答案交给 ChatGPT 纠错；本条不记录或声称你已经完成学习。"
+    },
+    {
+      "id": "topic-2026-10-25-frontier-research",
+      "kind": "topic",
+      "title": "研究选题候选：自更新医疗 AI、卫星退役、ETF 量价与代币化银行货币",
+      "category": "研究选题",
+      "date": "2026-10-25",
+      "summary": "锚点后的第三个五日周期提出四项可证伪候选，聚焦 AI 医疗器械更新、轨道碎片责任、ETF 一级市场对量价信号的影响，以及代币化银行货币的结算边界。",
+      "tags": [
+        "AI 医疗",
+        "航空航天",
+        "威科夫",
+        "量价",
+        "ETF",
+        "RWA",
+        "代币化存款"
+      ],
+      "status": "curated",
+      "ownerViewpoint": false,
+      "sourceVerified": true,
+      "sources": [
+        {
+          "title": "FDA：Predetermined Change Control Plan for AI-Enabled Device Software Functions",
+          "url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/marketing-submission-recommendations-predetermined-change-control-plan-artificial-intelligence"
+        },
+        {
+          "title": "FCC：Orbital Debris FAQ and Five-Year Disposal Rule",
+          "url": "https://www.fcc.gov/space/faq-orbital-debris"
+        },
+        {
+          "title": "Federal Reserve FEDS：The Dynamics of ETF Fees and Liquidity",
+          "url": "https://www.federalreserve.gov/econres/feds/files/2020097pap.pdf"
+        },
+        {
+          "title": "FINRA：Trade Reporting FAQ — ETF creation and redemption transfers",
+          "url": "https://www.finra.org/filing-reporting/market-transparency-reporting/trade-reporting-faq"
+        },
+        {
+          "title": "BIS Innovation Hub：Project Agorá",
+          "url": "https://www.bis.org/project/agora"
+        }
+      ],
+      "body": "## 生成规则\n\n本期日期 2026-10-25 距固定锚点 2026-10-10 为 15 天，是非负 5 的整数倍。现有非演示 topic 最新为 2026-10-20，因此只补最近到期的 2026-10-25 一期；以下均为候选，不是 Linna 已确认的研究文章、结论或投资观点。\n\n## 候选一：医疗 AI 的护城河会不会从“模型准确率”转向“获批后的可控更新”？\n\n为什么值得研究：医疗 AI 会随新数据、设备和人群分布变化，但每次更新都重新提交可能拖慢产品迭代。FDA 的最终指导允许申报时提交 Predetermined Change Control Plan（PCCP），预先描述计划修改、开发验证方法和影响评估，为安全迭代建立监管路径。\n\n核心问题：哪些更新适合预先纳入 PCCP，哪些变化会超出原批准边界？公司能否把数据监控、再训练、偏差检验和回滚机制做成可复用能力，从而缩短迭代周期并降低监管成本？\n\n可查证证据：FDA 2025 年最终指导适用于 510(k)、De Novo 和 PMA 路径中的 AI-enabled device software functions。指导要求 PCCP 描述具体修改、实施与验证方法，并评估修改影响；FDA 在上市申请中一并审查。\n\n反方解释：指导文件本身通常不设具有法律强制力的新义务；获得 PCCP 不等于后续更新有效，更不等于形成商业护城河。临床数据质量、医院采购、支付覆盖和责任风险可能比更新速度更重要。\n\n## 候选二：五年退役规则能否催生卫星拖船、在轨加注和碎片清除的可持续收入？\n\n为什么值得研究：FCC 已把近地轨道卫星任务结束后的处置期限从 25 年缩短到五年，并要求许可申请提供轨道碎片缓解计划。更短期限会把“任务结束后如何离轨”从远期外部成本变成运营商需要提前预算的合规项目。\n\n核心问题：运营商更可能通过自带推进能力、冗余设计、保险，还是购买在轨拖曳和主动清除服务满足要求？哪一种方案的单位成本、失败责任和监管可验证性最优？服务商能否通过多星任务形成重复收入？\n\n可查证证据：FCC 的轨道碎片 FAQ 说明五年处置要求及适用时间，许可材料须包含 Orbital Debris Mitigation Plan。可继续把 FCC 许可文件、星座故障率、推进剂余量与在轨服务合同对齐。\n\n反方解释：规则可能首先推动卫星设计内生化处置能力，而不是创造外部清除市场；低轨卫星价值有限，发射替换可能比维修或拖曳更便宜。政府示范合同也不能证明商业客户愿意持续付费。\n\n## 候选三：ETF 的申赎与套利会不会让威科夫“成交量”产生结构性误读？\n\n为什么值得研究：ETF 二级市场成交量不是全部资金流。授权参与者可以用一篮子证券创建或赎回 ETF 份额，套利机制把 ETF 价格与净值连接起来；而 FINRA 明确说明，纯粹为了创建或赎回 ETF 的证券转移本身并不作为交易报告。只看 K 线成交量，可能遗漏一级市场库存与份额变化。\n\n核心问题：在放量突破、缩量回测或折溢价扩大时，加入 ETF shares outstanding、creation/redemption、premium/discount 和底层篮子流动性后，原有“需求/供应”解释是否仍成立？哪些信号来自投资者方向，哪些来自套利和库存管理？\n\n可查证证据：Federal Reserve FEDS 论文描述授权参与者用预设篮子创建和赎回 ETF 的机制，并研究 ETF 与组合流动性的共同变化；FINRA FAQ 划清了申赎转移和可报告二级市场交易的边界。\n\n反方解释：一级市场申赎仍可能源自真实投资需求，不能把它自动归类为“噪音”；不同 ETF 的现金申赎、实物申赎、底层资产流动性和做市结构不同。若没有逐日份额与净值数据，研究仍可能只是事后叙事。\n\n## 候选四：RWA 的结算资产应选稳定币，还是代币化商业银行存款加央行准备金？\n\n为什么值得研究：RWA 的资产腿可以上链，但现金腿决定最终性、赎回和信用风险。Project Agorá 把代币化商业银行存款与代币化央行准备金放在共享平台，通过原子、多币种结算保留两层银行体系，为“链上资产用什么钱结算”提供了不同于公开链稳定币的路径。\n\n核心问题：在批发 RWA 市场中，tokenised deposits、regulated stablecoins 和 central bank money 分别如何处理 singleness of money、流动性、隐私、AML、跨境外汇与 24/7 可用性？许可平台的法律确定性是否值得牺牲公开链组合性？\n\n可查证证据：BIS 项目页显示，2026 年 7 月真实价值测试覆盖六种货币、17 类场景和约 80 万瑞士法郎交易，平均从发起到结算约 80 秒；项目同时强调 settlement finality、AML/CFT、隐私及现有 RTGS 与核心银行系统的互操作问题。\n\n反方解释：受控测试金额小、参与者有限，不能证明规模化成本、全天候流动性或跨法域治理已解决；许可平台也可能复制现有银行体系的封闭性。稳定币和公开链的全球可达性、可编程性与生态流动性可能在部分场景更有优势。\n\n## 建议优先级\n\n若本期只推进一个，优先候选三：它能直接把威科夫量价判断升级成包含 ETF 一级市场结构的可证伪研究；候选一适合作为 AI×生物医疗主线的下一篇。真正写成研究文章前仍需 Linna 确认。"
+    },
     {
       "id": "briefing-2026-10-24",
       "kind": "briefing",
