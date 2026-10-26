@@ -1,7 +1,76 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-25T09:01:00+08:00",
+  "updatedAt": "2026-10-26T09:02:00+08:00",
   "entries": [
+    {
+      "id": "briefing-2026-10-26",
+      "kind": "briefing",
+      "title": "今日事实简报：欧元区政府债务、洛马季报与 CFTC 加密市场征求意见",
+      "category": "每日财经简报",
+      "date": "2026-10-26",
+      "summary": "基于 Eurostat、Lockheed Martin 与 CFTC 的正式材料，核对欧元区二季度政府债务、洛马第三季度增长与现金流，以及美国零售加密商品交易监管的前期征求意见范围。",
+      "tags": [
+        "宏观",
+        "Eurostat",
+        "政府债务",
+        "Lockheed Martin",
+        "航空航天",
+        "Crypto",
+        "CFTC",
+        "监管"
+      ],
+      "status": "curated",
+      "ownerViewpoint": false,
+      "sourceVerified": true,
+      "updatedAt": "2026-10-26T09:02:00+08:00",
+      "sources": [
+        {
+          "title": "Eurostat：Government debt at 88.8% of GDP in euro area",
+          "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-21102026-bp"
+        },
+        {
+          "title": "Lockheed Martin：Third Quarter 2026 Financial Results",
+          "url": "https://investors.lockheedmartin.com/news-releases/news-release-details/lockheed-martin-reports-third-quarter-2026-financial-results"
+        },
+        {
+          "title": "CFTC：ANPRM on Crypto Asset Transactions and Crypto Asset Markets",
+          "url": "https://www.cftc.gov/PressRoom/PressReleases/9307-26"
+        }
+      ],
+      "body": "## 更新时间\n\n北京时间 2026 年 10 月 26 日 09:02。以下仅摘要已发布事实，不包含实时价格、买卖建议或 Linna 的个人观点。\n\n## 宏观：欧元区二季度政府债务率继续上升，但成员国路径分化\n\nEurostat 于 2026 年 10 月 21 日发布季度数据：2026 年第二季度末，欧元区（EA21）政府总债务占 GDP 的 88.8%，高于第一季度末的 88.4%和 2025 年第二季度末的 87.3%；欧盟相应比率为 82.9%，高于第一季度末的 82.5%和一年前的 81.4%。数据仍标注为 provisional。\n\n从债务工具看，欧元区政府债务的 84.5%为债务证券、13.1%为贷款、2.4%为货币和存款。成员国差异很大：二季度末债务率最高的是希腊 140.8%、意大利 139.9%、法国 119.1%；最低的是爱沙尼亚 26.1%、丹麦 27.1%、卢森堡 28.2%和保加利亚 28.7%。环比有 15 个成员国上升、10 个下降，荷兰和西班牙持平。\n\n解释边界：债务率同时受债务存量和名义 GDP 影响，季度上升不等于同规模新增借款，也不能单独证明偿债压力立即恶化。跨国比较还需结合利率、期限结构、财政收入、央行持有和经济增长；Eurostat 本次数字为统计口径事实，不是对各国信用风险的评级。\n\n## 股票：洛马四个业务板块销售均增长，但现金流同比回落且 F-35 合同仍有资金边界\n\nLockheed Martin 于 2026 年 10 月 22 日公布截至 9 月 27 日的第三季度结果：销售额 207.11 亿美元，同比增长 11%；净利润 18.45 亿美元，同比增长 14%；稀释每股收益 7.97 美元，上年同期为 6.95 美元。经营现金流为 34.38 亿美元，低于上年同期的 37.28 亿美元；公司定义的自由现金流为 29.99 亿美元，低于 33.47 亿美元。期末 backlog 达 2,920 亿美元，较二季度增长 27%。\n\n四个业务板块销售均同比增长：Aeronautics 增长 13%，Missiles and Fire Control 增长 24%，Rotary and Mission Systems 增长 3%，Space 增长 4%。公司把航空业务增长主要归因于 F-35 生产与保障合同量增加，以及 C-130 预合同成本的结算；导弹业务增长主要来自 PAC-3、THAAD、GMLRS 和 PrSM 等项目爬坡。\n\n公司把 2026 年销售指引更新为约 800 亿—820 亿美元，把自由现金流指引更新为约 78 亿—80 亿美元。边界是：指引属于前瞻信息，自由现金流是非 GAAP 指标；公司还披露 F-35 第 20 批及以后生产合同仍在谈判，若 Lot 20 没有新增合同授权和资金，未来业绩、现金流与财务状况会受到负面影响。高 backlog 也不等于收入可立即确认或利润率已经锁定。\n\n## Crypto：CFTC 启动的是前期征求意见，不是已经生效的全国统一规则\n\nCFTC 于 2026 年 10 月 5 日发布 Advanced Notice of Proposed Rulemaking（ANPRM），拟就《商品交易法》第 2(c)(2)(D) 条所涵盖的零售商品交易及涉及加密资产的相关交易征求意见。ANPRM 关注如何在统一框架下防止滥用、怎样向市场参与者解释加密市场的合规实践，以及是否通过规则建立面向此类交易的特定 designated contract market 注册子类别。\n\nCFTC 表示，收到的信息和意见将用于判断未来是否采取正式规则制定等行动。书面意见须在 ANPRM 刊登于《联邦公报》后的 60 天内提交，公开意见会发布在 Regulations.gov。\n\n解释边界：ANPRM 处在规则制定早期，既不是 proposed rule 的最终文本，更不是已生效法规；问题范围、法定权限、注册条件和实施时间仍可能变化。该程序聚焦特定零售商品交易，不能据此推断所有现货代币、DeFi 协议或证券型代币都已被同一套 CFTC 规则覆盖。"
+    },
+    {
+      "id": "lesson-2026-10-26-financial-stability-vulnerabilities",
+      "kind": "lesson",
+      "title": "今日金融英语：金融稳定不是“市场不波动”，而是冲击后仍能运转",
+      "category": "金融市场英语",
+      "date": "2026-10-26",
+      "summary": "用美联储官方英文视频与说明页理解 resilience、shock、leverage、funding risk 和 maturity transformation，并练习区分风险与脆弱性。",
+      "tags": [
+        "金融英语",
+        "Federal Reserve",
+        "金融稳定",
+        "杠杆",
+        "融资风险",
+        "期限错配"
+      ],
+      "status": "curated",
+      "ownerViewpoint": false,
+      "sourceVerified": true,
+      "videoUrl": "https://www.federalreserve.gov/financial-stability.htm",
+      "duration": "建议练习 15 分钟",
+      "sources": [
+        {
+          "title": "Federal Reserve：Financial Stability（含官方英文视频与 transcript）",
+          "url": "https://www.federalreserve.gov/financial-stability.htm"
+        },
+        {
+          "title": "Federal Reserve：Types of Financial System Vulnerabilities and Risks",
+          "url": "https://www.federalreserve.gov/financial-stability/types-of-financial-system-vulnerabilities-and-risks.htm"
+        }
+      ],
+      "body": "## 已核验材料\n\n美联储 “Financial Stability” 官方页面提供英文视频及 transcript，视频标注创建于 2017 年 8 月 29 日，页面最后更新于 2026 年 3 月 27 日。配套说明页把金融系统稳定定义为：银行、其他贷款机构和市场即使遭遇不利冲击，也能继续向家庭、社区和企业提供融资及关键服务。\n\n“15 分钟”是建议练习时间，不是视频总时长；本条不编造视频时长或时间戳，也不复制完整字幕。\n\n## 先懂知识，再听英语\n\nFinancial stability 不等于资产价格不下跌，也不等于波动率一直很低。核心是 resilience：当经济、市场或机构遭遇 bad shock 时，金融系统仍能提供信贷、储蓄、经纪、现金管理、支付和结算等服务，而不会把原本有限的冲击放大成广泛的信用收缩和经济下滑。\n\n美联储定期监测四类 vulnerabilities。第一是 elevated valuation pressures，即资产价格相对基本面或历史水平偏高，突然重估的空间更大。第二是 excessive borrowing by businesses and households，高债务主体在收入下降或资产贬值时可能剧烈削减支出并违约。第三是 leverage within the financial sector：金融机构用较少权益支撑较大资产负债表，损失会更快侵蚀吸收能力。\n\n第四是 funding risk。机构可能承诺投资者短期取回资金，却持有长期或不易出售的资产，这就是 liquidity and maturity transformation。压力出现时，投资者同时赎回，机构被迫以 fire-sale prices 卖出资产；价格下跌又会压低其他机构持仓价值，形成 negative feedback loop。\n\nRisk 与 vulnerability 也要分开。Risk 可以是外部冲击的来源，例如经济衰退、地缘事件或资产价格下跌；vulnerability 是系统内部让冲击被放大的结构条件，例如高杠杆、期限错配和流动性薄弱。同一个冲击，在韧性强与脆弱性高的系统中会产生不同后果。\n\n## 关键词\n\n- financial stability — 金融稳定\n- resilience — 韧性；承受并恢复的能力\n- adverse shock / bad shock — 不利冲击\n- vulnerability — 脆弱性；放大冲击的结构条件\n- elevated valuation pressures — 偏高的估值压力\n- excessive borrowing — 过度借款\n- leverage — 杠杆\n- loss-absorbing capacity — 损失吸收能力\n- funding risk — 融资风险\n- liquidity transformation — 流动性转换\n- maturity transformation — 期限转换\n- short-term liabilities — 短期负债\n- illiquid assets — 非流动性资产\n- run risk — 挤兑风险\n- fire sale — 被迫低价抛售\n- negative feedback loop — 负向反馈循环\n- credit contraction — 信贷收缩\n- amplify a shock — 放大冲击\n\n## 地道表达\n\n以下句子依据官方材料和金融稳定知识改写，用于输出练习，不冒充视频逐字引文。\n\n> Financial stability is about resilience, not the absence of volatility.\n\n> Vulnerabilities determine whether a shock is absorbed or amplified.\n\n> Short-term funding can become fragile when it finances long-dated, illiquid assets.\n\n> Fire sales can transmit losses across institutions through a negative feedback loop.\n\n## 三步练习\n\n1. 第一遍只记录视频如何定义 stable system，以及它要继续提供哪些服务。\n2. 第二遍用英文分别解释 risk 与 vulnerability，再列出四类脆弱性。\n3. 第三遍用一条因果链连接 maturity mismatch、run risk、fire sale、asset-price decline 和 credit contraction。\n\n## 输出练习\n\n用 90 秒英文回答：\n\n“Why can a financial system look calm before a shock but still be fragile?”\n\n回答时至少使用 resilience、vulnerability、leverage、maturity transformation、fire sale 五个词。完成后可把答案交给 ChatGPT 纠错；本条不记录或声称你已经完成学习。"
+    },
     {
       "id": "briefing-2026-10-25",
       "kind": "briefing",
