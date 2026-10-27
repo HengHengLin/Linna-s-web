@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-27T09:04:00+08:00",
+  "updatedAt": "2026-10-27T23:04:00+08:00",
   "entries": [
     {
       "id": "briefing-2026-10-27",
@@ -66,6 +66,40 @@
         }
       ],
       "body": "## 已核验材料\n\nIMF 官方视频页 “Analyze This! Global Imbalances” 标注发布于 2026 年 9 月 22 日、时长 3 分 45 秒，介绍国家储蓄与支出选择如何形成全球失衡，并影响增长、债务和金融稳定。\n\n页面没有提供可逐句核验的完整字幕，因此本条不复制或伪造逐字引文，也不编造时间戳；以下知识说明与表达根据国际收支框架整理。\n\n## 先懂知识，再听英语\n\n一个经济体的 current account 大致记录贸易、初次收入和转移收支。经常账户顺差意味着一国从国外获得的收入超过对外支出；逆差则相反。会计上，经常账户与资本和金融账户相对应：一个国家若持续支出超过收入，就需要吸收国外资金；储蓄超过国内投资的经济体则向外输出资本。\n\n因此，surplus country 与 deficit country 不是彼此独立的故事。全球加总后，一方的净借出对应另一方的净借入。失衡本身也不是自动的道德结论：快速增长的经济体可能因高回报投资而合理吸收资本，人口老龄化或资源出口国也可能合理积累海外资产。\n\n问题在于失衡的来源、规模和融资结构。如果逆差由生产率提升和可持续投资驱动，未来收入可能覆盖负债；如果由房地产泡沫、短期外币债务或消费过度驱动，资本突然撤出时更脆弱。顺差也可能反映竞争力和高储蓄，但也可能来自国内需求不足、社会保障不充分或汇率与政策扭曲。\n\nExternal adjustment 可以通过汇率、需求、价格与收入变化完成。货币贬值可能改善出口竞争力，但若进口能源昂贵或企业有大量外币债务，也会带来通胀和资产负债表压力。不能把 “a weaker currency improves the trade balance” 当成无条件规律。\n\n## 关键词\n\n- global imbalances — 全球失衡\n- current account — 经常账户\n- trade balance — 贸易差额\n- current-account surplus — 经常账户顺差\n- current-account deficit — 经常账户逆差\n- national saving — 国民储蓄\n- domestic investment — 国内投资\n- capital inflows — 资本流入\n- net lender / net borrower — 净贷出方 / 净借入方\n- external financing — 外部融资\n- foreign-currency debt — 外币债务\n- sudden stop — 资本流入突然停止\n- exchange-rate adjustment — 汇率调整\n- domestic demand — 国内需求\n- external vulnerability — 外部脆弱性\n- balance-sheet effect — 资产负债表效应\n\n## 地道表达\n\n以下句子根据国际收支逻辑改写，用于输出练习，不冒充视频逐字引文。\n\n> A current-account deficit must be financed by capital inflows or a drawdown of external assets.\n\n> One country's surplus is mirrored by deficits elsewhere in the global system.\n\n> The sustainability of an imbalance depends on what the borrowed funds are used for.\n\n> Exchange-rate adjustment can improve competitiveness while worsening foreign-currency debt burdens.\n\n## 三步练习\n\n1. 第一遍只记录视频怎样描述 saver、spender 和世界经济之间的关系。\n2. 第二遍用英文解释 saving minus investment 与 current account 的关系。\n3. 第三遍分别给出一种“可持续逆差”和“脆弱逆差”的例子，并说明融资结构。\n\n## 输出练习\n\n用 90 秒英文回答：\n\n“When does a current-account deficit become an external vulnerability rather than a normal part of capital allocation?”\n\n回答时至少使用 current account、capital inflows、foreign-currency debt、sudden stop、external adjustment 五个词。本条不记录或声称你已经完成学习。"
+    },
+    {
+      "id": "research-2026-10-27-market-microstructure",
+      "kind": "research",
+      "title": "市场微观结构：做市商、期权对冲、机构策略与市值管理",
+      "category": "投资研究",
+      "date": "2026-10-27",
+      "summary": "从库存风险、扫止损、Gamma对冲到策略样本外验证及合法市值管理，区分市场机制、交易假设与操纵证据。",
+      "tags": [
+        "市场微观结构",
+        "做市商",
+        "Gamma",
+        "期权",
+        "机构策略",
+        "市值管理"
+      ],
+      "status": "approved",
+      "approvedBy": "Linna",
+      "approvedAt": "2026-10-27",
+      "sources": [
+        {
+          "title": "SEC Investor.gov：Market Manipulation",
+          "url": "https://www.investor.gov/introduction-investing/investing-basics/glossary/market-manipulation"
+        },
+        {
+          "title": "Cboe：SPX 0DTE Options",
+          "url": "https://www.cboe.com/tradable_products/sp_500/spx_options/0dte/"
+        },
+        {
+          "title": "中国证监会",
+          "url": "https://www.csrc.gov.cn/"
+        }
+      ],
+      "body": "## 研究定位\n\n本文是市场微观结构与资本市场机制的入门研究，不是对特定交易员访谈的逐字整理，也不把推测的机构动机写成事实。研究问题是：价格如何在报价、订单流、库存约束、衍生品对冲与企业资本行为之间形成？\n\n## 一、做市商为什么提供双边报价？\n\n做市商在买价（Bid）和卖价（Ask）上提供流动性，理论上可赚取买卖价差。例如99.98买入、100.02卖出100股，毛价差为4美元；实际还要扣除手续费、融资与对冲成本，并承担逆向选择和库存风险。\n\n若做市商连续买入股票、积累多头库存，可能下调报价以减少继续买入并吸引买盘。这种调整可能影响市场价格，但不能据此断定它有意操纵市场。做市商也可能因客户交易方向、风险限额及其他市场头寸改变报价。\n\n## 二、扫止损与市场操纵不能画等号\n\n止损单触发后可能转为市价单，消耗订单簿深度，导致短时间的滑点和价格跳动。跌破支撑后迅速收回的走势可能符合威科夫Spring的形态描述，但图形本身不能证明有人“猎杀散户”。\n\n至少要区分三种解释：真实卖盘造成流动性冲击；做市商调整库存或对冲；以及涉及欺骗性申报、虚假成交等可能违法的操纵行为。判断第三种需要交易记录、账户关联、通信或监管证据，单根K线不够。\n\n## 三、期权如何影响现货与期货？\n\nDelta衡量期权价值对标的价格的局部敏感度；Gamma衡量Delta对标的价格的变化率。假设做市商卖出100张、每张对应100股、Delta为0.5的Call，股票等效Delta约为-5,000股；若仅用股票对冲，可能买入约5,000股。若Delta上升至0.6，其他条件不变，需要再买约1,000股。\n\n净负Gamma的做市商在简单Delta中性对冲下往往上涨时买、下跌时卖，可能放大波动；净正Gamma则相反。但现实中还受Vanna、Charm、波动率、净头寸、期货替代对冲与风险限额影响。\n\nCall Wall、Put Wall及Gamma Levels通常是模型估计的候选价格区域，而非必然的支撑或阻力。公开未平仓量不能直接识别交易商净多空，不能仅凭某个执行价的持仓量推断对冲方向。0DTE临近到期可能有高Gamma，但市场总影响取决于净敞口与流动性，而非单纯成交量。\n\n## 四、机构怎样验证交易策略？\n\n正确流程是经济机制假设→可执行规则→历史回测（含手续费、冲击与滑点）→样本外验证→滚动检验→小规模实盘监控。\n\nORB（开盘区间突破）检验开盘信息释放后是否存在持续订单流；VWAP策略研究机构执行基准及价格偏离；PEAD（财报后漂移）研究盈利意外后的信息消化；隔夜效应检验不同持仓时段的风险溢价。四者都不是天然有效的交易指令。\n\n回测尤其要防范未来函数、幸存者偏差、数据挖掘、参数过拟合和容量不足。历史显著性不等于扣除成本后的可实现收益。\n\n## 五、市值管理与股价操纵的边界\n\n合法市值管理围绕公司价值创造、资本配置和投资者沟通展开，包括分红、回购、并购、股权激励和投资者关系。公司股价也可能影响以股票支付的并购稀释程度、再融资条件和股东财富，但这些利益不能成为操纵价格的理由。\n\n应重点研究董事会与管理层的资本配置决策、股权质押及融资压力、信息披露边界、内部人利益冲突，以及监管认定的操纵案件。所谓“市值管理内幕”不能靠股价图形臆测，应使用公告、财报、监管处罚与可核验的交易证据。\n\n## 六、把理论转化为研究框架\n\n观察到放量跌破前低并收回时，按六层逐一核验：价格结构、成交量、订单流、期权净敞口估计、基本面消息、历史统计表现。每层都应区分已观察事实、合理机制、待验证假设。\n\n最终原则：市场结构告诉我们发生了什么，订单流描述交易如何完成，衍生品揭示潜在反馈，统计验证判断这种现象是否具有可交易的优势。不要把“主力意图”当作未经检验的答案。\n\n## 延伸阅读与核查边界\n\n- [SEC：Market Manipulation](https://www.investor.gov/introduction-investing/investing-basics/glossary/market-manipulation)\n- [Cboe：SPX 0DTE Options](https://www.cboe.com/tradable_products/sp_500/spx_options/0dte/)\n- [中国证监会官网](https://www.csrc.gov.cn/)\n\n以上为进一步核验的机构入口，并非已逐条核对的访谈出处。Matteo Conte与Fredy Sarmiento的原始访谈链接和逐字稿尚未核实，故本文不对他们作具体引述。"
     },
     {
       "id": "weekly-2026-10-27-real-state-of-l2s",
