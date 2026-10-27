@@ -1,7 +1,104 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-26T09:02:00+08:00",
+  "updatedAt": "2026-10-27T09:04:00+08:00",
   "entries": [
+    {
+      "id": "briefing-2026-10-27",
+      "kind": "briefing",
+      "title": "今日事实简报：德国景气预期、Cadence 季报与 Solana Alpenglow 主网启用",
+      "category": "每日财经简报",
+      "date": "2026-10-27",
+      "summary": "基于 ifo、Cadence 与 Solana Foundation 的正式材料，核对德国 10 月企业景气分化、Cadence 第三季度增长与利润率口径，以及 Alpenglow 主网特性门和客户端更新边界。",
+      "tags": [
+        "宏观",
+        "德国",
+        "ifo",
+        "Cadence",
+        "EDA",
+        "AI",
+        "Solana",
+        "Alpenglow"
+      ],
+      "status": "curated",
+      "ownerViewpoint": false,
+      "sourceVerified": true,
+      "updatedAt": "2026-10-27T09:04:00+08:00",
+      "sources": [
+        {
+          "title": "ifo Institute：ifo Business Climate Rises (October 2026)",
+          "url": "https://www.ifo.de/en/press-release/2026-10-26/ifo-business-climate-rises-october-2026"
+        },
+        {
+          "title": "Cadence：Third Quarter 2026 Financial Results",
+          "url": "https://investor.cadence.com/news/news-details/2026/Cadence-Reports-Third-Quarter-2026-Financial-Results/default.aspx"
+        },
+        {
+          "title": "Solana Foundation：Solana Changelog — October 22, 2026",
+          "url": "https://solana.com/news/solana-changelog-october-22-2026"
+        }
+      ],
+      "body": "## 更新时间\n\n北京时间 2026 年 10 月 27 日 09:04。以下仅摘要已发布事实，不包含实时价格、买卖建议或 Linna 的个人观点。\n\n## 宏观：德国企业预期改善，但当前状况与行业表现仍分化\n\nifo Institute 于 2026 年 10 月 26 日发布 10 月调查：德国 ifo Business Climate Index 从 9 月的 89.9 升至 90.2，改善主要来自更乐观的预期；企业对当前状况的评价反而略微走弱。该指数以 2015 年为 100，并经过季节调整。\n\n制造业景气显著回升，企业对当前状况和未来预期的评价均明显改善，两项指标三年多来首次同时回到正值；新订单增加，企业计划扩大生产。服务业景气回落，企业对当前业务更不满意，但预期改善，IT 服务表现较好。贸易指标不变，批发优于零售；建筑业则因当前状况改善和预期小幅上升而走强。\n\n解释边界：这是企业调查而非已实现产出数据，0.3 点的总体上升也不等于德国经济已进入强劲扩张。制造业订单、服务业现状、能源成本、外需和政策不确定性仍需与工业生产、GDP、就业及通胀数据交叉验证。\n\n## 股票：Cadence 收入与 backlog 创高，但 GAAP 利润率同比收窄\n\nCadence 于 2026 年 10 月 26 日公布第三季度结果：收入 16.333 亿美元，高于上年同期的 13.388 亿美元，同比增长约 22%；GAAP 营业利润率为 26.2%，低于上年同期的 31.8%；GAAP 稀释每股收益为 1.05 美元，与上年同期持平。非 GAAP 营业利润率为 44.1%，上年同期为 47.6%；非 GAAP 稀释每股收益为 2.11 美元，上年同期为 1.93 美元。\n\n季度末 backlog 为 82 亿美元，其中预计未来 12 个月确认的 remaining performance obligations 收入为 42 亿美元。公司称 recurring revenue 同比增长 18%，Core EDA 收入增长 20%，IP 收入增长 24%，System Design and Analysis 收入增长 30%。公司把 2026 年收入指引更新为 63.87 亿—64.17 亿美元，GAAP 每股收益指引为 4.84—4.90 美元，非 GAAP 每股收益为 8.37—8.43 美元。\n\n口径边界：非 GAAP 调整包含股权激励、收购无形资产摊销、收购整合成本与重组等项目，不能与 GAAP 利润率混用。backlog 不是当期收入，也不保证按原金额和利润率确认；管理层关于 AI 设计需求、全年增长和未来部署的陈述属于公司判断及前瞻信息。\n\n## Crypto：Solana 将 Alpenglow 列为主网已启用特性门，但生态迁移仍包含多个独立步骤\n\nSolana Foundation 在 2026 年 10 月 23 日发布的 “Solana Changelog: October 22, 2026” 中，把 Alpenglow 列为 Mainnet 的 notable feature gate，并同时列出 Agave v4.3.2、Firedancer Mainnet v26.10.4、Web3.js v3.1.1 等新版本。更新还称 Firedancer 已成功参与新的 Alpenglow 共识，其开发工作开始移除旧 TowerBFT 实现。\n\n同一 changelog 也把多项内容明确标为提案或正在开发：例如延迟验证者佣金变更后的 Vote Account 状态调整、live commission collectors、Agave 的 stake-weighted gossip、对 SIMD-0500 的 CLI 前置检查，以及未来是否逐步限制 legacy 与 V0 transactions 的讨论。\n\n解释边界：主网 feature gate 与客户端发布属于可核验的软件状态，但不等于所有验证者、RPC、钱包和应用都已完成迁移，也不等于所有提案都会进入主网。周报没有在正文中给出可独立验证的实测最终性分布、故障率或经济效果，因此本条不把宣传性的性能数字写成已普遍实现的生产统计。"
+    },
+    {
+      "id": "lesson-2026-10-27-global-imbalances",
+      "kind": "lesson",
+      "title": "今日金融英语：全球失衡不是“谁对谁错”，而是储蓄与支出的跨国镜像",
+      "category": "金融市场英语",
+      "date": "2026-10-27",
+      "summary": "用 IMF 官方 3 分 45 秒英文视频理解 current account、surplus、deficit、capital flows 与 external adjustment，并练习区分身份关系和风险判断。",
+      "tags": [
+        "金融英语",
+        "IMF",
+        "全球失衡",
+        "经常账户",
+        "资本流动",
+        "汇率"
+      ],
+      "status": "curated",
+      "ownerViewpoint": false,
+      "sourceVerified": true,
+      "videoUrl": "https://www.imf.org/en/videos/view/5813166250001",
+      "duration": "视频 3 分 45 秒；建议练习 15 分钟",
+      "sources": [
+        {
+          "title": "IMF：Analyze This! Global Imbalances",
+          "url": "https://www.imf.org/en/videos/view/5813166250001"
+        }
+      ],
+      "body": "## 已核验材料\n\nIMF 官方视频页 “Analyze This! Global Imbalances” 标注发布于 2026 年 9 月 22 日、时长 3 分 45 秒，介绍国家储蓄与支出选择如何形成全球失衡，并影响增长、债务和金融稳定。\n\n页面没有提供可逐句核验的完整字幕，因此本条不复制或伪造逐字引文，也不编造时间戳；以下知识说明与表达根据国际收支框架整理。\n\n## 先懂知识，再听英语\n\n一个经济体的 current account 大致记录贸易、初次收入和转移收支。经常账户顺差意味着一国从国外获得的收入超过对外支出；逆差则相反。会计上，经常账户与资本和金融账户相对应：一个国家若持续支出超过收入，就需要吸收国外资金；储蓄超过国内投资的经济体则向外输出资本。\n\n因此，surplus country 与 deficit country 不是彼此独立的故事。全球加总后，一方的净借出对应另一方的净借入。失衡本身也不是自动的道德结论：快速增长的经济体可能因高回报投资而合理吸收资本，人口老龄化或资源出口国也可能合理积累海外资产。\n\n问题在于失衡的来源、规模和融资结构。如果逆差由生产率提升和可持续投资驱动，未来收入可能覆盖负债；如果由房地产泡沫、短期外币债务或消费过度驱动，资本突然撤出时更脆弱。顺差也可能反映竞争力和高储蓄，但也可能来自国内需求不足、社会保障不充分或汇率与政策扭曲。\n\nExternal adjustment 可以通过汇率、需求、价格与收入变化完成。货币贬值可能改善出口竞争力，但若进口能源昂贵或企业有大量外币债务，也会带来通胀和资产负债表压力。不能把 “a weaker currency improves the trade balance” 当成无条件规律。\n\n## 关键词\n\n- global imbalances — 全球失衡\n- current account — 经常账户\n- trade balance — 贸易差额\n- current-account surplus — 经常账户顺差\n- current-account deficit — 经常账户逆差\n- national saving — 国民储蓄\n- domestic investment — 国内投资\n- capital inflows — 资本流入\n- net lender / net borrower — 净贷出方 / 净借入方\n- external financing — 外部融资\n- foreign-currency debt — 外币债务\n- sudden stop — 资本流入突然停止\n- exchange-rate adjustment — 汇率调整\n- domestic demand — 国内需求\n- external vulnerability — 外部脆弱性\n- balance-sheet effect — 资产负债表效应\n\n## 地道表达\n\n以下句子根据国际收支逻辑改写，用于输出练习，不冒充视频逐字引文。\n\n> A current-account deficit must be financed by capital inflows or a drawdown of external assets.\n\n> One country's surplus is mirrored by deficits elsewhere in the global system.\n\n> The sustainability of an imbalance depends on what the borrowed funds are used for.\n\n> Exchange-rate adjustment can improve competitiveness while worsening foreign-currency debt burdens.\n\n## 三步练习\n\n1. 第一遍只记录视频怎样描述 saver、spender 和世界经济之间的关系。\n2. 第二遍用英文解释 saving minus investment 与 current account 的关系。\n3. 第三遍分别给出一种“可持续逆差”和“脆弱逆差”的例子，并说明融资结构。\n\n## 输出练习\n\n用 90 秒英文回答：\n\n“When does a current-account deficit become an external vulnerability rather than a normal part of capital allocation?”\n\n回答时至少使用 current account、capital inflows、foreign-currency debt、sudden stop、external adjustment 五个词。本条不记录或声称你已经完成学习。"
+    },
+    {
+      "id": "weekly-2026-10-27-real-state-of-l2s",
+      "kind": "weekly",
+      "title": "本周 Crypto 英语精听：L2 真的继承了 Ethereum 安全性吗？",
+      "category": "Crypto 英语",
+      "date": "2026-10-27",
+      "summary": "用 Ethereum Foundation 收录的 Devcon 25 分 30 秒主题演讲与分段文字稿，精听 proof system、security council、data availability、permissionless exit 与 Stage 2。",
+      "tags": [
+        "金融英语",
+        "Crypto",
+        "Ethereum",
+        "Layer 2",
+        "Rollup",
+        "安全"
+      ],
+      "status": "curated",
+      "ownerViewpoint": false,
+      "sourceVerified": true,
+      "videoUrl": "https://www.youtube.com/watch?v=ik2JxmHDmyw",
+      "duration": "25 分 30 秒",
+      "sources": [
+        {
+          "title": "ethereum.org：Keynote — the REAL state of L2s（含分段 transcript）",
+          "url": "https://ethereum.org/videos/real-state-of-l2s-bartek-kiepuszewski/"
+        },
+        {
+          "title": "Ethereum Foundation Devcon Archive：The REAL state of L2s",
+          "url": "https://archive.devcon.org/"
+        }
+      ],
+      "body": "## 已核验材料\n\nethereum.org 收录 Bartek Kiepuszewski（L2BEAT 创始人）在 Devcon SEA 的英文主题演讲 “the REAL state of L2s”，发布日期为 2024 年 11 月 13 日，并提供由 Ethereum Foundation 原视频字幕整理的分段文字稿。Devcon 官方档案将该演讲标为 25 分 30 秒；原视频链接为 Ethereum Foundation 发布的 YouTube 视频。\n\n这是一位生态研究者在 2024 年提出的判断与分类倡议，不代表所有 L2 的当前状态，也不能替代对 2026 年具体协议配置的实时核查。\n\n## 听前知识：安全继承不是一句标签\n\nRollup 的核心承诺，是把交易执行移到 L2，同时把验证或争议解决锚定在 Ethereum。这个承诺能否成立，要看 proof system 是否实际运行、谁能提交或挑战状态、数据是否可用、升级权限由谁控制，以及用户在运营者停机时能否 permissionlessly exit。\n\n多签钱包不是自动的去中心化。若签名人来自同一公司、司法辖区或控制链条，表面上的 m-of-n 仍可能形成共同故障点。Security council 的价值在于成员规模、门槛、公开身份、地理和组织分散，以及紧急权限受到明确约束。\n\nData availability 决定用户或验证者能否取得重建状态所需的数据。即使执行结果看似正确，若数据只保存在一个运营者控制的服务器上，用户也可能无法独立验证或退出。因此，“有 L2 品牌”“有 multisig”“有 DA committee”都不是充分证据。\n\nL2BEAT 的 Stage 框架试图区分成熟度。演讲认为 Stage 0 系统仍高度依赖许可运营者，Stage 1 增加可工作的 proof system 和退出保障，Stage 2 才尽量移除日常人为覆盖。具体项目评级会随升级、权限和代码变化，不能把演讲中的 2024 年名单永久沿用。\n\n## 精听片段\n\n### 0:00–4:30：增长、责任与 training wheels\n\n抓取讲者如何先承认扩容和 TVL 成果，再用 “with growth comes responsibility” 转向安全批评。注意 training wheels 和 emperor's new clothes syndrome 的比喻，它们表达的是“临时中心化安排不能无限期合理化”。\n\n### 4:30–8:40：proof systems、security councils 与 DA\n\n区分三类问题：没有实际 proof system；多签不满足公开、分散的 security council 标准；外部数据可用性安排带来额外 trust assumptions。听讲者如何从技术组件推导资金可被 steal、freeze 或阻止退出的路径。\n\n### 8:40–13:10：为什么 proof system 改变攻击成本\n\n重点听 permissionless exit、escape hatch、malicious proposer、minority 与 majority。讲者的核心逻辑不是“有证明就绝对安全”，而是证明系统可以减少对运营者善意的依赖，并改变攻击者需要控制的角色与门槛。\n\n### 13:10–18:45：重新分类与激励\n\n记录 proposed reclassification、Stage 0、alt-DA 和 others 三类。注意讲者是在提出分类建议，不是在宣布协议规则；他的工具是透明度和 social pressure，而不是链上强制。\n\n### 18:45–25:30：问答与边界\n\n重点听 centralized sequencer 与 user-fund security 的区别：排序权中心化会影响实时 censorship resistance，但若有可工作的退出与证明机制，不一定等同于资金可被直接盗取。再听 TEE、Stage 2 和项目为何迟迟不升级的回答。\n\n## 关键词\n\n- rollup — 汇总链 / Rollup\n- inherit Ethereum security — 继承 Ethereum 安全性\n- proof system — 证明系统\n- malicious proposer — 恶意状态提议者\n- security council — 安全委员会\n- multisig — 多签\n- data availability (DA) — 数据可用性\n- trust assumption — 信任假设\n- permissionless exit — 无许可退出\n- escape hatch — 紧急退出机制\n- sequencer — 排序器\n- censorship resistance — 抗审查性\n- state root — 状态根\n- Stage 0 / Stage 1 / Stage 2 — L2 成熟度阶段\n- training wheels — “辅助轮”；临时安全依赖\n- social pressure — 社会层压力\n- sound and complete — 健全且完备\n\n## 地道表达\n\n以下前三句根据演讲逻辑整理，最后一句用于反方检查；均不冒充未核验的逐字引文。\n\n> Users assume that rollups inherit Ethereum's security, so the trust assumptions must be made explicit.\n\n> A proof system can provide a permissionless exit when the operator goes offline.\n\n> A multisig is only as decentralized as the people, organizations, and jurisdictions behind it.\n\n> Sequencer decentralization matters for censorship resistance, but it is not the only determinant of fund safety.\n\n## 三遍精听\n\n1. 第一遍不停顿：写下讲者认为 L2 已经做对的两件事，以及最严重的三个缺口。\n2. 第二遍配合 transcript：做一张五列表，分别记录 proof system、proposer、challenger、upgrade key、data availability。\n3. 第三遍做反方论证：选一个具体 L2，用 2026 年最新官方配置核对演讲中的框架是否仍适用，并标出哪些结论已过时或缺证据。\n\n## 输出练习\n\n用 2 分钟英文回答：\n\n“When can an L2 reasonably claim to inherit Ethereum's security?”\n\n回答时至少使用 proof system、permissionless exit、security council、data availability、trust assumption、censorship resistance 六个词。本条不记录或声称你已经完成精听。"
+    },
     {
       "id": "briefing-2026-10-26",
       "kind": "briefing",
