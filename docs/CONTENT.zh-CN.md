@@ -61,3 +61,7 @@
 6. 查看 Git diff，确认没有私人或未审核资料，再提交、推送、部署。
 
 云端定时任务只自动发布 curated 学习材料、事实简报与候选选题，不能自动发布个人观点。更新流程见 CLOUD-UPDATES.zh-CN.md。修改状态文字不能替代真实审核。
+
+## 用户授权展示的研究框架
+
+2026-10-28 用户明确要求公开导入第一批指数与产业链研究初稿。此次例外只适用于 src/index-research.json 的 research-outline 专题结构，ownerApproved 必须为 false，前台明确显示未审核。它独立于 content/public 的正式内容流水线，不能用 demo 或 approved 冒充，也不放宽自动任务的发布权限。无核验数据保持待核验，后续公司档案、产业链环节和原始资料逐项补齐。

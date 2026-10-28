@@ -6,6 +6,7 @@ import { CONTENT_URL, validateSnapshot } from './public-content';
 import { indices } from './market';
 import { filterEntries, pageFor, parseRoute, routeUrl } from './routes';
 import Header, { navigation } from './components/Header';
+import IndexResearch from './components/IndexResearch';
 import Cards from './components/Cards';
 import LearningTimeline from './components/LearningTimeline';
 import ResearchPage from './components/Research';
@@ -55,7 +56,7 @@ function Portfolio({ entries }) {
   const research = entries.filter(x=>x.kind === 'research');
   return <section className="container section">{heading('精选作品', '作品集与成长记录', '展示研究成果、AI 项目实践，以及持续积累的能力。')}<div className="portfolio-feature"><span className="eyebrow blue">项目展示 · 持续开发中</span><h2>Linna Research Lab</h2><p>通过 AI 辅助构建的个人研究与学习网站，涵盖产品规划、内容组织、功能迭代和技术验证。</p><div className="pills"><span>AI 辅助构建</span><span>产品思考</span><span>金融研究</span><span>英文沟通</span></div><p className="fine">职业经历与项目成果会在确认后补充，不将演示内容当作真实成果。</p></div><section className="top-gap" aria-label="品牌方法实验室项目"><div className="portfolio-feature"><span className="eyebrow blue">网站项目 · 品牌研究</span><h2>品牌方法实验室</h2><p>围绕华与华的公开品牌方法，整理战略、超级符号与品牌资产的研究框架，结合案例拆解、咨询流程与互动练习，探索品牌方法如何应用。</p><div className="pills"><span>品牌策略</span><span>案例研究</span><span>互动工具</span></div><p className="fine">独立学习与研究项目，非华与华官方网站。</p><a className="primary" href="https://henghenglin.github.io/brand-method-lab/" target="_blank" rel="noopener noreferrer">访问品牌方法实验室 <ExternalLink size={17}/></a></div></section><div className="top-gap"><Latest research={research} title="研究展示"/></div><div className="empty-panel top-gap"><Lightbulb size={24}/><h3>职业与项目时间线</h3><p>后续记录角色、职责、项目成果与学习到的能力。只发布经确认且不涉及保密信息的内容。</p></div></section>;
 }
-const components = { home: Home, research: Research, markets: Markets, english: English, trading: Trading, portfolio: Portfolio };
+const components = { home: Home, 'index-research': IndexResearch, research: Research, markets: Markets, english: English, trading: Trading, portfolio: Portfolio };
 function App() {
   const [entries, setEntries] = useState(initialEntries);
   const [sync, setSync] = useState({ state: 'loading', updatedAt: null });
@@ -84,12 +85,12 @@ function App() {
   const entry = route.id ? entries.find(x => x.id === route.id && pageFor(x.kind) === route.page) : null;
   const Page = components[route.page];
   useEffect(() => {
-    const title = route.id ? entry?.title || '内容未找到' : navigation.find(([id]) => id === route.page)?.[1] || '页面未找到';
+    const title = route.id ? (route.page === 'index-research' ? '指数与产业链研究' : entry?.title) || '内容未找到' : navigation.find(([id]) => id === route.page)?.[1] || '页面未找到';
     document.title = `${title} | Linna 研究实验室`;
     document.querySelector('meta[name="description"]').content = entry?.summary || 'Linna 的投资研究、全球市场观察、金融英语与 AI 项目实践。';
     window.scrollTo(0, 0);
     document.querySelector('main h1')?.focus({ preventScroll: true });
   }, [route.page, route.id, entry?.title, entry?.summary]);
-  return <><Header page={route.page}/><main id="main-content">{route.id && entry ? <Article entry={entry}/> : route.id || !Page ? <section className="container section">{heading('页面未找到', '这条内容暂不可用', '请返回首页，或从研究与英语实验室中选择内容。')}<a className="primary" href={routeUrl('home')}>返回首页</a></section> : <Page key={route.page} entries={entries}/>}</main><footer><div className="container footer-inner"><div><strong>LINNA 研究实验室</strong><p>独立思考，持续学习。</p></div><div><span>以好奇心与 AI 构建</span><p>仅供学习交流 · © {new Date().getFullYear()}</p><p role="status">{sync.state === 'loading' ? '正在同步云端内容…' : sync.state === 'stale' ? '云端同步暂不可用，当前显示已有内容。' : `云端内容已同步 · ${new Intl.DateTimeFormat('zh-CN', { timeZone: 'Asia/Shanghai', dateStyle: 'short', timeStyle: 'short' }).format(new Date(sync.updatedAt))}（北京时间）`}</p></div></div></footer></>;
+  return <><Header page={route.page}/><main id="main-content">{route.page === 'index-research' ? <IndexResearch topicId={route.id}/> : route.id && entry ? <Article entry={entry}/> : route.id || !Page ? <section className="container section">{heading('页面未找到', '这条内容暂不可用', '请返回首页，或从研究与英语实验室中选择内容。')}<a className="primary" href={routeUrl('home')}>返回首页</a></section> : <Page key={route.page} entries={entries}/>}</main><footer><div className="container footer-inner"><div><strong>LINNA 研究实验室</strong><p>独立思考，持续学习。</p></div><div><span>以好奇心与 AI 构建</span><p>仅供学习交流 · © {new Date().getFullYear()}</p><p role="status">{sync.state === 'loading' ? '正在同步云端内容…' : sync.state === 'stale' ? '云端同步暂不可用，当前显示已有内容。' : `云端内容已同步 · ${new Intl.DateTimeFormat('zh-CN', { timeZone: 'Asia/Shanghai', dateStyle: 'short', timeStyle: 'short' }).format(new Date(sync.updatedAt))}（北京时间）`}</p></div></div></footer></>;
 }
 createRoot(document.getElementById('root')).render(<App/>);
