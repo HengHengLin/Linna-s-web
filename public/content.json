@@ -1,7 +1,74 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-27T23:04:00+08:00",
+  "updatedAt": "2026-10-28T09:03:00+08:00",
   "entries": [
+    {
+      "id": "briefing-2026-10-28",
+      "kind": "briefing",
+      "title": "今日事实简报：中国工业利润、Boeing 季报与 USDC 储备披露",
+      "category": "每日财经简报",
+      "date": "2026-10-28",
+      "summary": "基于国家统计局、Boeing 与 Circle 的正式材料，核对中国规模以上工业企业利润与回款分化、Boeing 第三季度盈利和现金流边界，以及 USDC 储备结构披露。",
+      "tags": [
+        "宏观",
+        "中国",
+        "工业企业利润",
+        "Boeing",
+        "航空航天",
+        "现金流",
+        "Crypto",
+        "USDC",
+        "稳定币"
+      ],
+      "status": "curated",
+      "ownerViewpoint": false,
+      "sourceVerified": true,
+      "updatedAt": "2026-10-28T09:03:00+08:00",
+      "sources": [
+        {
+          "title": "国家统计局：2026年1—9月份全国规模以上工业企业利润增长15.5%",
+          "url": "https://www.stats.gov.cn/xxgk/sjfb/zxfb2020/202610/t20261027_1965697.html"
+        },
+        {
+          "title": "Boeing：Third Quarter 2026 Results",
+          "url": "https://investors.boeing.com/investors/news/press-release-details/2026/Boeing-Reports-Third-Quarter-Results/default.aspx"
+        },
+        {
+          "title": "Circle：USDC Transparency & Stability",
+          "url": "https://www.circle.com/transparency"
+        }
+      ],
+      "body": "## 更新时间\n\n北京时间 2026 年 10 月 28 日 09:03。以下仅摘要已发布事实，不包含实时价格、买卖建议或 Linna 的个人观点。\n\n## 宏观：中国规模以上工业企业利润回升，但行业分化和回款压力仍需拆开看\n\n国家统计局于 2026 年 10 月 27 日发布数据：2026 年 1—9 月，全国规模以上工业企业实现利润总额 60,337.4 亿元，同比增长 15.5%；9 月单月利润同比增长 14.4%。同期制造业利润增长 17.0%，采矿业增长 38.2%，电力、热力、燃气及水生产和供应业下降 14.3%。\n\n行业分化明显：计算机、通信和其他电子设备制造业利润同比增长 103.8%，汽车制造业下降 22.8%。1—9 月规模以上工业企业营业收入 106.21 万亿元，同比增长 6.6%；营业收入利润率为 5.68%，同比提高 0.44 个百分点。应收账款增长 10.0%，产成品存货增长 11.6%，平均回收期延长 1.3 天至 71.6 天。\n\n解释边界：该统计覆盖“规模以上工业企业”，不是所有企业，也不是 GDP 或全市场上市公司盈利；累计利润按可比口径计算，可能受价格、基数、企业范围调整和行业结构影响。利润改善与应收账款、库存上升可以同时发生，现金回收和终端需求仍需结合 PPI、工业增加值、出口及现金流数据核验。\n\n## 股票：Boeing 收入与现金流改善，但商用飞机分部仍亏损\n\nBoeing 于 2026 年 10 月 27 日公布第三季度结果：收入 241.88 亿美元，上年同期为 232.70 亿美元，同比增长 4%；GAAP 营业利润为 3.54 亿美元，上年同期亏损 47.81 亿美元；营业利润率从 -20.5% 改善至 1.5%。公司仍录得 1.16 亿美元净亏损，GAAP 摊薄每股亏损 0.26 美元。\n\n经营现金流为 14.96 亿美元，同比增长 33%；公司披露的非 GAAP 自由现金流为 5 亿美元。总 backlog 达 7,450 亿美元，其中商用飞机 backlog 为 6,120 亿美元、超过 6,300 架飞机。商用飞机分部收入 107 亿美元，交付 161 架，营业利润率仍为 -6.5%。公司还称 737-7 与 737-10 获得修订型号认证，美国海军选择 Boeing 承担 F/A-XX 项目。\n\n口径边界：backlog 不是已确认收入或现金，也不保证按原价格、交付时间和利润率实现；自由现金流是管理层使用的非 GAAP 指标。公司关于 737 月产量 47 架、787 月产量 8 架及 777X 首次交付在 2027 年的表述属于计划或前瞻信息。同比改善还受到上年 777X 相关费用等低基数影响，不能仅凭集团营业利润转正判断商用飞机业务已恢复正常盈利。\n\n## Crypto：Circle 更新 USDC 储备结构披露，但“有储备”不等于没有兑付和运营风险\n\nCircle 的 USDC Transparency 页面当前标注数据截至 2026 年 10 月 26 日。页面列出的储备资产类别包括银行存款、systemically important institutions 的存款、隔夜美国国债逆回购和期限少于三个月的美国国债。Circle 表示储备与公司运营资金分开持有，并进行周度储备披露和由大型会计师事务所出具的月度鉴证。\n\n本条不记录动态页面中无法稳定读回的实时发行量或储备数值，也不把发行人披露写成独立监管审计。储备资产构成回答的是“支持代币的资产是什么”，并不单独回答托管银行集中度、极端赎回时的变现速度、运营连续性、法律隔离效果、制裁与地址冻结、交易平台流动性等问题。\n\n解释边界：USDC 的一级赎回取决于发行人的资格要求、流程和银行通道；二级市场价格还受市场深度与交易对手影响。短久期国债和隔夜逆回购通常降低久期风险，但不能消除银行、流动性、操作、合规和法律风险。"
+    },
+    {
+      "id": "lesson-2026-10-28-emerging-markets-global-rates",
+      "kind": "lesson",
+      "title": "今日金融英语：全球利率上升，为什么新兴市场会同时承受汇率、资本流动与债务压力？",
+      "category": "金融市场英语",
+      "date": "2026-10-28",
+      "summary": "用 IMF 官方 2 分 52 秒英文视频理解 global financial conditions、capital outflows、currency depreciation、rollover risk 与 policy trade-off。",
+      "tags": [
+        "金融英语",
+        "IMF",
+        "新兴市场",
+        "全球利率",
+        "资本流动",
+        "汇率",
+        "外币债务"
+      ],
+      "status": "curated",
+      "ownerViewpoint": false,
+      "sourceVerified": true,
+      "videoUrl": "https://www.imf.org/en/videos/view/6332426360112",
+      "duration": "视频 2 分 52 秒；建议练习 15 分钟",
+      "sources": [
+        {
+          "title": "IMF：Impact of Interest Rates on Emerging Markets | Analyze This!",
+          "url": "https://www.imf.org/en/videos/view/6332426360112"
+        }
+      ],
+      "body": "## 已核验材料\n\nIMF 官方视频页 “Impact of Interest Rates on Emerging Markets | Analyze This!” 标注发布于 2023 年 8 月 4 日、时长 2 分 52 秒，主题是全球利率上升怎样影响新兴市场。\n\n页面没有提供可逐句核验的完整字幕，因此本条不复制或伪造逐字引文，也不编造时间戳；以下知识说明与表达根据国际金融传导机制整理。\n\n## 先懂知识，再听英语\n\n当美国等主要经济体加息时，global financial conditions 往往收紧。更高的无风险利率会提高全球资产的折现率，也可能使投资者要求新兴市场提供更高的 risk premium。资本并非机械地全部流出，但边际资金会重新比较美元资产和新兴市场资产的风险调整后回报。\n\n若 capital outflows 加快，本币可能贬值。贬值可以提高出口竞争力，却也会推高进口能源和中间品价格，并通过 exchange-rate pass-through 影响通胀。持有大量 foreign-currency debt 的政府和企业，还会发现同一笔美元债务换算成本币后更重。\n\n外部融资成本上升会扩大 sovereign spreads 和公司融资利差，并增加 rollover risk：即到期债务无法以可接受的价格续借。新兴市场央行于是面临 policy trade-off——提高利率可能稳定通胀预期、减轻汇率压力，却会压低国内需求并加重借款人负担。\n\n新兴市场并不是同一类资产。经常账户状况、外汇储备、外币债务比例、通胀可信度、本币债券市场深度和国内投资者基础，都会改变冲击大小。reserve buffer 较充足、宏观政策可信、债务期限较长的经济体，通常更能承受外部再定价；但储备不是无限的，也不能替代结构改革。\n\n## 关键词\n\n- global financial conditions — 全球金融条件\n- capital outflows — 资本流出\n- risk premium — 风险溢价\n- sovereign spread — 主权债利差\n- currency depreciation — 货币贬值\n- exchange-rate pass-through — 汇率传导\n- foreign-currency debt — 外币债务\n- debt-service burden — 偿债负担\n- rollover risk — 再融资风险\n- reserve buffer — 外汇储备缓冲\n- external vulnerability — 外部脆弱性\n- sudden stop — 资本流入突然停止\n- policy trade-off — 政策权衡\n- local-currency bond market — 本币债券市场\n\n## 地道表达\n\n以下句子根据宏观金融机制改写，用于输出练习，不冒充视频逐字引文。\n\n> Higher global rates can tighten financial conditions well beyond the economies that raise them.\n\n> Currency depreciation can support exports while increasing the local-currency burden of dollar debt.\n\n> Countries with stronger reserve buffers and deeper local bond markets tend to be more resilient.\n\n> The central bank must weigh inflation and currency stability against domestic growth.\n\n## 三步练习\n\n1. 第一遍只记下视频提到的三条传导渠道，不暂停查词。\n2. 第二遍按“全球利率—资本流动—汇率—债务—央行反应”画出因果链，并标出哪些环节不是必然发生。\n3. 第三遍选两个新兴经济体，用 current account、FX reserves、foreign-currency debt 和 inflation credibility 四个维度解释为什么冲击可能不同。\n\n## 输出练习\n\n用 90 秒英文回答：\n\n“How do higher global interest rates affect an emerging market, and what makes one country more resilient than another?”\n\n回答时至少使用 global financial conditions、capital outflows、currency depreciation、rollover risk、reserve buffer、policy trade-off 六个词。本条不记录或声称你已经完成学习。"
+    },
     {
       "id": "briefing-2026-10-27",
       "kind": "briefing",
