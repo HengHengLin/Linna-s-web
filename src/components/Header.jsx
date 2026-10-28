@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { Menu, X } from 'lucide-react';
 import { routeUrl } from '../routes';
-export const navigation = [['home', '首页'], ['index-research', '指数与产业链研究'], ['research', '研究'], ['markets', '市场与简报'], ['english', '英语实验室'], ['trading', '交易日志'], ['portfolio', '作品集']];
+export const navigation = [['home', '首页'], ['index-research', '指数与产业链研究'], ['knowledge', '研究知识网络'], ['perspectives', '观点库'], ['research', '研究'], ['markets', '市场与简报'], ['english', '英语实验室'], ['trading', '交易日志'], ['portfolio', '作品集']];
 export default function Header({ page }) {
   const [menu, setMenu] = useState(false);
   useEffect(() => { const close = () => setMenu(false); window.addEventListener('hashchange', close); return () => window.removeEventListener('hashchange', close); }, []);

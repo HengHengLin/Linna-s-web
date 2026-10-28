@@ -1,0 +1,1732 @@
+[
+  {
+    "id": "688981.SH",
+    "name": "中芯国际",
+    "stockCode": "688981.SH",
+    "exchange": "SSE",
+    "status": "candidate",
+    "ownerApproved": false,
+    "importedAt": "2026-10-28",
+    "verifiedAt": null,
+    "inputSource": "用户在本聊天提供的第一批（3/3）候选清单；代码、产业角色与研究问题尚未独立核验。",
+    "chains": [
+      {
+        "id": "semiconductor",
+        "stage": "半导体晶圆代工",
+        "status": "candidate",
+        "evidence": []
+      }
+    ],
+    "products": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "businessModel": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "indices": [
+      {
+        "id": "star50",
+        "relationship": "research-sample",
+        "membershipVerified": false,
+        "weight": null,
+        "asOf": null,
+        "evidence": []
+      }
+    ],
+    "controllingShareholder": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "actualController": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "ownershipType": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "competitivePosition": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "marketShare": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "customers": [],
+    "suppliers": [],
+    "researchQuestions": [
+      "产能利用率",
+      "先进制程",
+      "折旧"
+    ],
+    "growthDrivers": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "risks": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "verificationMetrics": [
+      "产能利用率",
+      "先进制程",
+      "折旧"
+    ],
+    "advantages": {
+      "technology": {
+        "value": null,
+        "status": "unverified",
+        "evidence": []
+      },
+      "marketPosition": {
+        "value": null,
+        "status": "unverified",
+        "evidence": []
+      },
+      "profitability": {
+        "value": null,
+        "status": "unverified",
+        "evidence": []
+      },
+      "investmentValue": {
+        "value": null,
+        "status": "unverified",
+        "evidence": []
+      }
+    },
+    "researchLinks": [
+      {
+        "topicId": "star50",
+        "relationship": "site-extension"
+      }
+    ],
+    "viewpointLinks": [],
+    "sources": []
+  },
+  {
+    "id": "688012.SH",
+    "name": "中微公司",
+    "stockCode": "688012.SH",
+    "exchange": "SSE",
+    "status": "candidate",
+    "ownerApproved": false,
+    "importedAt": "2026-10-28",
+    "verifiedAt": null,
+    "inputSource": "用户在本聊天提供的第一批（3/3）候选清单；代码、产业角色与研究问题尚未独立核验。",
+    "chains": [
+      {
+        "id": "semiconductor",
+        "stage": "半导体设备",
+        "status": "candidate",
+        "evidence": []
+      }
+    ],
+    "products": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "businessModel": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "indices": [
+      {
+        "id": "star50",
+        "relationship": "research-sample",
+        "membershipVerified": false,
+        "weight": null,
+        "asOf": null,
+        "evidence": []
+      }
+    ],
+    "controllingShareholder": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "actualController": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "ownershipType": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "competitivePosition": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "marketShare": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "customers": [],
+    "suppliers": [],
+    "researchQuestions": [
+      "产品竞争力",
+      "订单",
+      "国产替代"
+    ],
+    "growthDrivers": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "risks": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "verificationMetrics": [
+      "产品竞争力",
+      "订单",
+      "国产替代"
+    ],
+    "advantages": {
+      "technology": {
+        "value": null,
+        "status": "unverified",
+        "evidence": []
+      },
+      "marketPosition": {
+        "value": null,
+        "status": "unverified",
+        "evidence": []
+      },
+      "profitability": {
+        "value": null,
+        "status": "unverified",
+        "evidence": []
+      },
+      "investmentValue": {
+        "value": null,
+        "status": "unverified",
+        "evidence": []
+      }
+    },
+    "researchLinks": [
+      {
+        "topicId": "star50",
+        "relationship": "site-extension"
+      }
+    ],
+    "viewpointLinks": [],
+    "sources": []
+  },
+  {
+    "id": "688008.SH",
+    "name": "澜起科技",
+    "stockCode": "688008.SH",
+    "exchange": "SSE",
+    "status": "candidate",
+    "ownerApproved": false,
+    "importedAt": "2026-10-28",
+    "verifiedAt": null,
+    "inputSource": "用户在本聊天提供的第一批（3/3）候选清单；代码、产业角色与研究问题尚未独立核验。",
+    "chains": [
+      {
+        "id": "semiconductor",
+        "stage": "服务器互连芯片",
+        "status": "candidate",
+        "evidence": []
+      }
+    ],
+    "products": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "businessModel": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "indices": [
+      {
+        "id": "star50",
+        "relationship": "research-sample",
+        "membershipVerified": false,
+        "weight": null,
+        "asOf": null,
+        "evidence": []
+      }
+    ],
+    "controllingShareholder": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "actualController": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "ownershipType": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "competitivePosition": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "marketShare": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "customers": [],
+    "suppliers": [],
+    "researchQuestions": [
+      "产品迭代",
+      "AI服务器需求"
+    ],
+    "growthDrivers": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "risks": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "verificationMetrics": [
+      "产品迭代",
+      "AI服务器需求"
+    ],
+    "advantages": {
+      "technology": {
+        "value": null,
+        "status": "unverified",
+        "evidence": []
+      },
+      "marketPosition": {
+        "value": null,
+        "status": "unverified",
+        "evidence": []
+      },
+      "profitability": {
+        "value": null,
+        "status": "unverified",
+        "evidence": []
+      },
+      "investmentValue": {
+        "value": null,
+        "status": "unverified",
+        "evidence": []
+      }
+    },
+    "researchLinks": [
+      {
+        "topicId": "star50",
+        "relationship": "site-extension"
+      }
+    ],
+    "viewpointLinks": [],
+    "sources": []
+  },
+  {
+    "id": "688256.SH",
+    "name": "寒武纪",
+    "stockCode": "688256.SH",
+    "exchange": "SSE",
+    "status": "candidate",
+    "ownerApproved": false,
+    "importedAt": "2026-10-28",
+    "verifiedAt": null,
+    "inputSource": "用户在本聊天提供的第一批（3/3）候选清单；代码、产业角色与研究问题尚未独立核验。",
+    "chains": [
+      {
+        "id": "semiconductor",
+        "stage": "AI加速芯片",
+        "status": "candidate",
+        "evidence": []
+      }
+    ],
+    "products": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "businessModel": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "indices": [
+      {
+        "id": "star50",
+        "relationship": "research-sample",
+        "membershipVerified": false,
+        "weight": null,
+        "asOf": null,
+        "evidence": []
+      }
+    ],
+    "controllingShareholder": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "actualController": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "ownershipType": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "competitivePosition": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "marketShare": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "customers": [],
+    "suppliers": [],
+    "researchQuestions": [
+      "软硬件生态",
+      "出货",
+      "盈利"
+    ],
+    "growthDrivers": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "risks": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "verificationMetrics": [
+      "软硬件生态",
+      "出货",
+      "盈利"
+    ],
+    "advantages": {
+      "technology": {
+        "value": null,
+        "status": "unverified",
+        "evidence": []
+      },
+      "marketPosition": {
+        "value": null,
+        "status": "unverified",
+        "evidence": []
+      },
+      "profitability": {
+        "value": null,
+        "status": "unverified",
+        "evidence": []
+      },
+      "investmentValue": {
+        "value": null,
+        "status": "unverified",
+        "evidence": []
+      }
+    },
+    "researchLinks": [
+      {
+        "topicId": "star50",
+        "relationship": "site-extension"
+      }
+    ],
+    "viewpointLinks": [],
+    "sources": []
+  },
+  {
+    "id": "688041.SH",
+    "name": "海光信息",
+    "stockCode": "688041.SH",
+    "exchange": "SSE",
+    "status": "candidate",
+    "ownerApproved": false,
+    "importedAt": "2026-10-28",
+    "verifiedAt": null,
+    "inputSource": "用户在本聊天提供的第一批（3/3）候选清单；代码、产业角色与研究问题尚未独立核验。",
+    "chains": [
+      {
+        "id": "semiconductor",
+        "stage": "CPU及加速计算",
+        "status": "candidate",
+        "evidence": []
+      }
+    ],
+    "products": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "businessModel": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "indices": [
+      {
+        "id": "star50",
+        "relationship": "research-sample",
+        "membershipVerified": false,
+        "weight": null,
+        "asOf": null,
+        "evidence": []
+      }
+    ],
+    "controllingShareholder": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "actualController": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "ownershipType": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "competitivePosition": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "marketShare": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "customers": [],
+    "suppliers": [],
+    "researchQuestions": [
+      "客户生态",
+      "产品性能",
+      "毛利率"
+    ],
+    "growthDrivers": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "risks": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "verificationMetrics": [
+      "客户生态",
+      "产品性能",
+      "毛利率"
+    ],
+    "advantages": {
+      "technology": {
+        "value": null,
+        "status": "unverified",
+        "evidence": []
+      },
+      "marketPosition": {
+        "value": null,
+        "status": "unverified",
+        "evidence": []
+      },
+      "profitability": {
+        "value": null,
+        "status": "unverified",
+        "evidence": []
+      },
+      "investmentValue": {
+        "value": null,
+        "status": "unverified",
+        "evidence": []
+      }
+    },
+    "researchLinks": [
+      {
+        "topicId": "star50",
+        "relationship": "site-extension"
+      }
+    ],
+    "viewpointLinks": [],
+    "sources": []
+  },
+  {
+    "id": "600519.SH",
+    "name": "贵州茅台",
+    "stockCode": "600519.SH",
+    "exchange": "SSE",
+    "status": "candidate",
+    "ownerApproved": false,
+    "importedAt": "2026-10-28",
+    "verifiedAt": null,
+    "inputSource": "用户在本聊天提供的第一批（3/3）候选清单；代码、产业角色与研究问题尚未独立核验。",
+    "chains": [
+      {
+        "id": "consumer",
+        "stage": "白酒品牌及销售",
+        "status": "candidate",
+        "evidence": []
+      }
+    ],
+    "products": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "businessModel": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "indices": [
+      {
+        "id": "sse50",
+        "relationship": "research-sample",
+        "membershipVerified": false,
+        "weight": null,
+        "asOf": null,
+        "evidence": []
+      }
+    ],
+    "controllingShareholder": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "actualController": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "ownershipType": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "competitivePosition": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "marketShare": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "customers": [],
+    "suppliers": [],
+    "researchQuestions": [
+      "渠道库存",
+      "批价",
+      "现金流"
+    ],
+    "growthDrivers": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "risks": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "verificationMetrics": [
+      "渠道库存",
+      "批价",
+      "现金流"
+    ],
+    "advantages": {
+      "technology": {
+        "value": null,
+        "status": "unverified",
+        "evidence": []
+      },
+      "marketPosition": {
+        "value": null,
+        "status": "unverified",
+        "evidence": []
+      },
+      "profitability": {
+        "value": null,
+        "status": "unverified",
+        "evidence": []
+      },
+      "investmentValue": {
+        "value": null,
+        "status": "unverified",
+        "evidence": []
+      }
+    },
+    "researchLinks": [
+      {
+        "topicId": "sse50",
+        "relationship": "site-extension"
+      }
+    ],
+    "viewpointLinks": [],
+    "sources": []
+  },
+  {
+    "id": "600036.SH",
+    "name": "招商银行",
+    "stockCode": "600036.SH",
+    "exchange": "SSE",
+    "status": "candidate",
+    "ownerApproved": false,
+    "importedAt": "2026-10-28",
+    "verifiedAt": null,
+    "inputSource": "用户在本聊天提供的第一批（3/3）候选清单；代码、产业角色与研究问题尚未独立核验。",
+    "chains": [
+      {
+        "id": "finance",
+        "stage": "商业银行",
+        "status": "candidate",
+        "evidence": []
+      }
+    ],
+    "products": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "businessModel": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "indices": [
+      {
+        "id": "sse50",
+        "relationship": "research-sample",
+        "membershipVerified": false,
+        "weight": null,
+        "asOf": null,
+        "evidence": []
+      }
+    ],
+    "controllingShareholder": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "actualController": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "ownershipType": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "competitivePosition": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "marketShare": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "customers": [],
+    "suppliers": [],
+    "researchQuestions": [
+      "净息差",
+      "资产质量",
+      "零售业务"
+    ],
+    "growthDrivers": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "risks": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "verificationMetrics": [
+      "净息差",
+      "资产质量",
+      "零售业务"
+    ],
+    "advantages": {
+      "technology": {
+        "value": null,
+        "status": "unverified",
+        "evidence": []
+      },
+      "marketPosition": {
+        "value": null,
+        "status": "unverified",
+        "evidence": []
+      },
+      "profitability": {
+        "value": null,
+        "status": "unverified",
+        "evidence": []
+      },
+      "investmentValue": {
+        "value": null,
+        "status": "unverified",
+        "evidence": []
+      }
+    },
+    "researchLinks": [
+      {
+        "topicId": "sse50",
+        "relationship": "site-extension"
+      }
+    ],
+    "viewpointLinks": [],
+    "sources": []
+  },
+  {
+    "id": "601899.SH",
+    "name": "紫金矿业",
+    "stockCode": "601899.SH",
+    "exchange": "SSE",
+    "status": "candidate",
+    "ownerApproved": false,
+    "importedAt": "2026-10-28",
+    "verifiedAt": null,
+    "inputSource": "用户在本聊天提供的第一批（3/3）候选清单；代码、产业角色与研究问题尚未独立核验。",
+    "chains": [
+      {
+        "id": "resources",
+        "stage": "铜金矿产资源",
+        "status": "candidate",
+        "evidence": []
+      }
+    ],
+    "products": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "businessModel": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "indices": [
+      {
+        "id": "sse50",
+        "relationship": "research-sample",
+        "membershipVerified": false,
+        "weight": null,
+        "asOf": null,
+        "evidence": []
+      }
+    ],
+    "controllingShareholder": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "actualController": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "ownershipType": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "competitivePosition": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "marketShare": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "customers": [],
+    "suppliers": [],
+    "researchQuestions": [
+      "矿山成本",
+      "扩产",
+      "商品周期"
+    ],
+    "growthDrivers": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "risks": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "verificationMetrics": [
+      "矿山成本",
+      "扩产",
+      "商品周期"
+    ],
+    "advantages": {
+      "technology": {
+        "value": null,
+        "status": "unverified",
+        "evidence": []
+      },
+      "marketPosition": {
+        "value": null,
+        "status": "unverified",
+        "evidence": []
+      },
+      "profitability": {
+        "value": null,
+        "status": "unverified",
+        "evidence": []
+      },
+      "investmentValue": {
+        "value": null,
+        "status": "unverified",
+        "evidence": []
+      }
+    },
+    "researchLinks": [
+      {
+        "topicId": "sse50",
+        "relationship": "site-extension"
+      }
+    ],
+    "viewpointLinks": [],
+    "sources": []
+  },
+  {
+    "id": "300750.SZ",
+    "name": "宁德时代",
+    "stockCode": "300750.SZ",
+    "exchange": "SZSE",
+    "status": "candidate",
+    "ownerApproved": false,
+    "importedAt": "2026-10-28",
+    "verifiedAt": null,
+    "inputSource": "用户在本聊天提供的第一批（3/3）候选清单；代码、产业角色与研究问题尚未独立核验。",
+    "chains": [
+      {
+        "id": "battery",
+        "stage": "动力电池及储能",
+        "status": "candidate",
+        "evidence": []
+      }
+    ],
+    "products": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "businessModel": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "indices": [
+      {
+        "id": "chinext",
+        "relationship": "research-sample",
+        "membershipVerified": false,
+        "weight": null,
+        "asOf": null,
+        "evidence": []
+      }
+    ],
+    "controllingShareholder": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "actualController": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "ownershipType": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "competitivePosition": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "marketShare": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "customers": [],
+    "suppliers": [],
+    "researchQuestions": [
+      "出货量",
+      "价格",
+      "技术路线"
+    ],
+    "growthDrivers": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "risks": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "verificationMetrics": [
+      "出货量",
+      "价格",
+      "技术路线"
+    ],
+    "advantages": {
+      "technology": {
+        "value": null,
+        "status": "unverified",
+        "evidence": []
+      },
+      "marketPosition": {
+        "value": null,
+        "status": "unverified",
+        "evidence": []
+      },
+      "profitability": {
+        "value": null,
+        "status": "unverified",
+        "evidence": []
+      },
+      "investmentValue": {
+        "value": null,
+        "status": "unverified",
+        "evidence": []
+      }
+    },
+    "researchLinks": [
+      {
+        "topicId": "chinext",
+        "relationship": "site-extension"
+      }
+    ],
+    "viewpointLinks": [],
+    "sources": []
+  },
+  {
+    "id": "300308.SZ",
+    "name": "中际旭创",
+    "stockCode": "300308.SZ",
+    "exchange": "SZSE",
+    "status": "candidate",
+    "ownerApproved": false,
+    "importedAt": "2026-10-28",
+    "verifiedAt": null,
+    "inputSource": "用户在本聊天提供的第一批（3/3）候选清单；代码、产业角色与研究问题尚未独立核验。",
+    "chains": [
+      {
+        "id": "optical",
+        "stage": "高速光模块",
+        "status": "candidate",
+        "evidence": []
+      }
+    ],
+    "products": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "businessModel": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "indices": [
+      {
+        "id": "chinext",
+        "relationship": "research-sample",
+        "membershipVerified": false,
+        "weight": null,
+        "asOf": null,
+        "evidence": []
+      }
+    ],
+    "controllingShareholder": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "actualController": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "ownershipType": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "competitivePosition": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "marketShare": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "customers": [],
+    "suppliers": [],
+    "researchQuestions": [
+      "AI需求",
+      "产品结构",
+      "客户集中度"
+    ],
+    "growthDrivers": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "risks": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "verificationMetrics": [
+      "AI需求",
+      "产品结构",
+      "客户集中度"
+    ],
+    "advantages": {
+      "technology": {
+        "value": null,
+        "status": "unverified",
+        "evidence": []
+      },
+      "marketPosition": {
+        "value": null,
+        "status": "unverified",
+        "evidence": []
+      },
+      "profitability": {
+        "value": null,
+        "status": "unverified",
+        "evidence": []
+      },
+      "investmentValue": {
+        "value": null,
+        "status": "unverified",
+        "evidence": []
+      }
+    },
+    "researchLinks": [
+      {
+        "topicId": "chinext",
+        "relationship": "site-extension"
+      }
+    ],
+    "viewpointLinks": [],
+    "sources": []
+  },
+  {
+    "id": "300502.SZ",
+    "name": "新易盛",
+    "stockCode": "300502.SZ",
+    "exchange": "SZSE",
+    "status": "candidate",
+    "ownerApproved": false,
+    "importedAt": "2026-10-28",
+    "verifiedAt": null,
+    "inputSource": "用户在本聊天提供的第一批（3/3）候选清单；代码、产业角色与研究问题尚未独立核验。",
+    "chains": [
+      {
+        "id": "optical",
+        "stage": "高速光模块",
+        "status": "candidate",
+        "evidence": []
+      }
+    ],
+    "products": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "businessModel": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "indices": [
+      {
+        "id": "chinext",
+        "relationship": "research-sample",
+        "membershipVerified": false,
+        "weight": null,
+        "asOf": null,
+        "evidence": []
+      }
+    ],
+    "controllingShareholder": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "actualController": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "ownershipType": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "competitivePosition": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "marketShare": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "customers": [],
+    "suppliers": [],
+    "researchQuestions": [
+      "800G/1.6T升级",
+      "竞争格局"
+    ],
+    "growthDrivers": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "risks": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "verificationMetrics": [
+      "800G/1.6T升级",
+      "竞争格局"
+    ],
+    "advantages": {
+      "technology": {
+        "value": null,
+        "status": "unverified",
+        "evidence": []
+      },
+      "marketPosition": {
+        "value": null,
+        "status": "unverified",
+        "evidence": []
+      },
+      "profitability": {
+        "value": null,
+        "status": "unverified",
+        "evidence": []
+      },
+      "investmentValue": {
+        "value": null,
+        "status": "unverified",
+        "evidence": []
+      }
+    },
+    "researchLinks": [
+      {
+        "topicId": "chinext",
+        "relationship": "site-extension"
+      }
+    ],
+    "viewpointLinks": [],
+    "sources": []
+  },
+  {
+    "id": "300394.SZ",
+    "name": "天孚通信",
+    "stockCode": "300394.SZ",
+    "exchange": "SZSE",
+    "status": "candidate",
+    "ownerApproved": false,
+    "importedAt": "2026-10-28",
+    "verifiedAt": null,
+    "inputSource": "用户在本聊天提供的第一批（3/3）候选清单；代码、产业角色与研究问题尚未独立核验。",
+    "chains": [
+      {
+        "id": "optical",
+        "stage": "光器件及光通信组件",
+        "status": "candidate",
+        "evidence": []
+      }
+    ],
+    "products": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "businessModel": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "indices": [
+      {
+        "id": "chinext",
+        "relationship": "research-sample",
+        "membershipVerified": false,
+        "weight": null,
+        "asOf": null,
+        "evidence": []
+      }
+    ],
+    "controllingShareholder": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "actualController": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "ownershipType": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "competitivePosition": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "marketShare": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "customers": [],
+    "suppliers": [],
+    "researchQuestions": [
+      "产品附加值",
+      "客户需求"
+    ],
+    "growthDrivers": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "risks": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "verificationMetrics": [
+      "产品附加值",
+      "客户需求"
+    ],
+    "advantages": {
+      "technology": {
+        "value": null,
+        "status": "unverified",
+        "evidence": []
+      },
+      "marketPosition": {
+        "value": null,
+        "status": "unverified",
+        "evidence": []
+      },
+      "profitability": {
+        "value": null,
+        "status": "unverified",
+        "evidence": []
+      },
+      "investmentValue": {
+        "value": null,
+        "status": "unverified",
+        "evidence": []
+      }
+    },
+    "researchLinks": [
+      {
+        "topicId": "chinext",
+        "relationship": "site-extension"
+      }
+    ],
+    "viewpointLinks": [],
+    "sources": []
+  },
+  {
+    "id": "300476.SZ",
+    "name": "胜宏科技",
+    "stockCode": "300476.SZ",
+    "exchange": "SZSE",
+    "status": "candidate",
+    "ownerApproved": false,
+    "importedAt": "2026-10-28",
+    "verifiedAt": null,
+    "inputSource": "用户在本聊天提供的第一批（3/3）候选清单；代码、产业角色与研究问题尚未独立核验。",
+    "chains": [
+      {
+        "id": "pcb",
+        "stage": "PCB制造",
+        "status": "candidate",
+        "evidence": []
+      }
+    ],
+    "products": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "businessModel": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "indices": [
+      {
+        "id": "chinext",
+        "relationship": "research-sample",
+        "membershipVerified": false,
+        "weight": null,
+        "asOf": null,
+        "evidence": []
+      }
+    ],
+    "controllingShareholder": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "actualController": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "ownershipType": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "competitivePosition": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "marketShare": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "customers": [],
+    "suppliers": [],
+    "researchQuestions": [
+      "高端PCB需求",
+      "产能",
+      "良率"
+    ],
+    "growthDrivers": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "risks": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "verificationMetrics": [
+      "高端PCB需求",
+      "产能",
+      "良率"
+    ],
+    "advantages": {
+      "technology": {
+        "value": null,
+        "status": "unverified",
+        "evidence": []
+      },
+      "marketPosition": {
+        "value": null,
+        "status": "unverified",
+        "evidence": []
+      },
+      "profitability": {
+        "value": null,
+        "status": "unverified",
+        "evidence": []
+      },
+      "investmentValue": {
+        "value": null,
+        "status": "unverified",
+        "evidence": []
+      }
+    },
+    "researchLinks": [
+      {
+        "topicId": "chinext",
+        "relationship": "site-extension"
+      }
+    ],
+    "viewpointLinks": [],
+    "sources": []
+  },
+  {
+    "id": "300274.SZ",
+    "name": "阳光电源",
+    "stockCode": "300274.SZ",
+    "exchange": "SZSE",
+    "status": "candidate",
+    "ownerApproved": false,
+    "importedAt": "2026-10-28",
+    "verifiedAt": null,
+    "inputSource": "用户在本聊天提供的第一批（3/3）候选清单；代码、产业角色与研究问题尚未独立核验。",
+    "chains": [
+      {
+        "id": "energy",
+        "stage": "光伏逆变器及储能",
+        "status": "candidate",
+        "evidence": []
+      }
+    ],
+    "products": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "businessModel": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "indices": [
+      {
+        "id": "chinext",
+        "relationship": "research-sample",
+        "membershipVerified": false,
+        "weight": null,
+        "asOf": null,
+        "evidence": []
+      }
+    ],
+    "controllingShareholder": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "actualController": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "ownershipType": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "competitivePosition": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "marketShare": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "customers": [],
+    "suppliers": [],
+    "researchQuestions": [
+      "海外需求",
+      "储能盈利"
+    ],
+    "growthDrivers": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "risks": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "verificationMetrics": [
+      "海外需求",
+      "储能盈利"
+    ],
+    "advantages": {
+      "technology": {
+        "value": null,
+        "status": "unverified",
+        "evidence": []
+      },
+      "marketPosition": {
+        "value": null,
+        "status": "unverified",
+        "evidence": []
+      },
+      "profitability": {
+        "value": null,
+        "status": "unverified",
+        "evidence": []
+      },
+      "investmentValue": {
+        "value": null,
+        "status": "unverified",
+        "evidence": []
+      }
+    },
+    "researchLinks": [
+      {
+        "topicId": "chinext",
+        "relationship": "site-extension"
+      }
+    ],
+    "viewpointLinks": [],
+    "sources": []
+  },
+  {
+    "id": "300059.SZ",
+    "name": "东方财富",
+    "stockCode": "300059.SZ",
+    "exchange": "SZSE",
+    "status": "candidate",
+    "ownerApproved": false,
+    "importedAt": "2026-10-28",
+    "verifiedAt": null,
+    "inputSource": "用户在本聊天提供的第一批（3/3）候选清单；代码、产业角色与研究问题尚未独立核验。",
+    "chains": [
+      {
+        "id": "finance",
+        "stage": "互联网证券服务",
+        "status": "candidate",
+        "evidence": []
+      }
+    ],
+    "products": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "businessModel": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "indices": [
+      {
+        "id": "chinext",
+        "relationship": "research-sample",
+        "membershipVerified": false,
+        "weight": null,
+        "asOf": null,
+        "evidence": []
+      }
+    ],
+    "controllingShareholder": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "actualController": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "ownershipType": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "competitivePosition": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "marketShare": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "customers": [],
+    "suppliers": [],
+    "researchQuestions": [
+      "市场成交量",
+      "客户资产"
+    ],
+    "growthDrivers": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "risks": {
+      "value": null,
+      "status": "unverified",
+      "evidence": []
+    },
+    "verificationMetrics": [
+      "市场成交量",
+      "客户资产"
+    ],
+    "advantages": {
+      "technology": {
+        "value": null,
+        "status": "unverified",
+        "evidence": []
+      },
+      "marketPosition": {
+        "value": null,
+        "status": "unverified",
+        "evidence": []
+      },
+      "profitability": {
+        "value": null,
+        "status": "unverified",
+        "evidence": []
+      },
+      "investmentValue": {
+        "value": null,
+        "status": "unverified",
+        "evidence": []
+      }
+    },
+    "researchLinks": [
+      {
+        "topicId": "chinext",
+        "relationship": "site-extension"
+      }
+    ],
+    "viewpointLinks": [],
+    "sources": []
+  }
+]

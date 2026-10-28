@@ -34,3 +34,9 @@ public/content.json 格式是 {"schemaVersion":1,"updatedAt":"含时区 ISO 时�
 ## 部署和代码更新
 
 在任何本地编辑、生成或部署前先 fetch/合并远程 main，避免覆盖云端新增文章。依赖保持 React/Vite；私人交易录入继续禁用。源码 GitHub 与 Sites 的部署源是不同远程，代码发布应同步两边。修改程序后运行测试和构建，按 Sites 原生工具保存版本与发布；纯内容更新只写 GitHub 数据。
+
+## 2026-10-28 发布链路排查补充
+
+当前用户指定的正式站为GitHub Pages（henghenglin.github.io/Linna-s-web/），前端实际发布源为GitHub远程main及pages.yml，不是旧Sites源码仓库。旧Sites站点身份与云端计划可以继续作为历史安排，但不能据此判断GitHub Pages前端版本。
+
+本地已准备同步诊断和CI路径修复，尚未获准生产发布；详见SYNC-AUDIT-2026-10-28.zh-CN.md。部署后纯content/public和public/content.json提交仅验证内容一致性，不整站构建；前端功能更新需在用户确认后移植到实际Pages源并构建部署。六批本地研究开发不得随同步修复整体推送。本文早期状态保留为历史记录，不能当作当前执行状态。

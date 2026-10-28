@@ -1,0 +1,3 @@
+import base from './candidates.json' with {type:'json'};
+import {aiCandidates} from '../../embodied/data.js';
+export const embodiedNewProfiles=aiCandidates.filter(c=>!base.some(b=>b.id===c.id)).map(c=>({...structuredClone(base[0]),id:c.id,stockCode:c.id,name:c.name,exchange:c.id.endsWith('.SH')?'SSE':c.id.endsWith('.SZ')?'SZSE':c.id.split('.').at(-1),chains:[{id:c.chain,stage:c.role,status:'candidate',evidence:[]}],indices:[],researchLinks:[],researchQuestions:['产品与交付','客户认证','良率与利润','现金流'],verificationMetrics:['可核验订单','毛利及现金流'],inputSource:'第五批研究候选，证券当前状态、业务与客户关系待独立核实',sources:[],aiResearch:c}));
