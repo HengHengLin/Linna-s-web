@@ -65,3 +65,11 @@
 ## 用户授权展示的研究框架
 
 2026-10-28 用户明确要求公开导入第一批指数与产业链研究初稿。此次例外只适用于 src/index-research.json 的 research-outline 专题结构，ownerApproved 必须为 false，前台明确显示未审核。它独立于 content/public 的正式内容流水线，不能用 demo 或 approved 冒充，也不放宽自动任务的发布权限。无核验数据保持待核验，后续公司档案、产业链环节和原始资料逐项补齐。
+
+## 站内研究 SVG
+
+支持独立段落格式：`![图表替代文本](/research/diagrams/star50.svg "可选图注")`。仅允许 diagrams.js 中登记的七张站内图表，路径不可包含协议、查询参数、目录穿越或外部地址。SVG 使用 img 隔离加载，不能内联 XML、HTML 或脚本。图表由仓库人工维护，新增文件必须检查 XML 仅含静态图形与文字，无脚本、事件、外链或 foreignObject。图注与放大功能统一由 Diagram 组件提供；图表不改变文章审核状态。
+
+## 第二批授权研究初稿
+
+用户授权本地制作的三篇指数分析初稿位于 content/outlines/，由固定模块导入专题页，明确未经 Linna 观点审核。它们不进入 content/public、不写 approved 字段，不扩大云端任务的发布权限。教学案例仅使用 SIM 虚构编号，真实数据接入仍须有原始来源与同口径日期。

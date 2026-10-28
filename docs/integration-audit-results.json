@@ -1,0 +1,434 @@
+{
+  "verification": "static component rendering, not browser interaction",
+  "productionMirrorTree": "d0622de40c25b499594d07af9caaa798c6414c14",
+  "baselineTestsRetained": 22,
+  "companies": 42,
+  "companyChainLinks": 42,
+  "perspectives": 2,
+  "researchers": 2,
+  "perspectiveCompanyLinks": 2,
+  "hypotheses": 1,
+  "canonicalSources": 1,
+  "pipelines": 2,
+  "unlinkedPipelines": [
+    "AK112"
+  ],
+  "contentCount": 56,
+  "updatedAt": "2026-10-28T14:09:00+08:00",
+  "rendered": [
+    {
+      "route": "index-research/",
+      "htmlBytes": 19804,
+      "inputs": 1,
+      "buttons": 8
+    },
+    {
+      "route": "index-research/star50",
+      "htmlBytes": 10170,
+      "inputs": 2,
+      "buttons": 2
+    },
+    {
+      "route": "index-research/sse50",
+      "htmlBytes": 9686,
+      "inputs": 2,
+      "buttons": 2
+    },
+    {
+      "route": "index-research/chinext",
+      "htmlBytes": 10801,
+      "inputs": 2,
+      "buttons": 2
+    },
+    {
+      "route": "index-research/article:a",
+      "htmlBytes": 3120,
+      "inputs": 0,
+      "buttons": 0
+    },
+    {
+      "route": "index-research/article:b",
+      "htmlBytes": 3115,
+      "inputs": 0,
+      "buttons": 0
+    },
+    {
+      "route": "index-research/article:c",
+      "htmlBytes": 3156,
+      "inputs": 0,
+      "buttons": 0
+    },
+    {
+      "route": "index-research/company:688981.SH",
+      "htmlBytes": 4325,
+      "inputs": 0,
+      "buttons": 0
+    },
+    {
+      "route": "index-research/company:688012.SH",
+      "htmlBytes": 4313,
+      "inputs": 0,
+      "buttons": 0
+    },
+    {
+      "route": "index-research/company:688008.SH",
+      "htmlBytes": 4285,
+      "inputs": 0,
+      "buttons": 0
+    },
+    {
+      "route": "index-research/company:688256.SH",
+      "htmlBytes": 4296,
+      "inputs": 0,
+      "buttons": 0
+    },
+    {
+      "route": "index-research/company:688041.SH",
+      "htmlBytes": 4319,
+      "inputs": 0,
+      "buttons": 0
+    },
+    {
+      "route": "index-research/company:600519.SH",
+      "htmlBytes": 4290,
+      "inputs": 0,
+      "buttons": 0
+    },
+    {
+      "route": "index-research/company:600036.SH",
+      "htmlBytes": 4276,
+      "inputs": 0,
+      "buttons": 0
+    },
+    {
+      "route": "index-research/company:601899.SH",
+      "htmlBytes": 4316,
+      "inputs": 0,
+      "buttons": 0
+    },
+    {
+      "route": "index-research/company:300750.SZ",
+      "htmlBytes": 4321,
+      "inputs": 0,
+      "buttons": 0
+    },
+    {
+      "route": "index-research/company:300308.SZ",
+      "htmlBytes": 4904,
+      "inputs": 0,
+      "buttons": 0
+    },
+    {
+      "route": "index-research/company:300502.SZ",
+      "htmlBytes": 4851,
+      "inputs": 0,
+      "buttons": 0
+    },
+    {
+      "route": "index-research/company:300394.SZ",
+      "htmlBytes": 4878,
+      "inputs": 0,
+      "buttons": 0
+    },
+    {
+      "route": "index-research/company:300476.SZ",
+      "htmlBytes": 4425,
+      "inputs": 0,
+      "buttons": 0
+    },
+    {
+      "route": "index-research/company:300274.SZ",
+      "htmlBytes": 4268,
+      "inputs": 0,
+      "buttons": 0
+    },
+    {
+      "route": "index-research/company:300059.SZ",
+      "htmlBytes": 4258,
+      "inputs": 0,
+      "buttons": 0
+    },
+    {
+      "route": "index-research/company:300699.SZ",
+      "htmlBytes": 4685,
+      "inputs": 0,
+      "buttons": 0
+    },
+    {
+      "route": "index-research/company:002179.SZ",
+      "htmlBytes": 4832,
+      "inputs": 0,
+      "buttons": 0
+    },
+    {
+      "route": "index-research/company:002025.SZ",
+      "htmlBytes": 4835,
+      "inputs": 0,
+      "buttons": 0
+    },
+    {
+      "route": "index-research/company:600879.SH",
+      "htmlBytes": 4670,
+      "inputs": 0,
+      "buttons": 0
+    },
+    {
+      "route": "index-research/company:600118.SH",
+      "htmlBytes": 4658,
+      "inputs": 0,
+      "buttons": 0
+    },
+    {
+      "route": "index-research/company:601698.SH",
+      "htmlBytes": 4820,
+      "inputs": 0,
+      "buttons": 0
+    },
+    {
+      "route": "index-research/company:002465.SZ",
+      "htmlBytes": 4829,
+      "inputs": 0,
+      "buttons": 0
+    },
+    {
+      "route": "index-research/company:688333.SH",
+      "htmlBytes": 4676,
+      "inputs": 0,
+      "buttons": 0
+    },
+    {
+      "route": "index-research/company:600276.SH",
+      "htmlBytes": 4638,
+      "inputs": 0,
+      "buttons": 0
+    },
+    {
+      "route": "index-research/company:688506.SH",
+      "htmlBytes": 6120,
+      "inputs": 0,
+      "buttons": 0
+    },
+    {
+      "route": "index-research/company:688331.SH",
+      "htmlBytes": 4638,
+      "inputs": 0,
+      "buttons": 0
+    },
+    {
+      "route": "index-research/company:688235.SH",
+      "htmlBytes": 4760,
+      "inputs": 0,
+      "buttons": 0
+    },
+    {
+      "route": "index-research/company:688266.SH",
+      "htmlBytes": 4638,
+      "inputs": 0,
+      "buttons": 0
+    },
+    {
+      "route": "index-research/company:688180.SH",
+      "htmlBytes": 4638,
+      "inputs": 0,
+      "buttons": 0
+    },
+    {
+      "route": "index-research/company:002281.SZ",
+      "htmlBytes": 4504,
+      "inputs": 0,
+      "buttons": 0
+    },
+    {
+      "route": "index-research/company:COHR.NYSE",
+      "htmlBytes": 4730,
+      "inputs": 0,
+      "buttons": 0
+    },
+    {
+      "route": "index-research/company:LITE.NASDAQ",
+      "htmlBytes": 4452,
+      "inputs": 0,
+      "buttons": 0
+    },
+    {
+      "route": "index-research/company:AAOI.NASDAQ",
+      "htmlBytes": 4488,
+      "inputs": 0,
+      "buttons": 0
+    },
+    {
+      "route": "index-research/company:000660.KRX",
+      "htmlBytes": 4383,
+      "inputs": 0,
+      "buttons": 0
+    },
+    {
+      "route": "index-research/company:MU.NASDAQ",
+      "htmlBytes": 4597,
+      "inputs": 0,
+      "buttons": 0
+    },
+    {
+      "route": "index-research/company:005930.KRX",
+      "htmlBytes": 4452,
+      "inputs": 0,
+      "buttons": 0
+    },
+    {
+      "route": "index-research/company:2330.TWSE",
+      "htmlBytes": 4696,
+      "inputs": 0,
+      "buttons": 0
+    },
+    {
+      "route": "index-research/company:688017.SH",
+      "htmlBytes": 4452,
+      "inputs": 0,
+      "buttons": 0
+    },
+    {
+      "route": "index-research/company:002472.SZ",
+      "htmlBytes": 4479,
+      "inputs": 0,
+      "buttons": 0
+    },
+    {
+      "route": "index-research/company:300124.SZ",
+      "htmlBytes": 4470,
+      "inputs": 0,
+      "buttons": 0
+    },
+    {
+      "route": "index-research/company:002050.SZ",
+      "htmlBytes": 4497,
+      "inputs": 0,
+      "buttons": 0
+    },
+    {
+      "route": "index-research/company:601689.SH",
+      "htmlBytes": 4479,
+      "inputs": 0,
+      "buttons": 0
+    },
+    {
+      "route": "index-research/chain:memory",
+      "htmlBytes": 2058,
+      "inputs": 1,
+      "buttons": 0
+    },
+    {
+      "route": "index-research/chain:packaging",
+      "htmlBytes": 1487,
+      "inputs": 1,
+      "buttons": 0
+    },
+    {
+      "route": "index-research/chain:robotics",
+      "htmlBytes": 2689,
+      "inputs": 1,
+      "buttons": 0
+    },
+    {
+      "route": "index-research/chain:biopharma",
+      "htmlBytes": 2962,
+      "inputs": 1,
+      "buttons": 0
+    },
+    {
+      "route": "index-research/chain:aerospace",
+      "htmlBytes": 3577,
+      "inputs": 1,
+      "buttons": 0
+    },
+    {
+      "route": "index-research/chain:semiconductor",
+      "htmlBytes": 2543,
+      "inputs": 1,
+      "buttons": 0
+    },
+    {
+      "route": "index-research/chain:consumer",
+      "htmlBytes": 1459,
+      "inputs": 1,
+      "buttons": 0
+    },
+    {
+      "route": "index-research/chain:finance",
+      "htmlBytes": 1723,
+      "inputs": 1,
+      "buttons": 0
+    },
+    {
+      "route": "index-research/chain:resources",
+      "htmlBytes": 1468,
+      "inputs": 1,
+      "buttons": 0
+    },
+    {
+      "route": "index-research/chain:battery",
+      "htmlBytes": 1468,
+      "inputs": 1,
+      "buttons": 0
+    },
+    {
+      "route": "index-research/chain:optical",
+      "htmlBytes": 3203,
+      "inputs": 1,
+      "buttons": 0
+    },
+    {
+      "route": "index-research/chain:pcb",
+      "htmlBytes": 1454,
+      "inputs": 1,
+      "buttons": 0
+    },
+    {
+      "route": "index-research/chain:energy",
+      "htmlBytes": 1459,
+      "inputs": 1,
+      "buttons": 0
+    },
+    {
+      "route": "knowledge/",
+      "htmlBytes": 25842,
+      "inputs": 2,
+      "buttons": 0
+    },
+    {
+      "route": "knowledge/bl-potential-2023",
+      "htmlBytes": 3079,
+      "inputs": 0,
+      "buttons": 0
+    },
+    {
+      "route": "knowledge/bl-risk-2023",
+      "htmlBytes": 2926,
+      "inputs": 0,
+      "buttons": 0
+    },
+    {
+      "route": "knowledge/hypothesis:ai-optical-demand",
+      "htmlBytes": 25830,
+      "inputs": 2,
+      "buttons": 0
+    },
+    {
+      "route": "industry/aerospace",
+      "htmlBytes": 24376,
+      "inputs": 10,
+      "buttons": 13
+    },
+    {
+      "route": "industry/biopharma",
+      "htmlBytes": 30100,
+      "inputs": 42,
+      "buttons": 1
+    },
+    {
+      "route": "industry/embodied-ai",
+      "htmlBytes": 51512,
+      "inputs": 22,
+      "buttons": 9
+    }
+  ]
+}

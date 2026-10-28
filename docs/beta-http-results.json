@@ -1,0 +1,67 @@
+[
+  {
+    "path": "/Linna-s-web/",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/Linna-s-web/assets/index-BC8hoYmn.js",
+    "status": 200,
+    "type": "text/javascript",
+    "bytes": 557118
+  },
+  {
+    "path": "/Linna-s-web/assets/index-CaHpptjA.css",
+    "status": 200,
+    "type": "text/css",
+    "bytes": 17193
+  },
+  {
+    "path": "/Linna-s-web/content.json",
+    "status": 200,
+    "type": "application/json",
+    "bytes": 231297
+  },
+  {
+    "path": "/Linna-s-web/research/diagrams/index-map.svg",
+    "status": 200,
+    "type": "image/svg+xml",
+    "bytes": 3117
+  },
+  {
+    "path": "/Linna-s-web/research/diagrams/star50.svg",
+    "status": 200,
+    "type": "image/svg+xml",
+    "bytes": 3358
+  },
+  {
+    "path": "/Linna-s-web/research/diagrams/sse50.svg",
+    "status": 200,
+    "type": "image/svg+xml",
+    "bytes": 3230
+  },
+  {
+    "path": "/Linna-s-web/research/diagrams/chinext.svg",
+    "status": 200,
+    "type": "image/svg+xml",
+    "bytes": 3004
+  },
+  {
+    "path": "/Linna-s-web/research/diagrams/aerospace.svg",
+    "status": 200,
+    "type": "image/svg+xml",
+    "bytes": 3333
+  },
+  {
+    "path": "/Linna-s-web/research/diagrams/biopharma.svg",
+    "status": 200,
+    "type": "image/svg+xml",
+    "bytes": 3483
+  },
+  {
+    "path": "/Linna-s-web/research/diagrams/embodied-ai.svg",
+    "status": 200,
+    "type": "image/svg+xml",
+    "bytes": 3335
+  }
+]

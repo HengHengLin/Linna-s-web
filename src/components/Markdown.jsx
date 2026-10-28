@@ -1,4 +1,6 @@
 import React from 'react';
+import Diagram from './Diagram';
+import {parseDiagram} from '../diagrams';
 
 // Intentionally small Markdown subset: text, headings, lists, quotes and HTTPS links.
 // Raw HTML and arbitrary executable content are never interpreted.
@@ -13,6 +15,9 @@ function inline(text) {
 }
 export default function Markdown({ body }) {
   return body.split(/\n\s*\n/).map((block, index) => {
+    const diagram = parseDiagram(block.trim());
+    if (diagram) return <Diagram key={index} {...diagram}/>;
+    if (block.trim().startsWith('![')) return <p key={index}>{block}</p>;
     const lines = block.split('\n');
     if (lines.every(x => /^[-*] /.test(x))) return <ul key={index}>{lines.map((line, i) => <li key={i}>{inline(line.slice(2))}</li>)}</ul>;
     if (lines.every(x => /^\d+\. /.test(x))) return <ol key={index}>{lines.map((line, i) => <li key={i}>{inline(line.replace(/^\d+\. /, ''))}</li>)}</ol>;

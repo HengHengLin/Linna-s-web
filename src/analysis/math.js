@@ -1,0 +1,19 @@
+const finite=x=>typeof x==='number'&&Number.isFinite(x);
+export function validateSnapshot(s){
+ if(!s||!['simulation','official'].includes(s.mode)||!/^\d{4}-\d{2}-\d{2}$/.test(s.asOf)||new Date(s.asOf).toISOString().slice(0,10)!==s.asOf||!s.basis||!['price','total-return'].includes(s.returnBasis)||!s.rows?.length)throw Error('缺少完整日期或口径');
+ if(s.mode==='official'&&(!s.source?.url?.startsWith('https://')||!s.source.verifiedAt||!s.complete))throw Error('官方数据缺少来源、核验日期或完整性确认');
+ const ids=new Set();let sum=0;
+ for(const r of s.rows){if(ids.has(r.id)||!r.id||!finite(r.weight)||r.weight<0||r.weight>1||!finite(r.return)||r.return< -1||r.asOf!==s.asOf||r.basis!==s.basis)throw Error('日期、口径、权重或收益无效');ids.add(r.id);sum+=r.weight;}
+ if(Math.abs(sum-1)>1e-8)throw Error('必须提供总权重为 100% 的完整样本，禁止自动归一化');
+ return s;
+}
+export const contributionPP=(weight,returnRate)=>{if(!finite(weight)||weight<0||weight>1||!finite(returnRate)||returnRate< -1)throw Error('输入须为小数权重与小数收益率');return weight*returnRate*100;};
+export function aggregate(rows,key){return Object.entries(rows.reduce((out,r)=>{const k=r[key]||'待核实';const x=out[k]||{weight:0,contributionPP:0,up:0,count:0};x.weight+=r.weight;x.contributionPP+=contributionPP(r.weight,r.return);x.up+=r.return>0?1:0;x.count++;out[k]=x;return out;},{})).map(([name,x])=>({name,...x}));}
+export function analyze(s){
+ validateSnapshot(s);const rows=s.rows.map(r=>({...r,contributionPP:contributionPP(r.weight,r.return)}));const ranked=[...rows].sort((a,b)=>b.weight-a.weight);const top=ranked.slice(0,10);const up=rows.filter(r=>r.return>0).length;const down=rows.filter(r=>r.return<0).length;
+ const sector=aggregate(rows,'industry');const topIds=new Set(top.map(x=>x.id));const mean=a=>a.length?a.reduce((s,r)=>s+r.return,0)/a.length:null;
+ return {rows,ranked,top,topWeight:top.reduce((s,r)=>s+r.weight,0),hhi:rows.reduce((s,r)=>s+(r.weight*100)**2,0),approxReturn:rows.reduce((s,r)=>s+r.weight*r.return,0),equalReturn:mean(rows),up,down,flat:rows.length-up-down,upRatio:up/rows.length,downRatio:down/rows.length,topContributionPP:top.reduce((s,r)=>s+r.contributionPP,0),sector,ownership:aggregate(rows,'ownership'),topVsRest:mean(top)!==null&&mean(rows.filter(r=>!topIds.has(r.id)))!==null?mean(top)-mean(rows.filter(r=>!topIds.has(r.id))):null,industryParticipation:sector.filter(x=>x.contributionPP>0).length/sector.length,newHigh:rows.every(r=>typeof r.newHigh==='boolean')?rows.filter(r=>r.newHigh).length:null,newLow:rows.every(r=>typeof r.newLow==='boolean')?rows.filter(r=>r.newLow).length:null};
+}
+export function weightChanges(previous,current){validateSnapshot(previous);validateSnapshot(current);if(previous.basis!==current.basis||previous.returnBasis!==current.returnBasis||previous.asOf>=current.asOf)throw Error('跨期日期或口径不可比');const ids=new Set([...previous.rows,...current.rows].map(x=>x.id));return [...ids].map(id=>({id,changePP:((current.rows.find(x=>x.id===id)?.weight||0)-(previous.rows.find(x=>x.id===id)?.weight||0))*100}));}
+export function breadthState(indexReturn,currentRatio,previousRatio){if(![indexReturn,currentRatio,previousRatio].every(finite)||[currentRatio,previousRatio].some(x=>x<0||x>1))return '数据不足';if(indexReturn===0||currentRatio===previousRatio)return '指数或广度持平';return `指数${indexReturn>0?'上涨':'下跌'}且市场广度${currentRatio>previousRatio?'改善':'恶化'}`;}
+export function demandExposures(s,mappings){validateSnapshot(s);const out={};for(const r of s.rows){const seen=new Set();for(const m of mappings.filter(x=>x.companyId===r.id)){if(!['hypothesis','evidenced'].includes(m.status)||seen.has(m.factor))throw Error('暴露分类或重复映射错误');seen.add(m.factor);if(m.status==='evidenced'&&!m.sources?.length)throw Error('业务暴露缺少证据');const k=m.factor+'|'+m.status;out[k]=(out[k]||0)+r.weight;}}return Object.entries(out).map(([key,weight])=>({name:key.split('|')[0],status:key.split('|')[1],weight}));}

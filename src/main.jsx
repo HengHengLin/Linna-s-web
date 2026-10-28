@@ -7,11 +7,16 @@ import SyncStatus from './components/SyncStatus';
 import { indices } from './market';
 import { filterEntries, pageFor, parseRoute, routeUrl } from './routes';
 import Header, { navigation } from './components/Header';
+import Knowledge from './components/Knowledge';
+import EmbodiedAI from './components/EmbodiedAI';
+import Biopharma from './components/Biopharma';
+import Aerospace from './components/Aerospace';
 import IndexResearch from './components/IndexResearch';
 import Cards from './components/Cards';
 import LearningTimeline from './components/LearningTimeline';
 import ResearchPage from './components/Research';
 import Article from './components/Article';
+import { researchRouteTitle } from './route-titles';
 import './style.css';
 
 const heading = (eyebrow, title, description) => <div className="page-heading"><span className="eyebrow blue">{eyebrow}</span><h1 tabIndex={-1}>{title}</h1><p>{description}</p></div>;
@@ -65,12 +70,12 @@ function App() {
   const entry = route.id ? entries.find(x => x.id === route.id && pageFor(x.kind) === route.page) : null;
   const Page = components[route.page];
   useEffect(() => {
-    const title = route.id ? (route.page === 'index-research' ? '指数与产业链研究' : entry?.title) || '内容未找到' : navigation.find(([id]) => id === route.page)?.[1] || '页面未找到';
+    const title = researchRouteTitle(route) || (route.id ? entry?.title || '内容未找到' : navigation.find(([id]) => id === route.page)?.[1] || '页面未找到');
     document.title = `${title} | Linna 研究实验室`;
     document.querySelector('meta[name="description"]').content = entry?.summary || 'Linna 的投资研究、全球市场观察、金融英语与 AI 项目实践。';
     window.scrollTo(0, 0);
     document.querySelector('main h1')?.focus({ preventScroll: true });
   }, [route.page, route.id, entry?.title, entry?.summary]);
-  return <><Header page={route.page}/><SyncStatus sync={sync} entries={entries} refresh={refresh}/><main id="main-content" data-content-ids={entries.map(e=>e.id).join(',')} data-content-updated-at={sync.updatedAt || ''} data-sync-state={sync.state}>{route.page === 'index-research' ? <IndexResearch topicId={route.id}/> : route.id && entry ? <Article entry={entry}/> : route.id || !Page ? <section className="container section">{heading('页面未找到', '这条内容暂不可用', '请返回首页，或从研究与英语实验室中选择内容。')}<a className="primary" href={routeUrl('home')}>返回首页</a></section> : <Page key={route.page} entries={entries}/>}</main><footer><div className="container footer-inner"><div><strong>LINNA 研究实验室</strong><p>独立思考，持续学习。</p></div><div><span>以好奇心与 AI 构建</span><p>仅供学习交流 · © {new Date().getFullYear()}</p><p role="status">{sync.state === 'loading' ? '正在同步云端内容…' : sync.state === 'stale' ? '云端同步暂不可用，当前显示已有内容。' : `云端内容已同步 · ${new Intl.DateTimeFormat('zh-CN', { timeZone: 'Asia/Shanghai', dateStyle: 'short', timeStyle: 'short' }).format(new Date(sync.updatedAt))}（北京时间）`}</p></div></div></footer></>;
+  return <><Header page={route.page}/><SyncStatus sync={sync} entries={entries} refresh={refresh}/><main id="main-content" data-content-ids={entries.map(e=>e.id).join(',')} data-content-updated-at={sync.updatedAt || ''} data-sync-state={sync.state}>{['knowledge','perspectives'].includes(route.page) ? <Knowledge selectedId={route.id} entries={entries}/> : route.page === 'industry' && route.id === 'embodied-ai' ? <EmbodiedAI/> : route.page === 'industry' && route.id === 'biopharma' ? <Biopharma/> : route.page === 'industry' && route.id === 'aerospace' ? <Aerospace/> : route.page === 'index-research' ? <IndexResearch topicId={route.id}/> : route.id && entry ? <Article entry={entry}/> : route.id || !Page ? <section className="container section">{heading('页面未找到', '这条内容暂不可用', '请返回首页，或从研究与英语实验室中选择内容。')}<a className="primary" href={routeUrl('home')}>返回首页</a></section> : <Page key={route.page} entries={entries}/>}</main><footer><div className="container footer-inner"><div><strong>LINNA 研究实验室</strong><p>独立思考，持续学习。</p></div><div><span>以好奇心与 AI 构建</span><p>仅供学习交流 · © {new Date().getFullYear()}</p><p role="status">{sync.state === 'loading' ? '正在同步云端内容…' : sync.state === 'stale' ? '云端同步暂不可用，当前显示已有内容。' : `云端内容已同步 · ${new Intl.DateTimeFormat('zh-CN', { timeZone: 'Asia/Shanghai', dateStyle: 'short', timeStyle: 'short' }).format(new Date(sync.updatedAt))}（北京时间）`}</p></div></div></footer></>;
 }
 createRoot(document.getElementById('root')).render(<App/>);
