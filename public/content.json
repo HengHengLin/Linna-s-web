@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-28T09:03:00+08:00",
+  "updatedAt": "2026-10-28T14:09:00+08:00",
   "entries": [
     {
       "id": "briefing-2026-10-28",
@@ -70,6 +70,69 @@
       "body": "## 已核验材料\n\nIMF 官方视频页 “Impact of Interest Rates on Emerging Markets | Analyze This!” 标注发布于 2023 年 8 月 4 日、时长 2 分 52 秒，主题是全球利率上升怎样影响新兴市场。\n\n页面没有提供可逐句核验的完整字幕，因此本条不复制或伪造逐字引文，也不编造时间戳；以下知识说明与表达根据国际金融传导机制整理。\n\n## 先懂知识，再听英语\n\n当美国等主要经济体加息时，global financial conditions 往往收紧。更高的无风险利率会提高全球资产的折现率，也可能使投资者要求新兴市场提供更高的 risk premium。资本并非机械地全部流出，但边际资金会重新比较美元资产和新兴市场资产的风险调整后回报。\n\n若 capital outflows 加快，本币可能贬值。贬值可以提高出口竞争力，却也会推高进口能源和中间品价格，并通过 exchange-rate pass-through 影响通胀。持有大量 foreign-currency debt 的政府和企业，还会发现同一笔美元债务换算成本币后更重。\n\n外部融资成本上升会扩大 sovereign spreads 和公司融资利差，并增加 rollover risk：即到期债务无法以可接受的价格续借。新兴市场央行于是面临 policy trade-off——提高利率可能稳定通胀预期、减轻汇率压力，却会压低国内需求并加重借款人负担。\n\n新兴市场并不是同一类资产。经常账户状况、外汇储备、外币债务比例、通胀可信度、本币债券市场深度和国内投资者基础，都会改变冲击大小。reserve buffer 较充足、宏观政策可信、债务期限较长的经济体，通常更能承受外部再定价；但储备不是无限的，也不能替代结构改革。\n\n## 关键词\n\n- global financial conditions — 全球金融条件\n- capital outflows — 资本流出\n- risk premium — 风险溢价\n- sovereign spread — 主权债利差\n- currency depreciation — 货币贬值\n- exchange-rate pass-through — 汇率传导\n- foreign-currency debt — 外币债务\n- debt-service burden — 偿债负担\n- rollover risk — 再融资风险\n- reserve buffer — 外汇储备缓冲\n- external vulnerability — 外部脆弱性\n- sudden stop — 资本流入突然停止\n- policy trade-off — 政策权衡\n- local-currency bond market — 本币债券市场\n\n## 地道表达\n\n以下句子根据宏观金融机制改写，用于输出练习，不冒充视频逐字引文。\n\n> Higher global rates can tighten financial conditions well beyond the economies that raise them.\n\n> Currency depreciation can support exports while increasing the local-currency burden of dollar debt.\n\n> Countries with stronger reserve buffers and deeper local bond markets tend to be more resilient.\n\n> The central bank must weigh inflation and currency stability against domestic growth.\n\n## 三步练习\n\n1. 第一遍只记下视频提到的三条传导渠道，不暂停查词。\n2. 第二遍按“全球利率—资本流动—汇率—债务—央行反应”画出因果链，并标出哪些环节不是必然发生。\n3. 第三遍选两个新兴经济体，用 current account、FX reserves、foreign-currency debt 和 inflation credibility 四个维度解释为什么冲击可能不同。\n\n## 输出练习\n\n用 90 秒英文回答：\n\n“How do higher global interest rates affect an emerging market, and what makes one country more resilient than another?”\n\n回答时至少使用 global financial conditions、capital outflows、currency depreciation、rollover risk、reserve buffer、policy trade-off 六个词。本条不记录或声称你已经完成学习。"
     },
     {
+      "id": "research-2026-10-27-market-microstructure",
+      "kind": "research",
+      "title": "做市商如何运作：报价、库存、止损流动性与期权对冲的五个案例",
+      "category": "投资研究",
+      "date": "2026-10-28",
+      "summary": "用五种不同市场场景，拆解做市商的盈利、亏损、风险对冲与价格影响；明确什么能观察、什么只能推断。",
+      "tags": [
+        "做市商",
+        "市场微观结构",
+        "订单簿",
+        "Gamma",
+        "ETF"
+      ],
+      "status": "approved",
+      "approvedBy": "Linna",
+      "approvedAt": "2026-10-28",
+      "sources": [
+        {
+          "title": "SEC：Spoofing执法案例",
+          "url": "https://www.sec.gov/news/press-release/2015-236"
+        },
+        {
+          "title": "Cboe：SPX 0DTE",
+          "url": "https://www.cboe.com/tradable_products/sp_500/spx_options/0dte/"
+        }
+      ],
+      "body": "## 核心问题：做市商究竟在卖什么？\n\n做市商的产品并不是“预测股价”，而是即时成交能力：在别人需要立刻买卖时，愿意以一定价格承接风险。收益来源可能是价差、交易所激励和对冲执行优势；成本是逆向选择、库存波动、融资与交易费用。理解这一点，才能解释为什么报价会移动，而不需要假设每一次波动都有“庄家意图”。\n\n## 第一层：交易的角色与因果链\n\n客户发出订单；做市商提供买卖报价；订单成交后库存改变；做市商根据风险和竞争重新报价，或在相关市场对冲；这些行为反过来影响流动性和价格。做市商、经纪商、交易所、套利者和方向性投资者可以是不同主体，不能混称“机构”。\n\n## 案例一：价差收入不等于无风险利润（教学模拟）\n\n某股票Bid 99.98、Ask 100.02。做市商先以99.98买100股、再以100.02卖100股，毛收入4美元。若只买到了100股，随后新信息导致公允价跌至99.50，按市价估值亏损48美元（未计费用）。这解释了为何做市商必须控制报价规模、价差和撤单速度。成交双方未必同时出现，因此不能把价差直接当成净收益。\n\n## 案例二：库存失衡怎样推动报价（教学模拟）\n\n做市商原本库存为零，连续承接客户卖出的20万股，形成多头库存。若价格每下跌0.10元，账面风险约为2万元。为减轻风险，它可能降低双边报价、缩小买盘挂单或在期货市场卖出对冲。价格下移并不自动证明它在操纵市场；相反，如果它本来是空头库存，报价偏移方向可能相反。真实报价还受其他做市商竞争和信息冲击制约。\n\n## 案例三：止损连锁触发为何可能产生长下影线（教学模拟）\n\n价格100元，99元附近有密集止损。外部卖单先打穿99元，止损转成市价卖单进一步消耗买盘，最低触及98.60元；随后限价买盘进入，价格回到99.40元。此时可以确认“跌破后收回”，却不能仅凭图形确认“机构故意扫止损”。若没有买盘承接，同样的止损机制也可能导致继续下跌。可检验的数据包括逐笔成交、买卖盘深度、冲击成本和后续价格反应。\n\n## 案例四：期权做市商的Gamma反馈（教学模拟）\n\n做市商卖出100张Call，每张对应100股、Delta=0.50，则期权头寸约为-5,000股等效Delta；为中性对冲，可能买5,000股。若标的上涨导致Delta升至0.60，在其他条件不变下，还需买1,000股。净负Gamma时，简单对冲可能“涨时买、跌时卖”；净正Gamma则相反。真实净敞口必须综合不同执行价、期限、客户方向和其他风险，公开OI不能直接推算交易商持仓方向。Call Wall、Put Wall只是模型估计的候选区域，不能直接当作支撑阻力。\n\n## 案例五：ETF做市与套利不是单只股票做市（教学模拟）\n\n某ETF二级市场报价101元，但一篮子底层证券的估计净值为100元。若考虑费用和执行成本后仍有足够溢价，获授权参与者可能通过买入篮子、申购ETF并卖出ETF份额参与套利；也可能由不同市场参与者完成库存管理和套利。ETF的申赎机制、交易成本、市场关闭时差和篮子流动性都会影响溢价持续时间。这里的“套利”不保证无风险，也不等于ETF做市商都能直接申赎。\n\n## 真正的操纵案例：虚假申报与正常撤单的差别\n\n美国SEC 2015年对Briargate Trading与相关人员的执法公告描述：在一侧提交不真实的订单制造虚假供需印象，同时在另一侧执行真实交易，随后撤销虚假订单。监管结论依赖订单行为及调查证据，而不是K线图上的一根影线。正常风险调整中的撤单本身不等于spoofing。\n\n## 研究者如何落地？\n\n先记录可观察事实：报价、价差、盘口深度、成交方向、价格冲击、期权链与到期结构。再列出竞争解释：信息冲击、库存对冲、止损连锁、基本面消息。最后做事件研究：类似结构出现后1分钟、15分钟、1天的收益分布、滑点与极端损失。不要先给行情贴“主力吸筹”的标签，再倒找证据。\n\n## 证据边界\n\n案例一至五是教学模拟，不是某家机构的真实账本；Gamma净额与交易者动机不能由公开图形直接识别。访谈嘉宾Matteo Conte和Fredy Sarmiento的原始视频尚未核验，本文不冒充其逐字观点。"
+    },
+    {
+      "id": "research-2026-10-28-corporate-value-management",
+      "kind": "research",
+      "title": "上市公司市值管理：从价值创造到资本运作的六类案例",
+      "category": "投资研究",
+      "date": "2026-10-28",
+      "summary": "以苹果回购的真实披露为锚，结合分红、股权融资、并购、股权质押及操纵执法案例，研究市值、公司利益和股东回报。",
+      "tags": [
+        "市值管理",
+        "公司金融",
+        "回购",
+        "并购",
+        "股权融资",
+        "治理"
+      ],
+      "status": "approved",
+      "approvedBy": "Linna",
+      "approvedAt": "2026-10-28",
+      "sources": [
+        {
+          "title": "中国证监会：上市公司监管指引第10号",
+          "url": "https://www.csrc.gov.cn/csrc/c100028/c7519048/content.shtml"
+        },
+        {
+          "title": "Apple 2024 Form 10-K",
+          "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019324000123/aapl-20240928.htm"
+        },
+        {
+          "title": "SEC：Spoofing执法案例",
+          "url": "https://www.sec.gov/news/press-release/2015-236"
+        }
+      ],
+      "body": "## 研究起点：为什么企业会在意市值？\n\n市值=股价×流通在外股份总数。企业的经营价值、股东每股权益和交易市场的定价彼此关联，但并不相同。管理层可能关心融资成本、股权并购支付能力、员工激励、控股权和投资者信任；股东则关心未来现金流及其分配。股价上涨可以改善某些交易条件，却不能替代经营创造现金流。\n\n## 一、先画出利益相关者\n\n董事会与管理层决定经营、融资和分配；大股东可能关心控制权、质押和流动性；机构与散户关注风险回报；承销商、财务顾问和交易对手承担不同业务角色；监管机构监督披露、交易与市场公平。不能把这些参与者统一称为“市值管理团队”，更不能假设利益始终一致。\n\n## 二、六种类型、六个案例\n\n### 案例一：成熟企业回购——苹果2024财年（真实披露）\n\n苹果2024财年10-K披露回购约4.99亿股、支出约950亿美元。回购可能减少股数并提高其他条件不变时的每股收益，但不保证股价上涨：如果回购价格过高，可能损害继续持有的股东；股权激励增发也会抵消部分股数减少。分析应同时看自由现金流、净现金、估值、回购均价与股数净变化，而不是只看“回购金额很大”。\n\n### 案例二：分红与再投资——两家公司都赚10亿元（教学模拟）\n\nA公司有高回报投资机会，保留7亿元再投资、分红3亿元；B公司增长机会有限，分红8亿元、保留2亿元。谁更有利于股东取决于再投资回报率、资金成本和税收，而非单纯分红比例。分红除权也不是无中生有的收益。市值管理的首要问题是资本配置，而非短期K线。\n\n### 案例三：高估值与股权融资（教学模拟）\n\n企业拟募集10亿元。发行价10元需新发1亿股，发行价20元只需5,000万股；但发行价格、投资者需求、法律限制和市场估值并非管理层可随意决定。更高估值可以减少同额融资的比例稀释，却可能意味着新投资者承担更高估值风险。还应比较融资后新增资本能创造多少利润，而不只是关注稀释比例。\n\n### 案例四：股权并购（教学模拟）\n\nA公司拟以股票支付10亿元收购B。股价20元时理论上需发行5,000万股，股价10元时需发行1亿股。收购价值还取决于协同效应、支付溢价、整合成本和交易条件；高股价不保证收购成功。并购公告后股价上涨也可能只是市场预期变化，不能倒推存在“拉盘安排”。\n\n### 案例五：股权质押与控制权风险（教学模拟）\n\n控股股东质押价值10亿元的股票借款5亿元，初始质押率50%。若股价跌40%，抵押品市值降至6亿元，债务本金不变时贷款价值比升至约83.3%，可能触发补仓或其他契约安排。具体触发线取决于合同，不可把示例数字当作市场统一规则。应关注质押公告、到期结构、补充质押能力与潜在强制处置，而不是看到下跌就推断股东在“护盘”。\n\n### 案例六：披着“市值管理”外衣的操纵——监管案例与法律边界\n\n中国证监会《上市公司监管指引第10号》允许依法合规运用回购、分红、并购、股权激励、信息披露和投资者关系等工具，同时明确禁止借市值管理实施违法违规行为。美国SEC对Briargate Trading的spoofing执法案例说明：制造虚假订单意图影响价格，与真实提供流动性并非一回事。两者不是同一司法辖区的法律定义，应分别依据适用监管规则判断。\n\n## 三、真正的内部决策链条是什么？\n\n从董事会决策开始：公司有多少自由现金流？资本成本是多少？未来投资回报是否高于资金成本？管理层激励是否偏向短期股价？信息何时形成、何时披露？投资者是否能检验承诺？回购、增发、并购和分红的最终受益人是谁？\n\n举例：管理层宣布回购不等于已完成回购；应区分授权额度、实际执行、均价与注销情况。宣布并购也不等于创造协同；应追踪商誉、后续盈利和现金流。长期破净公司提出估值提升计划，也不等于净资产一定可变现。\n\n## 四、投资者如何做尽调？\n\n把证据分成四栏：经营事实（现金流、ROIC、增长）、资本动作（回购/分红/融资/并购）、利益结构（管理层激励、控股股东质押、关联交易）、市场定价（估值、流动性、同业比较）。每一个看涨解释都写出反方：回购可能高价、并购可能过贵、融资可能稀释、分红可能透支现金。\n\n## 五、结论\n\n好的市值管理不是把股价“做上去”，而是通过经营、治理、资本配置和透明沟通，使企业长期价值更有机会被合理定价。市值变化也受到利率、行业周期、风险偏好和流动性影响。不能用股价涨跌单独评判管理层行为，更不能把市场操纵当作资本运作的正常工具。\n\n## 资料边界\n\n苹果回购数字来自其2024财年10-K；其他金额场景明确为教学模拟。法规依据为证监会2024年公布的指引；执法案例依据SEC公告。本文不声称掌握任何上市公司未公开的内部决策。"
+    },
+    {
       "id": "briefing-2026-10-27",
       "kind": "briefing",
       "title": "今日事实简报：德国景气预期、Cadence 季报与 Solana Alpenglow 主网启用",
@@ -133,40 +196,6 @@
         }
       ],
       "body": "## 已核验材料\n\nIMF 官方视频页 “Analyze This! Global Imbalances” 标注发布于 2026 年 9 月 22 日、时长 3 分 45 秒，介绍国家储蓄与支出选择如何形成全球失衡，并影响增长、债务和金融稳定。\n\n页面没有提供可逐句核验的完整字幕，因此本条不复制或伪造逐字引文，也不编造时间戳；以下知识说明与表达根据国际收支框架整理。\n\n## 先懂知识，再听英语\n\n一个经济体的 current account 大致记录贸易、初次收入和转移收支。经常账户顺差意味着一国从国外获得的收入超过对外支出；逆差则相反。会计上，经常账户与资本和金融账户相对应：一个国家若持续支出超过收入，就需要吸收国外资金；储蓄超过国内投资的经济体则向外输出资本。\n\n因此，surplus country 与 deficit country 不是彼此独立的故事。全球加总后，一方的净借出对应另一方的净借入。失衡本身也不是自动的道德结论：快速增长的经济体可能因高回报投资而合理吸收资本，人口老龄化或资源出口国也可能合理积累海外资产。\n\n问题在于失衡的来源、规模和融资结构。如果逆差由生产率提升和可持续投资驱动，未来收入可能覆盖负债；如果由房地产泡沫、短期外币债务或消费过度驱动，资本突然撤出时更脆弱。顺差也可能反映竞争力和高储蓄，但也可能来自国内需求不足、社会保障不充分或汇率与政策扭曲。\n\nExternal adjustment 可以通过汇率、需求、价格与收入变化完成。货币贬值可能改善出口竞争力，但若进口能源昂贵或企业有大量外币债务，也会带来通胀和资产负债表压力。不能把 “a weaker currency improves the trade balance” 当成无条件规律。\n\n## 关键词\n\n- global imbalances — 全球失衡\n- current account — 经常账户\n- trade balance — 贸易差额\n- current-account surplus — 经常账户顺差\n- current-account deficit — 经常账户逆差\n- national saving — 国民储蓄\n- domestic investment — 国内投资\n- capital inflows — 资本流入\n- net lender / net borrower — 净贷出方 / 净借入方\n- external financing — 外部融资\n- foreign-currency debt — 外币债务\n- sudden stop — 资本流入突然停止\n- exchange-rate adjustment — 汇率调整\n- domestic demand — 国内需求\n- external vulnerability — 外部脆弱性\n- balance-sheet effect — 资产负债表效应\n\n## 地道表达\n\n以下句子根据国际收支逻辑改写，用于输出练习，不冒充视频逐字引文。\n\n> A current-account deficit must be financed by capital inflows or a drawdown of external assets.\n\n> One country's surplus is mirrored by deficits elsewhere in the global system.\n\n> The sustainability of an imbalance depends on what the borrowed funds are used for.\n\n> Exchange-rate adjustment can improve competitiveness while worsening foreign-currency debt burdens.\n\n## 三步练习\n\n1. 第一遍只记录视频怎样描述 saver、spender 和世界经济之间的关系。\n2. 第二遍用英文解释 saving minus investment 与 current account 的关系。\n3. 第三遍分别给出一种“可持续逆差”和“脆弱逆差”的例子，并说明融资结构。\n\n## 输出练习\n\n用 90 秒英文回答：\n\n“When does a current-account deficit become an external vulnerability rather than a normal part of capital allocation?”\n\n回答时至少使用 current account、capital inflows、foreign-currency debt、sudden stop、external adjustment 五个词。本条不记录或声称你已经完成学习。"
-    },
-    {
-      "id": "research-2026-10-27-market-microstructure",
-      "kind": "research",
-      "title": "市场微观结构：做市商、期权对冲、机构策略与市值管理",
-      "category": "投资研究",
-      "date": "2026-10-27",
-      "summary": "从库存风险、扫止损、Gamma对冲到策略样本外验证及合法市值管理，区分市场机制、交易假设与操纵证据。",
-      "tags": [
-        "市场微观结构",
-        "做市商",
-        "Gamma",
-        "期权",
-        "机构策略",
-        "市值管理"
-      ],
-      "status": "approved",
-      "approvedBy": "Linna",
-      "approvedAt": "2026-10-27",
-      "sources": [
-        {
-          "title": "SEC Investor.gov：Market Manipulation",
-          "url": "https://www.investor.gov/introduction-investing/investing-basics/glossary/market-manipulation"
-        },
-        {
-          "title": "Cboe：SPX 0DTE Options",
-          "url": "https://www.cboe.com/tradable_products/sp_500/spx_options/0dte/"
-        },
-        {
-          "title": "中国证监会",
-          "url": "https://www.csrc.gov.cn/"
-        }
-      ],
-      "body": "## 研究定位\n\n本文是市场微观结构与资本市场机制的入门研究，不是对特定交易员访谈的逐字整理，也不把推测的机构动机写成事实。研究问题是：价格如何在报价、订单流、库存约束、衍生品对冲与企业资本行为之间形成？\n\n## 一、做市商为什么提供双边报价？\n\n做市商在买价（Bid）和卖价（Ask）上提供流动性，理论上可赚取买卖价差。例如99.98买入、100.02卖出100股，毛价差为4美元；实际还要扣除手续费、融资与对冲成本，并承担逆向选择和库存风险。\n\n若做市商连续买入股票、积累多头库存，可能下调报价以减少继续买入并吸引买盘。这种调整可能影响市场价格，但不能据此断定它有意操纵市场。做市商也可能因客户交易方向、风险限额及其他市场头寸改变报价。\n\n## 二、扫止损与市场操纵不能画等号\n\n止损单触发后可能转为市价单，消耗订单簿深度，导致短时间的滑点和价格跳动。跌破支撑后迅速收回的走势可能符合威科夫Spring的形态描述，但图形本身不能证明有人“猎杀散户”。\n\n至少要区分三种解释：真实卖盘造成流动性冲击；做市商调整库存或对冲；以及涉及欺骗性申报、虚假成交等可能违法的操纵行为。判断第三种需要交易记录、账户关联、通信或监管证据，单根K线不够。\n\n## 三、期权如何影响现货与期货？\n\nDelta衡量期权价值对标的价格的局部敏感度；Gamma衡量Delta对标的价格的变化率。假设做市商卖出100张、每张对应100股、Delta为0.5的Call，股票等效Delta约为-5,000股；若仅用股票对冲，可能买入约5,000股。若Delta上升至0.6，其他条件不变，需要再买约1,000股。\n\n净负Gamma的做市商在简单Delta中性对冲下往往上涨时买、下跌时卖，可能放大波动；净正Gamma则相反。但现实中还受Vanna、Charm、波动率、净头寸、期货替代对冲与风险限额影响。\n\nCall Wall、Put Wall及Gamma Levels通常是模型估计的候选价格区域，而非必然的支撑或阻力。公开未平仓量不能直接识别交易商净多空，不能仅凭某个执行价的持仓量推断对冲方向。0DTE临近到期可能有高Gamma，但市场总影响取决于净敞口与流动性，而非单纯成交量。\n\n## 四、机构怎样验证交易策略？\n\n正确流程是经济机制假设→可执行规则→历史回测（含手续费、冲击与滑点）→样本外验证→滚动检验→小规模实盘监控。\n\nORB（开盘区间突破）检验开盘信息释放后是否存在持续订单流；VWAP策略研究机构执行基准及价格偏离；PEAD（财报后漂移）研究盈利意外后的信息消化；隔夜效应检验不同持仓时段的风险溢价。四者都不是天然有效的交易指令。\n\n回测尤其要防范未来函数、幸存者偏差、数据挖掘、参数过拟合和容量不足。历史显著性不等于扣除成本后的可实现收益。\n\n## 五、市值管理与股价操纵的边界\n\n合法市值管理围绕公司价值创造、资本配置和投资者沟通展开，包括分红、回购、并购、股权激励和投资者关系。公司股价也可能影响以股票支付的并购稀释程度、再融资条件和股东财富，但这些利益不能成为操纵价格的理由。\n\n应重点研究董事会与管理层的资本配置决策、股权质押及融资压力、信息披露边界、内部人利益冲突，以及监管认定的操纵案件。所谓“市值管理内幕”不能靠股价图形臆测，应使用公告、财报、监管处罚与可核验的交易证据。\n\n## 六、把理论转化为研究框架\n\n观察到放量跌破前低并收回时，按六层逐一核验：价格结构、成交量、订单流、期权净敞口估计、基本面消息、历史统计表现。每层都应区分已观察事实、合理机制、待验证假设。\n\n最终原则：市场结构告诉我们发生了什么，订单流描述交易如何完成，衍生品揭示潜在反馈，统计验证判断这种现象是否具有可交易的优势。不要把“主力意图”当作未经检验的答案。\n\n## 延伸阅读与核查边界\n\n- [SEC：Market Manipulation](https://www.investor.gov/introduction-investing/investing-basics/glossary/market-manipulation)\n- [Cboe：SPX 0DTE Options](https://www.cboe.com/tradable_products/sp_500/spx_options/0dte/)\n- [中国证监会官网](https://www.csrc.gov.cn/)\n\n以上为进一步核验的机构入口，并非已逐条核对的访谈出处。Matteo Conte与Fredy Sarmiento的原始访谈链接和逐字稿尚未核实，故本文不对他们作具体引述。"
     },
     {
       "id": "weekly-2026-10-27-real-state-of-l2s",
