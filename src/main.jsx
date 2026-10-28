@@ -2,7 +2,8 @@ import React, { useEffect, useState } from 'react';
 import { createRoot } from 'react-dom/client';
 import { ArrowUpRight, BookOpen, ChevronRight, ExternalLink, GraduationCap, Mic2, Sparkles, LockKeyhole, Newspaper, Lightbulb, BriefcaseBusiness, Search } from 'lucide-react';
 import initialEntries from './content.generated.json';
-import { CONTENT_URL, validateSnapshot } from './public-content';
+import {usePublicContent} from './sync/use-public-content';
+import SyncStatus from './components/SyncStatus';
 import { indices } from './market';
 import { filterEntries, pageFor, parseRoute, routeUrl } from './routes';
 import Header, { navigation } from './components/Header';
@@ -23,7 +24,7 @@ function Home({ entries }) {
   return <>
     <section className="hero"><div className="container hero-inner"><div><div className="hero-kicker"><span className="pulse"/>独立研究 · 数字资产</div><h1 tabIndex={-1}>在分享中学习。<br/><em>在研究中独立思考。</em></h1><p>投资研究、全球市场、金融英语与 AI 项目实践。记录一个问题如何逐步变成清晰的理解。</p><div className="hero-actions"><a className="primary" href={routeUrl('research')}>阅读研究 <ArrowUpRight size={17}/></a><a className="outline-light" href={routeUrl('markets')}>市场概览 <ChevronRight size={17}/></a></div><div className="hero-tags"><span>投资</span><span>宏观</span><span>RWA</span><span>Crypto</span><span>金融英语</span></div></div><div className="hero-art" aria-hidden="true"><div className="orbit orbit1"/><div className="orbit orbit2"/><div className="orbit orbit3"/><div className="center-mark">L.</div><span className="art-note n1">研究</span><span className="art-note n2">构建</span><span className="art-note n3">学习</span></div></div></section>
     <section className="container section"><div className="section-intro"><div><span className="eyebrow blue">探索实验室</span><h2>不同的探索方向。<br/>持续积累的思考。</h2></div><p>将研究、市场观察、英文学习与项目作品整理为清晰的公开档案。</p></div><div className="feature-grid">{[[BookOpen, '研究', '投资逻辑、研究框架与独立观点。', 'research'], [Newspaper, '市场与简报', '全球指数入口与经过审核的财经简报。', 'markets'], [GraduationCap, '英语实验室', '金融英语、学习笔记与演讲精听。', 'english'], [BriefcaseBusiness, '作品集', '研究成果与 AI 项目实践。', 'portfolio']].map(([Icon, title, description, page]) => <a className="feature" key={page} href={routeUrl(page)}><Icon size={25}/><h3>{title}</h3><p>{description}</p><span>开始探索 <ArrowUpRight size={15}/></span></a>)}</div></section>
-    <section className="container section latest"><div className="notice">目前的文章是功能演示模板，均已明确标注。正式研究需由 Linna 审核后发布。</div><Latest research={research}/></section><section className="container section latest"><div className="section-row"><div><span className="eyebrow blue">每天一点积累</span><h2>今天学到了什么</h2></div><a className="text-link" href={routeUrl('english')}>查看学习档案 <ArrowUpRight size={16}/></a></div><LearningTimeline entries={english} compact/></section><section className="container section latest"><div className="section-row"><div><span className="eyebrow blue">随时回来补学</span><h2>最新学习材料</h2></div><a className="text-link" href={routeUrl('english')}>查看全部与历史材料 <ArrowUpRight size={16}/></a></div><p className="muted">材料会直接更新在这里，错过当天也可以从历史日期继续学习。</p><Cards entries={english.filter(x => x.status === 'curated' && ['lesson', 'weekly'].includes(x.kind)).slice(0, 3)}/></section><section className="manifesto"><div className="container"><Sparkles size={26}/><h2>好奇心是起点。<br/>清晰的思考是方向。</h2><p>公开研究用于学习与交流，不构成投资建议。</p></div></section>
+    <section className="container section latest"><div className="notice">文章按各自状态标注；演示模板不代表真实成果，正式研究需由 Linna 审核后发布。</div><Latest research={research}/></section><section className="container section latest"><div className="section-row"><div><span className="eyebrow blue">每天一点积累</span><h2>今天学到了什么</h2></div><a className="text-link" href={routeUrl('english')}>查看学习档案 <ArrowUpRight size={16}/></a></div><LearningTimeline entries={english} compact/></section><section className="container section latest"><div className="section-row"><div><span className="eyebrow blue">随时回来补学</span><h2>最新学习材料</h2></div><a className="text-link" href={routeUrl('english')}>查看全部与历史材料 <ArrowUpRight size={16}/></a></div><p className="muted">材料会直接更新在这里，错过当天也可以从历史日期继续学习。</p><Cards entries={english.filter(x => x.status === 'curated' && ['lesson', 'weekly'].includes(x.kind)).slice(0, 3)}/></section><section className="manifesto"><div className="container"><Sparkles size={26}/><h2>好奇心是起点。<br/>清晰的思考是方向。</h2><p>公开研究用于学习与交流，不构成投资建议。</p></div></section>
   </>;
 }
 function Research({ entries }) { return <ResearchPage research={entries.filter(x=>x.kind === 'research')} topics={entries.filter(x=>x.kind === 'topic')}/>; }
@@ -58,28 +59,7 @@ function Portfolio({ entries }) {
 }
 const components = { home: Home, 'index-research': IndexResearch, research: Research, markets: Markets, english: English, trading: Trading, portfolio: Portfolio };
 function App() {
-  const [entries, setEntries] = useState(initialEntries);
-  const [sync, setSync] = useState({ state: 'loading', updatedAt: null });
-  useEffect(() => {
-    let active = true;
-    let running = false;
-    async function refresh() {
-      if (running) return;
-      running = true;
-      try {
-        const response = await fetch(CONTENT_URL, { cache: 'no-store', signal: AbortSignal.timeout(15000) });
-        if (!response.ok) throw Error('远程内容暂不可用');
-        const snapshot = await response.json();
-        const next = validateSnapshot(snapshot);
-        if (active) { setEntries(next); setSync({ state: 'ready', updatedAt: snapshot.updatedAt }); }
-      } catch { if (active) setSync(previous => ({ ...previous, state: 'stale' })); }
-      finally { running = false; }
-    }
-    refresh();
-    window.addEventListener('focus', refresh);
-    const timer = window.setInterval(refresh, 600000);
-    return () => { active = false; window.removeEventListener('focus', refresh); window.clearInterval(timer); };
-  }, []);
+  const {entries,sync,refresh}=usePublicContent(initialEntries);
   const [route, setRoute] = useState(() => parseRoute(window.location.hash));
   useEffect(() => { const onChange = () => setRoute(parseRoute(window.location.hash)); window.addEventListener('hashchange', onChange); return () => window.removeEventListener('hashchange', onChange); }, []);
   const entry = route.id ? entries.find(x => x.id === route.id && pageFor(x.kind) === route.page) : null;
@@ -91,6 +71,6 @@ function App() {
     window.scrollTo(0, 0);
     document.querySelector('main h1')?.focus({ preventScroll: true });
   }, [route.page, route.id, entry?.title, entry?.summary]);
-  return <><Header page={route.page}/><main id="main-content">{route.page === 'index-research' ? <IndexResearch topicId={route.id}/> : route.id && entry ? <Article entry={entry}/> : route.id || !Page ? <section className="container section">{heading('页面未找到', '这条内容暂不可用', '请返回首页，或从研究与英语实验室中选择内容。')}<a className="primary" href={routeUrl('home')}>返回首页</a></section> : <Page key={route.page} entries={entries}/>}</main><footer><div className="container footer-inner"><div><strong>LINNA 研究实验室</strong><p>独立思考，持续学习。</p></div><div><span>以好奇心与 AI 构建</span><p>仅供学习交流 · © {new Date().getFullYear()}</p><p role="status">{sync.state === 'loading' ? '正在同步云端内容…' : sync.state === 'stale' ? '云端同步暂不可用，当前显示已有内容。' : `云端内容已同步 · ${new Intl.DateTimeFormat('zh-CN', { timeZone: 'Asia/Shanghai', dateStyle: 'short', timeStyle: 'short' }).format(new Date(sync.updatedAt))}（北京时间）`}</p></div></div></footer></>;
+  return <><Header page={route.page}/><SyncStatus sync={sync} entries={entries} refresh={refresh}/><main id="main-content" data-content-ids={entries.map(e=>e.id).join(',')} data-content-updated-at={sync.updatedAt || ''} data-sync-state={sync.state}>{route.page === 'index-research' ? <IndexResearch topicId={route.id}/> : route.id && entry ? <Article entry={entry}/> : route.id || !Page ? <section className="container section">{heading('页面未找到', '这条内容暂不可用', '请返回首页，或从研究与英语实验室中选择内容。')}<a className="primary" href={routeUrl('home')}>返回首页</a></section> : <Page key={route.page} entries={entries}/>}</main><footer><div className="container footer-inner"><div><strong>LINNA 研究实验室</strong><p>独立思考，持续学习。</p></div><div><span>以好奇心与 AI 构建</span><p>仅供学习交流 · © {new Date().getFullYear()}</p><p role="status">{sync.state === 'loading' ? '正在同步云端内容…' : sync.state === 'stale' ? '云端同步暂不可用，当前显示已有内容。' : `云端内容已同步 · ${new Intl.DateTimeFormat('zh-CN', { timeZone: 'Asia/Shanghai', dateStyle: 'short', timeStyle: 'short' }).format(new Date(sync.updatedAt))}（北京时间）`}</p></div></div></footer></>;
 }
 createRoot(document.getElementById('root')).render(<App/>);

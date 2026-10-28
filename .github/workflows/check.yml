@@ -1,5 +1,9 @@
 name: Test and build
-on: [push, pull_request]
+on:
+  push:
+    paths-ignore: ['content/public/**', 'public/content.json']
+  pull_request:
+    paths-ignore: ['content/public/**', 'public/content.json']
 jobs:
   verify:
     runs-on: ubuntu-latest

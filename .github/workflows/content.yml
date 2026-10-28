@@ -1,0 +1,17 @@
+name: Validate public content without rebuilding site
+on:
+  push:
+    paths: ['content/public/**', 'public/content.json']
+  pull_request:
+    paths: ['content/public/**', 'public/content.json']
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: node scripts/verify-content-snapshot.mjs

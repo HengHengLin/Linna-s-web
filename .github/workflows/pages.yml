@@ -2,6 +2,9 @@ name: Deploy GitHub Pages
 on:
   push:
     branches: [main]
+    paths-ignore:
+      - 'content/public/**'
+      - 'public/content.json'
   workflow_dispatch:
 permissions:
   contents: read
