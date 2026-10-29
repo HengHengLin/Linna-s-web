@@ -50,6 +50,7 @@ export function parseContent(text, file = 'content') {
 export function loadContent(directory = path.join(root, 'content/public')) {
   const entries = fs.readdirSync(directory).filter(x => x.endsWith('.md')).sort()
     .map(file => parseContent(fs.readFileSync(path.join(directory, file), 'utf8'), file));
+  if (entries.some(e => e.kind === 'journal')) throw Error('学习记录已退出公开目录，请保存至仓库外私有归档');
   if (new Set(entries.map(x => x.id)).size !== entries.length) throw Error('存在重复内容 ID');
   return entries.sort((a, b) => b.date.localeCompare(a.date) || a.id.localeCompare(b.id));
 }

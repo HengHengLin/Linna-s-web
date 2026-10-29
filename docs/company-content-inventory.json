@@ -1,0 +1,293 @@
+{
+  "asOf": "2026-10-28",
+  "before": {
+    "total": 42,
+    "full": 0,
+    "partial": 8,
+    "templateOnly": 34,
+    "coreVerifiedProfiles": 0
+  },
+  "after": {
+    "total": 42,
+    "full": 1,
+    "partial": 8,
+    "hidden": 33,
+    "baseProfilesWithMostlyEmptyFields": 42,
+    "effectiveProfilesWithMostlyEmptyFields": 41,
+    "withEvidenceSources": 9
+  },
+  "records": [
+    {
+      "id": "688981.SH",
+      "name": "中芯国际",
+      "level": "full",
+      "evidenceSources": [
+        "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0813/2026081300353.pdf",
+        "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0903/2026090300630.pdf",
+        "https://www.intc.com/filings-reports/annual-reports/content/0000050863-26-000011/intc-20251227.htm"
+      ]
+    },
+    {
+      "id": "688012.SH",
+      "name": "中微公司",
+      "level": "hidden",
+      "evidenceSources": []
+    },
+    {
+      "id": "688008.SH",
+      "name": "澜起科技",
+      "level": "hidden",
+      "evidenceSources": []
+    },
+    {
+      "id": "688256.SH",
+      "name": "寒武纪",
+      "level": "hidden",
+      "evidenceSources": []
+    },
+    {
+      "id": "688041.SH",
+      "name": "海光信息",
+      "level": "hidden",
+      "evidenceSources": []
+    },
+    {
+      "id": "600519.SH",
+      "name": "贵州茅台",
+      "level": "hidden",
+      "evidenceSources": []
+    },
+    {
+      "id": "600036.SH",
+      "name": "招商银行",
+      "level": "hidden",
+      "evidenceSources": []
+    },
+    {
+      "id": "601899.SH",
+      "name": "紫金矿业",
+      "level": "hidden",
+      "evidenceSources": []
+    },
+    {
+      "id": "300750.SZ",
+      "name": "宁德时代",
+      "level": "hidden",
+      "evidenceSources": []
+    },
+    {
+      "id": "300308.SZ",
+      "name": "中际旭创",
+      "level": "hidden",
+      "evidenceSources": []
+    },
+    {
+      "id": "300502.SZ",
+      "name": "新易盛",
+      "level": "hidden",
+      "evidenceSources": []
+    },
+    {
+      "id": "300394.SZ",
+      "name": "天孚通信",
+      "level": "hidden",
+      "evidenceSources": []
+    },
+    {
+      "id": "300476.SZ",
+      "name": "胜宏科技",
+      "level": "hidden",
+      "evidenceSources": []
+    },
+    {
+      "id": "300274.SZ",
+      "name": "阳光电源",
+      "level": "hidden",
+      "evidenceSources": []
+    },
+    {
+      "id": "300059.SZ",
+      "name": "东方财富",
+      "level": "hidden",
+      "evidenceSources": []
+    },
+    {
+      "id": "300699.SZ",
+      "name": "光威复材",
+      "level": "hidden",
+      "evidenceSources": []
+    },
+    {
+      "id": "002179.SZ",
+      "name": "中航光电",
+      "level": "partial",
+      "evidenceSources": [
+        "https://static.cninfo.com.cn/finalpage/2026-03-28/1225044952.PDF"
+      ]
+    },
+    {
+      "id": "002025.SZ",
+      "name": "航天电器",
+      "level": "partial",
+      "evidenceSources": [
+        "https://static.cninfo.com.cn/finalpage/2026-03-31/1225054265.PDF"
+      ]
+    },
+    {
+      "id": "600879.SH",
+      "name": "航天电子",
+      "level": "hidden",
+      "evidenceSources": []
+    },
+    {
+      "id": "600118.SH",
+      "name": "中国卫星",
+      "level": "hidden",
+      "evidenceSources": []
+    },
+    {
+      "id": "601698.SH",
+      "name": "中国卫通",
+      "level": "partial",
+      "evidenceSources": [
+        "https://static.cninfo.com.cn/finalpage/2026-04-01/1225067883.PDF"
+      ]
+    },
+    {
+      "id": "002465.SZ",
+      "name": "海格通信",
+      "level": "partial",
+      "evidenceSources": [
+        "https://static.cninfo.com.cn/finalpage/2026-03-28/1225044009.PDF"
+      ]
+    },
+    {
+      "id": "688333.SH",
+      "name": "铂力特",
+      "level": "hidden",
+      "evidenceSources": []
+    },
+    {
+      "id": "600276.SH",
+      "name": "恒瑞医药",
+      "level": "hidden",
+      "evidenceSources": []
+    },
+    {
+      "id": "688506.SH",
+      "name": "百利天恒",
+      "level": "partial",
+      "evidenceSources": [
+        "https://dataclouds.cninfo.com.cn/shgonggao/2024/2024-04-27/0730da7c03ca11ef8a49fa163e26e5de.pdf"
+      ]
+    },
+    {
+      "id": "688331.SH",
+      "name": "荣昌生物",
+      "level": "hidden",
+      "evidenceSources": []
+    },
+    {
+      "id": "688235.SH",
+      "name": "百济神州（历史简称，当前名称待核实）",
+      "level": "hidden",
+      "evidenceSources": []
+    },
+    {
+      "id": "688266.SH",
+      "name": "泽璟制药",
+      "level": "hidden",
+      "evidenceSources": []
+    },
+    {
+      "id": "688180.SH",
+      "name": "君实生物",
+      "level": "hidden",
+      "evidenceSources": []
+    },
+    {
+      "id": "002281.SZ",
+      "name": "光迅科技",
+      "level": "hidden",
+      "evidenceSources": []
+    },
+    {
+      "id": "COHR.NYSE",
+      "name": "Coherent",
+      "level": "partial",
+      "evidenceSources": [
+        "https://www.coherent.com/news/press-releases/coherent-recognized-as-nvidia-ecosystem-innovation-partner"
+      ]
+    },
+    {
+      "id": "LITE.NASDAQ",
+      "name": "Lumentum",
+      "level": "hidden",
+      "evidenceSources": []
+    },
+    {
+      "id": "AAOI.NASDAQ",
+      "name": "Applied Optoelectronics",
+      "level": "hidden",
+      "evidenceSources": []
+    },
+    {
+      "id": "000660.KRX",
+      "name": "SK hynix",
+      "level": "hidden",
+      "evidenceSources": []
+    },
+    {
+      "id": "MU.NASDAQ",
+      "name": "Micron",
+      "level": "partial",
+      "evidenceSources": [
+        "https://www.micron.com/products/memory/hbm"
+      ]
+    },
+    {
+      "id": "005930.KRX",
+      "name": "Samsung Electronics",
+      "level": "hidden",
+      "evidenceSources": []
+    },
+    {
+      "id": "2330.TWSE",
+      "name": "TSMC",
+      "level": "partial",
+      "evidenceSources": [
+        "https://www.tsmc.com/english/dedicatedFoundry/technology/platform_HPC_tech_WLSI"
+      ]
+    },
+    {
+      "id": "688017.SH",
+      "name": "绿的谐波",
+      "level": "hidden",
+      "evidenceSources": []
+    },
+    {
+      "id": "002472.SZ",
+      "name": "双环传动",
+      "level": "hidden",
+      "evidenceSources": []
+    },
+    {
+      "id": "300124.SZ",
+      "name": "汇川技术",
+      "level": "hidden",
+      "evidenceSources": []
+    },
+    {
+      "id": "002050.SZ",
+      "name": "三花智控",
+      "level": "hidden",
+      "evidenceSources": []
+    },
+    {
+      "id": "601689.SH",
+      "name": "拓普集团",
+      "level": "hidden",
+      "evidenceSources": []
+    }
+  ]
+}
