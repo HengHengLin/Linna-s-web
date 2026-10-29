@@ -14,6 +14,7 @@ import Aerospace from './components/Aerospace';
 import IndexResearch from './components/IndexResearch';
 import Cards from './components/Cards';
 import Home from './components/Home';
+import FlowMonitor from './components/FlowMonitor';
 import MarketDashboard from './components/MarketDashboard';
 import {visitorEntries} from './public-visibility';
 import ResearchPage from './components/Research';
@@ -56,6 +57,6 @@ function App() {
     window.scrollTo(0, 0);
     document.querySelector('main h1')?.focus({ preventScroll: true });
   }, [route.page, route.id, entry?.title, entry?.summary]);
-  return <><Header page={route.page}/>{debug && <SyncStatus sync={sync} entries={entries} refresh={refresh}/>}<main id="main-content">{['knowledge','perspectives'].includes(route.page) ? <Knowledge selectedId={route.id} entries={entries}/> : route.page === 'industry' && route.id === 'embodied-ai' ? <EmbodiedAI/> : route.page === 'industry' && route.id === 'biopharma' ? <Biopharma/> : route.page === 'industry' && route.id === 'aerospace' ? <Aerospace/> : route.page === 'index-research' ? <IndexResearch topicId={route.id}/> : route.id && entry ? <Article entry={entry}/> : route.id || !Page ? <section className="container section">{heading('页面未找到', '这条内容暂不可用', '请返回首页，或从研究与英语实验室中选择内容。')}<a className="primary" href={routeUrl('home')}>返回首页</a></section> : <Page key={route.page} entries={entries}/>}</main><footer><div className="container footer-inner"><div><strong>LINNA 研究实验室</strong><p>独立思考，持续学习。</p></div><div><span>以好奇心与 AI 构建</span><p>仅供学习交流 · © {new Date().getFullYear()}</p></div></div></footer></>;
+  return <><Header page={route.page}/>{debug && <SyncStatus sync={sync} entries={entries} refresh={refresh}/>}<main id="main-content">{route.page === 'market-flow' ? <FlowMonitor selectedId={route.id}/> : ['knowledge','perspectives'].includes(route.page) ? <Knowledge selectedId={route.id} entries={entries}/> : route.page === 'industry' && route.id === 'embodied-ai' ? <EmbodiedAI/> : route.page === 'industry' && route.id === 'biopharma' ? <Biopharma/> : route.page === 'industry' && route.id === 'aerospace' ? <Aerospace/> : route.page === 'index-research' ? <IndexResearch topicId={route.id}/> : route.id && entry ? <Article entry={entry}/> : route.id || !Page ? <section className="container section">{heading('页面未找到', '这条内容暂不可用', '请返回首页，或从研究与英语实验室中选择内容。')}<a className="primary" href={routeUrl('home')}>返回首页</a></section> : <Page key={route.page} entries={entries}/>}</main><footer><div className="container footer-inner"><div><strong>LINNA 研究实验室</strong><p>独立思考，持续学习。</p></div><div><span>以好奇心与 AI 构建</span><p>仅供学习交流 · © {new Date().getFullYear()}</p></div></div></footer></>;
 }
 createRoot(document.getElementById('root')).render(<App/>);

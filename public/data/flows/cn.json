@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "market": "cn",
+  "currency": "CNY",
+  "status": "unavailable",
+  "dataAsOf": null,
+  "lastSuccessAt": null,
+  "lastAttemptAt": null,
+  "error": null,
+  "rows": [],
+  "source": {
+    "url": "https://www.sse.com.cn/market/othersdata/margin/detail/"
+  },
+  "reason": "尚未验证可稳定自动获取且允许公开再发布的历史数据接口。"
+}
