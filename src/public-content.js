@@ -7,7 +7,7 @@ export function validateSnapshot(snapshot) {
   for (const x of snapshot.entries) {
     if (!x || !/^[a-z0-9][a-z0-9-]*$/.test(x.id || '') || ids.has(x.id)) throw Error('文章编号无效或重复');
     ids.add(x.id);
-    if (!['research', 'journal', 'lesson', 'weekly', 'briefing', 'topic'].includes(x.kind) || !['demo', 'approved', 'curated'].includes(x.status)) throw Error('非公开内容不得进入网站');
+    if (!['research', 'lesson', 'weekly', 'briefing', 'topic'].includes(x.kind) || !['demo', 'approved', 'curated'].includes(x.status)) throw Error('非公开内容不得进入网站');
     if (['title','summary','category','body'].some(key => typeof x[key] !== 'string' || !x[key].trim()) || !date(x.date) || !Array.isArray(x.tags) || !x.tags.length || x.tags.some(tag=>typeof tag !== 'string')) throw Error('文章字段无效');
     if (!Array.isArray(x.sources) || x.sources.some(s=>!s || typeof s.title !== 'string' || !s.title.trim() || !https(s.url))) throw Error('来源无效');
     for (const key of ['videoUrl','transcriptUrl']) if (x[key] && !https(x[key])) throw Error('链接不安全');

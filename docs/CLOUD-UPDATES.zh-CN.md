@@ -40,3 +40,6 @@ public/content.json 格式是 {"schemaVersion":1,"updatedAt":"含时区 ISO 时�
 当前用户指定的正式站为GitHub Pages（henghenglin.github.io/Linna-s-web/），前端实际发布源为GitHub远程main及pages.yml，不是旧Sites源码仓库。旧Sites站点身份与云端计划可以继续作为历史安排，但不能据此判断GitHub Pages前端版本。
 
 本地已准备同步诊断和CI路径修复，尚未获准生产发布；详见SYNC-AUDIT-2026-10-28.zh-CN.md。部署后纯content/public和public/content.json提交仅验证内容一致性，不整站构建；前端功能更新需在用户确认后移植到实际Pages源并构建部署。六批本地研究开发不得随同步修复整体推送。本文早期状态保留为历史记录，不能当作当前执行状态。
+# 公开改版约束（2026-10-28）
+
+每日英语视频、事实简报与研究选题继续按现有流程生成 curated 公开内容；个人学习总结 journal 和私人交易不得写入公开仓库、public/content.json 或静态资源，需在仓库外本地私有空间另行保存。公开校验器将拒绝 journal；不得以绕过校验、修改类型或删除隐私规则的方式发布。同步诊断仅在本地开发 `?debug=sync` 入口显示，普通访客不展示内部时间、计数、错误详情与重试按钮。焦点刷新、十分钟轮询、版本校验及失败保留已有内容的机制继续使用。

@@ -1,4 +1,4 @@
-export const pages = ['home', 'knowledge', 'perspectives', 'industry', 'index-research', 'research', 'markets', 'english', 'trading', 'portfolio'];
+export const pages = ['home', 'knowledge', 'perspectives', 'industry', 'index-research', 'research', 'markets', 'english', 'portfolio'];
 export function parseRoute(hash) {
   const segments = hash.replace(/^#\/?/, '').split('/');
   if (!segments[0]) return { page: 'home', id: null };
@@ -14,4 +14,4 @@ export function filterEntries(entries, { query = '', category = '', date = '' } 
     (!date || x.date === date) && (!needle || `${x.title} ${x.summary} ${x.category} ${x.tags.join(' ')} ${x.body}`.toLocaleLowerCase().includes(needle)));
 }
 
-export const statusLabel = entry => entry.status === 'demo' ? '演示内容' : entry.status === 'curated' ? (entry.kind === 'topic' ? '推荐选题' : entry.kind === 'briefing' ? '资料简报' : '待学习材料') : '已审核';
+export const statusLabel = entry => entry.status === 'demo' ? '演示内容' : entry.status === 'curated' ? (entry.kind === 'topic' ? '研究选题' : entry.kind === 'briefing' ? '事实简报' : '视频与练习') : '研究文章';

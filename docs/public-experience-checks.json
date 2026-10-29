@@ -1,0 +1,19 @@
+{
+  "checks": [
+    "personal-home",
+    "navigation",
+    "smic-evidence-profile",
+    "hidden-empty-profile",
+    "curated-company-list",
+    "star50",
+    "sse50",
+    "chinext",
+    "knowledge"
+  ],
+  "publicJsonEntries": 57,
+  "visitorEntries": 50,
+  "retiredJournalIdsExcluded": [
+    "j1"
+  ],
+  "browserChecksRecordedSeparately": true
+}

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-29T09:00:00+08:00",
+  "updatedAt": "2026-10-29T02:16:42.295Z",
   "entries": [
     {
       "id": "briefing-2026-10-29",
@@ -1634,22 +1634,6 @@
         }
       ],
       "body": "## 已核验材料\n\nDevcon 官方档案页列出的演讲为 “Rethinking Ethereum’s account model”，讲者 Will Villanueva，类型为 Lightning Talk，时长 8 分 57 秒，活动为 Devcon 7（2024 年 11 月）。页面内含 YouTube 播放器。\n\n档案页没有提供可逐句核验的完整字幕，因此下面不伪造逐字稿，也不标注未经核验的片段时间戳。\n\n## 先懂知识，再听英语\n\n演讲提出的核心张力是：Ethereum 的全局账户状态让许多调用需要触碰共享状态，可能形成串行处理瓶颈；账户中心模型尝试为各账户拆分更确定的状态位置，使一部分 ERC-20 转账或 DEX 调用具备并行处理空间。\n\n这是一项架构主张，不等于已经证明“账户中心模型一定更快、更安全”。研究时还要检查状态一致性、跨账户调用、开发者复杂度与兼容成本。\n\n## 关键词\n\n- account model — 账户模型\n- global state — 全局状态\n- global lock — 全局锁\n- deterministic address — 确定性地址\n- parallel execution — 并行执行\n- state contention — 状态竞争\n- throughput — 吞吐量\n- trade-off — 取舍\n- backward compatibility — 向后兼容\n- security assumption — 安全假设\n\n## 地道表达\n\n以下句子是根据演讲主题编写的输出模板，不是视频原句。\n\n> The proposal reframes scalability as a state-management problem.\n\n> Parallel execution can improve throughput, but it may introduce new coordination costs.\n\n> The key question is whether the performance gain survives real-world contract interactions.\n\n## 三遍精听\n\n1. 第一遍不暂停：只写下 speaker 的问题、方案与结论，各一句英文。\n2. 第二遍允许暂停：记录至少五个技术名词，并用中文解释它们之间的关系。\n3. 第三遍做反方检查：找出讲者的一个隐含假设，并写一句 “This argument depends on ...”。\n\n## 输出练习\n\n用 60 秒英文回答：\n\n“Why might a global account model limit parallel execution, and what new trade-offs could an account-centric model create?”\n\n完成后再把自己的答案交给 ChatGPT 纠错；本条不记录或声称你已经完成。"
-    },
-    {
-      "id": "j1",
-      "kind": "journal",
-      "title": "学习笔记模板：投资逻辑与交易计划",
-      "category": "投资研究",
-      "date": "2026-10-08",
-      "summary": "用自己的语言解释金融概念，并记录问题、表达和输出练习。",
-      "tags": [
-        "学习笔记",
-        "投资研究"
-      ],
-      "status": "demo",
-      "oneLine": "演示：练习区分投资逻辑、交易执行与组合风险，并用英文解释各自的失效条件。",
-      "sources": [],
-      "body": "## 今天聊了什么\n\n这是学习档案的展示模板，不是真实对话记录。示例主题是投资逻辑、交易执行与组合风险的区别。\n\n## 今天学到了什么\n\n- 分别整理公司价值、交易执行与组合风险相关的问题\n- 将资料来源和自己的理解分开记录\n\n## 需要纠正与巩固的地方\n\n此处等待真实总结。只记录讨论中明确发现的问题与相应解释，不凭空判断 Linna 做错了什么。\n\n## 金融词汇与英文表达\n\n- Investment thesis — 投资逻辑\n- Invalidation — 失效条件\n- Opportunity cost — 机会成本\n\n> A change in price does not automatically imply a change in intrinsic value.\n\n## 详细学习总结\n\n真正的每日档案会根据你发来的 ChatGPT 总结整理。它可以记录知识理解、疑问和学习方法；尚未确认的投资观点不会自动变成研究结论。\n\n## 下一步练习\n\n用英文解释投资逻辑与交易计划的区别，练习时长约 60 秒。\n\n## 尚未解决的问题\n\n等待实际学习后补充资料不足、需要核验或希望继续讨论的问题。"
     },
     {
       "id": "l1",
