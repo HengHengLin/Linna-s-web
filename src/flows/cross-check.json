@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "checkedDate": "2026-10-29",
+  "source": "https://farside.co.uk/btc/",
+  "method": "人工核对公开页面的可读快照，非自动数据接入",
+  "automatedAccess": "本地直接请求返回 HTTP 403；未绕过访问限制，未配置自动抓取。",
+  "unit": "USD millions",
+  "precisionDecimals": 1,
+  "scope": "仅抽查 2026-10-26 至 2026-10-28 的总额及部分基金，不代表全历史核验。TFTC 的部分历史沿用 Farside，二者并非完全独立来源。",
+  "observations": [
+    {"date":"2026-10-26","field":"total","valueMillions":110.3},
+    {"date":"2026-10-27","field":"total","valueMillions":176.0},
+    {"date":"2026-10-27","field":"IBIT","valueMillions":151.5},
+    {"date":"2026-10-27","field":"FBTC","valueMillions":24.5},
+    {"date":"2026-10-28","field":"total","valueMillions":137.3},
+    {"date":"2026-10-28","field":"IBIT","valueMillions":136.0},
+    {"date":"2026-10-28","field":"BITB","valueMillions":1.3}
+  ]
+}

@@ -5,6 +5,7 @@ on:
     paths-ignore:
       - 'content/public/**'
       - 'public/content.json'
+      - 'public/data/flows/**'
   workflow_dispatch:
 permissions:
   contents: read
@@ -26,6 +27,7 @@ jobs:
           node-version: 22
           cache: npm
       - run: npm ci
+      - run: node scripts/verify-flows.mjs
       - run: npm test
       - run: npm run build -- --base=/Linna-s-web/
       - uses: actions/configure-pages@v5
