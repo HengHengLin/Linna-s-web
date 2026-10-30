@@ -1,9 +1,9 @@
 name: Test and build
 on:
   push:
-    paths-ignore: ['content/public/**', 'public/content.json', 'public/data/flows/**']
+    paths-ignore: ['content/public/**', 'public/content.json', 'public/data/flows/**', 'content/reading/**', 'public/reading.json', 'src/reading.generated.json']
   pull_request:
-    paths-ignore: ['content/public/**', 'public/content.json', 'public/data/flows/**']
+    paths-ignore: ['content/public/**', 'public/content.json', 'public/data/flows/**', 'content/reading/**', 'public/reading.json', 'src/reading.generated.json']
 jobs:
   verify:
     runs-on: ubuntu-latest
@@ -16,4 +16,5 @@ jobs:
       - run: npm ci
       - run: node scripts/verify-flows.mjs
       - run: npm test
+      - run: node scripts/check-reading-render.mjs
       - run: npm run build

@@ -4,6 +4,9 @@ on:
     # After TFTC's 02:00 / 10:00 UTC refresh. US prior-session days, DST handled in code.
     - cron: '25 2,10 * * 2-6'
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/flows.yml', 'scripts/update-flows.mjs', 'src/flows/**']
 permissions:
   contents: write
 concurrency:
