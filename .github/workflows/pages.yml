@@ -3,6 +3,9 @@ on:
   push:
     branches: [main]
     paths-ignore:
+      - 'content/reading/**'
+      - 'public/reading.json'
+      - 'src/reading.generated.json'
       - 'content/public/**'
       - 'public/content.json'
       - 'public/data/flows/**'
@@ -29,6 +32,7 @@ jobs:
       - run: npm ci
       - run: node scripts/verify-flows.mjs
       - run: npm test
+      - run: node scripts/check-reading-render.mjs
       - run: npm run build -- --base=/Linna-s-web/
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3

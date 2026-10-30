@@ -1,0 +1,45 @@
+name: Validate and publish reading notes
+on:
+  pull_request:
+    paths: ['content/reading/**', 'public/reading.json', 'src/reading/**', 'scripts/reading.mjs', '.github/workflows/reading.yml']
+  push:
+    branches: [main]
+    paths: ['content/reading/**', 'scripts/reading.mjs', 'src/reading/schema.js', '.github/workflows/reading.yml']
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: reading-notes-${{ github.event_name }}-${{ github.ref }}
+  cancel-in-progress: false
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: node scripts/reading.mjs
+  publish:
+    if: github.event_name != 'pull_request'
+    needs: validate
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: |
+          node scripts/reading.mjs
+          git add public/reading.json
+          if git diff --cached --quiet; then exit 0; fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'content: refresh public reading notes snapshot'
+          git pull --rebase origin main
+          git push origin HEAD:main

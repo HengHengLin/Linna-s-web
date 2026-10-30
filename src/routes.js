@@ -1,4 +1,4 @@
-export const pages = ['market-flow', 'home', 'knowledge', 'perspectives', 'industry', 'index-research', 'research', 'markets', 'english', 'portfolio'];
+export const pages = ['reading', 'market-flow', 'home', 'knowledge', 'perspectives', 'industry', 'index-research', 'research', 'markets', 'english', 'portfolio'];
 export function parseRoute(hash) {
   const segments = hash.replace(/^#\/?/, '').split('/');
   if (!segments[0]) return { page: 'home', id: null };

@@ -55,3 +55,8 @@ npm run preview
 新增 `#/market-flow` 与 `#/market-flow/btc`。BTC 使用带署名的 TFTC CC BY 4.0 公开 JSON；A 股六个标的暂为来源入口与明确空数据，尚未接通历史行情。数据、授权、日历、更新和验收限制见 [市场资金监测说明](docs/MARKET-FLOW.zh-CN.md)。本轮未推送或部署。
 
 本轮补强：BTC 快照截至 2026-10-28，共 702 个交易日；新增基金 5/20 日比较、单基金历史图、Farside 抽查、交易日缺口保护与修订记录。A 股仍待合适授权和账户后实测，不能称为已接通。[本地 PR 草稿](docs/MARKET-FLOW-PR-DRAFT.zh-CN.md)，未推送或部署。
+
+
+## 读书笔记
+
+公开入口：`#/reading`。书籍以 `content/reading/*.md` 管理；新增书籍无需修改页面代码。流程、隐私边界与自动数据发布见 [读书笔记管理](docs/READING.zh-CN.md)。正式 GitHub Pages：https://henghenglin.github.io/Linna-s-web/ 。
