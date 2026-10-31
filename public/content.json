@@ -1,7 +1,77 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-30T09:02:00+08:00",
+  "updatedAt": "2026-10-31T09:03:00+08:00",
   "entries": [
+    {
+      "id": "briefing-2026-10-31",
+      "kind": "briefing",
+      "title": "今日事实简报：美国 PCE、ExxonMobil 现金流与 SEC 代币化证券豁免",
+      "category": "每日财经简报",
+      "date": "2026-10-31",
+      "summary": "基于 BEA、ExxonMobil 与 SEC 的正式材料，核对美国 9 月收入、消费和 PCE 通胀，ExxonMobil 三季度盈利与现金流，以及代币化 NMS 股票交易场所临时有条件豁免的适用边界。",
+      "tags": [
+        "宏观",
+        "美国PCE",
+        "通胀",
+        "个人收入",
+        "ExxonMobil",
+        "能源",
+        "现金流",
+        "Crypto",
+        "RWA",
+        "代币化证券",
+        "SEC"
+      ],
+      "status": "curated",
+      "ownerViewpoint": false,
+      "sourceVerified": true,
+      "updatedAt": "2026-10-31T09:03:00+08:00",
+      "sources": [
+        {
+          "title": "U.S. BEA：Personal Income and Outlays, September 2026",
+          "url": "https://www.bea.gov/news/2026/personal-income-and-outlays-september-2026"
+        },
+        {
+          "title": "ExxonMobil：Third-Quarter 2026 Results",
+          "url": "https://investor.exxonmobil.com/company-information/press-releases/detail/1213/exxonmobil-announces-third-quarter-2026-results"
+        },
+        {
+          "title": "U.S. SEC：Innovation Exemption",
+          "url": "https://www.sec.gov/about/divisions-offices/division-trading-markets/innovation-exemption"
+        }
+      ],
+      "body": "## 更新时间\n\n北京时间 2026 年 10 月 31 日 09:03。以下仅摘要已发布事实，不包含实时价格、买卖建议或 Linna 的个人观点。\n\n## 宏观：美国 9 月名义消费继续增长，但实际消费近乎持平\n\n美国经济分析局于 2026 年 10 月 29 日发布 9 月个人收入与支出数据：个人收入环比增加 545 亿美元、增幅 0.2%；可支配个人收入增加 527 亿美元、增幅 0.2%；个人消费支出（PCE）增加 1,131 亿美元、增幅 0.5%。个人储蓄为 9,111 亿美元，储蓄率为 3.8%。\n\n价格因素解释了名义与实际消费的差异：9 月 PCE 价格指数环比上涨 0.5%，核心 PCE 环比上涨 0.3%；同比增幅分别为 3.6% 和 3.1%。实际 PCE 环比增幅低于 0.1%，实际可支配收入环比下降 0.3%。名义 PCE 的增量中，商品为 351 亿美元，服务为 781 亿美元。\n\n解释边界：月度环比与同比不能混用；“实际 PCE 近乎持平”不等同于所有消费类别都下降。BEA 会在后续发布中修订数据，当前页面也说明下一次发布后链接会反映新估计。高于收入增速的名义消费与较低储蓄率值得观察，但单月数据不足以证明家庭资产负债表已出现趋势性恶化。\n\n## 股票：ExxonMobil 三季度现金创造强劲，调整后口径与油价周期仍需拆开看\n\nExxonMobil 于 2026 年 10 月 30 日公布第三季度结果：GAAP 盈利 154.13 亿美元、每股 3.72 美元；调整后盈利 175.05 亿美元、每股 4.23 美元。经营活动现金流为 256.50 亿美元，自由现金流为 191.09 亿美元。股东分配合计 94 亿美元，其中股息 43 亿美元、股票回购 51 亿美元。\n\n分部层面，上游盈利 70.88 亿美元，能源产品盈利 71.69 亿美元，化工产品 7.35 亿美元，特种产品 12.85 亿美元；上游产量为 449.6 万桶油当量/日。公司还披露年初至今净债务减少近 110 亿美元，并把 2027 年计划回购金额列为 200 亿美元，但注明需以合理市场条件为前提。\n\n口径边界：调整后盈利和自由现金流均为公司定义的非 GAAP 指标，不能替代 GAAP 净利润或经营现金流；自由现金流包含投资活动项目和重大项目非控股权益流入的特定处理。单季炼化利润可能受产品裂解价差、检修和地区供需影响，上游盈利也对油气价格敏感。2027 年回购是前瞻计划，不是已经完成的现金返还。\n\n## Crypto / RWA：SEC 的“创新豁免”是临时、有条件的合规路径，不是对平台的背书\n\nSEC 交易与市场部页面显示，相关命令于 2026 年 9 月 17 日向特定 Tokenized Securities Venues（TSV）提供暂时且有条件的豁免，使其在满足条件时可免于《证券交易法》“交易所”定义的部分要求；范围涉及用于代币化 NMS 股票的特定分布式账本交易场所。页面于 10 月 20 日上线并在 10 月 26 日更新。\n\n拟依豁免运营的 TSV 至少要提前 30 个日历日在公开网站发布规定通知，并在发布后一个工作日内另行通知 SEC。页面当时列出 TSV LLC、OKXICE TSV 和 Kephas Corporation d/b/a Perpetuals.com 三个已提交意向通知的主体。\n\n解释边界：SEC 明确说，出现在名单中不代表该主体一定符合 TSV 定义或豁免条件，也不代表 SEC 员工认可通知内容的准确性或项目优劣。临时有条件豁免并非对所有代币化股票、平台或流动性提供者的普遍批准；底层证券权利、托管、转让、结算、披露和投资者保护仍须按具体命令、适用法律和平台安排逐项核对。"
+    },
+    {
+      "id": "lesson-2026-10-31-fintech-opportunities-risks",
+      "kind": "lesson",
+      "title": "今日金融英语：Fintech 降低门槛之后，风险真的消失了吗？",
+      "category": "金融市场英语",
+      "date": "2026-10-31",
+      "summary": "用 IMF 官方 2 分 39 秒英文视频建立 fintech、financial inclusion、payment rails、alternative data、regulatory perimeter 与 operational resilience 的表达框架。",
+      "tags": [
+        "金融英语",
+        "IMF",
+        "Fintech",
+        "金融科技",
+        "普惠金融",
+        "支付",
+        "风控",
+        "监管"
+      ],
+      "status": "curated",
+      "ownerViewpoint": false,
+      "sourceVerified": true,
+      "videoUrl": "https://www.imf.org/en/videos/view/5733701151001",
+      "duration": "视频 2 分 39 秒；建议练习 15 分钟",
+      "sources": [
+        {
+          "title": "IMF：Analyze This: Fintech",
+          "url": "https://www.imf.org/en/videos/view/5733701151001"
+        }
+      ],
+      "body": "## 已核验材料\n\nIMF 官方视频页 “Analyze This: Fintech” 标注发布于 2018 年 2 月 14 日、时长 2 分 39 秒。页面把 cryptocurrency、smartphones、mobile banking 和 investment services 列为金融科技范畴，并说明视频讨论 fintech 为未来带来的机会与挑战。\n\n页面没有提供可逐句核验的完整字幕，因此本条不复制或伪造逐字引文，也不编造时间戳；以下知识说明和英文表达是基于金融中介、支付与监管框架整理的学习材料。\n\n## 先懂知识，再听英语\n\nFintech 不是单一产品，而是技术对支付、存款、借贷、投资、保险和合规流程的重新组合。移动端可以降低开户与交易成本，payment rails 和 API 可以加快信息与资金流动，alternative data 也可能帮助缺少传统征信记录的人获得服务。这些变化常被概括为 financial inclusion。\n\n但“数字化”不会消除底层金融风险。贷款平台仍面对 credit risk，投资应用仍面对 market risk，期限错配仍可能产生 liquidity risk。技术还会带来新的 operational risk：云服务中断、网络攻击、欺诈、算法偏差、数据泄露，以及第三方服务商过度集中。\n\nRegulatory perimeter 指哪些活动、实体或产品落入监管范围。当相似金融功能由银行、科技公司或去中心化协议提供时，如果只按机构名称而不是经济功能监管，就可能产生监管套利。更稳健的分析要同时问：谁持有客户资产、谁承担损失、资金如何结算、数据如何使用、出现故障时谁负责。\n\nNetwork effects 可以让优质平台迅速扩大覆盖，也可能形成赢家通吃和单点故障。普惠程度因此不能只看下载量或账户数，还要看收费透明度、申诉机制、隐私保护、服务连续性，以及用户是否真正理解产品风险。\n\n## 关键词\n\n- fintech — 金融科技\n- financial inclusion — 普惠金融\n- digital wallet — 数字钱包\n- payment rails — 支付基础设施\n- peer-to-peer lending — 点对点借贷\n- robo-adviser — 智能投顾\n- alternative data — 替代数据\n- credit underwriting — 信贷承保与审批\n- regulatory perimeter — 监管边界\n- operational resilience — 运营韧性\n- cyber risk — 网络风险\n- data privacy — 数据隐私\n- liquidity mismatch — 流动性错配\n- consumer protection — 消费者保护\n- network effects — 网络效应\n\n## 地道表达\n\n以下句子根据金融科技机制改写，用于输出练习，不冒充视频逐字引文。\n\n> Fintech can lower the cost of access without eliminating the underlying financial risk.\n\n> Alternative data may broaden credit access, but it can also reproduce hidden bias.\n\n> Regulation works best when it follows the economic function, not just the label of the provider.\n\n> Operational resilience matters most when a digital service becomes critical infrastructure.\n\n## 三步练习\n\n1. 第一遍只记录视频列出的 fintech 应用，并判断它们属于支付、借贷、投资还是基础设施。\n2. 第二遍用英文各说一个 opportunity 和一个 challenge，尽量不用泛泛的 “good” 或 “bad”。\n3. 第三遍选择一种数字金融产品，说明客户资产由谁保管、谁承担信用风险、出现中断时谁负责。\n\n## 输出练习\n\n用 90 秒英文回答：\n\n“How can fintech improve financial inclusion without weakening consumer protection?”\n\n回答时至少使用 payment rails、alternative data、regulatory perimeter、operational resilience、data privacy、network effects 六个词。本条不记录或声称你已经完成学习。"
+    },
     {
       "id": "briefing-2026-10-30",
       "kind": "briefing",
