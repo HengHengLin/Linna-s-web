@@ -1,7 +1,109 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-01T09:02:00+08:00",
+  "updatedAt": "2026-11-02T09:04:00+08:00",
   "entries": [
+    {
+      "id": "briefing-2026-11-02",
+      "kind": "briefing",
+      "title": "今日事实简报：欧元区就业、Alphabet AI 增长与 Coinbase 链上业务指标",
+      "category": "每日财经简报",
+      "date": "2026-11-02",
+      "summary": "基于 Eurostat、Alphabet SEC 附件与 Coinbase 投资者材料，核对欧元区 9 月失业率、Alphabet 三季度收入与 AI/Cloud 增长，以及 Coinbase 交易份额、平台资产和 USDC 指标的定义边界。",
+      "tags": [
+        "宏观",
+        "欧元区",
+        "失业率",
+        "Alphabet",
+        "Google Cloud",
+        "AI",
+        "Crypto",
+        "Coinbase",
+        "USDC",
+        "交易量"
+      ],
+      "status": "curated",
+      "ownerViewpoint": false,
+      "sourceVerified": true,
+      "updatedAt": "2026-11-02T09:04:00+08:00",
+      "sources": [
+        {
+          "title": "Eurostat：Euro area unemployment at 6.5%",
+          "url": "https://ec.europa.eu/eurostat/en/web/products-euro-indicators/w/3-30102026-bp"
+        },
+        {
+          "title": "U.S. SEC EDGAR：Alphabet Announces Third Quarter 2026 Results",
+          "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/googexhibit991q32026.htm"
+        },
+        {
+          "title": "Coinbase：Q3 2026 Earnings Highlights",
+          "url": "https://investor.coinbase.com/news/news-details/2026/Coinbase-Q3-2026-Earnings-Show-All-time-high-Coinbase-One-Subscribers-and-Prediction-Markets-Surpassing-200-Million-in-Annualized-Revenue/default.aspx"
+        }
+      ],
+      "body": "## 更新时间\n\n北京时间 2026 年 11 月 2 日 09:04。以下仅摘要已发布事实，不包含实时价格、买卖建议或 Linna 的个人观点。\n\n## 宏观：欧元区 9 月失业率环比持平，但同比与青年失业率均上升\n\nEurostat 于 2026 年 10 月 30 日发布数据：9 月欧元区季调失业率为 6.5%，与 8 月持平，高于上年同期的 6.3%；欧盟失业率为 6.2%，同样环比持平，高于上年同期的 6.0%。Eurostat 估计，欧盟失业人口为 1,377.3 万，其中欧元区为 1,155.5 万；较 8 月分别增加 10.5 万和 12.2 万。\n\n25 岁以下青年失业率在欧盟为 15.5%，高于 8 月的 15.4%；欧元区为 15.4%，高于 15.1%。青年失业人数在欧盟为 302.2 万，在欧元区为 246.9 万。欧元区女性失业率为 6.7%，男性为 6.4%。\n\n解释边界：失业率按国际劳工组织口径统计——没有工作、过去四周积极求职且未来两周可上岗；它不等于“没有工作的人占全部人口的比例”，也不包括所有想工作但未积极求职的人。Eurostat 已把 8 月欧盟和欧元区失业率各上修 0.1 个百分点，说明季调序列会随新增月度数据修订。单月环比持平也不能抵消同比走弱或青年就业压力。\n\n## 股票：Alphabet 收入与 Cloud 高速增长，但投资损失、融资和收入质量要分开看\n\nAlphabet 于 2026 年 10 月 28 日披露第三季度结果：收入 1,275.77 亿美元，同比增长 25%；营业利润 405.76 亿美元，同比增长 30%，营业利润率约 31.8%。Google Services 收入 963.02 亿美元，同比增长 11%；Google Cloud 收入 307.09 亿美元，同比增长 103%，Cloud 营业利润 111.21 亿美元。\n\n净利润为 261.70 亿美元，摊薄每股收益 2.12 美元，低于上年同期的 349.79 亿美元和 2.87 美元。公司披露，本季度权益证券净损失 87 亿美元，使税后净利润减少约 67 亿美元、每股收益减少约 0.55 美元。同期公司通过 at-the-market 计划发行 Class A 与 Class C 股票，净融资合计 124 亿美元，并发行高级无担保票据净融资 287 亿美元。\n\n解释边界：Cloud 的 103% 增长包含企业 AI 基础设施、AI 解决方案、核心 GCP 服务以及 TPU 系统销售，不能把全部增量都视为同质、可重复的云订阅收入。权益证券公允价值波动显著影响净利润，因此营业利润与净利润方向不同。股票和债券融资扩大了现金来源，也分别带来潜在稀释与利息/偿债义务；“AI 使用量增长”是业务活动指标，不等于相同比例的利润或现金流增长。\n\n## Crypto：Coinbase 披露交易份额和 USDC 余额新高，但这些仍是公司口径的业务指标\n\nCoinbase 于 2026 年 10 月 29 日披露三季度数据：GAAP 净利润 7.19 亿美元，调整后净利润 7,800 万美元，调整后 EBITDA 3.33 亿美元。公司称其 Crypto Trading Volume Market Share 达到 10.7%，连续第四个季度上升；平台资产占其定义的加密市场总市值 12.5%。\n\n公司还称，Coinbase 产品中的平均 USDC 持有量达到 220 亿美元，同比增长 49%；订阅与服务收入占净收入 49%。预测市场“年化收入”超过 2 亿美元，付费 Coinbase One 订阅者同比增长 24%。衍生品交易量过去两年的复合年增长率为 179%。\n\n解释边界：交易份额、平台资产占比和“平均 USDC 持有量”均为公司披露口径，需结合其计算方法、产品范围和市场数据来源理解；它们不是独立的全行业统计。平台资产会受币价、客户净流入和托管范围共同影响，不能只归因于用户增长。年化收入是把当前运行水平外推，不是已经实现的全年收入；调整后净利润和 EBITDA 也不能替代 GAAP 净利润。USDC 在产品中的余额不等同于 Coinbase 自有现金或 Circle 储备规模。"
+    },
+    {
+      "id": "lesson-2026-11-02-inflation-expectations",
+      "kind": "lesson",
+      "title": "今日金融英语：Inflation 是价格上涨，还是购买力与预期的共同变化？",
+      "category": "金融市场英语",
+      "date": "2026-11-02",
+      "summary": "用 IMF 官方 5 分 41 秒英文视频理解 broad-based price increases、headline/core inflation、purchasing power、inflation expectations、real interest rate 与 policy lag。",
+      "tags": [
+        "金融英语",
+        "IMF",
+        "通胀",
+        "购买力",
+        "利率",
+        "预期",
+        "货币政策"
+      ],
+      "status": "curated",
+      "ownerViewpoint": false,
+      "sourceVerified": true,
+      "videoUrl": "https://www.imf.org/en/videos/view/6308816839112",
+      "duration": "视频 5 分 41 秒；建议练习 18 分钟",
+      "sources": [
+        {
+          "title": "IMF：What is Inflation? | Ask an Economist",
+          "url": "https://www.imf.org/en/videos/view/6308816839112"
+        },
+        {
+          "title": "IMF Finance & Development：Inflation: Prices on the Rise",
+          "url": "https://www.imf.org/en/publications/fandd/issues/series/back-to-basics/inflation"
+        }
+      ],
+      "body": "## 已核验材料\n\nIMF 官方视频页 “What is Inflation? | Ask an Economist” 标注发布于 2022 年 6 月 11 日、时长 5 分 41 秒，主题是通胀是什么、为什么发生，以及政府可以采取什么措施。配套的 IMF Finance & Development 文章说明了 CPI、核心通胀、购买力、需求拉动与成本推动通胀以及预期的作用。\n\n视频页面没有提供可逐句核验的完整字幕，因此本条不复制或伪造逐字引文，也不编造时间戳；以下知识说明和英文表达基于已核验页面整理。\n\n## 先懂知识，再听英语\n\nInflation 指一篮子商品和服务价格的广泛、持续上升，不是某一种商品因短缺而单独涨价。Headline inflation 覆盖完整消费篮子；core inflation 通常剔除食品和能源等波动较大的项目，用来观察更持久的价格压力，但它并不表示家庭可以忽略食品和能源支出。\n\n当名义工资增速低于物价增速，purchasing power 和 real income 会下降。固定利率借款人的债务实际负担可能被通胀侵蚀，而固定收入者和贷款人可能受损，因此通胀也会重新分配购买力。\n\nDemand-pull inflation 出现在总需求超过经济供给能力时；cost-push inflation 则来自能源、原材料、运输或生产中断等成本冲击。现实中两者可以同时发生，政策判断不能只用一个标签。\n\nInflation expectations 会进入工资谈判、定价与合同。如果企业和家庭相信高通胀会持续，他们可能提前提价或要求更高工资，使通胀更有惯性。央行因此不仅调整利率，也重视政策信誉与沟通。\n\nReal interest rate 近似等于名义利率减去预期通胀。名义利率上升不一定意味着金融条件已经真正收紧；还要看通胀预期、信贷标准、资产价格和汇率。货币政策也存在 policy lag，过早判断效果可能误读数据。\n\n## 关键词\n\n- inflation — 通货膨胀\n- broad-based price increase — 广泛价格上涨\n- consumer price index (CPI) — 消费者价格指数\n- consumption basket — 消费篮子\n- headline inflation — 总体通胀\n- core inflation — 核心通胀\n- purchasing power — 购买力\n- real income — 实际收入\n- demand-pull inflation — 需求拉动型通胀\n- cost-push inflation — 成本推动型通胀\n- inflation expectations — 通胀预期\n- wage-price dynamics — 工资—价格动态\n- real interest rate — 实际利率\n- monetary tightening — 货币紧缩\n- policy lag — 政策时滞\n\n## 地道表达\n\n以下句子根据 IMF 的解释框架改写，用于输出练习，不冒充视频逐字引文。\n\n> Inflation is a broad-based increase in prices, not a one-off jump in a single item.\n\n> Purchasing power falls when nominal income fails to keep pace with the cost of living.\n\n> Inflation expectations can become embedded in wage and price-setting decisions.\n\n> Monetary tightening works with a lag, so policymakers must distinguish persistence from noise.\n\n## 三步练习\n\n1. 第一遍只记录讲者如何定义 inflation，以及哪些例子不构成广泛通胀。\n2. 第二遍把原因分成 demand、supply 和 expectations 三栏，写下每栏的传导路径。\n3. 第三遍用英文解释为什么 headline inflation 下降时，core inflation 和家庭体感仍可能不同。\n\n## 输出练习\n\n用 90 秒英文回答：\n\n“Why can inflation persist after the original shock has faded, and how should policymakers respond?”\n\n回答时至少使用 purchasing power、core inflation、cost-push inflation、inflation expectations、real interest rate、policy lag 六个词。本条不记录或声称你已经完成学习。"
+    },
+    {
+      "id": "weekly-2026-11-02-money-internet-era",
+      "kind": "weekly",
+      "title": "本周 Crypto 英语精听：Stablecoins 与 Tokenized Assets 真能成为“互联网时代的货币”吗？",
+      "category": "Crypto 英语",
+      "date": "2026-11-02",
+      "summary": "用 Ethereum Foundation Devcon Archive 收录的 31 分 12 秒主题演讲，精听 stablecoin rails、tokenized assets、onchain liquidity、composability、collateral 与 regulatory perimeter，并用反方框架检查行业叙事。",
+      "tags": [
+        "金融英语",
+        "Crypto",
+        "Ethereum",
+        "DeFi",
+        "Aave",
+        "Stablecoin",
+        "RWA",
+        "Tokenization"
+      ],
+      "status": "curated",
+      "ownerViewpoint": false,
+      "sourceVerified": true,
+      "videoUrl": "https://archive.devcon.org/devconnect-arg/money-for-the-internet-era-by-stani-kulechov-defi-today-devconnect-arg/",
+      "duration": "31 分 12 秒",
+      "sources": [
+        {
+          "title": "Ethereum Foundation Devcon Archive：Money for the Internet Era by Stani Kulechov",
+          "url": "https://archive.devcon.org/devconnect-arg/money-for-the-internet-era-by-stani-kulechov-defi-today-devconnect-arg/"
+        }
+      ],
+      "body": "## 已核验材料\n\nEthereum Foundation 的 Devcon Archive 收录 Stani Kulechov（Aave Labs 创始人）主题演讲 “Money for the Internet Era: Stablecoins & Tokenized Assets”，标注为 Talk、时长 31 分 12 秒。官方页面说明演讲讨论稳定币与代币化资产，并提供视频播放器。\n\n官方档案页没有提供可逐句核验的完整 transcript，且页面日期字段与搜索索引曾出现不一致，因此本条不编造逐字引文、具体内容时间戳或精确活动日期。以下听前框架、表达和反方问题用于帮助核验演讲论证，不代表 Linna 赞同讲者观点。\n\n## 听前知识：先把“互联网货币”拆成五个问题\n\n第一，stablecoin 是什么负债或权利？法币储备型稳定币通常是对发行体系的赎回请求，而不是央行货币本身。需要核对 reserve assets、redemption terms、banking partners 和 bankruptcy treatment。\n\n第二，tokenized asset 是否对应可执行的 underlying claim？链上 token 可以代表证券、基金、存款或其他资产，但投资者权利仍由发行、登记、托管和适用法律决定。技术可转移性不自动等于法律所有权最终性。\n\n第三，onchain liquidity 从哪里来？自动做市商可以提供连续报价，但深度、滑点和可承受规模取决于真实资本、套利通道、预言机和跨市场连接。高 TVL 不必然等于压力情景下仍可成交。\n\n第四，composability 是效率还是传染渠道？协议可组合能减少重复接入，却也会把抵押品、预言机、桥、清算人和治理密钥连接成依赖图。一个组件失效可能沿抵押和流动性链条扩散。\n\n第五，收益由谁支付？Stablecoin 或 tokenized asset 的 yield 可能来自短期国债、借款人利息、流动性激励、杠杆或期限/信用风险。把来源说清楚，才能区分可持续现金流与补贴。\n\n## 精听任务\n\n### 第一遍：抓取主张\n\n不停顿听完整演讲，记录讲者对 stablecoins、tokenized assets 和 DeFi 各提出了什么价值主张。每条主张旁边标注它属于支付、储蓄、信贷、交易、结算还是资产管理。\n\n### 第二遍：画出机制\n\n重听与资金流相关的部分，画出五列：issuer、reserve/collateral、holder、protocol、redemption/exit。若讲者使用 “open”“global”“instant” 或 “permissionless”等词，记录其成立需要哪些前提。\n\n### 第三遍：做反方验证\n\n对每个行业主张提出一个反方解释：增长是否来自补贴？流动性是否集中在少数做市商？收益是否包含信用或期限风险？链上结算是否仍依赖链下银行、托管人和法律登记？把“技术可行”与“规模化、合规、抗压”分开。\n\n## 关键词\n\n- stablecoin rails — 稳定币支付轨道\n- tokenized asset — 代币化资产\n- underlying claim — 底层权利\n- reserve assets — 储备资产\n- redemption — 赎回\n- onchain liquidity — 链上流动性\n- composability — 可组合性\n- collateral — 抵押品\n- overcollateralized lending — 超额抵押借贷\n- liquidation — 清算\n- oracle dependency — 预言机依赖\n- liquidity fragmentation — 流动性碎片化\n- regulatory perimeter — 监管边界\n- bankruptcy remoteness — 破产隔离\n- protocol revenue — 协议收入\n\n## 地道表达\n\n以下句子根据主题和风险框架整理，不冒充演讲逐字引文。\n\n> Stablecoins can move value at internet speed, but redemption still depends on institutions and legal claims.\n\n> Tokenization improves transferability only when the underlying ownership rights are enforceable.\n\n> Composability reduces integration costs while increasing dependency across protocols.\n\n> Yield should be traced back to the borrower, the reserve asset, or the incentive budget.\n\n## 输出练习\n\n用 2 分钟英文回答：\n\n“What would have to be true for stablecoins and tokenized assets to become durable financial infrastructure?”\n\n回答时至少使用 redemption、underlying claim、onchain liquidity、composability、regulatory perimeter、bankruptcy remoteness 六个词，并给出一个支持论点和一个反方解释。本条不记录或声称你已经完成精听。"
+    },
     {
       "id": "briefing-2026-11-01",
       "kind": "briefing",
