@@ -4,10 +4,10 @@
   "currency": "USD",
   "status": "ok",
   "error": null,
-  "lastAttemptAt": "2026-11-03T09:41:56.643Z",
-  "lastSuccessAt": "2026-11-03T09:41:56.643Z",
-  "dataAsOf": "2026-10-30",
-  "providerModifiedAt": "2026-10-30T22:00:00Z",
+  "lastAttemptAt": "2026-11-03T17:55:20.993Z",
+  "lastSuccessAt": "2026-11-03T17:55:20.993Z",
+  "dataAsOf": "2026-11-02",
+  "providerModifiedAt": "2026-11-02T22:00:00Z",
   "source": {
     "url": "https://www.tftc.io/bitcoin-etf-flows",
     "dataUrl": "https://www.tftc.io/bitcoin-etf-flows/data.json",
@@ -20,7 +20,7 @@
     "excludedHolidayRows": 16,
     "notes": "第三方汇总；逐基金历史可能有缺口，供应商不追溯修订已存逐基金拆分。总额包含首批十只之外的基金。",
     "incompleteDates": [],
-    "expectedSessions": 704
+    "expectedSessions": 705
   },
   "rows": [
     {
@@ -13419,6 +13419,26 @@
         "IBIT": -233701200,
         "MSBT": 0
       }
+    },
+    {
+      "date": "2026-11-02",
+      "netFlowUsd": -398617353.4,
+      "btcCloseUsd": 76657,
+      "totalNetAssetsUsd": 98124458163.02667,
+      "perEtfUsd": {
+        "BTC": 0,
+        "ARKB": 0,
+        "BITB": 0,
+        "BRRR": 0,
+        "BTCO": 0,
+        "BTCW": 0,
+        "EZBC": 0,
+        "FBTC": 6681486.6,
+        "GBTC": 0,
+        "HODL": 0,
+        "IBIT": -405298840,
+        "MSBT": 0
+      }
     }
   ],
   "revisions": [
@@ -13438,6 +13458,13 @@
     },
     {
       "checkedAt": "2026-10-31T15:47:02.679Z",
+      "added": 1,
+      "revisedFields": 0,
+      "changes": [],
+      "truncated": false
+    },
+    {
+      "checkedAt": "2026-11-03T17:55:20.993Z",
       "added": 1,
       "revisedFields": 0,
       "changes": [],
