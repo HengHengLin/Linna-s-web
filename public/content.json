@@ -1,7 +1,82 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-04T09:01:00+08:00",
+  "updatedAt": "2026-11-05T09:02:00+08:00",
   "entries": [
+    {
+      "id": "briefing-2026-11-05",
+      "kind": "briefing",
+      "title": "今日事实简报：美国信贷标准、Qualcomm 汽车芯片与 Circle 收入结构",
+      "category": "每日财经简报",
+      "date": "2026-11-05",
+      "summary": "基于美联储 SLOOS、Qualcomm 官方财报与 Circle 官方财报，核对美国银行信贷供需、手机与汽车芯片收入分化，以及 USDC 规模、储备收益与一次性代币收入。",
+      "tags": [
+        "宏观",
+        "美国信贷",
+        "SLOOS",
+        "Qualcomm",
+        "半导体",
+        "汽车芯片",
+        "AI",
+        "Crypto",
+        "USDC",
+        "Stablecoin",
+        "Circle",
+        "储备收益"
+      ],
+      "status": "curated",
+      "ownerViewpoint": false,
+      "sourceVerified": true,
+      "updatedAt": "2026-11-05T09:02:00+08:00",
+      "sources": [
+        {
+          "title": "Federal Reserve：The October 2026 Senior Loan Officer Opinion Survey on Bank Lending Practices（2 November 2026）",
+          "url": "https://www.federalreserve.gov/data/sloos/sloos-202610.htm"
+        },
+        {
+          "title": "Qualcomm：Qualcomm Announces Fourth Quarter and Fiscal 2026 Results（4 November 2026）",
+          "url": "https://investor.qualcomm.com/files/content_files/FY2026-4th-Quarter-Earnings-Release.pdf"
+        },
+        {
+          "title": "Circle：Circle Reports Third Quarter 2026 Results（4 November 2026）",
+          "url": "https://s206.q4cdn.com/265218871/files/doc_earnings/2026/q3/earnings-result/3Q26-Earnings-Release.pdf"
+        }
+      ],
+      "body": "## 更新时间\n\n北京时间 2026 年 11 月 5 日 09:02。以下只汇总已发布资料，不包含实时价格、买卖建议或 Linna 的个人观点。公司指引和管理层目标属于前瞻性陈述，已与历史业绩分开。\n\n## 宏观：美国小企业与商业地产信贷偏紧，企业贷款需求总体走弱\n\n美联储 11 月 2 日发布的 2026 年 10 月高级信贷官调查覆盖 61 家美国本土银行及 18 家外国银行在美分支，回答期截至 10 月 5 日，主要反映三季度。美国本土银行报告：面向大中型企业的商业与工业贷款标准基本不变，面向小企业的标准收紧；风险较高贷款的利差、以及小企业贷款的抵押要求与利率下限也趋严。银行最常提到的原因是经济前景较不利或不确定，以及特定行业问题恶化。\n\n各规模企业的 C&I 贷款需求净走弱；银行把企业设备投资减少、借款转向更有吸引力的银行外或其他融资来源列为重要原因。商业地产方面，建筑与土地开发、非农非住宅和多户住宅三类贷款标准均净收紧，需求也均走弱。家庭端多数住房贷款标准基本不变，但次级抵押贷款趋严；信用卡需求增强、汽车贷款需求走弱。\n\n解释边界：SLOOS 是银行对“过去三个月变化”的定性调查，不是贷款余额、违约率或经济增长的直接预测。净收紧可能来自风险偏好、资本约束、借款人质量或行业集中度；需求走弱也可能来自利率、投资减少或企业转向资本市场。判断信用周期仍需结合银行资产负债表、贷款增速、利差与拖欠率。\n\n## 股票：Qualcomm 全年收入下降 3%，汽车业务高增长与手机业务收缩并存\n\nQualcomm 11 月 4 日披露截至 9 月 27 日的财年结果：2026 财年 GAAP 收入 431.20 亿美元，同比下降 3%；GAAP 每股收益 12.70 美元。公司说明全年 GAAP 结果包含 57 亿美元所得税收益，约合每股 5.32 美元，因此不能把 GAAP EPS 增长全部解释为经营改善。非 GAAP 每股收益为 10.54 美元，同比下降 12%。\n\n第四财季 GAAP 收入 103.22 亿美元，同比下降 8%。QCT 手机收入 51.37 亿美元、下降 26%；汽车收入 19.90 亿美元、增长 89%；IoT 收入 18.88 亿美元、增长 4%。QCT 总收入 90.15 亿美元、下降 8%，QTL 许可收入 13.04 亿美元、下降 7%。公司表示汽车业务首次达到单季 20 亿美元附近，但快速增长来自较小基数，尚不能抵消手机业务的绝对额下降。\n\n公司给出的 2027 财年第一季度收入指引为 104 亿至 112 亿美元，非 GAAP 每股收益 2.15 至 2.35 美元；同时重申 2027 财年数据中心收入目标 50 亿美元，并预计非手机收入同比增长超过 60%。这些是管理层目标而非已实现结果。财报也提示晶圆制造、封装、存储等投入成本普遍上升，定价措施的完整毛利影响预计到 2027 财年下半年才体现。\n\n## Crypto：Circle 的 USDC 使用量增长，但当季利润与代币预售收入不可混为一谈\n\nCircle 11 月 4 日披露三季度平均 USDC 流通量 733 亿美元，同比增长 8%；期末流通量 739 亿美元，与上年同期基本持平。季度 USDC 链上交易量为 13.9 万亿美元，同比增长 49%。总收入与储备收益为 8.65 亿美元，同比增长 17%；持续经营净利润 2.26 亿美元，同比增长 5%。\n\n收入结构需要拆开：储备收益为 6.58 亿美元，同比下降 8%，主要因为储备回报率下降 61 个基点至 3.5%，部分被平均 USDC 流通量增长抵消。其他收入 2.07 亿美元，同比增长 627%，其中 1.82 亿美元来自 ARC 代币预售。调整后 EBITDA 为 3.17 亿美元、增长 85%，公司明确说明增长反映了代币预售收入和较低分销成本，因此不能把这部分全部视为稳定币经常性经营增长。\n\n期末“平台内 USDC”为 139 亿美元，同比增长 36%，其日均占流通量比例为 18.1%。公司还披露当季铸造与赎回均约 1,040 亿美元。解释边界：链上交易量不等于公司收入，铸造与赎回流量也不等于净流通增量；储备收益对短端利率、流通量与分销安排敏感。ARC 主网上线、代币预售和 2027 年转向权益证明的规划还涉及执行、治理、网络安全和监管风险。"
+    },
+    {
+      "id": "lesson-2026-11-05-sovereign-green-bonds",
+      "kind": "lesson",
+      "title": "今日金融英语：主权绿色债券怎样把项目管线变成可融资资产？",
+      "category": "金融市场英语",
+      "date": "2026-11-05",
+      "summary": "用世界银行 2 分 54 秒英文视频理解 sovereign green bond、eligible project、use-of-proceeds framework、impact reporting、investor base 与 bankable pipeline。",
+      "tags": [
+        "金融英语",
+        "世界银行",
+        "主权绿色债券",
+        "可持续金融",
+        "资本市场",
+        "气候融资",
+        "影响报告",
+        "新兴市场"
+      ],
+      "status": "curated",
+      "ownerViewpoint": false,
+      "sourceVerified": true,
+      "videoUrl": "https://www.worldbank.org/en/news/video/2026/10/13/mobilizing-private-sector-capital-how-the-world-bank-builds-green-bond-markets",
+      "duration": "视频 2 分 54 秒；建议练习 18 分钟",
+      "sources": [
+        {
+          "title": "World Bank：Mobilizing Private Sector Capital — How the World Bank Group Helps Build Green Bond Markets（13 October 2026）",
+          "url": "https://www.worldbank.org/en/news/video/2026/10/13/mobilizing-private-sector-capital-how-the-world-bank-builds-green-bond-markets"
+        },
+        {
+          "title": "World Bank Treasury：Sustainable Finance Advisory Program",
+          "url": "https://treasury.worldbank.org/en/about/unit/treasury/client-services/sustainable-finance-advisory"
+        }
+      ],
+      "body": "## 已核验材料\n\n世界银行视频页 “Mobilizing Private Sector Capital: How the World Bank Group Helps Build Green Bond Markets” 标注日期为 2026 年 10 月 13 日，播放器元数据时长为 PT2M54S，即 2 分 54 秒。页面说明，世界银行集团财政部门协助发展中经济体建立主权绿色债券框架、监管指引、资金追踪和影响报告，以扩大合格项目的融资来源。\n\n官方页面没有展示可逐句引用的完整英文稿，因此本课不编造逐字引文或精确片段时间戳。下列句子是根据公开说明整理的练习表达，不冒充视频原话。\n\n## 先懂知识，再听英语\n\nSovereign green bond 是政府发行的债券。它与普通主权债券一样依赖发行人的整体信用，区别通常在于募集资金被承诺用于预先定义的绿色项目，并通过 use-of-proceeds framework 说明合格类别、筛选、资金管理和报告。绿色标签本身通常不把信用风险从主权发行人转移出去。\n\nBankable project 不是泛指“有益环境的项目”，而是具备足够清晰的现金流、预算安排、技术可行性、采购路径和执行能力，能被纳入融资与监督体系的项目。若项目管线不足，即使投资者需求很强，也难以持续扩大绿色债券发行。\n\nTracking and allocation reporting 回答“募集资金分配到哪里”；impact reporting 回答“项目产生了什么可量化结果”。二者都受口径、基准情景、数据质量与归因方法限制。投资者应区分已分配金额、预计环境效益和实际实现结果。\n\nDiversify the investor base 表示吸引不同地区、期限和投资目标的买方。更广的投资者基础可能改善发行韧性，却不保证融资成本一定更低。利差仍取决于主权信用、期限、流动性、市场环境、交易结构和绿色标签的可信度。\n\n世界银行页面称发展中经济体常见障碍包括监管空白、缺少可融资项目和资本市场生态不成熟。Advisory services 的价值因此不仅是写框架，也包括跨部门协调、项目筛选、投资者沟通、数据体系与发行后报告。\n\n## 关键词\n\n- sovereign green bond — 主权绿色债券\n- labeled bond — 标签债券\n- use-of-proceeds framework — 募集资金用途框架\n- eligible project — 合格项目\n- bankable project pipeline — 可融资项目管线\n- capital mobilization — 资本动员\n- regulatory guideline — 监管指引\n- allocation reporting — 资金分配报告\n- impact reporting — 影响报告\n- proceeds tracking — 募集资金追踪\n- investor base — 投资者基础\n- external review — 外部评估\n- greenwashing risk — “漂绿”风险\n- sovereign credit risk — 主权信用风险\n- market ecosystem — 市场生态\n\n## 地道表达\n\n以下为学习用改写句。\n\n> A credible framework links bond proceeds to clearly defined eligible projects.\n\n> A deep investor base helps market access, but it does not eliminate sovereign credit risk.\n\n> Impact reporting should distinguish projected benefits from verified outcomes.\n\n> The bottleneck may be the pipeline of bankable projects rather than the supply of capital.\n\n## 三步练习\n\n1. 第一遍只记录 framework、projects、investors、reporting 四组词之间的因果关系。\n2. 第二遍画出发行人、主管部门、项目执行单位、外部评估方和投资者的责任链。\n3. 第三遍提出反方问题：绿色标签带来的需求，能否覆盖框架、评估、数据与持续报告的成本？\n\n## 输出练习\n\n用 90 秒英文回答：\n\n“What makes a sovereign green bond credible and investable?”\n\n回答至少使用 sovereign green bond、use-of-proceeds framework、bankable pipeline、impact reporting、investor base、greenwashing risk 六个词，并说明一个可能降低融资成本的机制和一个不一定成立的反方解释。本条不记录或声称你已经完成学习。"
+    },
     {
       "id": "briefing-2026-11-04",
       "kind": "briefing",
