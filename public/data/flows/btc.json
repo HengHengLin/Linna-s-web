@@ -4,8 +4,8 @@
   "currency": "USD",
   "status": "ok",
   "error": null,
-  "lastAttemptAt": "2026-11-04T18:04:28.607Z",
-  "lastSuccessAt": "2026-11-04T18:04:28.607Z",
+  "lastAttemptAt": "2026-11-05T09:37:36.346Z",
+  "lastSuccessAt": "2026-11-05T09:37:36.346Z",
   "dataAsOf": "2026-11-03",
   "providerModifiedAt": "2026-11-03T22:00:00Z",
   "source": {
@@ -133,7 +133,7 @@
     },
     {
       "date": "2024-01-22",
-      "netFlowUsd": -87400000,
+      "netFlowUsd": -87399999.99999997,
       "btcCloseUsd": 40116,
       "totalNetAssetsUsd": null,
       "perEtfUsd": {
@@ -151,7 +151,7 @@
     },
     {
       "date": "2024-01-23",
-      "netFlowUsd": -106100000,
+      "netFlowUsd": -106099999.99999994,
       "btcCloseUsd": 39158,
       "totalNetAssetsUsd": null,
       "perEtfUsd": {
@@ -799,7 +799,7 @@
     },
     {
       "date": "2024-03-14",
-      "netFlowUsd": 132699999.99999999,
+      "netFlowUsd": 132699999.99999997,
       "btcCloseUsd": 70690,
       "totalNetAssetsUsd": null,
       "perEtfUsd": {
@@ -1105,7 +1105,7 @@
     },
     {
       "date": "2024-04-09",
-      "netFlowUsd": -19400000,
+      "netFlowUsd": -19400000.000000015,
       "btcCloseUsd": 69100,
       "totalNetAssetsUsd": null,
       "perEtfUsd": {
@@ -1285,7 +1285,7 @@
     },
     {
       "date": "2024-04-23",
-      "netFlowUsd": 31600000,
+      "netFlowUsd": 31599999.999999993,
       "btcCloseUsd": 66352,
       "totalNetAssetsUsd": null,
       "perEtfUsd": {
@@ -1879,7 +1879,7 @@
     },
     {
       "date": "2024-06-10",
-      "netFlowUsd": -64900000.00000001,
+      "netFlowUsd": -64900000,
       "btcCloseUsd": 69605,
       "totalNetAssetsUsd": null,
       "perEtfUsd": {
@@ -2383,7 +2383,7 @@
     },
     {
       "date": "2024-07-22",
-      "netFlowUsd": 485900000,
+      "netFlowUsd": 485900000.00000006,
       "btcCloseUsd": 68144,
       "totalNetAssetsUsd": null,
       "perEtfUsd": {
@@ -3744,7 +3744,7 @@
     },
     {
       "date": "2024-10-31",
-      "netFlowUsd": 32299999.999999996,
+      "netFlowUsd": 32300000,
       "btcCloseUsd": 69954,
       "totalNetAssetsUsd": null,
       "perEtfUsd": {
@@ -4047,7 +4047,7 @@
     },
     {
       "date": "2024-11-22",
-      "netFlowUsd": 490300000,
+      "netFlowUsd": 490300000.00000006,
       "btcCloseUsd": 99261,
       "totalNetAssetsUsd": null,
       "perEtfUsd": {
@@ -4807,7 +4807,7 @@
     },
     {
       "date": "2025-01-24",
-      "netFlowUsd": 517700000.00000006,
+      "netFlowUsd": 517700000,
       "btcCloseUsd": 104850,
       "totalNetAssetsUsd": null,
       "perEtfUsd": {
@@ -4959,7 +4959,7 @@
     },
     {
       "date": "2025-02-05",
-      "netFlowUsd": 66400000.00000001,
+      "netFlowUsd": 66400000,
       "btcCloseUsd": 97317,
       "totalNetAssetsUsd": null,
       "perEtfUsd": {
@@ -5738,7 +5738,7 @@
     },
     {
       "date": "2025-04-04",
-      "netFlowUsd": -64900000.00000001,
+      "netFlowUsd": -64900000,
       "btcCloseUsd": 84128,
       "totalNetAssetsUsd": null,
       "perEtfUsd": {
@@ -6118,7 +6118,7 @@
     },
     {
       "date": "2025-05-05",
-      "netFlowUsd": 425500000,
+      "netFlowUsd": 425500000.00000006,
       "btcCloseUsd": 94249,
       "totalNetAssetsUsd": null,
       "perEtfUsd": {
@@ -6137,7 +6137,7 @@
     },
     {
       "date": "2025-05-06",
-      "netFlowUsd": -85635334.25,
+      "netFlowUsd": -85700000,
       "btcCloseUsd": 94708,
       "totalNetAssetsUsd": 111151963134.41805,
       "perEtfUsd": {
@@ -6156,7 +6156,7 @@
     },
     {
       "date": "2025-05-07",
-      "netFlowUsd": 142307651.555,
+      "netFlowUsd": 142300000,
       "btcCloseUsd": 96786,
       "totalNetAssetsUsd": 112711514975.82916,
       "perEtfUsd": {
@@ -6175,7 +6175,7 @@
     },
     {
       "date": "2025-05-08",
-      "netFlowUsd": 117461399.29,
+      "netFlowUsd": 117400000,
       "btcCloseUsd": 102614,
       "totalNetAssetsUsd": 118660307913.6036,
       "perEtfUsd": {
@@ -6194,7 +6194,7 @@
     },
     {
       "date": "2025-05-09",
-      "netFlowUsd": 334584629.5,
+      "netFlowUsd": 334500000,
       "btcCloseUsd": 103170,
       "totalNetAssetsUsd": 121233114292.33636,
       "perEtfUsd": {
@@ -6213,7 +6213,7 @@
     },
     {
       "date": "2025-05-12",
-      "netFlowUsd": 5096682.809999996,
+      "netFlowUsd": 5200000,
       "btcCloseUsd": 102686,
       "totalNetAssetsUsd": 119673446153.40028,
       "perEtfUsd": {
@@ -6232,7 +6232,7 @@
     },
     {
       "date": "2025-05-13",
-      "netFlowUsd": -96142497,
+      "netFlowUsd": -91400000,
       "btcCloseUsd": 104605,
       "totalNetAssetsUsd": 122920414537.81525,
       "perEtfUsd": {
@@ -6251,7 +6251,7 @@
     },
     {
       "date": "2025-05-14",
-      "netFlowUsd": 319558528.8,
+      "netFlowUsd": 319500000,
       "btcCloseUsd": 103580,
       "totalNetAssetsUsd": 121844538030.37532,
       "perEtfUsd": {
@@ -6270,7 +6270,7 @@
     },
     {
       "date": "2025-05-15",
-      "netFlowUsd": 114958483.23,
+      "netFlowUsd": 114900000,
       "btcCloseUsd": 103470,
       "totalNetAssetsUsd": 121469162844.60068,
       "perEtfUsd": {
@@ -6289,7 +6289,7 @@
     },
     {
       "date": "2025-05-16",
-      "netFlowUsd": 260266134.59,
+      "netFlowUsd": 260200000,
       "btcCloseUsd": 103731,
       "totalNetAssetsUsd": 122665639298.53523,
       "perEtfUsd": {
@@ -6308,7 +6308,7 @@
     },
     {
       "date": "2025-05-19",
-      "netFlowUsd": 667438126.07,
+      "netFlowUsd": 667400000,
       "btcCloseUsd": 105445,
       "totalNetAssetsUsd": 124973229522.01012,
       "perEtfUsd": {
@@ -6327,7 +6327,7 @@
     },
     {
       "date": "2025-05-20",
-      "netFlowUsd": 329022102.06,
+      "netFlowUsd": 329200000,
       "btcCloseUsd": 106962,
       "totalNetAssetsUsd": 126795333250.27704,
       "perEtfUsd": {
@@ -6346,7 +6346,7 @@
     },
     {
       "date": "2025-05-21",
-      "netFlowUsd": 608993678.8,
+      "netFlowUsd": 607100000,
       "btcCloseUsd": 108214,
       "totalNetAssetsUsd": 129015028335.8834,
       "perEtfUsd": {
@@ -6365,7 +6365,7 @@
     },
     {
       "date": "2025-05-22",
-      "netFlowUsd": 934742459.72,
+      "netFlowUsd": 934800000,
       "btcCloseUsd": 111107,
       "totalNetAssetsUsd": 134295403454.3598,
       "perEtfUsd": {
@@ -6384,7 +6384,7 @@
     },
     {
       "date": "2025-05-23",
-      "netFlowUsd": 211737424.345,
+      "netFlowUsd": 211700000,
       "btcCloseUsd": 108271,
       "totalNetAssetsUsd": 131391891333.26283,
       "perEtfUsd": {
@@ -6403,7 +6403,7 @@
     },
     {
       "date": "2025-05-27",
-      "netFlowUsd": 384852936.96,
+      "netFlowUsd": 385400000,
       "btcCloseUsd": 109621,
       "totalNetAssetsUsd": 132894503404.93211,
       "perEtfUsd": {
@@ -6422,7 +6422,7 @@
     },
     {
       "date": "2025-05-28",
-      "netFlowUsd": 432618888.28,
+      "netFlowUsd": 432700000,
       "btcCloseUsd": 107317,
       "totalNetAssetsUsd": 130290489165.2126,
       "perEtfUsd": {
@@ -6441,7 +6441,7 @@
     },
     {
       "date": "2025-05-29",
-      "netFlowUsd": -358653461.615,
+      "netFlowUsd": -346800000,
       "btcCloseUsd": 106179,
       "totalNetAssetsUsd": 128126617785.726,
       "perEtfUsd": {
@@ -6460,7 +6460,7 @@
     },
     {
       "date": "2025-05-30",
-      "netFlowUsd": -616218414.2,
+      "netFlowUsd": -616100000,
       "btcCloseUsd": 104575,
       "totalNetAssetsUsd": 126151609650.02028,
       "perEtfUsd": {
@@ -6479,7 +6479,7 @@
     },
     {
       "date": "2025-06-02",
-      "netFlowUsd": -267520349.93,
+      "netFlowUsd": -267500000,
       "btcCloseUsd": 104900,
       "totalNetAssetsUsd": 125472400684.26201,
       "perEtfUsd": {
@@ -6498,7 +6498,7 @@
     },
     {
       "date": "2025-06-03",
-      "netFlowUsd": 378043221.385,
+      "netFlowUsd": 375100000,
       "btcCloseUsd": 105814,
       "totalNetAssetsUsd": 128129714005.27805,
       "perEtfUsd": {
@@ -6517,7 +6517,7 @@
     },
     {
       "date": "2025-06-04",
-      "netFlowUsd": 86921550.95,
+      "netFlowUsd": 87000000,
       "btcCloseUsd": 104657,
       "totalNetAssetsUsd": 126665427567.15816,
       "perEtfUsd": {
@@ -6536,7 +6536,7 @@
     },
     {
       "date": "2025-06-05",
-      "netFlowUsd": -278435958.87,
+      "netFlowUsd": -278400000,
       "btcCloseUsd": 100516,
       "totalNetAssetsUsd": 122977906593.12712,
       "perEtfUsd": {
@@ -6555,7 +6555,7 @@
     },
     {
       "date": "2025-06-06",
-      "netFlowUsd": -47822507.15,
+      "netFlowUsd": -47800000,
       "btcCloseUsd": 104580,
       "totalNetAssetsUsd": 125582273018.22067,
       "perEtfUsd": {
@@ -6574,7 +6574,7 @@
     },
     {
       "date": "2025-06-09",
-      "netFlowUsd": 386274141.785,
+      "netFlowUsd": 386200000,
       "btcCloseUsd": 108756,
       "totalNetAssetsUsd": 131061405147.388,
       "perEtfUsd": {
@@ -6593,7 +6593,7 @@
     },
     {
       "date": "2025-06-10",
-      "netFlowUsd": 431120840.62,
+      "netFlowUsd": 431200000,
       "btcCloseUsd": 109958,
       "totalNetAssetsUsd": 132833153801.31432,
       "perEtfUsd": {
@@ -6612,7 +6612,7 @@
     },
     {
       "date": "2025-06-11",
-      "netFlowUsd": 164565924.85,
+      "netFlowUsd": 164600000,
       "btcCloseUsd": 108926,
       "totalNetAssetsUsd": 131845014214.53552,
       "perEtfUsd": {
@@ -6631,7 +6631,7 @@
     },
     {
       "date": "2025-06-12",
-      "netFlowUsd": 86311350.9,
+      "netFlowUsd": 86300000,
       "btcCloseUsd": 106030,
       "totalNetAssetsUsd": 130263218988.0128,
       "perEtfUsd": {
@@ -6650,7 +6650,7 @@
     },
     {
       "date": "2025-06-13",
-      "netFlowUsd": 322602946.3,
+      "netFlowUsd": 322700000,
       "btcCloseUsd": 105464,
       "totalNetAssetsUsd": 127870225740.01857,
       "perEtfUsd": {
@@ -6669,7 +6669,7 @@
     },
     {
       "date": "2025-06-16",
-      "netFlowUsd": 412201147.275,
+      "netFlowUsd": 412200000,
       "btcCloseUsd": 108817,
       "totalNetAssetsUsd": 132504330333.27292,
       "perEtfUsd": {
@@ -6688,7 +6688,7 @@
     },
     {
       "date": "2025-06-17",
-      "netFlowUsd": 216483836.965,
+      "netFlowUsd": 216500000,
       "btcCloseUsd": 104396,
       "totalNetAssetsUsd": 128180042489.00772,
       "perEtfUsd": {
@@ -6707,7 +6707,7 @@
     },
     {
       "date": "2025-06-18",
-      "netFlowUsd": 389567193.85,
+      "netFlowUsd": 388300000,
       "btcCloseUsd": 104835,
       "totalNetAssetsUsd": 127425012170.93256,
       "perEtfUsd": {
@@ -6726,7 +6726,7 @@
     },
     {
       "date": "2025-06-20",
-      "netFlowUsd": 6365769.25,
+      "netFlowUsd": 6400000,
       "btcCloseUsd": 103725,
       "totalNetAssetsUsd": 126537063116.9118,
       "perEtfUsd": {
@@ -6745,7 +6745,7 @@
     },
     {
       "date": "2025-06-23",
-      "netFlowUsd": 350429240.4150005,
+      "netFlowUsd": 350600000,
       "btcCloseUsd": 103771,
       "totalNetAssetsUsd": 126608323093.34816,
       "perEtfUsd": {
@@ -6764,7 +6764,7 @@
     },
     {
       "date": "2025-06-24",
-      "netFlowUsd": 588547154.5349995,
+      "netFlowUsd": 588600000,
       "btcCloseUsd": 106140,
       "totalNetAssetsUsd": 130282904544.40048,
       "perEtfUsd": {
@@ -6783,7 +6783,7 @@
     },
     {
       "date": "2025-06-25",
-      "netFlowUsd": 547720695.205,
+      "netFlowUsd": 547700000,
       "btcCloseUsd": 107870,
       "totalNetAssetsUsd": 133560968435.12648,
       "perEtfUsd": {
@@ -6802,7 +6802,7 @@
     },
     {
       "date": "2025-06-26",
-      "netFlowUsd": 228150439.23,
+      "netFlowUsd": 226700000,
       "btcCloseUsd": 107820,
       "totalNetAssetsUsd": 133531931223.5746,
       "perEtfUsd": {
@@ -6821,7 +6821,7 @@
     },
     {
       "date": "2025-06-27",
-      "netFlowUsd": 501271088.185,
+      "netFlowUsd": 501200000,
       "btcCloseUsd": 107164,
       "totalNetAssetsUsd": 133170224379.15028,
       "perEtfUsd": {
@@ -6840,7 +6840,7 @@
     },
     {
       "date": "2025-06-30",
-      "netFlowUsd": 102139223.565,
+      "netFlowUsd": 102100000,
       "btcCloseUsd": 107604,
       "totalNetAssetsUsd": 134111134008.58047,
       "perEtfUsd": {
@@ -6859,7 +6859,7 @@
     },
     {
       "date": "2025-07-01",
-      "netFlowUsd": -342251387.265,
+      "netFlowUsd": -342200000,
       "btcCloseUsd": 105955,
       "totalNetAssetsUsd": 131295122511.67068,
       "perEtfUsd": {
@@ -6878,7 +6878,7 @@
     },
     {
       "date": "2025-07-02",
-      "netFlowUsd": 407778961.955,
+      "netFlowUsd": 407800000,
       "btcCloseUsd": 109213,
       "totalNetAssetsUsd": 136679368309.09264,
       "perEtfUsd": {
@@ -6897,7 +6897,7 @@
     },
     {
       "date": "2025-07-03",
-      "netFlowUsd": 601937786.79,
+      "netFlowUsd": 601800000,
       "btcCloseUsd": 110003,
       "totalNetAssetsUsd": 137596736310.74103,
       "perEtfUsd": {
@@ -6916,7 +6916,7 @@
     },
     {
       "date": "2025-07-07",
-      "netFlowUsd": 216638681.38,
+      "netFlowUsd": 216500000,
       "btcCloseUsd": 107908,
       "totalNetAssetsUsd": 135709418097.66852,
       "perEtfUsd": {
@@ -6935,7 +6935,7 @@
     },
     {
       "date": "2025-07-08",
-      "netFlowUsd": 80078975.7,
+      "netFlowUsd": 80100000,
       "btcCloseUsd": 108705,
       "totalNetAssetsUsd": 136749218778.97072,
       "perEtfUsd": {
@@ -6954,7 +6954,7 @@
     },
     {
       "date": "2025-07-09",
-      "netFlowUsd": 218040421.155,
+      "netFlowUsd": 215700000,
       "btcCloseUsd": 110756,
       "totalNetAssetsUsd": 139389264079.38605,
       "perEtfUsd": {
@@ -6973,7 +6973,7 @@
     },
     {
       "date": "2025-07-10",
-      "netFlowUsd": 1178827866.4,
+      "netFlowUsd": 1175600000,
       "btcCloseUsd": 113554,
       "totalNetAssetsUsd": 143861659016.91168,
       "perEtfUsd": {
@@ -6992,7 +6992,7 @@
     },
     {
       "date": "2025-07-11",
-      "netFlowUsd": 1029699313.05,
+      "netFlowUsd": 1029600000,
       "btcCloseUsd": 117718,
       "totalNetAssetsUsd": 150599951494.06604,
       "perEtfUsd": {
@@ -7011,7 +7011,7 @@
     },
     {
       "date": "2025-07-14",
-      "netFlowUsd": 297396370.36,
+      "netFlowUsd": 297400000,
       "btcCloseUsd": 120245,
       "totalNetAssetsUsd": 153294553338.9602,
       "perEtfUsd": {
@@ -7030,7 +7030,7 @@
     },
     {
       "date": "2025-07-15",
-      "netFlowUsd": 402994856.445,
+      "netFlowUsd": 403100000,
       "btcCloseUsd": 116500,
       "totalNetAssetsUsd": 149656567026.04428,
       "perEtfUsd": {
@@ -7049,7 +7049,7 @@
     },
     {
       "date": "2025-07-16",
-      "netFlowUsd": 799399995.2,
+      "netFlowUsd": 799400000,
       "btcCloseUsd": 119962,
       "totalNetAssetsUsd": 153761749469.09457,
       "perEtfUsd": {
@@ -7068,7 +7068,7 @@
     },
     {
       "date": "2025-07-17",
-      "netFlowUsd": 522599551.795,
+      "netFlowUsd": 522600000,
       "btcCloseUsd": 119330,
       "totalNetAssetsUsd": 154613938905.89328,
       "perEtfUsd": {
@@ -7087,7 +7087,7 @@
     },
     {
       "date": "2025-07-18",
-      "netFlowUsd": 363454160.365,
+      "netFlowUsd": 363500000,
       "btcCloseUsd": 117520,
       "totalNetAssetsUsd": 152397836177.06204,
       "perEtfUsd": {
@@ -7106,7 +7106,7 @@
     },
     {
       "date": "2025-07-21",
-      "netFlowUsd": -131349096.85,
+      "netFlowUsd": -131400000,
       "btcCloseUsd": 117003,
       "totalNetAssetsUsd": 151603323338.36487,
       "perEtfUsd": {
@@ -7125,7 +7125,7 @@
     },
     {
       "date": "2025-07-22",
-      "netFlowUsd": -67932190.885,
+      "netFlowUsd": -68000000,
       "btcCloseUsd": 119794,
       "totalNetAssetsUsd": 154773271490.12796,
       "perEtfUsd": {
@@ -7144,7 +7144,7 @@
     },
     {
       "date": "2025-07-23",
-      "netFlowUsd": -85962758.04,
+      "netFlowUsd": -85800000,
       "btcCloseUsd": 117987,
       "totalNetAssetsUsd": 153249537889.60452,
       "perEtfUsd": {
@@ -7163,7 +7163,7 @@
     },
     {
       "date": "2025-07-24",
-      "netFlowUsd": 226608277.85,
+      "netFlowUsd": 226700000,
       "btcCloseUsd": 118778,
       "totalNetAssetsUsd": 154446380366.90463,
       "perEtfUsd": {
@@ -7182,7 +7182,7 @@
     },
     {
       "date": "2025-07-25",
-      "netFlowUsd": 130692903.21,
+      "netFlowUsd": 130800000,
       "btcCloseUsd": 117101,
       "totalNetAssetsUsd": 151453512032.72687,
       "perEtfUsd": {
@@ -7201,7 +7201,7 @@
     },
     {
       "date": "2025-07-28",
-      "netFlowUsd": 157021242.475,
+      "netFlowUsd": 157100000,
       "btcCloseUsd": 118042,
       "totalNetAssetsUsd": 153194696329.28424,
       "perEtfUsd": {
@@ -7220,7 +7220,7 @@
     },
     {
       "date": "2025-07-29",
-      "netFlowUsd": 79978069.35,
+      "netFlowUsd": 80000000,
       "btcCloseUsd": 117427,
       "totalNetAssetsUsd": 152710693708.33963,
       "perEtfUsd": {
@@ -7239,7 +7239,7 @@
     },
     {
       "date": "2025-07-30",
-      "netFlowUsd": 47038253.4,
+      "netFlowUsd": 47100000,
       "btcCloseUsd": 117176,
       "totalNetAssetsUsd": 151364851940.7497,
       "perEtfUsd": {
@@ -7258,7 +7258,7 @@
     },
     {
       "date": "2025-07-31",
-      "netFlowUsd": -114834242.24999999,
+      "netFlowUsd": -114800000,
       "btcCloseUsd": 116495,
       "totalNetAssetsUsd": 152006094351.0942,
       "perEtfUsd": {
@@ -7277,7 +7277,7 @@
     },
     {
       "date": "2025-08-01",
-      "netFlowUsd": -812246966.1,
+      "netFlowUsd": -812300000,
       "btcCloseUsd": 113918,
       "totalNetAssetsUsd": 146478614045.7663,
       "perEtfUsd": {
@@ -7296,7 +7296,7 @@
     },
     {
       "date": "2025-08-04",
-      "netFlowUsd": -333191857.7,
+      "netFlowUsd": -323500000,
       "btcCloseUsd": 114860,
       "totalNetAssetsUsd": 147955091873.60257,
       "perEtfUsd": {
@@ -7315,7 +7315,7 @@
     },
     {
       "date": "2025-08-05",
-      "netFlowUsd": -196178800,
+      "netFlowUsd": -196200000,
       "btcCloseUsd": 113670,
       "totalNetAssetsUsd": 146182420154.20956,
       "perEtfUsd": {
@@ -7334,7 +7334,7 @@
     },
     {
       "date": "2025-08-06",
-      "netFlowUsd": 91554340.55,
+      "netFlowUsd": 91600000,
       "btcCloseUsd": 115100,
       "totalNetAssetsUsd": 148504979602.18253,
       "perEtfUsd": {
@@ -7353,7 +7353,7 @@
     },
     {
       "date": "2025-08-07",
-      "netFlowUsd": 280688452.31,
+      "netFlowUsd": 277400000,
       "btcCloseUsd": 117203,
       "totalNetAssetsUsd": 150972175369.34372,
       "perEtfUsd": {
@@ -7372,7 +7372,7 @@
     },
     {
       "date": "2025-08-08",
-      "netFlowUsd": 403881213.6,
+      "netFlowUsd": 403900000,
       "btcCloseUsd": 116906,
       "totalNetAssetsUsd": 150696574346.10617,
       "perEtfUsd": {
@@ -7391,7 +7391,7 @@
     },
     {
       "date": "2025-08-11",
-      "netFlowUsd": 178154998.81,
+      "netFlowUsd": 178100000,
       "btcCloseUsd": 118879,
       "totalNetAssetsUsd": 154418084942.67636,
       "perEtfUsd": {
@@ -7410,7 +7410,7 @@
     },
     {
       "date": "2025-08-12",
-      "netFlowUsd": 65947428.4,
+      "netFlowUsd": 65900000,
       "btcCloseUsd": 120182,
       "totalNetAssetsUsd": 155016436291.02008,
       "perEtfUsd": {
@@ -7429,7 +7429,7 @@
     },
     {
       "date": "2025-08-13",
-      "netFlowUsd": 86914542.82,
+      "netFlowUsd": 86900000,
       "btcCloseUsd": 122934,
       "totalNetAssetsUsd": 158642617563.09344,
       "perEtfUsd": {
@@ -7448,7 +7448,7 @@
     },
     {
       "date": "2025-08-14",
-      "netFlowUsd": 230933769.645,
+      "netFlowUsd": 230800000.00000006,
       "btcCloseUsd": 117947,
       "totalNetAssetsUsd": 153427309849.81036,
       "perEtfUsd": {
@@ -7467,7 +7467,7 @@
     },
     {
       "date": "2025-08-15",
-      "netFlowUsd": -14129518.99999942,
+      "netFlowUsd": -14100000,
       "btcCloseUsd": 117377,
       "totalNetAssetsUsd": 151979145127.09036,
       "perEtfUsd": {
@@ -7486,7 +7486,7 @@
     },
     {
       "date": "2025-08-18",
-      "netFlowUsd": -121808966.70000115,
+      "netFlowUsd": -121700000,
       "btcCloseUsd": 116441,
       "totalNetAssetsUsd": 150893645108.8748,
       "perEtfUsd": {
@@ -7505,7 +7505,7 @@
     },
     {
       "date": "2025-08-19",
-      "netFlowUsd": -523311423.44,
+      "netFlowUsd": -523300000,
       "btcCloseUsd": 113538,
       "totalNetAssetsUsd": 146183485985.3043,
       "perEtfUsd": {
@@ -7524,7 +7524,7 @@
     },
     {
       "date": "2025-08-20",
-      "netFlowUsd": -311566483.2399994,
+      "netFlowUsd": -315900000,
       "btcCloseUsd": 114376,
       "totalNetAssetsUsd": 147018061023.11005,
       "perEtfUsd": {
@@ -7543,7 +7543,7 @@
     },
     {
       "date": "2025-08-21",
-      "netFlowUsd": -194321082.13,
+      "netFlowUsd": -194400000,
       "btcCloseUsd": 112453,
       "totalNetAssetsUsd": 144480589951.6842,
       "perEtfUsd": {
@@ -7562,7 +7562,7 @@
     },
     {
       "date": "2025-08-22",
-      "netFlowUsd": -23149183.865,
+      "netFlowUsd": -23200000,
       "btcCloseUsd": 117065,
       "totalNetAssetsUsd": 150228679984.03082,
       "perEtfUsd": {
@@ -7581,7 +7581,7 @@
     },
     {
       "date": "2025-08-25",
-      "netFlowUsd": 219001445.82499945,
+      "netFlowUsd": 219100000,
       "btcCloseUsd": 109636,
       "totalNetAssetsUsd": 143649686838.7546,
       "perEtfUsd": {
@@ -7600,7 +7600,7 @@
     },
     {
       "date": "2025-08-26",
-      "netFlowUsd": 88204940.78000055,
+      "netFlowUsd": 88100000,
       "btcCloseUsd": 111345,
       "totalNetAssetsUsd": 143148013928.66397,
       "perEtfUsd": {
@@ -7619,7 +7619,7 @@
     },
     {
       "date": "2025-08-27",
-      "netFlowUsd": 81246024.75000055,
+      "netFlowUsd": 81400000,
       "btcCloseUsd": 112392,
       "totalNetAssetsUsd": 144572477382.5278,
       "perEtfUsd": {
@@ -7638,7 +7638,7 @@
     },
     {
       "date": "2025-08-28",
-      "netFlowUsd": 178896309.45999944,
+      "netFlowUsd": 178900000,
       "btcCloseUsd": 111941,
       "totalNetAssetsUsd": 144957061783.4471,
       "perEtfUsd": {
@@ -7657,7 +7657,7 @@
     },
     {
       "date": "2025-08-29",
-      "netFlowUsd": -126642750.72,
+      "netFlowUsd": -126700000,
       "btcCloseUsd": 107790,
       "totalNetAssetsUsd": 139951410319.7346,
       "perEtfUsd": {
@@ -7676,7 +7676,7 @@
     },
     {
       "date": "2025-09-02",
-      "netFlowUsd": 332760613.6950005,
+      "netFlowUsd": 332800000,
       "btcCloseUsd": 111399,
       "totalNetAssetsUsd": 143207919203.8379,
       "perEtfUsd": {
@@ -7695,7 +7695,7 @@
     },
     {
       "date": "2025-09-03",
-      "netFlowUsd": 301324766,
+      "netFlowUsd": 300500000,
       "btcCloseUsd": 112228,
       "totalNetAssetsUsd": 145246909238.0556,
       "perEtfUsd": {
@@ -7714,7 +7714,7 @@
     },
     {
       "date": "2025-09-04",
-      "netFlowUsd": -227482223.02500057,
+      "netFlowUsd": -222900000,
       "btcCloseUsd": 110381,
       "totalNetAssetsUsd": 142302458276.80264,
       "perEtfUsd": {
@@ -7733,7 +7733,7 @@
     },
     {
       "date": "2025-09-05",
-      "netFlowUsd": -160178187.64,
+      "netFlowUsd": -160100000,
       "btcCloseUsd": 111610,
       "totalNetAssetsUsd": 144045093697.7134,
       "perEtfUsd": {
@@ -7752,7 +7752,7 @@
     },
     {
       "date": "2025-09-08",
-      "netFlowUsd": 368251608.4000006,
+      "netFlowUsd": 364300000,
       "btcCloseUsd": 111981,
       "totalNetAssetsUsd": 145413877718.17383,
       "perEtfUsd": {
@@ -7771,7 +7771,7 @@
     },
     {
       "date": "2025-09-09",
-      "netFlowUsd": 23054895.09499945,
+      "netFlowUsd": 23000000,
       "btcCloseUsd": 111486,
       "totalNetAssetsUsd": 144300710208.72348,
       "perEtfUsd": {
@@ -7790,7 +7790,7 @@
     },
     {
       "date": "2025-09-10",
-      "netFlowUsd": 757144698.96,
+      "netFlowUsd": 741500000,
       "btcCloseUsd": 113643,
       "totalNetAssetsUsd": 147829102101.2548,
       "perEtfUsd": {
@@ -7809,7 +7809,7 @@
     },
     {
       "date": "2025-09-11",
-      "netFlowUsd": 552782166.45,
+      "netFlowUsd": 552700000,
       "btcCloseUsd": 114441,
       "totalNetAssetsUsd": 149643377115.06396,
       "perEtfUsd": {
@@ -7828,7 +7828,7 @@
     },
     {
       "date": "2025-09-12",
-      "netFlowUsd": 642350174.92,
+      "netFlowUsd": 642400000,
       "btcCloseUsd": 116275,
       "totalNetAssetsUsd": 153178171661.53403,
       "perEtfUsd": {
@@ -7847,7 +7847,7 @@
     },
     {
       "date": "2025-09-15",
-      "netFlowUsd": 260017759.975,
+      "netFlowUsd": 259900000,
       "btcCloseUsd": 115377,
       "totalNetAssetsUsd": 151715759624.96976,
       "perEtfUsd": {
@@ -7866,7 +7866,7 @@
     },
     {
       "date": "2025-09-16",
-      "netFlowUsd": 292266165.4,
+      "netFlowUsd": 292300000,
       "btcCloseUsd": 116899,
       "totalNetAssetsUsd": 153775068406.4856,
       "perEtfUsd": {
@@ -7885,7 +7885,7 @@
     },
     {
       "date": "2025-09-17",
-      "netFlowUsd": -51282426.56999998,
+      "netFlowUsd": -51300000,
       "btcCloseUsd": 115663,
       "totalNetAssetsUsd": 152453010527.14743,
       "perEtfUsd": {
@@ -7904,7 +7904,7 @@
     },
     {
       "date": "2025-09-18",
-      "netFlowUsd": 163025717.6499994,
+      "netFlowUsd": 163000000,
       "btcCloseUsd": 117588,
       "totalNetAssetsUsd": 155053126935.843,
       "perEtfUsd": {
@@ -7923,7 +7923,7 @@
     },
     {
       "date": "2025-09-19",
-      "netFlowUsd": 222619088,
+      "netFlowUsd": 222600000,
       "btcCloseUsd": 115401,
       "totalNetAssetsUsd": 152305515492.92758,
       "perEtfUsd": {
@@ -7942,7 +7942,7 @@
     },
     {
       "date": "2025-09-22",
-      "netFlowUsd": -363169441.5249989,
+      "netFlowUsd": -363100000,
       "btcCloseUsd": 112836,
       "totalNetAssetsUsd": 148088421510.6089,
       "perEtfUsd": {
@@ -7961,7 +7961,7 @@
     },
     {
       "date": "2025-09-23",
-      "netFlowUsd": -103609722.835,
+      "netFlowUsd": -103800000,
       "btcCloseUsd": 112000,
       "totalNetAssetsUsd": 147173920451.90155,
       "perEtfUsd": {
@@ -7980,7 +7980,7 @@
     },
     {
       "date": "2025-09-24",
-      "netFlowUsd": 240997524,
+      "netFlowUsd": 241000000,
       "btcCloseUsd": 113565,
       "totalNetAssetsUsd": 149735910901.39847,
       "perEtfUsd": {
@@ -7999,7 +7999,7 @@
     },
     {
       "date": "2025-09-25",
-      "netFlowUsd": -258459965.75000054,
+      "netFlowUsd": -253400000,
       "btcCloseUsd": 109211,
       "totalNetAssetsUsd": 144351490006.75427,
       "perEtfUsd": {
@@ -8018,7 +8018,7 @@
     },
     {
       "date": "2025-09-26",
-      "netFlowUsd": -418254386.1099995,
+      "netFlowUsd": -418300000,
       "btcCloseUsd": 109374,
       "totalNetAssetsUsd": 143562763306.89484,
       "perEtfUsd": {
@@ -8037,7 +8037,7 @@
     },
     {
       "date": "2025-09-29",
-      "netFlowUsd": 521951765.2999995,
+      "netFlowUsd": 518000000,
       "btcCloseUsd": 114344,
       "totalNetAssetsUsd": 150407519260.4757,
       "perEtfUsd": {
@@ -8056,7 +8056,7 @@
     },
     {
       "date": "2025-09-30",
-      "netFlowUsd": 429957109.1699994,
+      "netFlowUsd": 429900000,
       "btcCloseUsd": 114636,
       "totalNetAssetsUsd": 150770861540.51556,
       "perEtfUsd": {
@@ -8075,7 +8075,7 @@
     },
     {
       "date": "2025-10-01",
-      "netFlowUsd": 675814064.8500006,
+      "netFlowUsd": 675800000,
       "btcCloseUsd": 117605,
       "totalNetAssetsUsd": 155894962518.53543,
       "perEtfUsd": {
@@ -8094,7 +8094,7 @@
     },
     {
       "date": "2025-10-02",
-      "netFlowUsd": 627244401.965,
+      "netFlowUsd": 627200000,
       "btcCloseUsd": 120680,
       "totalNetAssetsUsd": 161025456700.71667,
       "perEtfUsd": {
@@ -8113,7 +8113,7 @@
     },
     {
       "date": "2025-10-03",
-      "netFlowUsd": 985081713.27,
+      "netFlowUsd": 985100000,
       "btcCloseUsd": 122535,
       "totalNetAssetsUsd": 164496693923.12054,
       "perEtfUsd": {
@@ -8132,7 +8132,7 @@
     },
     {
       "date": "2025-10-06",
-      "netFlowUsd": 1205182658.7099998,
+      "netFlowUsd": 1205200000,
       "btcCloseUsd": 125244,
       "totalNetAssetsUsd": 169543558663.73883,
       "perEtfUsd": {
@@ -8151,7 +8151,7 @@
     },
     {
       "date": "2025-10-07",
-      "netFlowUsd": 875607450,
+      "netFlowUsd": 875600000,
       "btcCloseUsd": 122006,
       "totalNetAssetsUsd": 164909175396.5847,
       "perEtfUsd": {
@@ -8170,7 +8170,7 @@
     },
     {
       "date": "2025-10-08",
-      "netFlowUsd": 440725128.4,
+      "netFlowUsd": 440700000,
       "btcCloseUsd": 122924,
       "totalNetAssetsUsd": 168002961067.15045,
       "perEtfUsd": {
@@ -8189,7 +8189,7 @@
     },
     {
       "date": "2025-10-09",
-      "netFlowUsd": 197684064.68000004,
+      "netFlowUsd": 197800000,
       "btcCloseUsd": 121186,
       "totalNetAssetsUsd": 164793004460.25983,
       "perEtfUsd": {
@@ -8208,7 +8208,7 @@
     },
     {
       "date": "2025-10-10",
-      "netFlowUsd": -4503772.23,
+      "netFlowUsd": -4500000,
       "btcCloseUsd": 114364,
       "totalNetAssetsUsd": 158964621380.81595,
       "perEtfUsd": {
@@ -8227,7 +8227,7 @@
     },
     {
       "date": "2025-10-13",
-      "netFlowUsd": -326515434.11,
+      "netFlowUsd": -326400000,
       "btcCloseUsd": 115777,
       "totalNetAssetsUsd": 157179520752.8329,
       "perEtfUsd": {
@@ -8246,7 +8246,7 @@
     },
     {
       "date": "2025-10-14",
-      "netFlowUsd": 102582380.54,
+      "netFlowUsd": 102699999.99999999,
       "btcCloseUsd": 113015,
       "totalNetAssetsUsd": 153549637125.82703,
       "perEtfUsd": {
@@ -8265,7 +8265,7 @@
     },
     {
       "date": "2025-10-15",
-      "netFlowUsd": -104114643.9,
+      "netFlowUsd": -104100000,
       "btcCloseUsd": 111186,
       "totalNetAssetsUsd": 151319572513.19345,
       "perEtfUsd": {
@@ -8284,7 +8284,7 @@
     },
     {
       "date": "2025-10-16",
-      "netFlowUsd": -536436461.53999996,
+      "netFlowUsd": -530900000,
       "btcCloseUsd": 107875,
       "totalNetAssetsUsd": 146435124899.46527,
       "perEtfUsd": {
@@ -8303,7 +8303,7 @@
     },
     {
       "date": "2025-10-17",
-      "netFlowUsd": -366585053.1,
+      "netFlowUsd": -366600000,
       "btcCloseUsd": 107028,
       "totalNetAssetsUsd": 143934686386.17447,
       "perEtfUsd": {
@@ -8322,7 +8322,7 @@
     },
     {
       "date": "2025-10-20",
-      "netFlowUsd": -40468310.94,
+      "netFlowUsd": -40400000,
       "btcCloseUsd": 111118,
       "totalNetAssetsUsd": 149663366960.0116,
       "perEtfUsd": {
@@ -8341,7 +8341,7 @@
     },
     {
       "date": "2025-10-21",
-      "netFlowUsd": 477185400.6300003,
+      "netFlowUsd": 477200000,
       "btcCloseUsd": 110875,
       "totalNetAssetsUsd": 151577656888.78513,
       "perEtfUsd": {
@@ -8360,7 +8360,7 @@
     },
     {
       "date": "2025-10-22",
-      "netFlowUsd": -101285733.16,
+      "netFlowUsd": -101400000,
       "btcCloseUsd": 107686,
       "totalNetAssetsUsd": 146269744209.05032,
       "perEtfUsd": {
@@ -8379,7 +8379,7 @@
     },
     {
       "date": "2025-10-23",
-      "netFlowUsd": 20325414.98,
+      "netFlowUsd": 20300000,
       "btcCloseUsd": 109555,
       "totalNetAssetsUsd": 149430555572.40915,
       "perEtfUsd": {
@@ -8398,7 +8398,7 @@
     },
     {
       "date": "2025-10-24",
-      "netFlowUsd": 90604970.8,
+      "netFlowUsd": 90600000,
       "btcCloseUsd": 110900,
       "totalNetAssetsUsd": 149961508014.63965,
       "perEtfUsd": {
@@ -8417,7 +8417,7 @@
     },
     {
       "date": "2025-10-27",
-      "netFlowUsd": 149297173,
+      "netFlowUsd": 149300000,
       "btcCloseUsd": 114546,
       "totalNetAssetsUsd": 155887840251.40894,
       "perEtfUsd": {
@@ -8436,7 +8436,7 @@
     },
     {
       "date": "2025-10-28",
-      "netFlowUsd": 202483340.475,
+      "netFlowUsd": 202400000,
       "btcCloseUsd": 112800,
       "totalNetAssetsUsd": 154811246977.18335,
       "perEtfUsd": {
@@ -8455,7 +8455,7 @@
     },
     {
       "date": "2025-10-29",
-      "netFlowUsd": -470706614.055,
+      "netFlowUsd": -470700000,
       "btcCloseUsd": 111451,
       "totalNetAssetsUsd": 149975436821.0931,
       "perEtfUsd": {
@@ -8474,7 +8474,7 @@
     },
     {
       "date": "2025-10-30",
-      "netFlowUsd": -488426030.4500005,
+      "netFlowUsd": -488400000,
       "btcCloseUsd": 107499,
       "totalNetAssetsUsd": 143944369912.3431,
       "perEtfUsd": {
@@ -8493,7 +8493,7 @@
     },
     {
       "date": "2025-10-31",
-      "netFlowUsd": -191596715.995,
+      "netFlowUsd": -191600000,
       "btcCloseUsd": 109410,
       "totalNetAssetsUsd": 147731750197.20828,
       "perEtfUsd": {
@@ -8512,7 +8512,7 @@
     },
     {
       "date": "2025-11-03",
-      "netFlowUsd": -186512480,
+      "netFlowUsd": -186500000,
       "btcCloseUsd": 106640,
       "totalNetAssetsUsd": 143509332664.4837,
       "perEtfUsd": {
@@ -8531,7 +8531,7 @@
     },
     {
       "date": "2025-11-04",
-      "netFlowUsd": -577736015.8949997,
+      "netFlowUsd": -566400000,
       "btcCloseUsd": 100700,
       "totalNetAssetsUsd": 134529401206.03912,
       "perEtfUsd": {
@@ -8550,7 +8550,7 @@
     },
     {
       "date": "2025-11-05",
-      "netFlowUsd": -136996456.5,
+      "netFlowUsd": -137000000,
       "btcCloseUsd": 103867,
       "totalNetAssetsUsd": 139146463200.63312,
       "perEtfUsd": {
@@ -8569,7 +8569,7 @@
     },
     {
       "date": "2025-11-06",
-      "netFlowUsd": 240025834.9,
+      "netFlowUsd": 239900000,
       "btcCloseUsd": 100865,
       "totalNetAssetsUsd": 135431143344.24016,
       "perEtfUsd": {
@@ -8588,7 +8588,7 @@
     },
     {
       "date": "2025-11-07",
-      "netFlowUsd": -558442368.93,
+      "netFlowUsd": -558400000,
       "btcCloseUsd": 103714,
       "totalNetAssetsUsd": 138081725412.69327,
       "perEtfUsd": {
@@ -8607,7 +8607,7 @@
     },
     {
       "date": "2025-11-10",
-      "netFlowUsd": 1152918.26,
+      "netFlowUsd": 1200000,
       "btcCloseUsd": 106000,
       "totalNetAssetsUsd": 141539858259.48618,
       "perEtfUsd": {
@@ -8626,7 +8626,7 @@
     },
     {
       "date": "2025-11-11",
-      "netFlowUsd": 523983160.24,
+      "netFlowUsd": 524000000,
       "btcCloseUsd": 102797,
       "totalNetAssetsUsd": 137833195245.43497,
       "perEtfUsd": {
@@ -8645,7 +8645,7 @@
     },
     {
       "date": "2025-11-12",
-      "netFlowUsd": -277975150.425,
+      "netFlowUsd": -278100000,
       "btcCloseUsd": 101520,
       "totalNetAssetsUsd": 135808429582.33972,
       "perEtfUsd": {
@@ -8664,7 +8664,7 @@
     },
     {
       "date": "2025-11-13",
-      "netFlowUsd": -869864241.37,
+      "netFlowUsd": -866700000,
       "btcCloseUsd": 98070,
       "totalNetAssetsUsd": 130535978662.38536,
       "perEtfUsd": {
@@ -8683,7 +8683,7 @@
     },
     {
       "date": "2025-11-14",
-      "netFlowUsd": -492108484.035,
+      "netFlowUsd": -492100000,
       "btcCloseUsd": 94267,
       "totalNetAssetsUsd": 125344525812.84377,
       "perEtfUsd": {
@@ -8702,7 +8702,7 @@
     },
     {
       "date": "2025-11-17",
-      "netFlowUsd": -254512005.52,
+      "netFlowUsd": -254600000,
       "btcCloseUsd": 91879,
       "totalNetAssetsUsd": 121009468032.28099,
       "perEtfUsd": {
@@ -8721,7 +8721,7 @@
     },
     {
       "date": "2025-11-18",
-      "netFlowUsd": -372766938.6,
+      "netFlowUsd": -372800000.00000006,
       "btcCloseUsd": 92788,
       "totalNetAssetsUsd": 122293705844.08427,
       "perEtfUsd": {
@@ -8740,7 +8740,7 @@
     },
     {
       "date": "2025-11-19",
-      "netFlowUsd": 75469580.47500001,
+      "netFlowUsd": 75400000,
       "btcCloseUsd": 89446,
       "totalNetAssetsUsd": 117344861624.55568,
       "perEtfUsd": {
@@ -8759,7 +8759,7 @@
     },
     {
       "date": "2025-11-20",
-      "netFlowUsd": -903112546.685,
+      "netFlowUsd": -903200000,
       "btcCloseUsd": 86302,
       "totalNetAssetsUsd": 113019798007.02647,
       "perEtfUsd": {
@@ -8778,7 +8778,7 @@
     },
     {
       "date": "2025-11-21",
-      "netFlowUsd": 238473962.45,
+      "netFlowUsd": 238400000,
       "btcCloseUsd": 84507,
       "totalNetAssetsUsd": 110110142946.01387,
       "perEtfUsd": {
@@ -8797,7 +8797,7 @@
     },
     {
       "date": "2025-11-24",
-      "netFlowUsd": -151081932.655,
+      "netFlowUsd": -151000000,
       "btcCloseUsd": 89147,
       "totalNetAssetsUsd": 116201914192.56177,
       "perEtfUsd": {
@@ -8816,7 +8816,7 @@
     },
     {
       "date": "2025-11-25",
-      "netFlowUsd": 128635670.375,
+      "netFlowUsd": 128700000,
       "btcCloseUsd": 87379,
       "totalNetAssetsUsd": 114071971372.65363,
       "perEtfUsd": {
@@ -8835,7 +8835,7 @@
     },
     {
       "date": "2025-11-26",
-      "netFlowUsd": 21122763.2,
+      "netFlowUsd": 21100000.000000004,
       "btcCloseUsd": 89900,
       "totalNetAssetsUsd": 117663681175.78384,
       "perEtfUsd": {
@@ -8854,7 +8854,7 @@
     },
     {
       "date": "2025-11-28",
-      "netFlowUsd": 71370990.815,
+      "netFlowUsd": 71400000,
       "btcCloseUsd": 91219,
       "totalNetAssetsUsd": 119390455139.6926,
       "perEtfUsd": {
@@ -8873,7 +8873,7 @@
     },
     {
       "date": "2025-12-01",
-      "netFlowUsd": 8479170.60000001,
+      "netFlowUsd": 8499999.999999993,
       "btcCloseUsd": 85484,
       "totalNetAssetsUsd": 111942076793.12291,
       "perEtfUsd": {
@@ -8892,7 +8892,7 @@
     },
     {
       "date": "2025-12-02",
-      "netFlowUsd": 58499450.19999999,
+      "netFlowUsd": 58500000,
       "btcCloseUsd": 91118,
       "totalNetAssetsUsd": 119586841116.84496,
       "perEtfUsd": {
@@ -8911,7 +8911,7 @@
     },
     {
       "date": "2025-12-03",
-      "netFlowUsd": -14898322.6,
+      "netFlowUsd": -14900000,
       "btcCloseUsd": 92978,
       "totalNetAssetsUsd": 121962983723.13605,
       "perEtfUsd": {
@@ -8930,7 +8930,7 @@
     },
     {
       "date": "2025-12-04",
-      "netFlowUsd": -194637120.41,
+      "netFlowUsd": -194600000,
       "btcCloseUsd": 92518,
       "totalNetAssetsUsd": 120682415796.67703,
       "perEtfUsd": {
@@ -8949,7 +8949,7 @@
     },
     {
       "date": "2025-12-05",
-      "netFlowUsd": 54789576.11,
+      "netFlowUsd": 54800000,
       "btcCloseUsd": 89314,
       "totalNetAssetsUsd": 117108762688.40636,
       "perEtfUsd": {
@@ -8968,7 +8968,7 @@
     },
     {
       "date": "2025-12-08",
-      "netFlowUsd": -60479858.49999999,
+      "netFlowUsd": -60400000,
       "btcCloseUsd": 90789,
       "totalNetAssetsUsd": 118498437887.47752,
       "perEtfUsd": {
@@ -8987,7 +8987,7 @@
     },
     {
       "date": "2025-12-09",
-      "netFlowUsd": 151742056.67,
+      "netFlowUsd": 151900000,
       "btcCloseUsd": 93092,
       "totalNetAssetsUsd": 122104138657.203,
       "perEtfUsd": {
@@ -9006,7 +9006,7 @@
     },
     {
       "date": "2025-12-10",
-      "netFlowUsd": 223520563.875,
+      "netFlowUsd": 223500000,
       "btcCloseUsd": 92480,
       "totalNetAssetsUsd": 122430883009.94437,
       "perEtfUsd": {
@@ -9025,7 +9025,7 @@
     },
     {
       "date": "2025-12-11",
-      "netFlowUsd": -77341871.56,
+      "netFlowUsd": -77500000,
       "btcCloseUsd": 91849,
       "totalNetAssetsUsd": 119925373570.13416,
       "perEtfUsd": {
@@ -9044,7 +9044,7 @@
     },
     {
       "date": "2025-12-12",
-      "netFlowUsd": 49164015.85,
+      "netFlowUsd": 49100000,
       "btcCloseUsd": 90227,
       "totalNetAssetsUsd": 118270887765.39568,
       "perEtfUsd": {
@@ -9063,7 +9063,7 @@
     },
     {
       "date": "2025-12-15",
-      "netFlowUsd": -357688526.825,
+      "netFlowUsd": -357600000,
       "btcCloseUsd": 85779,
       "totalNetAssetsUsd": 112267732498.60938,
       "perEtfUsd": {
@@ -9082,7 +9082,7 @@
     },
     {
       "date": "2025-12-16",
-      "netFlowUsd": -277085591.11,
+      "netFlowUsd": -277200000,
       "btcCloseUsd": 87569,
       "totalNetAssetsUsd": 114278997266.39088,
       "perEtfUsd": {
@@ -9101,7 +9101,7 @@
     },
     {
       "date": "2025-12-17",
-      "netFlowUsd": 457292993.405,
+      "netFlowUsd": 457300000,
       "btcCloseUsd": 85855,
       "totalNetAssetsUsd": 112573517688.10208,
       "perEtfUsd": {
@@ -9120,7 +9120,7 @@
     },
     {
       "date": "2025-12-18",
-      "netFlowUsd": -161324877.85,
+      "netFlowUsd": -161300000,
       "btcCloseUsd": 84716,
       "totalNetAssetsUsd": 111040711929.36504,
       "perEtfUsd": {
@@ -9139,7 +9139,7 @@
     },
     {
       "date": "2025-12-19",
-      "netFlowUsd": -158248300,
+      "netFlowUsd": -158300000,
       "btcCloseUsd": 88002,
       "totalNetAssetsUsd": 114872463377.354,
       "perEtfUsd": {
@@ -9158,7 +9158,7 @@
     },
     {
       "date": "2025-12-22",
-      "netFlowUsd": -142193040.78,
+      "netFlowUsd": -142200000,
       "btcCloseUsd": 88309,
       "totalNetAssetsUsd": 114991473081.3788,
       "perEtfUsd": {
@@ -9177,7 +9177,7 @@
     },
     {
       "date": "2025-12-23",
-      "netFlowUsd": -188637799.92,
+      "netFlowUsd": -188600000,
       "btcCloseUsd": 87632,
       "totalNetAssetsUsd": 114289220344.8383,
       "perEtfUsd": {
@@ -9196,7 +9196,7 @@
     },
     {
       "date": "2025-12-24",
-      "netFlowUsd": -175285362.005,
+      "netFlowUsd": -175300000,
       "btcCloseUsd": 87497,
       "totalNetAssetsUsd": 113832911201.73727,
       "perEtfUsd": {
@@ -9215,7 +9215,7 @@
     },
     {
       "date": "2025-12-26",
-      "netFlowUsd": -275881989.225,
+      "netFlowUsd": -275900000,
       "btcCloseUsd": 87511,
       "totalNetAssetsUsd": 113529982523.43887,
       "perEtfUsd": {
@@ -9234,7 +9234,7 @@
     },
     {
       "date": "2025-12-29",
-      "netFlowUsd": -19291383.22,
+      "netFlowUsd": -19300000,
       "btcCloseUsd": 87112,
       "totalNetAssetsUsd": 113074786305.8744,
       "perEtfUsd": {
@@ -9253,7 +9253,7 @@
     },
     {
       "date": "2025-12-30",
-      "netFlowUsd": 355016868.325,
+      "netFlowUsd": 355100000,
       "btcCloseUsd": 87828,
       "totalNetAssetsUsd": 114438587269.47385,
       "perEtfUsd": {
@@ -9272,7 +9272,7 @@
     },
     {
       "date": "2025-12-31",
-      "netFlowUsd": -348095084.605,
+      "netFlowUsd": -348100000,
       "btcCloseUsd": 87534,
       "totalNetAssetsUsd": 113292479707.84892,
       "perEtfUsd": {
@@ -9291,7 +9291,7 @@
     },
     {
       "date": "2026-01-02",
-      "netFlowUsd": 471141073.55,
+      "netFlowUsd": 471300000,
       "btcCloseUsd": 89685,
       "totalNetAssetsUsd": 116952026714.0012,
       "perEtfUsd": {
@@ -9310,7 +9310,7 @@
     },
     {
       "date": "2026-01-05",
-      "netFlowUsd": 697251551.08,
+      "netFlowUsd": 697200000,
       "btcCloseUsd": 94169,
       "totalNetAssetsUsd": 123520760210.85529,
       "perEtfUsd": {
@@ -9329,7 +9329,7 @@
     },
     {
       "date": "2026-01-06",
-      "netFlowUsd": -243238017.37,
+      "netFlowUsd": -243200000,
       "btcCloseUsd": 92461,
       "totalNetAssetsUsd": 120854669052.51569,
       "perEtfUsd": {
@@ -9348,7 +9348,7 @@
     },
     {
       "date": "2026-01-07",
-      "netFlowUsd": -486083849.265,
+      "netFlowUsd": -486100000,
       "btcCloseUsd": 90943,
       "totalNetAssetsUsd": 118363571912.00005,
       "perEtfUsd": {
@@ -9367,7 +9367,7 @@
     },
     {
       "date": "2026-01-08",
-      "netFlowUsd": -398946849.495,
+      "netFlowUsd": -398800000,
       "btcCloseUsd": 90835,
       "totalNetAssetsUsd": 117655268502.87352,
       "perEtfUsd": {
@@ -9386,7 +9386,7 @@
     },
     {
       "date": "2026-01-09",
-      "netFlowUsd": -249990155.96,
+      "netFlowUsd": -250000000,
       "btcCloseUsd": 90185,
       "totalNetAssetsUsd": 116856492873.57423,
       "perEtfUsd": {
@@ -9405,7 +9405,7 @@
     },
     {
       "date": "2026-01-12",
-      "netFlowUsd": 116667803.2,
+      "netFlowUsd": 116700000,
       "btcCloseUsd": 91400,
       "totalNetAssetsUsd": 118652084399.53784,
       "perEtfUsd": {
@@ -9424,7 +9424,7 @@
     },
     {
       "date": "2026-01-13",
-      "netFlowUsd": 753725334.75,
+      "netFlowUsd": 753800000,
       "btcCloseUsd": 94400,
       "totalNetAssetsUsd": 123002869434.4624,
       "perEtfUsd": {
@@ -9443,7 +9443,7 @@
     },
     {
       "date": "2026-01-14",
-      "netFlowUsd": 843620502.025,
+      "netFlowUsd": 840600000,
       "btcCloseUsd": 97650,
       "totalNetAssetsUsd": 128044313850.72987,
       "perEtfUsd": {
@@ -9462,7 +9462,7 @@
     },
     {
       "date": "2026-01-15",
-      "netFlowUsd": 100181657.375,
+      "netFlowUsd": 100200000,
       "btcCloseUsd": 95191,
       "totalNetAssetsUsd": 125176652557.1926,
       "perEtfUsd": {
@@ -9481,7 +9481,7 @@
     },
     {
       "date": "2026-01-16",
-      "netFlowUsd": -394677331.05,
+      "netFlowUsd": -394700000,
       "btcCloseUsd": 95462,
       "totalNetAssetsUsd": 124562809278.82896,
       "perEtfUsd": {
@@ -9500,7 +9500,7 @@
     },
     {
       "date": "2026-01-20",
-      "netFlowUsd": -483384405.3,
+      "netFlowUsd": -479700000,
       "btcCloseUsd": 89549,
       "totalNetAssetsUsd": 116734990122.8862,
       "perEtfUsd": {
@@ -9519,7 +9519,7 @@
     },
     {
       "date": "2026-01-21",
-      "netFlowUsd": -708711816.85,
+      "netFlowUsd": -708700000,
       "btcCloseUsd": 90079,
       "totalNetAssetsUsd": 116476692106.7332,
       "perEtfUsd": {
@@ -9538,7 +9538,7 @@
     },
     {
       "date": "2026-01-22",
-      "netFlowUsd": -32108140,
+      "netFlowUsd": -32200000,
       "btcCloseUsd": 89365,
       "totalNetAssetsUsd": 115993091651.8734,
       "perEtfUsd": {
@@ -9557,7 +9557,7 @@
     },
     {
       "date": "2026-01-23",
-      "netFlowUsd": -103567252.4,
+      "netFlowUsd": -103500000,
       "btcCloseUsd": 89376,
       "totalNetAssetsUsd": 115883177899.29608,
       "perEtfUsd": {
@@ -9576,7 +9576,7 @@
     },
     {
       "date": "2026-01-26",
-      "netFlowUsd": 6842668.690000001,
+      "netFlowUsd": 6800000,
       "btcCloseUsd": 87562,
       "totalNetAssetsUsd": 113539069487.64195,
       "perEtfUsd": {
@@ -9595,7 +9595,7 @@
     },
     {
       "date": "2026-01-27",
-      "netFlowUsd": -147371017.725,
+      "netFlowUsd": -147400000,
       "btcCloseUsd": 89292,
       "totalNetAssetsUsd": 114989259218.89484,
       "perEtfUsd": {
@@ -9614,7 +9614,7 @@
     },
     {
       "date": "2026-01-28",
-      "netFlowUsd": -19644889.07,
+      "netFlowUsd": -19600000,
       "btcCloseUsd": 89050,
       "totalNetAssetsUsd": 115350890301.88689,
       "perEtfUsd": {
@@ -9633,7 +9633,7 @@
     },
     {
       "date": "2026-01-29",
-      "netFlowUsd": -817868771.01,
+      "netFlowUsd": -817800000,
       "btcCloseUsd": 84095,
       "totalNetAssetsUsd": 107647863484.1954,
       "perEtfUsd": {
@@ -9652,7 +9652,7 @@
     },
     {
       "date": "2026-01-30",
-      "netFlowUsd": -509695859.85,
+      "netFlowUsd": -509699999.99999994,
       "btcCloseUsd": 83810,
       "totalNetAssetsUsd": 106959527708.19708,
       "perEtfUsd": {
@@ -9671,7 +9671,7 @@
     },
     {
       "date": "2026-02-02",
-      "netFlowUsd": 561894759.215,
+      "netFlowUsd": 561800000,
       "btcCloseUsd": 77924,
       "totalNetAssetsUsd": 100377444309.56784,
       "perEtfUsd": {
@@ -9690,7 +9690,7 @@
     },
     {
       "date": "2026-02-03",
-      "netFlowUsd": -272021146.60999995,
+      "netFlowUsd": -272000000,
       "btcCloseUsd": 76455,
       "totalNetAssetsUsd": 97008239334.59808,
       "perEtfUsd": {
@@ -9709,7 +9709,7 @@
     },
     {
       "date": "2026-02-04",
-      "netFlowUsd": -544942116.4,
+      "netFlowUsd": -544900000,
       "btcCloseUsd": 73353,
       "totalNetAssetsUsd": 93507785820.8504,
       "perEtfUsd": {
@@ -9728,7 +9728,7 @@
     },
     {
       "date": "2026-02-05",
-      "netFlowUsd": -434150443.75,
+      "netFlowUsd": -434100000,
       "btcCloseUsd": 63640,
       "totalNetAssetsUsd": 80762895984.01189,
       "perEtfUsd": {
@@ -9747,7 +9747,7 @@
     },
     {
       "date": "2026-02-06",
-      "netFlowUsd": 371149761.09999996,
+      "netFlowUsd": 371100000,
       "btcCloseUsd": 70038,
       "totalNetAssetsUsd": 89432690365.0204,
       "perEtfUsd": {
@@ -9766,7 +9766,7 @@
     },
     {
       "date": "2026-02-09",
-      "netFlowUsd": 144996900.75,
+      "netFlowUsd": 144900000,
       "btcCloseUsd": 70718,
       "totalNetAssetsUsd": 90052982842.51833,
       "perEtfUsd": {
@@ -9785,7 +9785,7 @@
     },
     {
       "date": "2026-02-10",
-      "netFlowUsd": 166559594.55,
+      "netFlowUsd": 166500000,
       "btcCloseUsd": 68761,
       "totalNetAssetsUsd": 87747754532.85233,
       "perEtfUsd": {
@@ -9804,7 +9804,7 @@
     },
     {
       "date": "2026-02-11",
-      "netFlowUsd": -276301047.225,
+      "netFlowUsd": -276300000,
       "btcCloseUsd": 67559,
       "totalNetAssetsUsd": 85764982917.16731,
       "perEtfUsd": {
@@ -9823,7 +9823,7 @@
     },
     {
       "date": "2026-02-12",
-      "netFlowUsd": -410366337.57,
+      "netFlowUsd": -410200000,
       "btcCloseUsd": 65391,
       "totalNetAssetsUsd": 82864899676.50743,
       "perEtfUsd": {
@@ -9842,7 +9842,7 @@
     },
     {
       "date": "2026-02-13",
-      "netFlowUsd": 15202870.6,
+      "netFlowUsd": 15100000,
       "btcCloseUsd": 68731,
       "totalNetAssetsUsd": 87037845395.80508,
       "perEtfUsd": {
@@ -9861,7 +9861,7 @@
     },
     {
       "date": "2026-02-17",
-      "netFlowUsd": -104867618.96,
+      "netFlowUsd": -104900000,
       "btcCloseUsd": 67736,
       "totalNetAssetsUsd": 85519530681.18327,
       "perEtfUsd": {
@@ -9880,7 +9880,7 @@
     },
     {
       "date": "2026-02-18",
-      "netFlowUsd": -133269749,
+      "netFlowUsd": -133300000,
       "btcCloseUsd": 66234,
       "totalNetAssetsUsd": 83625226367.73122,
       "perEtfUsd": {
@@ -9899,7 +9899,7 @@
     },
     {
       "date": "2026-02-19",
-      "netFlowUsd": -165761964,
+      "netFlowUsd": -165800000,
       "btcCloseUsd": 67090,
       "totalNetAssetsUsd": 84369825350.53008,
       "perEtfUsd": {
@@ -9918,7 +9918,7 @@
     },
     {
       "date": "2026-02-20",
-      "netFlowUsd": 88042243.6,
+      "netFlowUsd": 88100000,
       "btcCloseUsd": 67698,
       "totalNetAssetsUsd": 85313411547.10432,
       "perEtfUsd": {
@@ -9937,7 +9937,7 @@
     },
     {
       "date": "2026-02-23",
-      "netFlowUsd": -203816310.3,
+      "netFlowUsd": -203800000,
       "btcCloseUsd": 64440,
       "totalNetAssetsUsd": 80737762722.19612,
       "perEtfUsd": {
@@ -9956,7 +9956,7 @@
     },
     {
       "date": "2026-02-24",
-      "netFlowUsd": 257710105.95,
+      "netFlowUsd": 257700000,
       "btcCloseUsd": 64486,
       "totalNetAssetsUsd": 81301631697.94423,
       "perEtfUsd": {
@@ -9975,7 +9975,7 @@
     },
     {
       "date": "2026-02-25",
-      "netFlowUsd": 506511302.25,
+      "netFlowUsd": 506600000,
       "btcCloseUsd": 69186,
       "totalNetAssetsUsd": 87604117606.87552,
       "perEtfUsd": {
@@ -9994,7 +9994,7 @@
     },
     {
       "date": "2026-02-26",
-      "netFlowUsd": 254455466.455,
+      "netFlowUsd": 254400000,
       "btcCloseUsd": 67423,
       "totalNetAssetsUsd": 85937317575.99936,
       "perEtfUsd": {
@@ -10013,7 +10013,7 @@
     },
     {
       "date": "2026-02-27",
-      "netFlowUsd": -27550287.049999997,
+      "netFlowUsd": -27500000.000000004,
       "btcCloseUsd": 65609,
       "totalNetAssetsUsd": 83402042155.08723,
       "perEtfUsd": {
@@ -10032,7 +10032,7 @@
     },
     {
       "date": "2026-03-02",
-      "netFlowUsd": 458187575.22499996,
+      "netFlowUsd": 458200000,
       "btcCloseUsd": 69172,
       "totalNetAssetsUsd": 88341219282.00548,
       "perEtfUsd": {
@@ -10051,7 +10051,7 @@
     },
     {
       "date": "2026-03-03",
-      "netFlowUsd": 225152714.9,
+      "netFlowUsd": 225200000,
       "btcCloseUsd": 68234,
       "totalNetAssetsUsd": 87581934249.83992,
       "perEtfUsd": {
@@ -10070,7 +10070,7 @@
     },
     {
       "date": "2026-03-04",
-      "netFlowUsd": 461770841.125,
+      "netFlowUsd": 461900000,
       "btcCloseUsd": 73075,
       "totalNetAssetsUsd": 94567719757.64656,
       "perEtfUsd": {
@@ -10089,7 +10089,7 @@
     },
     {
       "date": "2026-03-05",
-      "netFlowUsd": -227833838.74,
+      "netFlowUsd": -227900000,
       "btcCloseUsd": 71217,
       "totalNetAssetsUsd": 91439688680.34187,
       "perEtfUsd": {
@@ -10108,7 +10108,7 @@
     },
     {
       "date": "2026-03-06",
-      "netFlowUsd": -348828618.3,
+      "netFlowUsd": -348900000,
       "btcCloseUsd": 68120,
       "totalNetAssetsUsd": 87074777524.82524,
       "perEtfUsd": {
@@ -10127,7 +10127,7 @@
     },
     {
       "date": "2026-03-09",
-      "netFlowUsd": 167030145.1,
+      "netFlowUsd": 167100000,
       "btcCloseUsd": 69002,
       "totalNetAssetsUsd": 88341576062.56676,
       "perEtfUsd": {
@@ -10146,7 +10146,7 @@
     },
     {
       "date": "2026-03-10",
-      "netFlowUsd": 250924791.93,
+      "netFlowUsd": 246900000,
       "btcCloseUsd": 70247,
       "totalNetAssetsUsd": 90019308697.80736,
       "perEtfUsd": {
@@ -10165,7 +10165,7 @@
     },
     {
       "date": "2026-03-11",
-      "netFlowUsd": 115170994.75,
+      "netFlowUsd": 115200000,
       "btcCloseUsd": 70661,
       "totalNetAssetsUsd": 90886036977.99904,
       "perEtfUsd": {
@@ -10184,7 +10184,7 @@
     },
     {
       "date": "2026-03-12",
-      "netFlowUsd": 53868060.58,
+      "netFlowUsd": 53800000,
       "btcCloseUsd": 70191,
       "totalNetAssetsUsd": 90469655390.0918,
       "perEtfUsd": {
@@ -10203,7 +10203,7 @@
     },
     {
       "date": "2026-03-13",
-      "netFlowUsd": 180333827.82,
+      "netFlowUsd": 180400000,
       "btcCloseUsd": 71364,
       "totalNetAssetsUsd": 91825643473.4716,
       "perEtfUsd": {
@@ -10222,7 +10222,7 @@
     },
     {
       "date": "2026-03-16",
-      "netFlowUsd": 201622969.86499998,
+      "netFlowUsd": 199400000,
       "btcCloseUsd": 74233,
       "totalNetAssetsUsd": 95771665282.99011,
       "perEtfUsd": {
@@ -10241,7 +10241,7 @@
     },
     {
       "date": "2026-03-17",
-      "netFlowUsd": 199372736.7,
+      "netFlowUsd": 199400000,
       "btcCloseUsd": 74560,
       "totalNetAssetsUsd": 96744280055.54645,
       "perEtfUsd": {
@@ -10260,7 +10260,7 @@
     },
     {
       "date": "2026-03-18",
-      "netFlowUsd": -163521701.93,
+      "netFlowUsd": -163500000,
       "btcCloseUsd": 71234,
       "totalNetAssetsUsd": 92067415408.57835,
       "perEtfUsd": {
@@ -10279,7 +10279,7 @@
     },
     {
       "date": "2026-03-19",
-      "netFlowUsd": -90189632.725,
+      "netFlowUsd": -90200000,
       "btcCloseUsd": 70488,
       "totalNetAssetsUsd": 90827462066.78244,
       "perEtfUsd": {
@@ -10298,7 +10298,7 @@
     },
     {
       "date": "2026-03-20",
-      "netFlowUsd": -52109179.4,
+      "netFlowUsd": -52000000,
       "btcCloseUsd": 70039,
       "totalNetAssetsUsd": 90301011296.44788,
       "perEtfUsd": {
@@ -10317,7 +10317,7 @@
     },
     {
       "date": "2026-03-23",
-      "netFlowUsd": 167229236.35,
+      "netFlowUsd": 167200000,
       "btcCloseUsd": 70901,
       "totalNetAssetsUsd": 91708715362.60977,
       "perEtfUsd": {
@@ -10336,7 +10336,7 @@
     },
     {
       "date": "2026-03-24",
-      "netFlowUsd": -74527422.81,
+      "netFlowUsd": -74500000,
       "btcCloseUsd": 70070,
       "totalNetAssetsUsd": 89744944959.91928,
       "perEtfUsd": {
@@ -10355,7 +10355,7 @@
     },
     {
       "date": "2026-03-25",
-      "netFlowUsd": 7806864.84,
+      "netFlowUsd": 7800000,
       "btcCloseUsd": 70983,
       "totalNetAssetsUsd": 91627874656.94632,
       "perEtfUsd": {
@@ -10374,7 +10374,7 @@
     },
     {
       "date": "2026-03-26",
-      "netFlowUsd": -171215465.2,
+      "netFlowUsd": -171300000,
       "btcCloseUsd": 68968,
       "totalNetAssetsUsd": 88355726427.10388,
       "perEtfUsd": {
@@ -10393,7 +10393,7 @@
     },
     {
       "date": "2026-03-27",
-      "netFlowUsd": -225476321.975,
+      "netFlowUsd": -225500000,
       "btcCloseUsd": 65973,
       "totalNetAssetsUsd": 84772057250.482,
       "perEtfUsd": {
@@ -10412,7 +10412,7 @@
     },
     {
       "date": "2026-03-30",
-      "netFlowUsd": 69440425,
+      "netFlowUsd": 69400000,
       "btcCloseUsd": 66600,
       "totalNetAssetsUsd": 85474893234.45831,
       "perEtfUsd": {
@@ -10431,7 +10431,7 @@
     },
     {
       "date": "2026-03-31",
-      "netFlowUsd": 117632799.075,
+      "netFlowUsd": 117500000,
       "btcCloseUsd": 68194,
       "totalNetAssetsUsd": 87459841041.12971,
       "perEtfUsd": {
@@ -10450,7 +10450,7 @@
     },
     {
       "date": "2026-04-01",
-      "netFlowUsd": -173725295.55,
+      "netFlowUsd": -173700000,
       "btcCloseUsd": 68176,
       "totalNetAssetsUsd": 87706553852.83664,
       "perEtfUsd": {
@@ -10469,7 +10469,7 @@
     },
     {
       "date": "2026-04-02",
-      "netFlowUsd": 8992603.75,
+      "netFlowUsd": 9000000,
       "btcCloseUsd": 66934,
       "totalNetAssetsUsd": 86222819822.4854,
       "perEtfUsd": {
@@ -10488,7 +10488,7 @@
     },
     {
       "date": "2026-04-06",
-      "netFlowUsd": 471323049.985,
+      "netFlowUsd": 471400000,
       "btcCloseUsd": 69827,
       "totalNetAssetsUsd": 90257246236.55309,
       "perEtfUsd": {
@@ -10507,7 +10507,7 @@
     },
     {
       "date": "2026-04-07",
-      "netFlowUsd": -159049707.3,
+      "netFlowUsd": -159100000,
       "btcCloseUsd": 69310,
       "totalNetAssetsUsd": 88705594452.04288,
       "perEtfUsd": {
@@ -10526,7 +10526,7 @@
     },
     {
       "date": "2026-04-08",
-      "netFlowUsd": -124547252.17,
+      "netFlowUsd": -93900000,
       "btcCloseUsd": 71372,
       "totalNetAssetsUsd": 91900945418.34184,
       "perEtfUsd": {
@@ -10546,7 +10546,7 @@
     },
     {
       "date": "2026-04-09",
-      "netFlowUsd": 358170969.42,
+      "netFlowUsd": 358100000,
       "btcCloseUsd": 72434,
       "totalNetAssetsUsd": 93285682380.63223,
       "perEtfUsd": {
@@ -10566,7 +10566,7 @@
     },
     {
       "date": "2026-04-10",
-      "netFlowUsd": 240417591.935,
+      "netFlowUsd": 256700000,
       "btcCloseUsd": 73390,
       "totalNetAssetsUsd": 94917655096.43507,
       "perEtfUsd": {
@@ -10586,7 +10586,7 @@
     },
     {
       "date": "2026-04-13",
-      "netFlowUsd": -291111095.95,
+      "netFlowUsd": -291000000,
       "btcCloseUsd": 73194,
       "totalNetAssetsUsd": 94508135622.28032,
       "perEtfUsd": {
@@ -10606,7 +10606,7 @@
     },
     {
       "date": "2026-04-14",
-      "netFlowUsd": 411498098.92,
+      "netFlowUsd": 411400000,
       "btcCloseUsd": 74110,
       "totalNetAssetsUsd": 96563172957.79904,
       "perEtfUsd": {
@@ -10626,7 +10626,7 @@
     },
     {
       "date": "2026-04-15",
-      "netFlowUsd": 186026106.475,
+      "netFlowUsd": 186100000,
       "btcCloseUsd": 74875,
       "totalNetAssetsUsd": 97566360475.8864,
       "perEtfUsd": {
@@ -10646,7 +10646,7 @@
     },
     {
       "date": "2026-04-16",
-      "netFlowUsd": 26051070.559999995,
+      "netFlowUsd": 26100000,
       "btcCloseUsd": 75232,
       "totalNetAssetsUsd": 97904953569.89784,
       "perEtfUsd": {
@@ -10666,7 +10666,7 @@
     },
     {
       "date": "2026-04-17",
-      "netFlowUsd": 663911366.465,
+      "netFlowUsd": 663900000,
       "btcCloseUsd": 77380,
       "totalNetAssetsUsd": 101452478155.08176,
       "perEtfUsd": {
@@ -10686,7 +10686,7 @@
     },
     {
       "date": "2026-04-20",
-      "netFlowUsd": 238374250.59,
+      "netFlowUsd": 238400000,
       "btcCloseUsd": 76312,
       "totalNetAssetsUsd": 100328856098.1026,
       "perEtfUsd": {
@@ -10706,7 +10706,7 @@
     },
     {
       "date": "2026-04-21",
-      "netFlowUsd": 11844188.780000001,
+      "netFlowUsd": 11800000,
       "btcCloseUsd": 75721,
       "totalNetAssetsUsd": 99081112403.23631,
       "perEtfUsd": {
@@ -10726,7 +10726,7 @@
     },
     {
       "date": "2026-04-22",
-      "netFlowUsd": 335822985.005,
+      "netFlowUsd": 335800000,
       "btcCloseUsd": 78450,
       "totalNetAssetsUsd": 104081196969.74588,
       "perEtfUsd": {
@@ -10746,7 +10746,7 @@
     },
     {
       "date": "2026-04-23",
-      "netFlowUsd": 223207768.19000003,
+      "netFlowUsd": 223300000,
       "btcCloseUsd": 77923,
       "totalNetAssetsUsd": 102793394924.09772,
       "perEtfUsd": {
@@ -10766,7 +10766,7 @@
     },
     {
       "date": "2026-04-24",
-      "netFlowUsd": 14448891.92499998,
+      "netFlowUsd": 14400000,
       "btcCloseUsd": 77744,
       "totalNetAssetsUsd": 102637045813.8904,
       "perEtfUsd": {
@@ -10786,7 +10786,7 @@
     },
     {
       "date": "2026-04-27",
-      "netFlowUsd": -263183357.06,
+      "netFlowUsd": -263200000,
       "btcCloseUsd": 76983,
       "totalNetAssetsUsd": 101234424320.76295,
       "perEtfUsd": {
@@ -10806,7 +10806,7 @@
     },
     {
       "date": "2026-04-28",
-      "netFlowUsd": -89675364.92,
+      "netFlowUsd": -89700000,
       "btcCloseUsd": 76475,
       "totalNetAssetsUsd": 100389805133.02,
       "perEtfUsd": {
@@ -10826,7 +10826,7 @@
     },
     {
       "date": "2026-04-29",
-      "netFlowUsd": -137766214.8,
+      "netFlowUsd": -137600000,
       "btcCloseUsd": 75677,
       "totalNetAssetsUsd": 99267127177.27415,
       "perEtfUsd": {
@@ -10846,7 +10846,7 @@
     },
     {
       "date": "2026-04-30",
-      "netFlowUsd": 14757772.094999999,
+      "netFlowUsd": 23500000,
       "btcCloseUsd": 76461,
       "totalNetAssetsUsd": 100532477967.29028,
       "perEtfUsd": {
@@ -10866,7 +10866,7 @@
     },
     {
       "date": "2026-05-01",
-      "netFlowUsd": 629734567.76,
+      "netFlowUsd": 629800000,
       "btcCloseUsd": 77874,
       "totalNetAssetsUsd": 103784523737.15904,
       "perEtfUsd": {
@@ -10886,7 +10886,7 @@
     },
     {
       "date": "2026-05-04",
-      "netFlowUsd": 532214927,
+      "netFlowUsd": 532300000,
       "btcCloseUsd": 79933,
       "totalNetAssetsUsd": 106436249961.21635,
       "perEtfUsd": {
@@ -10906,7 +10906,7 @@
     },
     {
       "date": "2026-05-05",
-      "netFlowUsd": 467350061.8,
+      "netFlowUsd": 467300000,
       "btcCloseUsd": 81641,
       "totalNetAssetsUsd": 108981223896.69429,
       "perEtfUsd": {
@@ -10926,7 +10926,7 @@
     },
     {
       "date": "2026-05-06",
-      "netFlowUsd": 46330552.9,
+      "netFlowUsd": 46200000,
       "btcCloseUsd": 81427,
       "totalNetAssetsUsd": 108756353000.07803,
       "perEtfUsd": {
@@ -10946,7 +10946,7 @@
     },
     {
       "date": "2026-05-07",
-      "netFlowUsd": -277497051.705,
+      "netFlowUsd": -268500000,
       "btcCloseUsd": 79871,
       "totalNetAssetsUsd": 106765504911.43369,
       "perEtfUsd": {
@@ -10966,7 +10966,7 @@
     },
     {
       "date": "2026-05-08",
-      "netFlowUsd": -145651012.3,
+      "netFlowUsd": -145700000,
       "btcCloseUsd": 80126,
       "totalNetAssetsUsd": 106610918466.79996,
       "perEtfUsd": {
@@ -10986,7 +10986,7 @@
     },
     {
       "date": "2026-05-11",
-      "netFlowUsd": 27286410.25,
+      "netFlowUsd": 27200000,
       "btcCloseUsd": 81798,
       "totalNetAssetsUsd": 109083860311.0306,
       "perEtfUsd": {
@@ -11006,7 +11006,7 @@
     },
     {
       "date": "2026-05-12",
-      "netFlowUsd": -233251285.69500002,
+      "netFlowUsd": -233200000,
       "btcCloseUsd": 80673,
       "totalNetAssetsUsd": 107312288205.83145,
       "perEtfUsd": {
@@ -11026,7 +11026,7 @@
     },
     {
       "date": "2026-05-13",
-      "netFlowUsd": -635227765.4300001,
+      "netFlowUsd": -630400000,
       "btcCloseUsd": 79680,
       "totalNetAssetsUsd": 105010045612.42368,
       "perEtfUsd": {
@@ -11046,7 +11046,7 @@
     },
     {
       "date": "2026-05-14",
-      "netFlowUsd": 131313430.96,
+      "netFlowUsd": 131300000,
       "btcCloseUsd": 81381,
       "totalNetAssetsUsd": 107745710109.03088,
       "perEtfUsd": {
@@ -11066,7 +11066,7 @@
     },
     {
       "date": "2026-05-15",
-      "netFlowUsd": -290418644.205,
+      "netFlowUsd": -290400000,
       "btcCloseUsd": 79085,
       "totalNetAssetsUsd": 104288941437.41257,
       "perEtfUsd": {
@@ -11086,7 +11086,7 @@
     },
     {
       "date": "2026-05-18",
-      "netFlowUsd": -648640566.63,
+      "netFlowUsd": -648600000,
       "btcCloseUsd": 76847,
       "totalNetAssetsUsd": 100485432785.17091,
       "perEtfUsd": {
@@ -11106,7 +11106,7 @@
     },
     {
       "date": "2026-05-19",
-      "netFlowUsd": -331045135.875,
+      "netFlowUsd": -331100000,
       "btcCloseUsd": 76971,
       "totalNetAssetsUsd": 100286129755.6548,
       "perEtfUsd": {
@@ -11126,7 +11126,7 @@
     },
     {
       "date": "2026-05-20",
-      "netFlowUsd": -70465539.5,
+      "netFlowUsd": -70500000,
       "btcCloseUsd": 77658,
       "totalNetAssetsUsd": 101116677921.15717,
       "perEtfUsd": {
@@ -11146,7 +11146,7 @@
     },
     {
       "date": "2026-05-21",
-      "netFlowUsd": -100824840.04,
+      "netFlowUsd": -100900000,
       "btcCloseUsd": 77630,
       "totalNetAssetsUsd": 101058242753.03345,
       "perEtfUsd": {
@@ -11166,7 +11166,7 @@
     },
     {
       "date": "2026-05-22",
-      "netFlowUsd": -105185692.95,
+      "netFlowUsd": -105200000,
       "btcCloseUsd": 75903,
       "totalNetAssetsUsd": 98865585921.02312,
       "perEtfUsd": {
@@ -11186,7 +11186,7 @@
     },
     {
       "date": "2026-05-26",
-      "netFlowUsd": -333710226.8,
+      "netFlowUsd": -333600000,
       "btcCloseUsd": 76004,
       "totalNetAssetsUsd": 98396987333.22656,
       "perEtfUsd": {
@@ -11206,7 +11206,7 @@
     },
     {
       "date": "2026-05-27",
-      "netFlowUsd": -733425619.93,
+      "netFlowUsd": -733400000,
       "btcCloseUsd": 75145,
       "totalNetAssetsUsd": 96449231209.99832,
       "perEtfUsd": {
@@ -11226,7 +11226,7 @@
     },
     {
       "date": "2026-05-28",
-      "netFlowUsd": -228880775.3,
+      "netFlowUsd": -223300000,
       "btcCloseUsd": 73475,
       "totalNetAssetsUsd": 94249866634.4123,
       "perEtfUsd": {
@@ -11246,7 +11246,7 @@
     },
     {
       "date": "2026-05-29",
-      "netFlowUsd": -125305627.1,
+      "netFlowUsd": -125300000,
       "btcCloseUsd": 73595,
       "totalNetAssetsUsd": 94169133252.86192,
       "perEtfUsd": {
@@ -11266,7 +11266,7 @@
     },
     {
       "date": "2026-06-01",
-      "netFlowUsd": -483760871.6000001,
+      "netFlowUsd": -483800000,
       "btcCloseUsd": 71356,
       "totalNetAssetsUsd": 91160255779.36789,
       "perEtfUsd": {
@@ -11286,7 +11286,7 @@
     },
     {
       "date": "2026-06-02",
-      "netFlowUsd": -519190448.94000006,
+      "netFlowUsd": -519100000,
       "btcCloseUsd": 67494,
       "totalNetAssetsUsd": 84996829511.77846,
       "perEtfUsd": {
@@ -11306,7 +11306,7 @@
     },
     {
       "date": "2026-06-03",
-      "netFlowUsd": -396596501.8,
+      "netFlowUsd": -396600000,
       "btcCloseUsd": 64905,
       "totalNetAssetsUsd": 82832422885.70212,
       "perEtfUsd": {
@@ -11326,7 +11326,7 @@
     },
     {
       "date": "2026-06-04",
-      "netFlowUsd": 3046802.14,
+      "netFlowUsd": 3200000,
       "btcCloseUsd": 63575,
       "totalNetAssetsUsd": 80398906662.00523,
       "perEtfUsd": {
@@ -11346,7 +11346,7 @@
     },
     {
       "date": "2026-06-05",
-      "netFlowUsd": -325694998.3,
+      "netFlowUsd": -325700000,
       "btcCloseUsd": 61619,
       "totalNetAssetsUsd": 75115023823.68095,
       "perEtfUsd": {
@@ -11366,7 +11366,7 @@
     },
     {
       "date": "2026-06-08",
-      "netFlowUsd": -91373569.585,
+      "netFlowUsd": -91400000,
       "btcCloseUsd": 63479,
       "totalNetAssetsUsd": 79632854435.42513,
       "perEtfUsd": {
@@ -11386,7 +11386,7 @@
     },
     {
       "date": "2026-06-09",
-      "netFlowUsd": -77437794.75,
+      "netFlowUsd": -77400000,
       "btcCloseUsd": 62118,
       "totalNetAssetsUsd": 77582928717.31656,
       "perEtfUsd": {
@@ -11406,7 +11406,7 @@
     },
     {
       "date": "2026-06-10",
-      "netFlowUsd": -213849719.5,
+      "netFlowUsd": -213900000,
       "btcCloseUsd": 61741,
       "totalNetAssetsUsd": 77331190856.56956,
       "perEtfUsd": {
@@ -11426,7 +11426,7 @@
     },
     {
       "date": "2026-06-11",
-      "netFlowUsd": -19026463.759999998,
+      "netFlowUsd": -22500000,
       "btcCloseUsd": 63334,
       "totalNetAssetsUsd": 79497876550.62064,
       "perEtfUsd": {
@@ -11446,7 +11446,7 @@
     },
     {
       "date": "2026-06-12",
-      "netFlowUsd": 85849837.77499999,
+      "netFlowUsd": 85900000,
       "btcCloseUsd": 63423,
       "totalNetAssetsUsd": 79649743122.316,
       "perEtfUsd": {
@@ -11466,7 +11466,7 @@
     },
     {
       "date": "2026-06-15",
-      "netFlowUsd": -64086225.69999999,
+      "netFlowUsd": -64800000,
       "btcCloseUsd": 66488,
       "totalNetAssetsUsd": 83329430145.11284,
       "perEtfUsd": {
@@ -11486,7 +11486,7 @@
     },
     {
       "date": "2026-06-16",
-      "netFlowUsd": 10064258.775,
+      "netFlowUsd": 10199999.999999998,
       "btcCloseUsd": 65791,
       "totalNetAssetsUsd": 82062395461.13255,
       "perEtfUsd": {
@@ -11506,7 +11506,7 @@
     },
     {
       "date": "2026-06-17",
-      "netFlowUsd": -82163664.86,
+      "netFlowUsd": -82200000,
       "btcCloseUsd": 64377,
       "totalNetAssetsUsd": 80658373011.87135,
       "perEtfUsd": {
@@ -11526,7 +11526,7 @@
     },
     {
       "date": "2026-06-18",
-      "netFlowUsd": -90656608.71999998,
+      "netFlowUsd": -90700000,
       "btcCloseUsd": 63019,
       "totalNetAssetsUsd": 78324842891.71603,
       "perEtfUsd": {
@@ -11546,7 +11546,7 @@
     },
     {
       "date": "2026-06-22",
-      "netFlowUsd": -68175739.77999997,
+      "netFlowUsd": -68300000,
       "btcCloseUsd": 64366,
       "totalNetAssetsUsd": 80217154607.27615,
       "perEtfUsd": {
@@ -11566,7 +11566,7 @@
     },
     {
       "date": "2026-06-23",
-      "netFlowUsd": -113780200.575,
+      "netFlowUsd": -113800000,
       "btcCloseUsd": 62396,
       "totalNetAssetsUsd": 77540403017.47968,
       "perEtfUsd": {
@@ -11586,7 +11586,7 @@
     },
     {
       "date": "2026-06-24",
-      "netFlowUsd": -469075417.85,
+      "netFlowUsd": -469000000,
       "btcCloseUsd": 60882,
       "totalNetAssetsUsd": 73866992711.05624,
       "perEtfUsd": {
@@ -11606,7 +11606,7 @@
     },
     {
       "date": "2026-06-25",
-      "netFlowUsd": -696292055.9300001,
+      "netFlowUsd": -691700000,
       "btcCloseUsd": 59384,
       "totalNetAssetsUsd": 72573414830.81184,
       "perEtfUsd": {
@@ -11626,7 +11626,7 @@
     },
     {
       "date": "2026-06-26",
-      "netFlowUsd": -444505600.00000006,
+      "netFlowUsd": -444500000,
       "btcCloseUsd": 59631,
       "totalNetAssetsUsd": 72818058131.40443,
       "perEtfUsd": {
@@ -11646,7 +11646,7 @@
     },
     {
       "date": "2026-06-29",
-      "netFlowUsd": -231098221.08,
+      "netFlowUsd": -231000000,
       "btcCloseUsd": 60215,
       "totalNetAssetsUsd": 73189471574.2958,
       "perEtfUsd": {
@@ -11666,7 +11666,7 @@
     },
     {
       "date": "2026-06-30",
-      "netFlowUsd": -222644311.4,
+      "netFlowUsd": -222600000,
       "btcCloseUsd": 58642,
       "totalNetAssetsUsd": 70949909201.71736,
       "perEtfUsd": {
@@ -11686,7 +11686,7 @@
     },
     {
       "date": "2026-07-01",
-      "netFlowUsd": -294619481.90999997,
+      "netFlowUsd": -296000000,
       "btcCloseUsd": 60080,
       "totalNetAssetsUsd": 72459753555.12148,
       "perEtfUsd": {
@@ -11706,7 +11706,7 @@
     },
     {
       "date": "2026-07-02",
-      "netFlowUsd": 221719273.5,
+      "netFlowUsd": 223500000,
       "btcCloseUsd": 61526,
       "totalNetAssetsUsd": 74369324122.5644,
       "perEtfUsd": {
@@ -11726,7 +11726,7 @@
     },
     {
       "date": "2026-07-06",
-      "netFlowUsd": 265686935.35,
+      "netFlowUsd": 265700000,
       "btcCloseUsd": 63784,
       "totalNetAssetsUsd": 77317665366.75008,
       "perEtfUsd": {
@@ -11746,7 +11746,7 @@
     },
     {
       "date": "2026-07-07",
-      "netFlowUsd": 21435004.250000004,
+      "netFlowUsd": 21500000,
       "btcCloseUsd": 63654,
       "totalNetAssetsUsd": 77259139787.99992,
       "perEtfUsd": {
@@ -11766,7 +11766,7 @@
     },
     {
       "date": "2026-07-08",
-      "netFlowUsd": -84860056,
+      "netFlowUsd": -84900000,
       "btcCloseUsd": 62029,
       "totalNetAssetsUsd": 75339109500.3942,
       "perEtfUsd": {
@@ -11786,7 +11786,7 @@
     },
     {
       "date": "2026-07-09",
-      "netFlowUsd": -95301696.51,
+      "netFlowUsd": -95300000,
       "btcCloseUsd": 63257,
       "totalNetAssetsUsd": 76505863364.55904,
       "perEtfUsd": {
@@ -11806,7 +11806,7 @@
     },
     {
       "date": "2026-07-10",
-      "netFlowUsd": 90439970,
+      "netFlowUsd": 90400000,
       "btcCloseUsd": 63800,
       "totalNetAssetsUsd": 77421550348.27,
       "perEtfUsd": {
@@ -11826,7 +11826,7 @@
     },
     {
       "date": "2026-07-13",
-      "netFlowUsd": -424661225.9,
+      "netFlowUsd": -424700000,
       "btcCloseUsd": 62146,
       "totalNetAssetsUsd": 74790248920.86284,
       "perEtfUsd": {
@@ -11846,7 +11846,7 @@
     },
     {
       "date": "2026-07-14",
-      "netFlowUsd": 181083537.89,
+      "netFlowUsd": 181100000,
       "btcCloseUsd": 64530,
       "totalNetAssetsUsd": 77959739410.09372,
       "perEtfUsd": {
@@ -11866,7 +11866,7 @@
     },
     {
       "date": "2026-07-15",
-      "netFlowUsd": 107804553.79999958,
+      "netFlowUsd": 107700000,
       "btcCloseUsd": 64942,
       "totalNetAssetsUsd": 78467912770.83908,
       "perEtfUsd": {
@@ -11886,7 +11886,7 @@
     },
     {
       "date": "2026-07-16",
-      "netFlowUsd": 79150022.97999999,
+      "netFlowUsd": 79100000,
       "btcCloseUsd": 64096,
       "totalNetAssetsUsd": 77720254048.59807,
       "perEtfUsd": {
@@ -11906,7 +11906,7 @@
     },
     {
       "date": "2026-07-17",
-      "netFlowUsd": 132296394.775,
+      "netFlowUsd": 132300000,
       "btcCloseUsd": 64082,
       "totalNetAssetsUsd": 77736218493.03545,
       "perEtfUsd": {
@@ -11926,7 +11926,7 @@
     },
     {
       "date": "2026-07-20",
-      "netFlowUsd": 226919372.63,
+      "netFlowUsd": 226800000,
       "btcCloseUsd": 65326,
       "totalNetAssetsUsd": 79163282869.04716,
       "perEtfUsd": {
@@ -11946,7 +11946,7 @@
     },
     {
       "date": "2026-07-21",
-      "netFlowUsd": 203144295.4,
+      "netFlowUsd": 203200000,
       "btcCloseUsd": 66379,
       "totalNetAssetsUsd": 80937471438.20026,
       "perEtfUsd": {
@@ -11966,7 +11966,7 @@
     },
     {
       "date": "2026-07-22",
-      "netFlowUsd": 68987046.87500043,
+      "netFlowUsd": 69100000,
       "btcCloseUsd": 65891,
       "totalNetAssetsUsd": 80361241200.86504,
       "perEtfUsd": {
@@ -11986,7 +11986,7 @@
     },
     {
       "date": "2026-07-23",
-      "netFlowUsd": -225176828.385,
+      "netFlowUsd": -225100000,
       "btcCloseUsd": 65096,
       "totalNetAssetsUsd": 78816707402.76843,
       "perEtfUsd": {
@@ -12006,7 +12006,7 @@
     },
     {
       "date": "2026-07-24",
-      "netFlowUsd": -240084652.50000003,
+      "netFlowUsd": -240100000,
       "btcCloseUsd": 64109,
       "totalNetAssetsUsd": 77822816251.05101,
       "perEtfUsd": {
@@ -12068,7 +12068,7 @@
     },
     {
       "date": "2026-07-29",
-      "netFlowUsd": 32109893.80499999,
+      "netFlowUsd": 32109893.804999977,
       "btcCloseUsd": 63445,
       "totalNetAssetsUsd": 77455001194.06982,
       "perEtfUsd": {
@@ -12194,7 +12194,7 @@
     },
     {
       "date": "2026-08-06",
-      "netFlowUsd": 128688195.84000044,
+      "netFlowUsd": 128688195.84000045,
       "btcCloseUsd": 64392,
       "totalNetAssetsUsd": 78774746881.07397,
       "perEtfUsd": {
@@ -12236,7 +12236,7 @@
     },
     {
       "date": "2026-08-10",
-      "netFlowUsd": -144670942.17,
+      "netFlowUsd": -144670942.17000002,
       "btcCloseUsd": 64099,
       "totalNetAssetsUsd": 78163767013.87596,
       "perEtfUsd": {
@@ -12257,7 +12257,7 @@
     },
     {
       "date": "2026-08-11",
-      "netFlowUsd": 4886243.949999999,
+      "netFlowUsd": 4886243.950000003,
       "btcCloseUsd": 63690,
       "totalNetAssetsUsd": 77456576399.79832,
       "perEtfUsd": {
@@ -12382,7 +12382,7 @@
     },
     {
       "date": "2026-08-19",
-      "netFlowUsd": 517192505.28000003,
+      "netFlowUsd": 517192505.28,
       "btcCloseUsd": 69059,
       "totalNetAssetsUsd": 84312981234.53564,
       "perEtfUsd": {
@@ -12402,7 +12402,7 @@
     },
     {
       "date": "2026-08-20",
-      "netFlowUsd": 606290506.18,
+      "netFlowUsd": 606290506.1800001,
       "btcCloseUsd": 72655,
       "totalNetAssetsUsd": 90163867000.38635,
       "perEtfUsd": {
@@ -12462,7 +12462,7 @@
     },
     {
       "date": "2026-08-25",
-      "netFlowUsd": 314369658.955,
+      "netFlowUsd": 314369658.95500004,
       "btcCloseUsd": 78204,
       "totalNetAssetsUsd": 99045023298.38916,
       "perEtfUsd": {
@@ -12502,7 +12502,7 @@
     },
     {
       "date": "2026-08-27",
-      "netFlowUsd": 242238213.36,
+      "netFlowUsd": 242238213.35999998,
       "btcCloseUsd": 80098,
       "totalNetAssetsUsd": 100927069182.07191,
       "perEtfUsd": {
@@ -12582,7 +12582,7 @@
     },
     {
       "date": "2026-09-02",
-      "netFlowUsd": 101146706.42999999,
+      "netFlowUsd": 101146706.42999998,
       "btcCloseUsd": 77379,
       "totalNetAssetsUsd": 97221408372.23824,
       "perEtfUsd": {
@@ -12602,7 +12602,7 @@
     },
     {
       "date": "2026-09-03",
-      "netFlowUsd": 730872480.8000001,
+      "netFlowUsd": 730872480.8,
       "btcCloseUsd": 81476,
       "totalNetAssetsUsd": 103338439385.88844,
       "perEtfUsd": {
@@ -12742,7 +12742,7 @@
     },
     {
       "date": "2026-09-15",
-      "netFlowUsd": -450329418.71,
+      "netFlowUsd": -450329418.71000004,
       "btcCloseUsd": 75882,
       "totalNetAssetsUsd": 95716988283.246,
       "perEtfUsd": {
@@ -12762,7 +12762,7 @@
     },
     {
       "date": "2026-09-16",
-      "netFlowUsd": -295980763.08,
+      "netFlowUsd": -295980763.08000004,
       "btcCloseUsd": 76105,
       "totalNetAssetsUsd": 95185081971.85114,
       "perEtfUsd": {
@@ -12862,7 +12862,7 @@
     },
     {
       "date": "2026-09-23",
-      "netFlowUsd": 346977216.16999996,
+      "netFlowUsd": 346977216.17,
       "btcCloseUsd": 84232,
       "totalNetAssetsUsd": 108663294328.42632,
       "perEtfUsd": {
@@ -12922,7 +12922,7 @@
     },
     {
       "date": "2026-09-28",
-      "netFlowUsd": 31070566.45000001,
+      "netFlowUsd": 31070566.450000007,
       "btcCloseUsd": 83512,
       "totalNetAssetsUsd": 107816350545.39796,
       "perEtfUsd": {
@@ -13002,7 +13002,7 @@
     },
     {
       "date": "2026-10-02",
-      "netFlowUsd": 189844086.20000002,
+      "netFlowUsd": 189844086.2,
       "btcCloseUsd": 84444,
       "totalNetAssetsUsd": 108893049844.68504,
       "perEtfUsd": {
@@ -13282,7 +13282,7 @@
     },
     {
       "date": "2026-10-22",
-      "netFlowUsd": -635492639.395,
+      "netFlowUsd": -635492639.3950001,
       "btcCloseUsd": 81177,
       "totalNetAssetsUsd": 104707576993.80092,
       "perEtfUsd": {
@@ -13442,7 +13442,7 @@
     },
     {
       "date": "2026-11-03",
-      "netFlowUsd": -115563333.61999999,
+      "netFlowUsd": -115563333.62,
       "btcCloseUsd": 77771,
       "totalNetAssetsUsd": 99157322791.52667,
       "perEtfUsd": {
@@ -13496,6 +13496,414 @@
       "revisedFields": 0,
       "changes": [],
       "truncated": false
+    },
+    {
+      "checkedAt": "2026-11-05T09:37:36.346Z",
+      "added": 0,
+      "revisedFields": 336,
+      "changes": [
+        {
+          "date": "2026-03-26",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-03-27",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-03-30",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-03-31",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-04-01",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-04-02",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-04-06",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-04-07",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-04-08",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-04-09",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-04-10",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-04-13",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-04-14",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-04-15",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-04-16",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-04-17",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-04-20",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-04-21",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-04-22",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-04-23",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-04-24",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-04-27",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-04-28",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-04-29",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-04-30",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-05-01",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-05-04",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-05-05",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-05-06",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-05-07",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-05-08",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-05-11",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-05-12",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-05-13",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-05-14",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-05-15",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-05-18",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-05-19",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-05-20",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-05-21",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-05-22",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-05-26",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-05-27",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-05-28",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-05-29",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-06-01",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-06-02",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-06-03",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-06-04",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-06-05",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-06-08",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-06-09",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-06-10",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-06-11",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-06-12",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-06-15",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-06-16",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-06-17",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-06-18",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-06-22",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-06-23",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-06-24",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-06-25",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-06-26",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-06-29",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-06-30",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-07-01",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-07-02",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-07-06",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-07-07",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-07-08",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-07-09",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-07-10",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-07-13",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-07-14",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-07-15",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-07-16",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-07-17",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-07-20",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-07-21",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-07-22",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-07-23",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-07-24",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-07-29",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-08-06",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-08-10",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-08-11",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-08-19",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-08-20",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-08-25",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-08-27",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-09-02",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-09-03",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-09-15",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-09-16",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-09-23",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-09-28",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-10-02",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-10-22",
+          "field": "netFlowUsd"
+        },
+        {
+          "date": "2026-11-03",
+          "field": "netFlowUsd"
+        }
+      ],
+      "truncated": true
     }
   ]
 }
