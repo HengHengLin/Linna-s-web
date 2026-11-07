@@ -1,7 +1,83 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-06T09:02:00+08:00",
+  "updatedAt": "2026-11-07T09:05:00+08:00",
   "entries": [
+    {
+      "id": "briefing-2026-11-07",
+      "kind": "briefing",
+      "title": "今日事实简报：美国就业修订、Moderna 盈利拐点与 Crypto 去中心化判断",
+      "category": "每日财经简报",
+      "date": "2026-11-07",
+      "summary": "基于美国劳工统计局、Moderna 向 SEC 提交的材料与 SEC 工作人员 FAQ，核对 10 月美国就业、Moderna 三季度收入与现金口径，以及 Crypto 系统治理和“中央方”的判断边界。",
+      "tags": [
+        "宏观",
+        "美国就业",
+        "非农就业",
+        "工资",
+        "Moderna",
+        "生物科技",
+        "疫苗",
+        "盈利质量",
+        "Crypto",
+        "SEC",
+        "去中心化",
+        "治理"
+      ],
+      "status": "curated",
+      "ownerViewpoint": false,
+      "sourceVerified": true,
+      "updatedAt": "2026-11-07T09:05:00+08:00",
+      "sources": [
+        {
+          "title": "U.S. Bureau of Labor Statistics：The Employment Situation — October 2026（6 November 2026）",
+          "url": "https://www.bls.gov/news.release/archives/empsit_11062026.htm"
+        },
+        {
+          "title": "Moderna / SEC Exhibit 99.1：Moderna Reports Third Quarter 2026 Financial Results（6 November 2026）",
+          "url": "https://www.sec.gov/Archives/edgar/data/1682852/000168285226000194/exhibit9912026q3pressrelea.htm"
+        },
+        {
+          "title": "SEC Division of Corporation Finance：Frequently Asked Questions on the Application of the Federal Securities Laws to Certain Types of Crypto Assets and Certain Transactions Involving Crypto Assets（updated 2 November 2026）",
+          "url": "https://www.sec.gov/about/divisions-offices/division-corporation-finance/faqs-crypto-assets"
+        }
+      ],
+      "body": "## 更新时间\n\n北京时间 2026 年 11 月 7 日 09:05。以下只摘要已经发布的事实，不包含实时价格、买卖建议或 Linna 的个人观点。政府初值、公司指引与监管工作人员意见均单独标注，不能当作最终统计、已实现业绩或具有法律效力的规则。\n\n## 宏观：美国 10 月非农增加 16.5 万，但前两个月合计上修 8.4 万\n\n美国劳工统计局 11 月 6 日发布数据：10 月非农就业人数增加 16.5 万，失业率为 4.1%，失业人数约 710 万。劳动参与率为 61.9%，就业人口比率为 59.3%。因经济原因从事非全日制工作的人数增加 33.9 万至 480 万，说明总就业增长与工时不足可以同时存在。\n\n行业贡献并不均匀：专业和商业服务增加 7.0 万，医疗保健增加 4.2 万，运输和仓储增加 2.5 万，制造业增加 1.9 万。私人非农平均时薪环比增长 0.4%至 38.00 美元，同比增长 3.1%；平均每周工时为 34.4 小时。\n\n修订同样重要：8 月增幅由 13.3 万上修至 18.6 万，9 月由 2.9 万上修至 6.0 万，两个月合计上修 8.4 万。单月新增就业、失业率与工资并非同一统计口径：非农来自机构调查，失业率来自住户调查；初值会随企业补报和季节调整修订，不能仅凭一个月确认经济重新加速或劳动力市场已转弱。\n\n## 股票：Moderna 三季度恢复 GAAP 盈利，但现金增长包含可转债融资\n\nModerna 向 SEC 提交的三季度材料显示，季度收入为 13.13 亿美元，同比增长 29%；其中产品净销售额为 12.73 亿美元。GAAP 净利润为 1.62 亿美元、稀释每股收益 0.38 美元，上年同期为净亏损 2.00 亿美元。成本结构方面，销售成本 3.18 亿美元，研发费用 5.83 亿美元，销售、一般及管理费用 2.82 亿美元，营业利润 1.30 亿美元。\n\n公司把 2026 年收入增长预期从“最高约 10%”上调为 15%至 25%，并预计年末现金和投资为 81 亿至 83 亿美元。这些仍是管理层指引，不是已经实现的全年结果。\n\n现金口径需要拆开：9 月末现金和投资约 80 亿美元，高于 6 月末约 69 亿美元；但公司说明年末指引包含约 26 亿美元可转债净融资所得，也受到约 9.5 亿美元和解付款及营运资金变化影响。融资流入能提高账面现金，却不等于经营活动自行产生同额现金。单季盈利也不能单独证明全年或产品组合已经形成稳定盈利；仍需跟踪疫苗季节性、产品集中度、研发投入、后续临床与监管里程碑。\n\n## Crypto：SEC 工作人员把“功能性”与“去中心化”分开，并强调事实与情境判断\n\nSEC 公司金融部 11 月 2 日更新 FAQ，新增对广泛治理、中央方控制与功能性/去中心化关系的说明。FAQ 表示，广泛治理参与者是否构成一个“群体”取决于事实与情境；若参与者彼此无关联，也没有在治理系统之外共同采取行动的协议或默契，通常不会仅因参与广泛治理而被视作一个群体。即便构成群体，还需拥有系统的运营、经济或投票控制，才符合该 FAQ 使用的“中央方”概念。\n\nFAQ 还把“监督参与”具体化：中央方若能单方面控制访问、改变升级或分配的投票流程、决定谁能参与共识，或修改规则代码、逆转交易或撤销访问，就可能在监督系统参与。相反，如果重要运行环节由规则代码自动执行，或裁量仅通过不被视为中央方的广泛治理行使，一般不属于这种监督。\n\n“功能性”与“去中心化”不是同义词。FAQ 把功能性与原生资产能否按程序效用使用联系起来，把去中心化与是否存在拥有运营、经济或投票控制的主体联系起来。项目已能运行，不自动证明控制权分散；持币投票也不自动证明没有协调控制。\n\n解释边界：这份 FAQ 明确声明只代表 SEC 工作人员观点，不是委员会规则、法规或声明，没有法律效力，也不新增义务。它不能替代对具体协议、治理委托、升级密钥、验证者集中度、收入分配、营销承诺和司法判例的分析，更不能据此直接判断某一代币的证券属性。"
+    },
+    {
+      "id": "lesson-2026-11-07-catastrophe-bonds",
+      "kind": "lesson",
+      "title": "今日金融英语：巨灾债券怎样把主权灾害风险转移给资本市场？",
+      "category": "金融市场英语",
+      "date": "2026-11-07",
+      "summary": "用世界银行 3 分 31 秒英文视频理解 catastrophe bond、parametric trigger、principal at risk、coupon、basis risk 与 rapid liquidity。",
+      "tags": [
+        "金融英语",
+        "世界银行",
+        "巨灾债券",
+        "Cat Bond",
+        "灾害风险",
+        "主权风险",
+        "参数触发",
+        "保险连接证券",
+        "资本市场"
+      ],
+      "status": "curated",
+      "ownerViewpoint": false,
+      "sourceVerified": true,
+      "videoUrl": "https://www.worldbank.org/en/news/video/2026/10/13/how-world-bank-group-cat-bonds-transfer-sovereign-disaster-risk",
+      "duration": "视频 3 分 31 秒；建议练习 18 分钟",
+      "sources": [
+        {
+          "title": "World Bank Group Treasury：Building Financial Resilience — How World Bank Group Cat Bonds Transfer Sovereign Disaster Risk（13 October 2026）",
+          "url": "https://www.worldbank.org/en/news/video/2026/10/13/how-world-bank-group-cat-bonds-transfer-sovereign-disaster-risk"
+        },
+        {
+          "title": "World Bank Group：Disaster Risk Transfer — Product Note（updated May 2026）",
+          "url": "https://thedocs.worldbank.org/en/doc/46c9b740fe83bc96681ff097681d9e6b-0340012024/original/Disaster-Risk-Transfer-Product-Note.pdf"
+        }
+      ],
+      "body": "## 已核验材料\n\n世界银行视频页 “Building Financial Resilience: How World Bank Group Cat Bonds Transfer Sovereign Disaster Risk” 日期为 2026 年 10 月 13 日；具体播放器文件元数据为 PT3M31S，即 3 分 31 秒。页面同时出现“22 Minutes”的栏目字段，与播放器元数据冲突，本课采用具体视频文件时长，不把栏目字段当作视频长度。\n\n页面说明世界银行利用其信用和结构设计能力，代表成员国把严重气候与地质灾害风险转移给专业债券投资者。视频页写明参数触发与物理指标相连，可以绕过漫长的损失评估，更快提供流动性，同时不增加主权债务。配套产品说明更新于 2026 年 5 月，解释了保费、风险边际、票息、触发和本金损失机制。\n\n官方页面没有在可读取正文中展示完整逐字稿，因此以下表达是根据视频说明和产品文件改写的学习句，不冒充讲者原话，也不编造时间戳。\n\n## 先懂知识，再听英语\n\nCatastrophe bond，简称 cat bond，是一种保险连接证券。主权客户向世界银行支付 premium 或 risk margin；世界银行向投资者发行债券并支付 coupon。票息通常包含资金收益与承担灾害风险的补偿。\n\nPrincipal at risk 是核心：如果约定事件没有触发，投资者到期通常取回本金；如果触发条件满足，债券本金会按条款减少，相应资金用于向客户支付灾害款。高票息不是无风险收益，而是对可能损失部分或全部本金的补偿。\n\nParametric trigger 根据可观测的物理参数判断是否赔付，例如地震强度、风速或降雨量，而不是等待逐项核定实际财产损失。它能加快支付并减少理赔争议，但会产生 basis risk：实际损失很大却未达到触发阈值，或触发赔付但实际损失较小。\n\nAttachment point 是损失或参数达到何种水平后开始侵蚀本金；exhaustion point 是本金风险达到上限的位置。两者与覆盖地区、期限和概率模型共同决定风险边际。模型给出的概率不是保证，历史数据、气候变化、暴露增长和参数误差都可能改变真实风险。\n\n对主权客户而言，cat bond 可以在灾害后快速提供预算流动性，并把极端风险转移给全球资本市场；但它不是所有灾害损失的替代品。合理结构通常还需要预算储备、应急信贷、传统保险和灾后融资，形成 risk-layering strategy。\n\n## 关键词\n\n- catastrophe bond / cat bond — 巨灾债券\n- insurance-linked security — 保险连接证券\n- parametric trigger — 参数触发机制\n- principal at risk — 风险本金\n- risk transfer — 风险转移\n- premium / risk margin — 保费 / 风险边际\n- coupon — 债券票息\n- attachment point — 开始损失本金的触发点\n- exhaustion point — 本金损失达到上限的点\n- basis risk — 基差风险\n- model risk — 模型风险\n- rapid liquidity — 快速流动性\n- sovereign disaster risk — 主权灾害风险\n- loss assessment — 损失评估\n- risk layering — 风险分层配置\n\n## 地道表达\n\n以下为学习用改写句。\n\n> A catastrophe bond transfers low-frequency, high-severity risk to capital-market investors.\n\n> The coupon compensates investors for putting their principal at risk.\n\n> A parametric trigger speeds up payment, but it can create basis risk.\n\n> Fast liquidity after a disaster can protect the budget without creating new sovereign debt.\n\n## 三步练习\n\n1. 第一遍只记录 issuer、investor、country、premium、coupon 与 principal 之间的现金流方向。\n2. 第二遍比较 parametric trigger 与 indemnity-based insurance：谁更快、谁更贴近实际损失、各自有什么核验成本。\n3. 第三遍解释为什么“快速赔付”不等于“覆盖全部损失”，并找出 basis risk 出现的两种方向。\n\n## 输出练习\n\n用 90 秒英文回答：\n\n“How does a catastrophe bond transfer sovereign disaster risk, and what can go wrong?”\n\n回答至少使用 catastrophe bond、parametric trigger、principal at risk、coupon、basis risk、rapid liquidity 六个词，并说明投资者获得高票息的原因，以及主权客户为什么仍需要其他风险融资工具。本条不记录或声称你已经完成学习。"
+    },
     {
       "id": "briefing-2026-11-06",
       "kind": "briefing",
