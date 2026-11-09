@@ -1,7 +1,113 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-08T09:03:00+08:00",
+  "updatedAt": "2026-11-09T09:04:00+08:00",
   "entries": [
+    {
+      "id": "briefing-2026-11-09",
+      "kind": "briefing",
+      "title": "今日事实简报：中国外汇储备、TeraWulf AI 基建与以太坊升级延期",
+      "category": "每日财经简报",
+      "date": "2026-11-09",
+      "summary": "基于国家外汇管理局、TeraWulf 向 SEC 提交的财报材料与以太坊基金会技术公告，核对 10 月中国外汇储备、AI 数据中心租赁的收入与会计口径，以及 Glamsterdam 升级因潜在兼容性风险延后。",
+      "tags": [
+        "宏观",
+        "中国外汇储备",
+        "汇率折算",
+        "TeraWulf",
+        "AI基础设施",
+        "HPC",
+        "数据中心",
+        "Anthropic",
+        "Crypto",
+        "Ethereum",
+        "Glamsterdam",
+        "智能合约安全"
+      ],
+      "status": "curated",
+      "ownerViewpoint": false,
+      "sourceVerified": true,
+      "updatedAt": "2026-11-09T09:04:00+08:00",
+      "sources": [
+        {
+          "title": "国家外汇管理局：公布2026年10月末外汇储备规模数据（2026年11月7日）",
+          "url": "https://www.safe.gov.cn/safe/2026/1106/28067.html"
+        },
+        {
+          "title": "TeraWulf / SEC Exhibit 99.1：TeraWulf Reports Third Quarter 2026 Results（6 November 2026）",
+          "url": "https://www.sec.gov/Archives/edgar/data/1083301/000162828026071306/a_wulfearningsreleaseq32026.htm"
+        },
+        {
+          "title": "Ethereum Foundation：EIP-8037/EIP-8038 Glamsterdam（6 November 2026）",
+          "url": "https://blog.ethereum.org/2026/11/06/glamsterdam-8037-8038"
+        }
+      ],
+      "body": "## 更新时间\n\n北京时间 2026 年 11 月 9 日 09:04。以下只汇总已发布资料，不包含实时价格、买卖建议或 Linna 的个人观点。外汇储备变动、公司合同收入与协议升级进度分别受估值、履约和技术治理影响，不能仅凭标题推导投资结论。\n\n## 宏观：中国 10 月末外汇储备升至 3.4052 万亿美元，月增 49 亿美元\n\n国家外汇管理局 11 月 7 日公布：截至 2026 年 10 月末，中国外汇储备规模为 34,052 亿美元，较 9 月末增加 49 亿美元，升幅 0.14%。9 月末规模为 34,003 亿美元。\n\n外汇局解释，10 月美元指数上涨，全球主要金融资产价格涨跌互现；汇率折算和资产价格变化等因素综合作用，使当月储备规模上升。这里的“规模上升”并不等于当月出现同额跨境资金净流入。储备以美元计价，非美元资产会随汇率换算变化，所持债券和其他资产也会随市场价格重估。\n\n解释边界：单月 0.14%的变化很小，不能据此判断人民币趋势、资本流动方向或央行是否主动买卖某类资产。分析储备充足性还需结合进口覆盖、短期外债、国际收支、银行外汇头寸、黄金和 SDR 等储备资产，以及资产负债币种和期限。\n\n## 股票：TeraWulf 的 HPC 租赁已占收入约 83%，但季度净利润主要受认股权证公允价值变动影响\n\nTeraWulf 向 SEC 提交的三季度材料显示，季度收入为 7,620 万美元，其中 HPC 租赁收入 6,300 万美元，约占总收入 83%。公司截至 9 月末已有 102 MW 产生收入的关键 IT 容量，另有 336 MW 在建；既有比特币挖矿基础设施的一部分正在改造为 HPC 容量。\n\n公司披露季度净利润约 7.099 亿美元，但明确说明其中受认股权证公允价值非现金变动影响；调整后 EBITDA 为负 1,280 万美元。GAAP 净利润大幅为正与调整后 EBITDA 为负可以同时出现，因为前者包含重大非现金估值收益，后者又排除若干项目。不能把 7.099 亿美元直接理解为核心经营现金创造。\n\n公司与 Anthropic 签署约 401 MW、初始期限 20 年、名义合同收入约 190 亿美元的租约，并称 Google 提供项目融资信用支持。三座数据中心预计从 2027 年末开始分阶段达到可服务状态，持续至 2028 年二季度。190 亿美元是长期合同名义金额，不是当期收入、现金余额或无条件应收账款；仍取决于建设、交付、融资、客户履约与合同条款。\n\n公司季末现金、现金等价物和受限现金约 24 亿美元；Muskie 电力容量由 500 MW 扩至 1,000 MW 的安排仍需 Kentucky Public Service Commission 批准。评估 AI 基建转型应继续跟踪每 MW 建设成本、交付节点、租金起算、融资成本、客户集中度、电力和设备供应，以及比特币挖矿资产改造的机会成本。\n\n## Crypto：以太坊 Glamsterdam 升级因 EIP-8037/8038 可能破坏既有不变量而延后\n\n以太坊基金会 11 月 6 日公告，下一次升级 Glamsterdam 正在测试网测试。ChainSecurity 发现，一些项目依赖的既有不变量会被 EIP-8037 和 EIP-8038 打破；这两项提案分别调整部分操作的 gas 计费，以及状态相关 gas 的计费方式。AllCoreDevs 因此决定延后硬分叉流程，在问题解决前不在 Hoodi 测试网执行升级。\n\n基金会表示，Hegota 的并行工作不受此次延后影响；同时邀请合约开发者和审计人员检查项目是否依赖八项可能失效的不变量，并与 ChainSecurity、Dedaub 及内部审计共同评估潜在影响。\n\n这里的“不变量”是开发者假设在不同执行条件下仍成立的行为或成本关系。gas 重新定价可能改变合约能否在给定 gas 限额内完成、某些循环或回调的经济可行性，以及链上与链下系统对执行成本的假设。协议级优化并不自动保证所有既有应用兼容。\n\n解释边界：延期说明测试发现了兼容性风险，不等于主网已经发生故障，也不证明 EIP 最终会取消。公告没有给出新的主网上线日期。项目是否受影响需检查代码、依赖、gas 敏感路径、自动化机器人与链下服务；仅凭代币价格或升级名称无法判断技术风险。"
+    },
+    {
+      "id": "lesson-2026-11-09-portfolio-guarantee-platform",
+      "kind": "lesson",
+      "title": "今日金融英语：组合担保怎样放大开发融资能力？",
+      "category": "金融市场英语",
+      "date": "2026-11-09",
+      "summary": "用世界银行 5 分 26 秒英文视频理解 portfolio guarantee、risk sharing、callable guarantee、capital headroom、leverage effect 与 contingent liability。",
+      "tags": [
+        "金融英语",
+        "世界银行",
+        "IDA21",
+        "组合担保",
+        "开发融资",
+        "风险分担",
+        "资本效率",
+        "或有负债"
+      ],
+      "status": "curated",
+      "ownerViewpoint": false,
+      "sourceVerified": true,
+      "videoUrl": "https://www.worldbank.org/en/news/feature/2026/09/16/expanding-ida-s-financing-toolkit",
+      "duration": "视频 5 分 26 秒；建议练习 22 分钟",
+      "sources": [
+        {
+          "title": "World Bank：Strengthening IDA21 with Portfolio Guarantee Platform（Video Series: Expanding IDA’s Financing Toolkit，16 September 2026）",
+          "url": "https://www.worldbank.org/en/news/feature/2026/09/16/expanding-ida-s-financing-toolkit"
+        }
+      ],
+      "body": "## 已核验材料\n\n世界银行专题页 “Video Series: Expanding IDA’s Financing Toolkit” 收录第四集 “Strengthening IDA21 with Portfolio Guarantee Platform”。具体视频元数据为 PT5M26S，即 5 分 26 秒，并给出官方章节：00:00–00:20 引言；00:20–01:29 定义；01:30–02:46 如何释放更多融资；02:47–04:09 捐助方获得什么；04:10–05:08 平台价值；05:09–05:26 结论。\n\n页面说明 IDA21 除传统赠款外，还使用 Concessional Partner Loans、Hybrid Capital 和 Portfolio Guarantee Platform。以下知识说明依据官方页面与金融机制整理；页面未提供逐字稿，因此不编造讲者原话。\n\n## 先懂知识，再听英语\n\nIDA 是世界银行面向低收入国家的优惠融资机构。Portfolio Guarantee Platform，简称 PGP，允许捐助方以担保承诺支持 IDA 的一组融资，而不是在一开始就把全部承诺额作为现金赠款支付。\n\nGuarantee 是风险分担工具，不是免费资金。只有当被担保风险触发时，担保人才需要按合同履约；因此担保可能是 contingent liability，也就是取决于未来事件才形成的实际付款义务。评估时必须看触发条件、最高赔付额、期限和损失分配顺序。\n\n平台可能提高 capital headroom：如果担保降低 IDA 资产组合的风险或吸收特定损失，IDA 可以在资本约束下支持更多融资。这是 leverage effect，但“每一单位担保支持更多贷款”不等于经济风险消失；风险从 IDA 的资产负债表部分转移给担保方。\n\nPortfolio approach 把多个项目或国家放在一个风险池中。若损失相关性不高，分散化可以减少单一项目冲击；如果全球衰退、战争或气候事件使多个风险同时发生，组合仍可能集中受损。组合规模大也会增加监测、定价与信息透明度要求。\n\n对捐助方而言，担保可以减少初始现金支出并放大支持规模；代价是未来存在被调用的预算不确定性。公共部门必须为 callable guarantee 做预算和会计安排，避免把或有负债误当成零成本。\n\n## 分段精听\n\n- 00:00–00:20：先判断讲者如何定义“资源有限、需求增加”的问题。\n- 00:20–01:29：记录 guarantee、portfolio 与 donor commitment 的关系。\n- 01:30–02:46：听清风险分担如何转化为 IDA 的额外融资能力。\n- 02:47–04:09：区分捐助方的前期现金成本、未来责任与发展影响。\n- 04:10–05:08：总结 PGP 的价值主张，并寻找没有展开的风险。\n- 05:09–05:26：用一句英文复述机制，而不是只重复“more impact”。\n\n## 关键词\n\n- portfolio guarantee — 组合担保\n- guarantee commitment — 担保承诺\n- risk sharing — 风险分担\n- callable guarantee — 可被调用的担保\n- contingent liability — 或有负债\n- capital headroom — 资本空间\n- leverage effect — 杠杆放大效应\n- risk pool — 风险池\n- loss absorption — 损失吸收\n- donor contribution — 捐助方出资\n- concessional finance — 优惠融资\n- development financing — 开发融资\n- trigger condition — 触发条件\n- maximum exposure — 最大风险敞口\n- fiscal provisioning — 财政准备\n\n## 地道表达\n\n以下为学习用改写句。\n\n> A portfolio guarantee shares risk without requiring the full commitment to be paid upfront.\n\n> The guarantee creates capital headroom, but it does not make the underlying risk disappear.\n\n> Diversification works only when losses are not perfectly correlated.\n\n> Donors should budget for a callable commitment as a contingent liability.\n\n## 输出练习\n\n用 90 秒英文回答：\n\n“How can a portfolio guarantee expand development financing, and where does the risk go?”\n\n回答至少使用 portfolio guarantee、risk sharing、capital headroom、callable guarantee、contingent liability、leverage effect 六个词；说明一个规模优势、一个预算风险和一个会让你改变判断的触发条件。本条不记录或声称你已经完成学习。"
+    },
+    {
+      "id": "weekly-2026-11-09-stablecoins-trust",
+      "kind": "weekly",
+      "title": "本周 Crypto 英语精听：稳定币之外，货币信任靠什么锚定？",
+      "category": "Crypto 演讲精听",
+      "date": "2026-11-09",
+      "summary": "精听 BIS 19 分 06 秒英文演讲，理解 stablecoin、singleness of money、elasticity、financial integrity、par redemption、tokenised deposits 与 dollarisation risk。",
+      "tags": [
+        "Crypto英语",
+        "BIS",
+        "Stablecoin",
+        "Tokenisation",
+        "Tokenised Deposits",
+        "货币单一性",
+        "金融稳定",
+        "美元化",
+        "跨境支付"
+      ],
+      "status": "curated",
+      "ownerViewpoint": false,
+      "sourceVerified": true,
+      "videoUrl": "https://www.bis.org/speeches/20260628-anchoring-trust-money-innovation-beyond-stablecoins",
+      "duration": "演讲视频 19 分 06 秒；建议精听 35 分钟",
+      "sources": [
+        {
+          "title": "Bank for International Settlements：Anchoring Trust in Money — Innovation Beyond Stablecoins（Frank Smets，28 June 2026）",
+          "url": "https://www.bis.org/speeches/20260628-anchoring-trust-money-innovation-beyond-stablecoins"
+        },
+        {
+          "title": "BIS Annual Economic Report 2026, Chapter III：The Next-Generation Monetary and Financial System",
+          "url": "https://www.bis.org/publ/arpdf/ar2026e3.htm"
+        }
+      ],
+      "body": "## 已核验演讲\n\nBIS 页面收录 Frank Smets 在 2026 年 6 月 28 日年度大会上的英文演讲 “Anchoring trust in money: innovation beyond stablecoins”，视频时长标注为 19 分 06 秒，并提供 7 页正式讲稿和演示材料。页面明确说明观点属于讲者本人，不必然代表 BIS 或成员机构。\n\n官方页面没有提供带时间码的逐字稿，因此本条不编造分钟级片段。练习按论证结构分轮完成，并以正式讲稿核对关键词和逻辑。\n\n## 核心知识\n\n演讲用三项属性判断货币体系：singleness、elasticity 和 financial integrity。Singleness of money 指不同发行人的货币工具能够按面值无摩擦交换；elasticity 指体系能在需求变化或压力时期提供流动性；financial integrity 指支付体系能够支持合规、可追踪的合法金融活动。\n\nStablecoin 看起来像链上货币工具，但其面值稳定依赖储备资产、赎回安排、发行人治理和市场流动性。即使储备由短期安全资产组成，集中赎回也可能迫使发行人出售资产，形成 fire sale；二级市场价格偏离 1 美元则意味着 par redemption 与市场可兑换性并非同一件事。\n\nFragmentation 发生在不同稳定币、区块链和应用无法按面值顺畅互换时。跨链桥或流动性池可以缓解摩擦，却会引入智能合约、验证者、治理和流动性风险。技术可组合性不自动创造货币单一性。\n\n演讲还讨论银行资金来源：若存款大量迁移到稳定币，银行可能失去低成本融资，进而影响信贷供给。新兴市场若广泛使用外币稳定币，可能增加 dollarisation risk、资本流动波动和本币政策传导难度。\n\nBIS 提出的方向是两条线并行：加强稳定币保障措施，同时把代币化嵌入以中央银行货币为锚的双层货币体系。Tokenised deposits 保留银行存款的法律与流动性安排，但也仍需跨平台互操作、结算最终性和统一账本设计。\n\n## 精听方法\n\n1. 第一遍不暂停，记录讲者提出的三个货币属性，以及他对稳定币问题的总判断。\n2. 第二遍用正式讲稿核对 stablecoin、par、fragmentation、fire sale、bank funding、dollarisation 六个词的上下文。\n3. 第三遍画两条传导链：稳定币挤兑如何影响货币市场；存款迁移如何影响银行融资和信贷。\n4. 第四遍主动提出反方：充分抵押、透明审计和中央银行流动性安排能否弥补这些缺陷？需要什么制度条件？\n\n## 关键词\n\n- stablecoin — 稳定币\n- singleness of money — 货币单一性\n- elasticity — 流动性弹性\n- financial integrity — 金融完整性\n- par redemption — 按面值赎回\n- deviation from par — 偏离面值\n- fragmentation — 碎片化\n- fire sale — 被迫折价抛售\n- tokenised deposit — 代币化存款\n- two-tier monetary system — 双层货币体系\n- bank funding — 银行融资来源\n- credit provision — 信贷供给\n- dollarisation risk — 美元化风险\n- settlement finality — 结算最终性\n- monetary sovereignty — 货币主权\n\n## 地道表达\n\n以下句子根据演讲论证改写，不冒充逐字引文。\n\n> Trust in money depends on more than the quality of the reserve assets.\n\n> Redemption at par must remain credible even under stress.\n\n> Fragmented settlement assets can undermine the singleness of money.\n\n> Tokenisation should improve the monetary system without weakening its institutional anchor.\n\n## 输出练习\n\n用两分钟英文回答：\n\n“What would a stablecoin need in order to function as money at scale?”\n\n至少使用 singleness of money、elasticity、par redemption、fire sale、bank funding、dollarisation risk、settlement finality 七个词；先陈述 BIS 的论点，再给出一个反方条件，并说明什么证据会改变你的判断。本条不记录或声称你已完成精听。"
+    },
     {
       "id": "briefing-2026-11-08",
       "kind": "briefing",
