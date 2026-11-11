@@ -1,7 +1,87 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-10T09:00:00+08:00",
+  "updatedAt": "2026-11-11T09:06:00+08:00",
   "entries": [
+    {
+      "id": "briefing-2026-11-11",
+      "kind": "briefing",
+      "title": "今日事实简报：美国 CPI 缺数口径、Firefly 航天收入与 Solana 隐私环",
+      "category": "每日财经简报",
+      "date": "2026-11-11",
+      "summary": "基于美国劳工统计局、Firefly Aerospace 财报及 SEC 文件、Solana Foundation 与 Helius 技术公告，核对美国 10 月通胀的缺数边界、航天公司 backlog 与亏损口径，以及链上隐私环已上线功能与尚未完成的机构合规能力。",
+      "tags": [
+        "宏观",
+        "美国CPI",
+        "通胀",
+        "数据缺口",
+        "Firefly Aerospace",
+        "航空航天",
+        "月球经济",
+        "Backlog",
+        "Crypto",
+        "Solana",
+        "DeFi",
+        "零知识证明",
+        "隐私"
+      ],
+      "status": "curated",
+      "ownerViewpoint": false,
+      "sourceVerified": true,
+      "updatedAt": "2026-11-11T09:06:00+08:00",
+      "sources": [
+        {
+          "title": "U.S. Bureau of Labor Statistics：Consumer Price Index — October 2026（released 10 November 2026）",
+          "url": "https://www.bls.gov/news.release/archives/cpi_11102026.htm"
+        },
+        {
+          "title": "Firefly Aerospace：Third Quarter 2026 Financial Results（10 November 2026）",
+          "url": "https://investors.fireflyspace.com/news-releases/news-release-details/firefly-aerospace-announces-third-quarter-2026-financial-results"
+        },
+        {
+          "title": "Firefly Aerospace / SEC Form 8-K（filed 10 November 2026）",
+          "url": "https://www.sec.gov/Archives/edgar/data/1860160/000186016026000030/fly-20261110.htm"
+        },
+        {
+          "title": "Solana Foundation：Solana Privacy Rings Bring Programmable Privacy Onchain（10 November 2026）",
+          "url": "https://solana.com/news/solana-privacy-rings-bring-programmable-privacy-onchain"
+        },
+        {
+          "title": "Helius：Introducing Solana Privacy Rings（10 November 2026）",
+          "url": "https://www.helius.dev/blog/solana-privacy-rings"
+        }
+      ],
+      "body": "## 更新时间\n\n北京时间 2026 年 11 月 11 日 09:06。以下仅汇总已发布资料，不包含实时价格、买卖建议或 Linna 的个人观点。月度价格变化、合同储备与收入、产品发布与安全证明分别是不同层级的事实，不能互相替代。\n\n## 宏观：美国 10 月 CPI 环比上涨 0.4%，但多数同比数据因基期缺失无法发布\n\n美国劳工统计局 11 月 10 日公布，10 月 CPI 经季节调整后环比上涨 0.4%，低于 9 月的 0.6%。核心 CPI，即剔除食品和能源后的指数，环比上涨 0.3%，与 8 月、9 月相同。\n\n分项看，居住成本环比上涨 0.3%，贡献了总 CPI 月度涨幅的三成以上；食品上涨 0.5%，其中家庭食品上涨 0.4%、外出就餐上涨 0.5%；能源上涨 0.7%，其中汽油上涨 1.0%、电力上涨 0.9%，天然气下降 0.8%。\n\n这次发布存在重要数据边界：由于 2025 年 10 月拨款中断，BLS 当时没有采集调查数据，也没有发布多数 CPI 分项指数。因此，对缺少 2025 年 10 月基期的系列，BLS 无法计算 2026 年 10 月的 12 个月同比涨幅。不能把环比 0.4%直接年化后当成官方同比，也不能用未经说明的插值替代缺失基期。\n\n解释边界：单月环比同时包含季节调整、一次性价格和类别权重影响。判断通胀持续性，应继续跟踪核心服务、居住成本、工资、未来可比的同比数据及修订，而不是仅凭一个月的总 CPI 推导利率路径。\n\n## 股票：Firefly 收入同比增长 259%，但季度经营亏损仍接近收入规模\n\nFirefly Aerospace 11 月 10 日披露，第三季度收入为 1.107 亿美元，同比增加 259%；季度末 backlog 为 17 亿美元，高于上一季度末的 15 亿美元。公司把增长与月球任务、Alpha Block II、国防项目、商业发射和发动机合同等多条业务线联系起来。\n\n财务表显示，季度毛利为 2,530 万美元，对应毛利率约 22.9%；研发费用 7,599 万美元，销售、一般及行政费用 5,088 万美元，GAAP 经营亏损 1.016 亿美元，净亏损 9,420 万美元。调整后 EBITDA 仍为负 6,953 万美元。季度末现金及现金等价物约 4.093 亿美元。\n\n收入高速增长与大额亏损可以同时发生。航天项目在产能建设、试验、人员和任务执行上有高额前置成本；收入确认还取决于里程碑、交付和会计安排。backlog 是未来合同工作的指标，不等于现金、无条件应收款或当期收入，仍可能受任务推迟、技术失败、客户预算与取消条款影响。\n\n公司还称已进入 NASA 最高总额 100 亿美元的 CLPS 2 多供应商框架。这里的 100 亿美元是主合同的合计上限，八家入选公司未来竞争具体任务；不能把框架上限按供应商平均分配，更不能把它直接加入 Firefly 的收入预测。\n\n后续验证重点包括：backlog 转为收入的速度、毛利率、研发强度、自由现金流、任务成功率、Alpha Block II 时间表，以及政府框架合同中已获 task order 与仅具备竞标资格的比例。\n\n## Crypto：Solana Privacy Rings 已上线默认隐私环，但“加密金额”不等于完全匿名或完成合规\n\nSolana Foundation 与 Helius 11 月 10 日公告，permissionless Privacy Ring 已在 Solana 主网上线。其结构是 programmable shielded pool：资产和金额被加密，用户以 viewing key 解密余额；交易仍需资产所有者签名，支持 SOL、SPL 与 Token-2022 资产，并在 Solana 主网执行和保存加密状态。\n\n默认隐私边界并非“全部隐藏”。公告明确说明，permissionless Ring 加密资产和金额，但钱包地址仍然可见。用户存入私有余额、向 Solana 地址转账，再提回公开余额；因此存入和提取路径、公开地址关系、时间与其他元数据仍可能形成分析线索。\n\nHelius 与 Solana Foundation 称核心程序和零知识电路已经 Certora、OtterSec 和 ZK Security 审计，但正式验证仍在进行，预计 2026 年底完成。面向机构、可配置审计员可见性、allowlist、blocklist、冻结与多签规则的 Custom Rings 仍在审计，公告预计后续上线；它不是这次已上线 permissionless Ring 的既成功能。\n\n在 DeFi 中，隐私可以减少公开持仓被抢跑、商业交易泄露和地址画像风险，但也会增加证明生成、密钥管理、合规筛查、审计访问和错误恢复的复杂度。审计不等于无漏洞，零知识证明也不自动解决经济攻击、前端风险、治理权限或跨协议组合风险。\n\n待验证条件：独立审计报告的完整范围、正式验证结果、trusted setup 假设、viewing key 泄露与恢复机制、匿名集规模、跨池可组合性、实际交易成本和 Custom Rings 的最终主网代码。"
+    },
+    {
+      "id": "lesson-2026-11-11-concessional-partner-loans",
+      "kind": "lesson",
+      "title": "今日金融英语：优惠伙伴贷款怎样把“便宜资金”转成开发融资？",
+      "category": "金融市场英语",
+      "date": "2026-11-11",
+      "summary": "用世界银行 6 分 38 秒英文视频理解 concessional partner loan、grant element、below-market terms、maturity、grace period、financing capacity 与 currency risk。",
+      "tags": [
+        "金融英语",
+        "世界银行",
+        "IDA21",
+        "优惠伙伴贷款",
+        "开发融资",
+        "赠款要素",
+        "融资成本",
+        "期限风险"
+      ],
+      "status": "curated",
+      "ownerViewpoint": false,
+      "sourceVerified": true,
+      "videoUrl": "https://www.worldbank.org/en/news/feature/2026/09/16/expanding-ida-s-financing-toolkit",
+      "duration": "视频 6 分 38 秒；建议练习 24 分钟",
+      "sources": [
+        {
+          "title": "World Bank：Strengthening IDA21 Through Concessional Partner Loans（Video Series: Expanding IDA’s Financing Toolkit，16 September 2026）",
+          "url": "https://www.worldbank.org/en/news/feature/2026/09/16/expanding-ida-s-financing-toolkit"
+        }
+      ],
+      "body": "## 已核验材料\n\n世界银行专题页 “Video Series: Expanding IDA’s Financing Toolkit” 收录英文视频 “Strengthening IDA21 Through Concessional Partner Loans”，时长元数据为 PT6M38S，即 6 分 38 秒。官方章节为：00:00 引言；00:28 什么是 Concessional Partner Loan；01:15 最简单的解释；02:03 为什么 CPL 对伙伴有吸引力；03:17 CPL 如何帮助 IDA 扩大融资；04:21 用一句话解释价值；06:04 结论。\n\n官方页面提供章节与机制简介，但没有完整逐字稿。下面的知识说明与英文句子是学习材料，不冒充讲者原话。\n\n## 先懂知识，再听英语\n\nConcessional Partner Loan，简称 CPL，是伙伴以优惠条件向 IDA 提供的贷款。它和 grant 不同：grant 通常无需偿还；CPL 需要按合同偿付本金和利息，但其利率、期限或宽限期比市场化融资更有利。\n\nConcessionality 是“优惠程度”，不能只看票面利率。长期 maturity、较长 grace period、低于市场的 interest rate、延后还本和费用减免都可能增加优惠性。常用概念 grant element 会把优惠贷款与同风险市场融资的现值比较，衡量其中隐含的赠款价值。\n\n对 IDA 而言，低成本、长期和可预测的资金可以改善 funding mix，并扩大 financing capacity。若一笔 CPL 的融资成本低于 IDA 向受援国提供资金所能承受的水平，通常还需要伙伴补足相应优惠价值或满足既定的 burden-sharing 规则；具体机制必须以 IDA 条款为准。\n\n对出资伙伴而言，CPL 可能比一次性 grant 更容易纳入资产负债管理，因为本金未来可回收；但它仍占用资金、承担久期和信用风险，也可能存在 currency mismatch。名义本金更大不等于经济贡献更大，必须比较现值、期限、利率、币种和风险承担。\n\n对受援国而言，IDA 获得更多融资能力并不意味着所有项目都会自动获批。资金仍要经过国家配额、项目评估、债务可持续性、采购和执行流程。融资工具提高的是资源池能力，不替代项目质量。\n\n## 分段精听\n\n- 00:00–00:27：记录讲者为什么把 grants 之外的工具引入 IDA21。\n- 00:28–01:14：听清 CPL 的定义，以及 lender、IDA、recipient country 三方关系。\n- 01:15–02:02：用一句自己的英文改写“优惠”来自哪里。\n- 02:03–03:16：区分伙伴获得的资金安排优势与承担的长期风险。\n- 03:17–04:20：写出从 below-market terms 到 financing capacity 的传导链。\n- 04:21–06:03：听讲者如何压缩价值主张，并检查是否遗漏币种、期限和信用风险。\n- 06:04–06:37：用一句话总结 CPL 与 grant 的差别。\n\n## 关键词\n\n- concessional partner loan — 优惠伙伴贷款\n- concessionality — 优惠程度\n- grant element — 赠款要素\n- below-market terms — 低于市场的条款\n- maturity — 到期期限\n- grace period — 宽限期\n- interest rate — 利率\n- present value — 现值\n- funding mix — 融资结构\n- financing capacity — 融资能力\n- burden sharing — 负担分担\n- principal repayment — 本金偿还\n- currency mismatch — 币种错配\n- duration risk — 久期风险\n- development finance — 开发融资\n\n## 地道表达\n\n以下为学习用改写句。\n\n> A concessional loan carries more favorable terms than comparable market funding.\n\n> Concessionality can come from a lower rate, a longer maturity, or a grace period.\n\n> The grant element measures the benefit embedded in the loan terms.\n\n> Cheap and predictable funding can expand IDA’s financing capacity.\n\n> A larger face value does not necessarily mean a larger economic contribution.\n\n## 输出练习\n\n用 90 秒英文回答：\n\n“How is a concessional partner loan different from both a grant and a market-rate loan?”\n\n回答至少使用 concessional partner loan、grant element、below-market terms、maturity、grace period、financing capacity、currency mismatch 七个词；比较三种资金的偿还、成本与风险，并说明一个会改变判断的合同条款。本条不记录或声称你已经完成学习。"
+    },
     {
       "id": "briefing-2026-11-10",
       "kind": "briefing",
@@ -148,6 +228,60 @@
         }
       ],
       "body": "## 已核验材料\n\n世界银行专题页 “Video Series: Expanding IDA’s Financing Toolkit” 收录第四集 “Strengthening IDA21 with Portfolio Guarantee Platform”。具体视频元数据为 PT5M26S，即 5 分 26 秒，并给出官方章节：00:00–00:20 引言；00:20–01:29 定义；01:30–02:46 如何释放更多融资；02:47–04:09 捐助方获得什么；04:10–05:08 平台价值；05:09–05:26 结论。\n\n页面说明 IDA21 除传统赠款外，还使用 Concessional Partner Loans、Hybrid Capital 和 Portfolio Guarantee Platform。以下知识说明依据官方页面与金融机制整理；页面未提供逐字稿，因此不编造讲者原话。\n\n## 先懂知识，再听英语\n\nIDA 是世界银行面向低收入国家的优惠融资机构。Portfolio Guarantee Platform，简称 PGP，允许捐助方以担保承诺支持 IDA 的一组融资，而不是在一开始就把全部承诺额作为现金赠款支付。\n\nGuarantee 是风险分担工具，不是免费资金。只有当被担保风险触发时，担保人才需要按合同履约；因此担保可能是 contingent liability，也就是取决于未来事件才形成的实际付款义务。评估时必须看触发条件、最高赔付额、期限和损失分配顺序。\n\n平台可能提高 capital headroom：如果担保降低 IDA 资产组合的风险或吸收特定损失，IDA 可以在资本约束下支持更多融资。这是 leverage effect，但“每一单位担保支持更多贷款”不等于经济风险消失；风险从 IDA 的资产负债表部分转移给担保方。\n\nPortfolio approach 把多个项目或国家放在一个风险池中。若损失相关性不高，分散化可以减少单一项目冲击；如果全球衰退、战争或气候事件使多个风险同时发生，组合仍可能集中受损。组合规模大也会增加监测、定价与信息透明度要求。\n\n对捐助方而言，担保可以减少初始现金支出并放大支持规模；代价是未来存在被调用的预算不确定性。公共部门必须为 callable guarantee 做预算和会计安排，避免把或有负债误当成零成本。\n\n## 分段精听\n\n- 00:00–00:20：先判断讲者如何定义“资源有限、需求增加”的问题。\n- 00:20–01:29：记录 guarantee、portfolio 与 donor commitment 的关系。\n- 01:30–02:46：听清风险分担如何转化为 IDA 的额外融资能力。\n- 02:47–04:09：区分捐助方的前期现金成本、未来责任与发展影响。\n- 04:10–05:08：总结 PGP 的价值主张，并寻找没有展开的风险。\n- 05:09–05:26：用一句英文复述机制，而不是只重复“more impact”。\n\n## 关键词\n\n- portfolio guarantee — 组合担保\n- guarantee commitment — 担保承诺\n- risk sharing — 风险分担\n- callable guarantee — 可被调用的担保\n- contingent liability — 或有负债\n- capital headroom — 资本空间\n- leverage effect — 杠杆放大效应\n- risk pool — 风险池\n- loss absorption — 损失吸收\n- donor contribution — 捐助方出资\n- concessional finance — 优惠融资\n- development financing — 开发融资\n- trigger condition — 触发条件\n- maximum exposure — 最大风险敞口\n- fiscal provisioning — 财政准备\n\n## 地道表达\n\n以下为学习用改写句。\n\n> A portfolio guarantee shares risk without requiring the full commitment to be paid upfront.\n\n> The guarantee creates capital headroom, but it does not make the underlying risk disappear.\n\n> Diversification works only when losses are not perfectly correlated.\n\n> Donors should budget for a callable commitment as a contingent liability.\n\n## 输出练习\n\n用 90 秒英文回答：\n\n“How can a portfolio guarantee expand development financing, and where does the risk go?”\n\n回答至少使用 portfolio guarantee、risk sharing、capital headroom、callable guarantee、contingent liability、leverage effect 六个词；说明一个规模优势、一个预算风险和一个会让你改变判断的触发条件。本条不记录或声称你已经完成学习。"
+    },
+    {
+      "id": "topic-2026-11-09-frontier-research",
+      "kind": "topic",
+      "title": "研究选题候选：药物 AI 可信度、月球合同价值、量价可证伪性与 DeFi 数据口径",
+      "category": "研究选题",
+      "date": "2026-11-09",
+      "summary": "四个有来源的候选：AI 药物研发的监管可信度与商业护城河、CLPS 2 多供应商框架的合同期权价值、威科夫量价信号的样本外验证，以及链上公开数据为何仍可能误导 DeFi 与 RWA 判断。",
+      "tags": [
+        "AI",
+        "生物医疗",
+        "药物研发",
+        "监管科学",
+        "航空航天",
+        "月球经济",
+        "CLPS",
+        "威科夫",
+        "量价分析",
+        "市场微观结构",
+        "Crypto",
+        "RWA",
+        "DeFi",
+        "链上数据"
+      ],
+      "status": "curated",
+      "ownerViewpoint": false,
+      "sourceVerified": true,
+      "sources": [
+        {
+          "title": "FDA / EMA：Guiding Principles of Good AI Practice in Drug Development（January 2026）",
+          "url": "https://www.fda.gov/about-fda/artificial-intelligence-drug-development/guiding-principles-good-ai-practice-drug-development"
+        },
+        {
+          "title": "FDA：Considerations for the Use of Artificial Intelligence to Support Regulatory Decision-Making for Drug and Biological Products（Draft Guidance，January 2025）",
+          "url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/considerations-use-artificial-intelligence-support-regulatory-decision-making-drug-and-biological"
+        },
+        {
+          "title": "NASA：NASA Awards Moon Base Transportation, Technology, Science Projects（7 November 2026）",
+          "url": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/"
+        },
+        {
+          "title": "NBER Working Paper 35158：Mosaics of Predictability（April 2026）",
+          "url": "https://www.nber.org/papers/w35158"
+        },
+        {
+          "title": "NBER Working Paper 33037：Trading Volume Alpha（October 2024）",
+          "url": "https://www.nber.org/papers/w33037"
+        },
+        {
+          "title": "BIS Working Paper 1377：Hidden by Complexity? Measuring Stablecoin, Crypto and Decentralised Finance Ecosystems（15 September 2026）",
+          "url": "https://www.bis.org/publications/working-paper-1377-hidden-complexity-measuring-stablecoin-crypto-and-decentralised-finance-ecosystems"
+        }
+      ],
+      "body": "## 日期与定位\n\n本期锚点为北京时间 2026 年 11 月 9 日，距固定锚点 2026 年 10 月 10 日正好 30 天。该期此前缺失，本次仅补最近一期。以下四项是待 Linna 选择和确认的研究候选，不是已完成研究、个人观点、批准文章或投资建议。进入真实研究前仍需确认范围、数据与公开边界。\n\n## 候选一：AI 药物研发的护城河，是模型能力还是“特定用途下可证明的可信度”？\n\n### 为什么值得研究\n\nFDA 与 EMA 在 2026 年发布的良好 AI 实践原则，把 clear context of use、数据治理、风险相称的性能评估和全生命周期管理列为关键。FDA 的既有草案又提出：当 AI 输出用于药品安全性、有效性或质量的监管决策时，需要围绕具体 context of use 建立 risk-based credibility assessment。\n\n这意味着 AI 药物公司的竞争可能不只在模型准确率，而在能否把模型锁定到一个可验证用途，持续证明数据、性能、漂移和人类监督满足监管要求。\n\n### 核心问题与证据路径\n\n- 决策问题：哪些 AI 药物平台的证据资产能缩短研发时间、提高成功率或降低试验成本，并形成可重复收费，而不是只带来一次性合作叙事？\n- 把业务拆成靶点发现、分子设计、毒性预测、患者分层、临床运营和生产质量；每一环节分别定义 context of use、错误成本和监管证据。\n- 建立证据阶梯：回顾性 benchmark、外部验证、前瞻性研究、监管互动、临床终点改善和商业付款。模型指标不能替代药物获批率或现金流。\n- 比较自研管线、里程碑合作、软件许可和数据服务四种模式的研发资本、收入确认、知识产权和客户集中度。\n\n### 反方解释\n\n监管标准化可能提高行业可信度，也可能把合规变成所有成熟参与者都能购买的基础设施，削弱差异化。药物失败的主要瓶颈仍可能是生物学机制、临床设计和商业竞争，而非模型预测；高质量数据优势也可能因合作方权利和隐私限制无法完全变现。\n\n## 候选二：CLPS 2 的 100 亿美元是航天公司的收入池，还是一组未定价的竞标期权？\n\n### 为什么值得研究\n\nNASA 11 月 7 日宣布，八家公司可在新的 CLPS 2 框架下竞争月面运输任务。该框架为期 10 年、multiple-award IDIQ 主合同，合计最高价值 100 亿美元。入选者包括 Firefly、Intuitive Machines、SpaceX、Blue Origin 等。\n\n“入选最高额 100 亿美元合同”容易被市场理解成确定订单；实际上，多供应商 IDIQ 通常先提供竞争 task order 的资格，合同 ceiling、已授予任务、已签 backlog 和最终确认收入是四个不同层级。\n\n### 核心问题与证据路径\n\n- 画出采购漏斗：入选供应商、请求报价、task order 授予、任务里程碑、发射、交付和收入确认；每层记录金额与失败率。\n- 比较八家公司的 lander 能力、载荷、发射依赖、任务成功记录、保险、单位交付成本和资金实力。\n- 对上市公司分拆 backlog：firm contract、option、IDIQ ceiling、未拨款项目与商业合作意向，禁止把主合同上限平均分配。\n- 建立情景：任务频率、单次价格、赢单率、毛利、延迟与失败赔偿，估算 CLPS 2 对现金流而非新闻估值的贡献。\n\n### 反方解释\n\n即使没有确定收入，入选也可能降低未来获客成本、验证技术并带来商业客户，因此“期权价值”并非零。反过来，政府需求可能随预算增加，历史赢单率也不一定代表新一代重型月球货运竞争。\n\n## 候选三：威科夫量价信号能否通过“状态依赖 + 交易成本”检验，而不是只做形态复盘？\n\n### 为什么值得研究\n\n2026 年 NBER 工作论文 “Mosaics of Predictability” 认为，收益可预测性具有资产特定和状态依赖特征；其结果显示，预测性更集中于低交易量、流动性较弱等特定状态。另一篇 NBER 工作论文 “Trading Volume Alpha” 则指出，个股成交量本身具有较强可预测性，而预判成交量有助于把交易成本纳入组合实施。\n\n这为威科夫的“量价关系”提供一个更严格的研究方向：信号可能不是永恒图形规律，而是在特定流动性、信息和成本状态下才成立。\n\n### 核心问题与证据路径\n\n- 把 Spring、Upthrust、Stopping Volume、Sign of Strength 改成完全事前、可重复计算的规则，冻结参数后再看未来收益。\n- 将信号分成方向预测与执行价值：即便方向正确，高换手、低容量和冲击成本也可能抹去收益。\n- 在 A 股指数 ETF、A 股个股与美股分别做 walk-forward；报告未来 5/10/20 日收益、最大回撤、命中率、换手、容量和成本后收益。\n- 加入市场状态：波动率、价差、成交量分位、指数趋势、公告日、融资活动与期权到期，检验信号是否只在少数区间有效。\n\n### 反方解释\n\n低成交量环境的可预测性可能来自价格更新迟缓或小盘暴露，不是威科夫机制。成交量可预测也不等于收益方向可预测；灵活标注形态会产生数据窥探，样本外衰减和交易成本可能让统计显著失去经济意义。\n\n## 候选四：链上数据全部公开，为什么 DeFi 与 RWA 指标仍可能差六倍？\n\n### 为什么值得研究\n\nBIS Working Paper 1377 使用 Bitcoin、Ethereum 与 Tron 等数据研究链上活动测量。论文报告，Bitcoin 交易价值在不同处理方法下最多可相差六倍；作者还分类了约 1,300 万个活跃合约，其中约 140 万个是 token，并发现同一种稳定币在不同链上的用途结构不同。\n\n这使“TVL、转账额、活跃地址、稳定币规模、RWA 价值”从看似客观的仪表盘数字，变成需要明确聚合、去重、合约分类和经济含义的测量问题。\n\n### 核心问题与证据路径\n\n- 对每个指标建立数据字典：观察单位、链、地址实体、桥接资产、内部转账、找零、机器人、循环借贷、价格源和时间截面。\n- 对 RWA 区分底层法律资产、发行载体、链上凭证、跨链镜像与 DeFi 抵押；避免把同一经济权益多次相加。\n- 复算三个指标：稳定币转账额、DEX 交易量、RWA TVL；用最保守、基准和宽口径给出区间，而不是单点。\n- 将链上活动与可验证的现金流、赎回、持有人结构和协议收入连接，测试“交易热度”是否代表经济采用。\n\n### 反方解释\n\n口径差异不等于所有链上指标无用；只要方法固定，同一指标的时间序列仍可能有效。严格去重也可能误删真实的高频结算、做市和跨链需求。论文是作者研究，页面明确不必然代表 BIS 官方观点，结论应通过开源代码和独立数据复核。\n\n## 选择与下一步\n\n优先级可以按“是否改变真实决策、能否取得同口径数据、可否证伪、能否形成职业作品集”排序。建议一次只推进一项：先写决策问题与数据清单，再决定是否进入完整研究。任何真实研究文章仍需 Linna 确认，自动任务不会把候选改为 approved 或冒充个人观点。"
     },
     {
       "id": "weekly-2026-11-09-stablecoins-trust",
