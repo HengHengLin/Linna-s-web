@@ -1,7 +1,82 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-11T09:06:00+08:00",
+  "updatedAt": "2026-11-12T09:03:00+08:00",
   "entries": [
+    {
+      "id": "briefing-2026-11-12",
+      "kind": "briefing",
+      "title": "今日事实简报：欧盟 FDI 最终投资者、Amprius 高能量密度电池与土耳其 Crypto 监管",
+      "category": "每日财经简报",
+      "date": "2026-11-12",
+      "summary": "基于 Eurostat、Amprius 向 SEC 提交的季度材料与金融稳定理事会同业评估，核对欧盟外商直接投资的最终控制口径、硅阳极电池公司的增长与现金消耗，以及土耳其 Crypto 监管已完成和仍缺失的制度环节。",
+      "tags": [
+        "宏观",
+        "欧盟",
+        "FDI",
+        "最终投资者",
+        "Amprius",
+        "硅阳极电池",
+        "航空电动化",
+        "现金流",
+        "Crypto",
+        "Stablecoin",
+        "土耳其",
+        "金融监管"
+      ],
+      "status": "curated",
+      "ownerViewpoint": false,
+      "sourceVerified": true,
+      "updatedAt": "2026-11-12T09:03:00+08:00",
+      "sources": [
+        {
+          "title": "Eurostat：Foreign direct investment — where does it really come from?（11 November 2026）",
+          "url": "https://ec.europa.eu/eurostat/en/web/products-eurostat-news/w/ddn-20261111-3"
+        },
+        {
+          "title": "Amprius Technologies / SEC Exhibit 99.1：Third Quarter 2026 Financial Results（filed 10 November 2026）",
+          "url": "https://www.sec.gov/Archives/edgar/data/1899287/000189928726000069/ampx-2026x11x03x8kex991.htm"
+        },
+        {
+          "title": "Financial Stability Board：Peer Review of Türkiye（11 November 2026）",
+          "url": "https://www.fsb.org/2026/11/peer-review-of-turkiye/"
+        },
+        {
+          "title": "Financial Stability Board：Recommendations on Türkiye’s crypto-assets and stablecoins framework（11 November 2026）",
+          "url": "https://www.fsb.org/2026/11/fsb-recommends-turkiye-further-strengthens-its-regulatory-framework-for-crypto-assets-and-stablecoins/"
+        }
+      ],
+      "body": "## 更新时间\n\n北京时间 2026 年 11 月 12 日 09:03。以下仅汇总已经发布的资料，不包含实时价格、买卖建议或 Linna 的个人观点。跨国投资存量、公司经营数据与监管评估属于不同口径，不能直接互相推导。\n\n## 宏观：看 FDI 的“最终投资者”，可能得到与直接来源国不同的答案\n\nEurostat 11 月 11 日发布的实验性统计覆盖 14 个自愿报送的欧盟国家，观察 2025 年 inward FDI position 的 ultimate investing economy，也就是投资链条中最终控制直接投资企业的经济体，而不是资金在法律结构中最后经过的 immediate investor。\n\n在这 14 个国家中，9 个国家的大部分 FDI 最终来自其他欧盟成员国。欧盟来源占比最高的是捷克 75.1%、罗马尼亚 73.3% 和爱沙尼亚 64.8%。另外 5 个国家由非欧盟最终投资者占多数：塞浦路斯为 79.4%，西班牙、瑞典、希腊和丹麦介于 51.0% 与 55.1%。\n\n把 14 国合计后，最大的最终投资经济体是美国，占 15.4%；其后为德国 11.5%、法国 9.4%、英国 9.3% 和瑞士 5.8%。FDI 通常要求投资者拥有至少 10% 的权益并具有持久影响，但最终投资者口径还要沿控制链追溯，可以识别经特殊目的实体或中间控股公司转道的资本。\n\n这组数据不能代表全部欧盟：只有 14 国自愿报送，而且是投资头寸而非当年新增流量。占比也不等于实体项目数量、就业贡献或税收收益。后续研究应同时比较 immediate 与 ultimate investor、行业分布、存量与流量、round-tripping，以及中间控股地与真实风险承担者。\n\n## 股票：Amprius 收入和毛利率改善，但合同金额、技术指标与现金转化需分开看\n\nAmprius Technologies 向 SEC 提交的三季度材料显示，季度收入为 3,910 万美元，同比增长 83%、环比增长 15%；毛利 1,050 万美元，GAAP 毛利率为 27%，上年同期为 15%。归属于普通股股东的净亏损为 350 万美元，上年同期净亏损 390 万美元；调整后 EBITDA 为负 100 万美元，上年同期为正 20 万美元。\n\n公司披露美国收入为 1,220 万美元，环比约为 2.3 倍，并宣布一项最高 7,500 万美元的美国国防部竞争性合同。但公告同时说明，目前已承担的合同义务为 2,230 万美元。最高金额不是已经确认的收入，也不是全部已经拨付的订单。\n\n公司把 SiCore 500 定位为可在传统锂离子制造设备上生产、能量密度最高可达 500 Wh/kg 的硅阳极电池，目标市场包括航空。这个指标来自公司披露，不能自动外推为量产电芯在完整循环寿命、安全、良率、成本和快充条件下都达到同一水平。计划在 2028 年形成最高每年 1,200 万只符合 NDAA 要求电芯的能力，也仍取决于设备、客户认证和执行进度。\n\n截至 9 月 30 日，公司现金及现金等价物为 6,068.5 万美元；前九个月经营活动使用现金 4,796.4 万美元，应收账款增加 2,203.5 万美元，存货增加 914.7 万美元。收入增长并不等于现金回收同步改善。后续验证重点是应收周转、库存、经营现金流、政府合同实际订单、SiCore 的独立测试，以及产能爬坡后的单位成本。\n\n## Crypto：土耳其已扩大 CASP 监管，但稳定币专门制度仍是核心缺口\n\n金融稳定理事会（FSB）11 月 11 日发布对土耳其的第二次同业评估。评估认为，当地已把大部分 Crypto 市场纳入监管范围，引入 Crypto-asset service provider（CASP）的注册与许可要求，并采用严格的托管隔离、禁止 Crypto 用于国内支付等结构性保护。监管方还已运行集中式数据平台，用于监测和核对 Crypto 活动。\n\n“已纳入监管”不等于制度已经完整。FSB 指出，土耳其仍没有稳定币发行人的专门监管框架；同时需要把金融稳定监测从数据收集进一步变成可执行机制，加强监督和执法，并完善跨境合作与信息共享。\n\n评估把 Crypto 资产描述为以投机持有为主，而外币稳定币更多被当作价值储存和对冲本币贬值、通胀的工具。离岸平台交易仍在监管边界外，限制了对资本流动、传统金融体系联结和 monetary sovereignty 风险的可见度。\n\n这一案例说明，交易平台许可、资产隔离、支付禁令、稳定币发行规则和跨境数据协作是不同层级的控制。即使本地 CASP 合规，外币稳定币仍可能通过离岸平台形成数字美元化和资金流动渠道。后续应跟踪稳定币制度的资本、储备、赎回与披露要求，平台执法结果，以及集中数据是否覆盖跨境和链上活动。"
+    },
+    {
+      "id": "lesson-2026-11-12-sovereign-risk-mitigation",
+      "kind": "lesson",
+      "title": "今日金融英语：主权风险管理怎样把衍生品变成预算保护工具？",
+      "category": "金融市场英语",
+      "date": "2026-11-12",
+      "summary": "用世界银行 22 分钟英文视频理解 sovereign risk mitigation、customized lending terms、interest-rate swap、currency derivative、catastrophe bond、refinancing risk 与 fiscal buffer。",
+      "tags": [
+        "金融英语",
+        "世界银行",
+        "主权风险",
+        "衍生品",
+        "利率互换",
+        "汇率风险",
+        "巨灾债券",
+        "财政韧性"
+      ],
+      "status": "curated",
+      "ownerViewpoint": false,
+      "sourceVerified": true,
+      "videoUrl": "https://www.worldbank.org/en/news/video/2026/10/13/maximizing-development-financing-world-bank-group-financial-products-and-advisory",
+      "duration": "视频 22 分钟；建议练习 35 分钟",
+      "sources": [
+        {
+          "title": "World Bank Group：Maximizing Development Financing — Financial Products and Advisory Services | Sovereign Risk Mitigation（13 October 2026）",
+          "url": "https://www.worldbank.org/en/news/video/2026/10/13/maximizing-development-financing-world-bank-group-financial-products-and-advisory"
+        }
+      ],
+      "body": "## 已核验材料\n\n世界银行 2026 年 10 月 13 日发布英文视频 “Maximizing Development Financing: World Bank Group Financial Products and Advisory Services”，页面标注时长 22 分钟。官方简介说明，Financial Products 团队为公共部门客户设计定制主权贷款条款、利率和货币衍生品及 catastrophe bonds，用于管理汇率、利率、再融资、商品价格与自然灾害风险。\n\n官方页面未提供可核验的完整逐字稿或章节时间码，因此本课不编造讲者原句和精确时间戳。下面的英文句子是学习用改写。\n\n## 先懂知识，再听英语\n\nSovereign risk mitigation 的核心不是“预测正确”，而是把政府预算对特定冲击的敏感度变得可控。主权借款人通常同时暴露于利率、币种、期限、商品价格和灾害风险；单看一笔贷款的票面利率，可能忽略整个债务组合的相关性和尾部风险。\n\nInterest-rate swap 可以把浮动利率现金流转换为更可预测的固定利率现金流，或反向转换。它减少某一种风险时，也会引入 counterparty risk、collateral demand 和提前终止风险。固定利率不是无条件更好：若利率下降，借款人可能放弃浮动利率带来的成本下降。\n\nCurrency derivative 可以对冲外币债务与本币收入之间的 currency mismatch。对冲成本取决于利差、期限、流动性和信用条件；若本币市场深度不足，长期对冲可能昂贵或根本不可得。因此，风险管理要比较 expected cost 与 tail loss，而不是只比较即期汇率。\n\nCatastrophe bond 把满足触发条件的灾害风险转移给资本市场投资者。若触发参数满足，部分本金可用于灾后融资。参数型触发能快速支付，但可能出现 basis risk：实际损失很大，触发指标却没有达到门槛，或反之。\n\nCustomized lending terms 可以围绕期限、宽限期、还款结构、币种和利率设计现金流，使债务偿付与财政收入、项目回款或风险承受能力更匹配。它提高的是组合韧性，不会消除基础债务、项目执行或治理风险。\n\n## 三遍听法\n\n第一遍只回答三个问题：客户是谁、要管理哪些风险、最终保护的是什么。\n\n第二遍记录产品与风险的配对：lending terms 对应 refinancing profile；interest-rate swap 对应 rate volatility；currency derivative 对应 currency mismatch；catastrophe bond 对应 disaster shock。\n\n第三遍抓取因果表达，例如 manage exposure、lock in costs、smooth the debt-service profile、transfer tail risk 和 protect fiscal space。若页面播放器无法稳定打开，可先依据官方简介完成知识与词汇部分，不把未听到的内容写成讲者原话。\n\n## 关键词\n\n- sovereign risk mitigation — 主权风险缓释\n- customized lending terms — 定制贷款条款\n- debt-service profile — 债务偿付曲线\n- refinancing risk — 再融资风险\n- interest-rate swap — 利率互换\n- currency derivative — 货币衍生品\n- currency mismatch — 币种错配\n- catastrophe bond — 巨灾债券\n- parametric trigger — 参数型触发条件\n- basis risk — 基差风险\n- counterparty risk — 对手方风险\n- tail risk — 尾部风险\n- fiscal buffer — 财政缓冲\n- fiscal space — 财政空间\n- risk transfer — 风险转移\n\n## 地道表达\n\n以下均为学习用改写句。\n\n> The objective is to make debt-service costs more predictable, not to eliminate every risk.\n\n> A swap can lock in a rate, but it may create collateral and counterparty exposure.\n\n> Currency hedging helps align foreign-currency liabilities with domestic-currency revenues.\n\n> Catastrophe bonds transfer a defined slice of tail risk to capital-market investors.\n\n> Customized terms can smooth the repayment profile and protect fiscal space.\n\n## 输出练习\n\n用 120 秒英文回答：\n\n“How can a government use financial products to protect its budget from interest-rate, currency, and disaster shocks?”\n\n回答至少使用 sovereign risk mitigation、interest-rate swap、currency mismatch、catastrophe bond、basis risk、refinancing risk、fiscal space 七个表达；分别说明每个工具降低什么风险、会新增什么风险，并给出一个工具不适用的条件。本条不记录或声称你已经完成学习。"
+    },
     {
       "id": "briefing-2026-11-11",
       "kind": "briefing",
