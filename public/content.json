@@ -1,7 +1,85 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-12T09:03:00+08:00",
+  "updatedAt": "2026-11-13T09:00:00+08:00",
   "entries": [
+    {
+      "id": "briefing-2026-11-13",
+      "kind": "briefing",
+      "title": "今日事实简报：英国增长结构、AADX 航天防务订单与捷克 DLT 债券",
+      "category": "每日财经简报",
+      "date": "2026-11-13",
+      "summary": "基于英国国家统计局、Applied Aerospace & Defense 向 SEC 提交的季度材料及捷克国家银行公告，核对英国三季度增长的行业与修订边界、航天防务公司的并购驱动和现金流，以及许可制 DLT 债券试验与公链资产的差别。",
+      "tags": [
+        "宏观",
+        "英国GDP",
+        "服务业",
+        "商业投资",
+        "Applied Aerospace & Defense",
+        "AADX",
+        "航空航天",
+        "国防",
+        "Backlog",
+        "Crypto",
+        "Tokenisation",
+        "DLT",
+        "债券",
+        "结算"
+      ],
+      "status": "curated",
+      "ownerViewpoint": false,
+      "sourceVerified": true,
+      "updatedAt": "2026-11-13T09:00:00+08:00",
+      "sources": [
+        {
+          "title": "UK Office for National Statistics：GDP first quarterly estimate, UK — July to September 2026（12 November 2026）",
+          "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/bulletins/gdpfirstquarterlyestimateuk/julytoseptember2026"
+        },
+        {
+          "title": "Applied Aerospace & Defense / SEC Exhibit 99.1：Third Quarter 2026 Financial Results（11 November 2026）",
+          "url": "https://www.sec.gov/Archives/edgar/data/2118195/000162828026073095/appliedearningsrelease3q26.htm"
+        },
+        {
+          "title": "Czech National Bank：CNB issues its first DLT bond（10 November 2026）",
+          "url": "https://www.cnb.cz/en/cnb-news/press-releases/CNB-issues-its-first-DLT-bond/"
+        },
+        {
+          "title": "BIS：The Czech National Bank’s first DLT bond and the new physics of the digital koruna（published 12 November 2026）",
+          "url": "https://www.bis.org/speeches/20261112-czech-national-banks-first-dlt-bond-and-new-physics-digital-koruna"
+        }
+      ],
+      "body": "## 更新时间\n\n北京时间 2026 年 11 月 13 日 09:00。以下仅汇总已发布资料，不包含实时价格、买卖建议或 Linna 的个人观点。季度增速、公司订单储备与技术试验是不同口径，不能直接互相推导。\n\n## 宏观：英国三季度实际 GDP 增长 0.7%，但增长主要由服务业驱动\n\n英国国家统计局（ONS）11 月 12 日发布首估：2026 年第三季度实际 GDP 环比增长 0.7%，高于第二季度的 0.5%；同比增长 1.9%。实际人均 GDP 环比也增长 0.7%，同比增长 1.7%。\n\n从产出看，服务业环比增长 0.9%，生产业增长 0.1%，建筑业下降 0.7%。服务业中，面向企业的服务增长 1.0%，面向消费者的服务增长 0.5%。从支出看，实际家庭消费增长 0.6%，政府消费增长 0.6%，固定资本形成增长 1.7%。这说明本季增长不仅来自消费，但行业贡献明显偏向服务。\n\n月度路径并不完全平滑：7 月 GDP 增长 0.4%，8 月零增长，9 月增长 0.2%。季度数字是三个月总体变化，不能把 9 月单月增速简单乘三，也不能据此认定四季度会保持同一速度。\n\n这是 first quarterly estimate，后续会随更多调查与年度供需平衡资料修订。ONS 指出，自 2000 年以来，首估到三年后最终值的平均绝对修订约为 0.27 个百分点。后续验证重点是商业投资和消费的延续性、建筑业是否企稳、服务业增长是否扩散，以及 12 月 22 日下一次估计的修订方向。\n\n## 股票：AADX 收入增长 48.6%，但并购贡献、税务收益与现金流不能混成一个增长故事\n\nApplied Aerospace & Defense（NYSE: AADX）向 SEC 提交的三季度材料显示，季度收入为 1.821 亿美元，同比增长 48.6%；剔除 2026 年完成的并购后，收入增加 2,490 万美元，内生增速为 20.3%。航天与发射系统收入 3,914.8 万美元，防务航空与机载系统 9,418.4 万美元，先进传感与精确打击系统 4,872.6 万美元。\n\n季度 GAAP 营业利润为 1,639.9 万美元，净利润为 3,061.4 万美元。净利润高于营业利润的重要原因是当季确认了 2,415.8 万美元所得税收益；不能把 16.8% 的净利润率全部理解为核心经营盈利能力。调整后 EBITDA 为 3,966.9 万美元，同比增长 37.4%，但调整后 EBITDA 利润率由 23.6% 降至 21.8%。\n\n截至 9 月末，合同 backlog 为 12.6 亿美元，定义为现有合同总值减去已开票金额。backlog 提供未来工作量线索，但不等于无条件订单、现金或当期收入，仍受预算、项目进度、客户变更、成本超支与取消条款影响。\n\n资产负债表显示现金及现金等价物为 1,145.6 万美元，长期债务净额为 3.9915 亿美元，另有 531.8 万美元长期债务流动部分。前九个月经营活动使用现金 7,060.5 万美元，资本开支 4,260.5 万美元；合同资产增加 9,217.1 万美元。公司同期通过 IPO 获得净现金 6.356 亿美元，并完成大额偿债和收购，因此期末现金不能脱离融资与收购交易单独解释。\n\n后续应跟踪内生收入增速、合同资产转为开票和现金的速度、并购整合成本、债务利息、调整后与 GAAP 利润差异，以及 2026 年 6.60 亿至 6.70 亿美元收入指引的执行情况。\n\n## Crypto：捷克央行完成首笔 DLT 债券试验，但这是许可制市场基础设施测试\n\n捷克国家银行（CNB）宣布首次以代币化形式发行克朗计价债券，并在布拉格证券交易所中央证券存管机构运营的 DLT 基础设施上测试转让、买卖、付息和以 DLT 债券作抵押的 repo 交易。境内一家商业银行作为交易对手，结算接近即时完成。\n\n试验规模只有数万捷克克朗，交易发生在 10 月和 11 月。它验证的是从合同和规则调整、交易执行、结算、技术到组合管理的端到端流程，不是商业规模上线，也没有证明在高并发、跨境、压力环境和多参与方条件下已经成熟。\n\n这套网络只允许获批金融机构接入，交易记录仅对相关方可见，结算设计强调以中央银行货币为核心，而不是用 stablecoin。它与 permissionless blockchain 不同：没有开放挖矿或匿名进入，治理、身份、法律责任和结算资产都在受监管框架内。\n\nDLT 的潜在价值是共享同步账本、减少多方对账、把规则写入证券生命周期并支持 24/7 处理；但真正采用仍取决于法律终局性、与传统 CSD 和支付系统互操作、流动性、隐私权限、网络韧性、错误回滚和运营成本。技术上“跑通”不等于经济上更便宜，也不等于 Crypto 资产自动获得央行背书。\n\n后续验证重点包括：是否扩大交易规模和参与者、央行货币的实际结算形式、与现有证券登记的法律关系、repo 抵押品折扣和违约处置，以及试验是否进入常规货币政策或外汇储备操作。"
+    },
+    {
+      "id": "lesson-2026-11-13-ida21-financing-toolkit",
+      "kind": "lesson",
+      "title": "今日金融英语：开发银行怎样用四类资金工具扩大融资能力？",
+      "category": "金融市场英语",
+      "date": "2026-11-13",
+      "summary": "用世界银行 6 分 54 秒英文视频总览 grant、concessional partner loan、portfolio guarantee platform 与 hybrid capital，并练习 contribution modality、leverage、capital position、risk-bearing capacity 和 financing capacity。",
+      "tags": [
+        "金融英语",
+        "世界银行",
+        "IDA21",
+        "开发融资",
+        "Grant",
+        "优惠贷款",
+        "组合担保",
+        "混合资本",
+        "杠杆"
+      ],
+      "status": "curated",
+      "ownerViewpoint": false,
+      "sourceVerified": true,
+      "videoUrl": "https://www.worldbank.org/en/news/feature/2026/09/16/expanding-ida-s-financing-toolkit",
+      "duration": "视频 6 分 54 秒；建议练习 28 分钟",
+      "sources": [
+        {
+          "title": "World Bank：Strengthening IDA21 — More Tools, Greater Impact（Video Series: Expanding IDA’s Financing Toolkit，16 September 2026）",
+          "url": "https://www.worldbank.org/en/news/feature/2026/09/16/expanding-ida-s-financing-toolkit"
+        }
+      ],
+      "body": "## 已核验材料\n\n世界银行专题页 “Video Series: Expanding IDA’s Financing Toolkit” 的第一集题为 “Strengthening IDA21: More Tools, Greater Impact”，时长元数据为 PT6M54S，即 6 分 54 秒。官方简介说明，本集总览 IDA21 除传统 grants 以外的三项工具：Concessional Partner Loans、Portfolio Guarantee Platform 和 Hybrid Capital。\n\n官方章节为：00:00–00:38 引言；00:38–01:35 什么是 concessional finance；01:36–05:34 IDA 的融资工具；05:35–06:30 这些工具怎样产生结果；06:31–06:53 结论。页面不提供完整逐字稿，下面的英文句子均为学习用改写，不冒充讲者原话。\n\n## 先懂知识，再听英语\n\nIDA 是世界银行面向低收入国家的开发融资机构。传统 grant 不要求受援方偿还，因此对债务承受能力弱的国家很重要；但捐助国的财政预算有限，单靠 grant 很难无限扩大资源池。\n\nConcessional Partner Loan 是伙伴以低于可比市场融资的优惠条款向 IDA 提供长期贷款。它需要偿还，但较低利率、较长期限或宽限期能够形成 concessionality。名义本金大不等于赠款价值大，仍要比较 present value 和 grant element。\n\nPortfolio Guarantee Platform 不是立即把全部资金交给 IDA，而是由伙伴为一组融资风险提供担保。若担保能降低资本占用或风险权重，IDA 可能用有限承诺支持更多贷款；但 leverage 取决于损失概率、担保范围、资本规则和真实的 risk-bearing capacity，不能机械套用固定倍数。\n\nHybrid Capital 同时带有债务和权益特征，通常期限很长或永久，并能增强机构的 capital position。它可能扩大融资能力，但出资方承担的久期、损失吸收和流动性风险也更高。\n\n四类工具不是简单的优劣排序。grant 提供最高优惠性；优惠贷款兼顾可回收本金与低成本融资；担保以风险承诺换取杠杆；混合资本增强资本基础。合适组合取决于伙伴预算、风险偏好、会计处理和 IDA 的资本约束。\n\n## 分段精听\n\n- 00:00–00:37：听清 development needs、resources are stretched 和 make every contribution go further。\n- 00:38–01:35：区分 concessional finance 与 market-rate finance。\n- 01:36–05:34：为四种工具分别记录资金是否立即交付、是否偿还、谁承担风险、怎样影响融资能力。\n- 05:35–06:30：写出从 partner contribution 到 development impact 的传导链。\n- 06:31–06:53：用一句英文概括“更多工具”为什么不等于“免费资金”。\n\n## 关键词\n\n- contribution modality — 出资方式\n- concessional finance — 优惠融资\n- grant — 赠款\n- concessional partner loan — 优惠伙伴贷款\n- grant element — 赠款要素\n- present value — 现值\n- portfolio guarantee — 组合担保\n- contingent liability — 或有负债\n- leverage — 杠杆放大\n- risk-bearing capacity — 风险承受能力\n- hybrid capital — 混合资本\n- capital position — 资本状况\n- loss absorption — 损失吸收\n- financing capacity — 融资能力\n- development impact — 发展成效\n\n## 地道表达\n\n以下均为学习用改写句。\n\n> Grants remain the primary contribution modality for highly concessional support.\n\n> A concessional loan can provide more funding while preserving favorable terms.\n\n> A portfolio guarantee converts a contingent commitment into additional risk-bearing capacity.\n\n> Hybrid capital strengthens the balance sheet because it can absorb losses over a long horizon.\n\n> More instruments create flexibility, but they do not make risk disappear.\n\n## 输出练习\n\n用 120 秒英文回答：\n\n“How do grants, concessional loans, portfolio guarantees, and hybrid capital expand IDA’s financing capacity in different ways?”\n\n至少使用 contribution modality、grant element、portfolio guarantee、contingent liability、leverage、hybrid capital、loss absorption、financing capacity 八个表达。对每种工具说明资金是否偿还、谁承担风险、怎样影响资本或融资能力，并指出一个会改变结论的条款。本条不记录或声称你已经完成学习。"
+    },
     {
       "id": "briefing-2026-11-12",
       "kind": "briefing",
