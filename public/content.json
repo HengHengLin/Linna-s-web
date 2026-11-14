@@ -1,7 +1,84 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-13T09:00:00+08:00",
+  "updatedAt": "2026-11-14T09:01:00+08:00",
   "entries": [
+    {
+      "id": "briefing-2026-11-14",
+      "kind": "briefing",
+      "title": "今日事实简报：美国 PPI 结构、PDS Biotech 临床融资与稳定币透明度",
+      "category": "每日财经简报",
+      "date": "2026-11-14",
+      "summary": "基于美国劳工统计局、PDS Biotech 向 SEC 提交的季度材料及金融稳定理事会主席演讲，核对美国生产者价格的月度与同比结构、临床期肿瘤免疫公司的研发和融资条件，以及稳定币系统性风险为何不能只看市值。",
+      "tags": [
+        "宏观",
+        "美国PPI",
+        "通胀",
+        "供应链",
+        "PDS Biotech",
+        "生物医疗",
+        "肿瘤免疫",
+        "临床试验",
+        "PIPE",
+        "Crypto",
+        "Stablecoin",
+        "储备",
+        "赎回",
+        "金融稳定"
+      ],
+      "status": "curated",
+      "ownerViewpoint": false,
+      "sourceVerified": true,
+      "updatedAt": "2026-11-14T09:01:00+08:00",
+      "sources": [
+        {
+          "title": "U.S. Bureau of Labor Statistics：Producer Price Indexes — October 2026（released 13 November 2026）",
+          "url": "https://www.bls.gov/news.release/archives/ppi_11132026.htm"
+        },
+        {
+          "title": "PDS Biotechnology / SEC Exhibit 99.1：Third Quarter 2026 Financial Results（13 November 2026）",
+          "url": "https://www.sec.gov/Archives/edgar/data/1472091/000114036126043542/ef20085528_ex99-1.htm"
+        },
+        {
+          "title": "Financial Stability Board：Financial stability in a rapidly changing world（Andrew Bailey，13 November 2026）",
+          "url": "https://www.fsb.org/2026/11/financial-stability-in-a-rapidly-changing-world/"
+        }
+      ],
+      "body": "## 更新时间\n\n北京时间 2026 年 11 月 14 日 09:01。以下仅汇总已发布资料，不包含实时价格、买卖建议或 Linna 的个人观点。环比与同比、公司披露与临床证据、监管演讲与正式规则必须分别理解。\n\n## 宏观：美国 10 月 PPI 环比放缓，但同比和基础价格压力仍高\n\n美国劳工统计局 11 月 13 日公布，10 月最终需求 PPI 经季节调整后环比上涨 0.3%，低于 9 月的 1.4%和 8 月的 0.4%。未经季节调整的最终需求 PPI 同比上涨 6.5%，是 2022 年 11 月以来最大同比涨幅。\n\n单月内部，最终需求商品价格上涨 0.5%，服务上涨 0.2%。食品上涨 1.3%，能源下降 0.1%；剔除食品、能源和贸易服务后的指标环比上涨 0.5%，与 9 月相同，同比上涨 4.9%。因此，“总 PPI 环比放缓”不等于基础价格压力已经消失。\n\n商品端超过六成的月度涨幅来自剔除食品与能源后的商品，基础有机化学品上涨 3.9%；柴油下降 7.9%。服务端四分之三的涨幅来自运输与仓储服务上涨 2.0%，其中卡车货运上涨 3.9%；贸易服务利润率下降 0.2%。分项表现说明价格压力并非全面同向，运输、化工与食品的驱动和能源回落同时存在。\n\nPPI 衡量生产者出售商品和服务所获得的价格，不是 CPI，也不会按固定比例传导给消费者。传导取决于企业定价权、库存、合同周期、生产率、进口成本和利润率吸收能力。同比 6.5%还包含过去 12 个月的基数与累计变化，不能只用 10 月环比解释。\n\n后续验证重点包括：核心 PPI 是否连续回落、卡车运价和化工价格能否持续、企业利润率是否吸收上游成本，以及未来 CPI、PCE 与工资数据是否出现同方向变化。\n\n## 股票：PDS Biotech 把 PDS0301 设为主项目，但临床进度、研发下降与融资条件要分开看\n\nPDS Biotechnology（Nasdaq: PDSB）11 月 13 日披露，公司把肿瘤靶向 IL-12 免疫细胞因子 PDS0301 作为优先开发项目。该候选药仍属于 investigational therapy，正在美国国家癌症研究所相关临床试验中评估，包括晚期肝相关肿瘤和转移性结直肠癌方向；它尚不是获批产品。\n\n公司称已完成一项最高 2,230 万美元 PIPE 融资的首次交割，但后续 milestone closing 取决于公司向 FDA 提交与 NantWorks 合作设计的 PDS0301 注册性三期试验方案，并满足或豁免其他交割条件。这里的“最高金额”不能全部视为已到账现金。\n\n融资同时附带一项期权协议：NantWorks 获得一年独家权利，就 PDS0101 项目的独家许可进行谈判。谈判权不是已经签署的许可，也不代表交易必然完成；未来经济条款、控制权和里程碑付款仍需正式协议确认。\n\n截至 9 月 30 日，公司现金及现金等价物为 1,520 万美元。三季度净亏损 760 万美元，上年同期为 900 万美元；研发费用从 460 万美元降至 210 万美元，主要因为临床试验、人员和制造成本下降。亏损收窄不能自动解释为研发效率提升，也可能反映项目收缩或阶段性支出减少。\n\nPDS0301 的“肿瘤靶向”设计目标是把 IL-12 更优先地送入肿瘤微环境，以增强抗肿瘤免疫并限制全身暴露；这是机制与开发目标，不是临床疗效已经证实。后续应核验完整 Phase 2 数据、样本量和对照设计、安全性、FDA 对三期方案的反馈、PIPE 实际交割金额、现金跑道，以及 PDS0101 许可谈判是否形成约束性协议。\n\n## Crypto：稳定币是否构成系统性风险，不能只看市值\n\nFSB 主席 Andrew Bailey 11 月 13 日在 IOSCO 会议演讲中指出，稳定币安排的及时信息可能缺失，包括储备构成、赎回机制、托管、治理和运营依赖。演讲代表其作为 FSB 主席的观点，不等同于一项新法规或正式监管决定。\n\n判断系统性风险不能只问 stablecoin market capitalisation 有多大。更关键的是：信心丧失时是否会触发快速赎回；储备能否在不进行 forced asset sales 的情况下变现；支付或交易功能是否难以替代；风险是否会通过银行、基金、交易平台、托管和抵押品关系传导。\n\n稳定币赎回具有即时激励。如果持有人担心储备质量或兑付能力，先赎回者可能更有利，导致流动性需求迅速集中。即便某种稳定币规模尚未达到传统系统重要机构水平，只要它连接多个市场、承担关键结算功能或集中依赖少数托管和技术供应商，也可能在失败时产生放大效应。\n\n“更多透明度”也不能只等于发布大量数据。FSB 演讲强调信息需要及时、可比，并能跨法人和司法辖区使用。储备报告若缺少资产期限、估值、托管权属、赎回顺序和压力情景，仍不足以判断真实流动性。\n\n反面解释是，大规模活动在风险暴露透明、流动性充足且压力安排可信时未必不可管理；小规模活动也未必必然系统重要。后续验证应关注储备的资产与期限结构、独立鉴证、赎回 SLA、集中度、跨平台敞口、运营中断恢复和压力赎回测试，而不是仅用市值排序代替风险分析。"
+    },
+    {
+      "id": "lesson-2026-11-14-bond-price-yield",
+      "kind": "lesson",
+      "title": "今日金融英语：为什么债券价格上涨，收益率反而下降？",
+      "category": "金融市场英语",
+      "date": "2026-11-14",
+      "summary": "用 IMF 3 分 17 秒英文视频理解 principal、coupon、face value、yield to maturity、secondary market、term premium 与 price-yield relationship，并用数字例子练习债券定价表达。",
+      "tags": [
+        "金融英语",
+        "IMF",
+        "债券",
+        "收益率",
+        "票息",
+        "到期收益率",
+        "二级市场",
+        "收益率曲线"
+      ],
+      "status": "curated",
+      "ownerViewpoint": false,
+      "sourceVerified": true,
+      "videoUrl": "https://www.imf.org/en/videos/view/6370251622112",
+      "duration": "视频 3 分 17 秒；建议练习 20 分钟",
+      "sources": [
+        {
+          "title": "IMF：What are Bonds?（19 March 2025，video 03:17）",
+          "url": "https://www.imf.org/en/videos/view/6370251622112"
+        },
+        {
+          "title": "IMF Finance & Development：Bonds and Yields（3 March 2025）",
+          "url": "https://www.imf.org/en/publications/fandd/issues/2025/03/back-to-basics-bonds-and-yields-s-ali-abbas"
+        }
+      ],
+      "body": "## 已核验材料\n\nIMF “Back to Basics” 英文视频 “What are Bonds?” 发布于 2025 年 3 月 19 日，官方页面标注时长 03:17。视频解释债券为什么在金融体系中重要；配套的 IMF Finance & Development 文章进一步说明本金、票息、价格、到期收益率和收益率曲线。\n\n官方视频页没有提供完整逐字稿或章节时间码，因此本课不编造讲者原句或精确片段时间。下面的英文句子均为学习用改写。\n\n## 先懂知识，再听英语\n\nBond 是发行人承诺在未来偿还 principal，并按合同支付 coupon 的债务证券。Face value 是到期偿还的名义本金；coupon rate 决定按面值计算的利息，但投资者真正获得的回报还取决于买入价格。\n\n假设一张一年期债券到期支付 105 美元。如果市场价格是 100 美元，持有到期的简单回报为 5%；若市场只愿支付 98 美元，回报约为 105 ÷ 98 − 1 = 7.1%。同样的未来现金流，以更低价格买入，会产生更高收益率。\n\n这就是 price-yield relationship：债券价格与收益率方向相反。市场利率上升时，旧债券固定现金流相对不够吸引，价格需要下降，收益率才与新市场条件接近；市场利率下降时，旧债券现金流更有价值，价格会上升、收益率下降。\n\nCoupon rate 和 yield to maturity 不是同一概念。票息率在普通固定利率债券存续期内通常不变；到期收益率会随市场价格、剩余期限和现金流变化。若债券在二级市场以 premium 或 discount 交易，收益率就可能高于或低于票息率。\n\nYield curve 把不同期限债券的市场收益率画在一起。向上倾斜可能包含未来利率、通胀和 term premium；倒挂可能反映紧缩政策及未来增长、通胀走弱预期。但收益率曲线不是确定性预测，还受供需、央行资产负债表、避险需求和期限溢价变化影响。\n\n## 三遍听法\n\n第一遍只记录谁借钱、投资者得到哪两类现金流。\n\n第二遍区分 face value、coupon rate、market price 和 yield，写出哪个是合同约定、哪个每天变化。\n\n第三遍用自己的英文解释：为什么一张固定支付 105 美元的债券，在价格从 100 美元跌到 98 美元时，收益率会上升。\n\n## 关键词\n\n- bond issuer — 债券发行人\n- principal — 本金\n- face value / par value — 面值\n- coupon payment — 票息支付\n- coupon rate — 票面利率\n- maturity — 到期期限\n- market price — 市场价格\n- yield — 收益率\n- yield to maturity — 到期收益率\n- primary market — 一级市场\n- secondary market — 二级市场\n- trade at par — 按面值交易\n- trade at a premium — 溢价交易\n- trade at a discount — 折价交易\n- term premium — 期限溢价\n- yield curve — 收益率曲线\n\n## 地道表达\n\n以下均为学习用改写句。\n\n> A bond is a promise to repay principal and make contractual interest payments.\n\n> The coupon is fixed, but the market yield moves with the bond’s price.\n\n> Bond prices and yields move in opposite directions.\n\n> The bond trades below par because investors demand a higher return.\n\n> An inverted yield curve can signal weaker growth expectations, but it is not a guarantee of recession.\n\n## 输出练习\n\n用 90 秒英文回答：\n\n“Why does a bond’s yield rise when its price falls?”\n\n至少使用 principal、coupon payment、face value、market price、yield to maturity、trade at a discount、secondary market 七个表达；用“到期支付 105 美元、价格从 100 降到 98”的数字例子解释，并指出 coupon rate 与 market yield 的区别。本条不记录或声称你已经完成学习。"
+    },
     {
       "id": "briefing-2026-11-13",
       "kind": "briefing",
