@@ -1,7 +1,87 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-14T09:01:00+08:00",
+  "updatedAt": "2026-11-15T09:00:00+08:00",
   "entries": [
+    {
+      "id": "briefing-2026-11-15",
+      "kind": "briefing",
+      "title": "今日事实简报：欧元区增长与就业、XTI 无人机转型及 Crypto 资产分类",
+      "category": "每日财经简报",
+      "date": "2026-11-15",
+      "summary": "基于 Eurostat、XTI Aerospace 向 SEC 提交的三季度材料及 SEC 公司融资部更新的 Crypto FAQ，核对欧元区增长与就业背离、无人机业务收入与持续经营风险，以及功能性、去中心化、质押凭证和中心方控制的法律分析边界。",
+      "tags": [
+        "宏观",
+        "欧元区GDP",
+        "就业",
+        "Eurostat",
+        "XTI Aerospace",
+        "无人机",
+        "流动性",
+        "持续经营",
+        "Crypto",
+        "Staking",
+        "去中心化",
+        "SEC"
+      ],
+      "status": "curated",
+      "ownerViewpoint": false,
+      "sourceVerified": true,
+      "updatedAt": "2026-11-15T09:00:00+08:00",
+      "sources": [
+        {
+          "title": "Eurostat：GDP up by 0.4% and employment stable in the euro area（13 November 2026）",
+          "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-13112026-ap"
+        },
+        {
+          "title": "XTI Aerospace / SEC Exhibit 99.1：Third Quarter 2026 Financial Results（12 November 2026）",
+          "url": "https://www.sec.gov/Archives/edgar/data/1529113/000121390026119203/ea031213301ex99-1.htm"
+        },
+        {
+          "title": "XTI Aerospace / SEC Form 10-Q for quarter ended 30 September 2026（filed 12 November 2026）",
+          "url": "https://www.sec.gov/Archives/edgar/data/1529113/000162828026073407/xtia-20260930.htm"
+        },
+        {
+          "title": "SEC Division of Corporation Finance：Crypto Assets FAQs（updated 2 November 2026）",
+          "url": "https://www.sec.gov/about/divisions-offices/division-corporation-finance/faqs-crypto-assets"
+        }
+      ],
+      "body": "## 更新时间\n\n北京时间 2026 年 11 月 15 日 09:00。以下仅汇总已发布的官方资料，不包含实时行情、买卖建议或 Linna 的个人观点。Flash estimate、公司自定义调整指标与 SEC 工作人员指引属于不同证据层级，不能混为确定结论。\n\n## 宏观：欧元区三季度 GDP 继续增长，但就业人数环比没有增加\n\nEurostat 11 月 13 日发布的约 45 天快速估计显示，2026 年第三季度欧元区实际 GDP 环比增长 0.4%，欧盟增长 0.5%；第二季度分别增长 0.6%和 0.7%。与上年同期相比，欧元区增长 1.3%，欧盟增长 1.5%。\n\n同期就业人数在欧元区和欧盟均环比持平，同比均增长 0.4%。产出增长而就业人数不增，可能与工时、劳动生产率或行业结构有关，但这份快速估计只有就业人数总量，没有工时与行业分解，不能直接断言生产率已经改善。\n\nGDP 快速估计覆盖成员国数据约占欧元区和欧盟 GDP 的 97%；就业估计覆盖约 95%的欧元区就业和 92%的欧盟就业。Eurostat 明确说明数据可能在 12 月 7 日和次年 1 月 19 日修订。后续应把 GDP、就业人数、总工时、薪酬和行业增加值放在同一口径下观察。\n\n## 股票：XTI 的收入和调整后 EBITDA 改善，但底层毛利、现金与持续经营风险更关键\n\nXTI Aerospace 三季度持续经营收入为 3,531.4 万美元，主要来自无人机批发、直销和零售；公司称收入环比增长 8.8%，相对 2025 年三季度 pro forma 收入增长 46.1%。公司已停止 XTI 飞机业务，当前重点转向 Drone Nerds，因此历史航空器开发叙事不能直接套用到现有业务结构。\n\n季度毛利为 770 万美元，报告毛利率约 21.7%，但包含主要与关税补偿有关的一次性收益；剔除非经常项目后，公司披露的毛利率为 16.0%。调整后 EBITDA 为正 160 万美元，高于二季度的负 490 万美元。调整后指标不等于 GAAP 净利润，且一次性毛利、股票薪酬和权证负债公允价值变化会造成口径差异。\n\n截至 9 月末，公司不受限现金及现金等价物为 570 万美元，循环信贷借款 590 万美元，按 borrowing base 尚有 1,190 万美元可用额度。前九个月经营活动使用现金 1,900 万美元。10-Q 明确称未来一年很可能需要额外流动性，管理层认为对持续经营能力存在重大疑虑。\n\n收购相关卖方票据在 9 月发生未按期付款，随后于 11 月 11 日重组为约 470 万美元本金、8.5%利率、2028 年 9 月到期；贷款方于 11 月 12 日豁免相关信贷违约。重组与豁免降低短期加速到期压力，但不等于债务消失。\n\n后续应跟踪剔除一次性收益后的毛利率、库存周转、客户与供应商集中度、经营现金流、循环额度使用、每月还本付息及新的股权融资。收入增长与“流动性足以维持运营”是两个不同问题。\n\n## Crypto：SEC 工作人员把“功能性”“去中心化”和凭证权利拆开判断\n\nSEC 公司融资部的 Crypto FAQ 于 11 月 2 日更新。页面强调，这些答复代表工作人员观点，不是委员会规则或声明，没有法律效力，也不新增义务；它们可用于理解分析框架，但不能替代法规、判例或具体法律意见。\n\nFAQ 将 functional 与 decentralized 视为不同概念。功能性关注原生资产是否能按系统程序化用途被使用；去中心化关注是否仍有人、实体或协调群体掌握运营、经济或投票控制。系统“已经可用”并不自动证明没有中心控制方。\n\n对 broad-based governance，工作人员认为，参与者若彼此不关联，也没有另行协调行动的安排，通常不会仅因参与治理就被视为一个中心方；最终仍取决于事实与情境。单一方若能控制准入、修改投票流程、决定谁可验证交易、单方面改代码或撤销访问，则更接近“监督参与”。\n\nFAQ 还区分 Staking Receipt Token 与产生收益的独立金融工具：在其描述的条件下，凭证只是证明底层数字商品所有权，不应改变底层权利，也不应允许发行人转让、出借、质押或再质押托管资产。若产品额外承诺固定回报、信用增强或资产再利用，其经济实质可能不同。\n\n后续核验不能只数节点或治理地址，还应检查管理员密钥、升级权限、验证者集中度、委托关系、托管资产隔离、破产权利、收益来源与营销承诺。技术标签不是法律结论。"
+    },
+    {
+      "id": "lesson-2026-11-15-commodities-futures",
+      "kind": "lesson",
+      "title": "今日金融英语：商品为什么标准化，期货曲线又在表达什么？",
+      "category": "金融市场英语",
+      "date": "2026-11-15",
+      "summary": "用 IMF 3 分 29 秒英文视频理解 commodity、fungible、spot market、futures contract、hedge、basis、contango、backwardation、inventory 与 convenience yield，并练习区分现货价格、期货价格和投资回报。",
+      "tags": [
+        "金融英语",
+        "IMF",
+        "商品",
+        "期货",
+        "套期保值",
+        "Contango",
+        "Backwardation",
+        "库存",
+        "基差"
+      ],
+      "status": "curated",
+      "ownerViewpoint": false,
+      "sourceVerified": true,
+      "videoUrl": "https://www.imf.org/en/videos/view/6405047863112?page=1&sort=mostrecent",
+      "duration": "视频 3 分 29 秒；建议练习 22 分钟",
+      "sources": [
+        {
+          "title": "IMF：What are Commodities?（14 September 2026，video 03:29）",
+          "url": "https://www.imf.org/en/videos/view/6405047863112?page=1&sort=mostrecent"
+        },
+        {
+          "title": "IMF Finance & Development：What Are Commodities?（3 June 2026）",
+          "url": "https://www.imf.org/en/publications/fandd/issues/2026/06/back-to-basics-what-are-commodities-jean-marc-natal"
+        }
+      ],
+      "body": "## 已核验材料\n\nIMF 英文视频 “What are Commodities?” 发布于 2026 年 9 月 14 日，官方页面标注时长 03:29；配套 Finance & Development 文章发布于 6 月 3 日。视频从咖啡、能源到智能手机所需矿产解释商品如何进入全球经济，文章补充了标准化、贸易、期货与地缘政治背景。\n\n官方视频页没有完整逐字稿或章节时间码，因此本课不伪造讲者原句和精确片段。下面的英文句子均为学习用改写。\n\n## 先懂知识，再听英语\n\nA commodity 通常是标准化、同等级之间可互换的原材料或初级产品。Fungible 表示一个合格单位可被另一个同等级单位替代。标准化让跨地区交易、集中报价和衍生品合约成为可能，但实际交割仍受品级、地点、运输和仓储限制。\n\nSpot market 处理近期交付；a futures contract 约定在未来日期按合约规则买卖。生产者可卖出期货以对冲价格下跌，使用者可买入期货以对冲成本上升。Hedging 的目标是降低某种价格风险，不保证整体盈利，因为产量、品级、地点和合约月份可能不完全匹配。\n\nBasis 是现货价与相关期货价之间的差。若远期期货高于近端或现货，市场常被描述为 contango；若近端价格高于远期，常称 backwardation。曲线可能反映库存、融资、仓储、保险、运输、即时稀缺和 convenience yield，但不是对未来现货价格的无误预测。\n\n买入商品期货的总回报也不等于现货涨跌。滚动合约时，投资者会卖出临近到期合约、买入更远月份；两个价格之间的差会形成 roll yield。保证金现金收益和交易成本也会影响结果。\n\n## 三遍听法\n\n第一遍只记录视频举出的商品类别，以及商品为什么能跨国交易。\n\n第二遍听出商品与 manufactured products 的区别，并记录供给冲击如何影响企业、家庭和国家。\n\n第三遍结合配套文章，用自己的英文说明：为什么标准化支持期货市场，以及期货价格为什么不能被直接当成确定预测。\n\n## 关键词\n\n- commodity — 商品、初级产品\n- raw material — 原材料\n- fungible — 可互换的\n- standardized grade — 标准化等级\n- spot market — 现货市场\n- futures contract — 期货合约\n- delivery month — 交割月\n- hedge / hedging — 对冲、套期保值\n- basis — 基差\n- inventory — 库存\n- storage cost — 仓储成本\n- convenience yield — 持有现货的便利收益\n- contango — 远期高于近端的曲线状态\n- backwardation — 近端高于远期的曲线状态\n- roll yield — 展期收益\n- supply shock — 供给冲击\n- price discovery — 价格发现\n\n## 地道表达\n\n以下均为学习用改写句。\n\n> Commodities are standardized enough to be traded across borders and venues.\n\n> A producer can hedge downside price risk by selling futures.\n\n> The futures curve reflects carrying costs, inventories, and the value of immediate availability.\n\n> Contango does not guarantee that the future spot price will rise.\n\n> A futures investor’s return can differ sharply from the change in the spot price.\n\n## 输出练习\n\n用 90 秒英文回答：\n\n“How do commodity futures help manage risk, and why are they not perfect forecasts?”\n\n至少使用 commodity、fungible、spot market、futures contract、hedge、basis、inventory、contango、backwardation 和 roll yield；分别给出一个生产者与一个使用者的对冲例子，并说明基差风险。本条不记录或声称你已经完成学习。"
+    },
     {
       "id": "briefing-2026-11-14",
       "kind": "briefing",
@@ -78,6 +158,67 @@
         }
       ],
       "body": "## 已核验材料\n\nIMF “Back to Basics” 英文视频 “What are Bonds?” 发布于 2025 年 3 月 19 日，官方页面标注时长 03:17。视频解释债券为什么在金融体系中重要；配套的 IMF Finance & Development 文章进一步说明本金、票息、价格、到期收益率和收益率曲线。\n\n官方视频页没有提供完整逐字稿或章节时间码，因此本课不编造讲者原句或精确片段时间。下面的英文句子均为学习用改写。\n\n## 先懂知识，再听英语\n\nBond 是发行人承诺在未来偿还 principal，并按合同支付 coupon 的债务证券。Face value 是到期偿还的名义本金；coupon rate 决定按面值计算的利息，但投资者真正获得的回报还取决于买入价格。\n\n假设一张一年期债券到期支付 105 美元。如果市场价格是 100 美元，持有到期的简单回报为 5%；若市场只愿支付 98 美元，回报约为 105 ÷ 98 − 1 = 7.1%。同样的未来现金流，以更低价格买入，会产生更高收益率。\n\n这就是 price-yield relationship：债券价格与收益率方向相反。市场利率上升时，旧债券固定现金流相对不够吸引，价格需要下降，收益率才与新市场条件接近；市场利率下降时，旧债券现金流更有价值，价格会上升、收益率下降。\n\nCoupon rate 和 yield to maturity 不是同一概念。票息率在普通固定利率债券存续期内通常不变；到期收益率会随市场价格、剩余期限和现金流变化。若债券在二级市场以 premium 或 discount 交易，收益率就可能高于或低于票息率。\n\nYield curve 把不同期限债券的市场收益率画在一起。向上倾斜可能包含未来利率、通胀和 term premium；倒挂可能反映紧缩政策及未来增长、通胀走弱预期。但收益率曲线不是确定性预测，还受供需、央行资产负债表、避险需求和期限溢价变化影响。\n\n## 三遍听法\n\n第一遍只记录谁借钱、投资者得到哪两类现金流。\n\n第二遍区分 face value、coupon rate、market price 和 yield，写出哪个是合同约定、哪个每天变化。\n\n第三遍用自己的英文解释：为什么一张固定支付 105 美元的债券，在价格从 100 美元跌到 98 美元时，收益率会上升。\n\n## 关键词\n\n- bond issuer — 债券发行人\n- principal — 本金\n- face value / par value — 面值\n- coupon payment — 票息支付\n- coupon rate — 票面利率\n- maturity — 到期期限\n- market price — 市场价格\n- yield — 收益率\n- yield to maturity — 到期收益率\n- primary market — 一级市场\n- secondary market — 二级市场\n- trade at par — 按面值交易\n- trade at a premium — 溢价交易\n- trade at a discount — 折价交易\n- term premium — 期限溢价\n- yield curve — 收益率曲线\n\n## 地道表达\n\n以下均为学习用改写句。\n\n> A bond is a promise to repay principal and make contractual interest payments.\n\n> The coupon is fixed, but the market yield moves with the bond’s price.\n\n> Bond prices and yields move in opposite directions.\n\n> The bond trades below par because investors demand a higher return.\n\n> An inverted yield curve can signal weaker growth expectations, but it is not a guarantee of recession.\n\n## 输出练习\n\n用 90 秒英文回答：\n\n“Why does a bond’s yield rise when its price falls?”\n\n至少使用 principal、coupon payment、face value、market price、yield to maturity、trade at a discount、secondary market 七个表达；用“到期支付 105 美元、价格从 100 降到 98”的数字例子解释，并指出 coupon rate 与 market yield 的区别。本条不记录或声称你已经完成学习。"
+    },
+    {
+      "id": "topic-2026-11-14-frontier-research",
+      "kind": "topic",
+      "title": "研究选题候选：临床试验数字孪生、卫星直连、收盘竞价与代币化基金",
+      "category": "研究选题",
+      "date": "2026-11-14",
+      "summary": "按固定锚点补充 2026 年 11 月 14 日唯一到期批次，提出四项不重复候选：AI 数字孪生能否减少对照组、卫星直连手机的频谱与单位经济、收盘竞价放量的价格发现边界，以及代币化货币市场基金的法律权利与流动性风险。",
+      "tags": [
+        "候选选题",
+        "AI",
+        "生物医疗",
+        "临床试验",
+        "数字孪生",
+        "航空航天",
+        "卫星直连",
+        "威科夫",
+        "量价",
+        "收盘竞价",
+        "RWA",
+        "代币化基金",
+        "DeFi"
+      ],
+      "status": "curated",
+      "ownerViewpoint": false,
+      "sourceVerified": true,
+      "sources": [
+        {
+          "title": "FDA：Use of Bayesian Methodology in Clinical Trials — draft guidance announcement（12 January 2026）",
+          "url": "https://www.fda.gov/news-events/press-announcements/fda-issues-guidance-modernizing-statistical-methods-clinical-trials"
+        },
+        {
+          "title": "FDA：Digital Health and Artificial Intelligence Glossary — Digital Twin",
+          "url": "https://www.fda.gov/science-research/artificial-intelligence-and-medical-products/fda-digital-health-and-artificial-intelligence-glossary-educational-resource"
+        },
+        {
+          "title": "FCC：Direct-to-Device Connectivity actions（23 April 2026）",
+          "url": "https://docs.fcc.gov/public/attachments/DOC-420983A1.pdf"
+        },
+        {
+          "title": "FCC Space Bureau Order DA 26-398（23 April 2026）",
+          "url": "https://docs.fcc.gov/public/attachments/DA-26-398A1.pdf"
+        },
+        {
+          "title": "SEC / NYSE American proposed rule change：closing-auction liquidity discussion（October 2026）",
+          "url": "https://www.sec.gov/files/rules/sro/nyseamer/2026/34-106743.pdf"
+        },
+        {
+          "title": "SEC：Market Activity Report Methodology",
+          "url": "https://www.sec.gov/featured-topics/market-structure-analytics/market-activity-report-methodology"
+        },
+        {
+          "title": "ECB：Tokenised money market funds — new technology, familiar risks?（April 2026）",
+          "url": "https://www.ecb.europa.eu/press/financial-stability-publications/macroprudential-bulletin/html/ecb.mpbu202604_04.en.html"
+        },
+        {
+          "title": "BIS：Project Agorá moves toward real-value testing（27 May 2026）",
+          "url": "https://www.bis.org/media-releases/20260527-project-agora-shows-how-tokenisation-can-improve-wholesale-cross-border-payments-work-will"
+        }
+      ],
+      "body": "## 日期与定位\n\n本期锚点为北京时间 2026 年 11 月 14 日，距固定锚点 2026 年 10 月 10 日正好 35 天。该期此前缺失，本次只补最近一期。以下四项均是待 Linna 选择和确认的研究候选，不是已完成研究、个人观点、批准文章或投资建议。\n\n## 候选一：AI 数字孪生减少临床试验对照组，是真实效率还是模型化偏差？\n\n### 为什么值得研究\n\nFDA 2026 年 Bayesian 临床试验方法草案允许把既往研究、真实世界证据和外部或非同期对照等先验信息纳入推断；FDA 的 AI 术语资料又把数字孪生定义为随实体数据动态更新、用于决策的信息构造，并指出它可用于 in silico clinical trials。\n\n这把 AI 从“找药”推进到“改变证据生成”。若数字孪生能在不牺牲因果识别和患者安全的前提下减少对照组，它可能降低招募成本、缩短周期，尤其适合罕见病；但模型偏差也可能被正式带入主要终点。\n\n### 核心问题与证据路径\n\n- 在哪些疾病、终点与试验阶段，数字孪生或外部对照能减少样本量，同时维持可接受的 I 型错误、偏差和监管可信度？\n- 预先定义 context of use、数据可交换性、历史治疗变化、缺失机制和模型锁定；不能在看见结果后调整先验。\n- 用已完成随机试验隐藏真实对照结果，仅凭基线数据生成孪生对照，再比较治疗效应、覆盖率和亚组误差。\n- 节省的招募月数与对照人数，是否大于数据授权、模型验证、审计、监管沟通和失败试验的期望成本？\n\n### 反方解释\n\n罕见病减少安慰剂暴露具有伦理价值，但可迁移性最弱的疾病可能正是样本最少的疾病。数字孪生也可能只改善方差而不能消除未观测混杂；监管接受一个用途，不代表模型可跨疾病复用。\n\n## 候选二：卫星直连普通手机的护城河，是卫星数量、频谱权利还是运营商分成？\n\n### 为什么值得研究\n\nFCC 2026 年 4 月称，过去 18 个月围绕至少 130 MHz 相关频谱的 direct-to-device 交易流超过 280 亿美元，并为 AST SpaceMobile 授权可部署 248 颗卫星的系统。FCC 同时重申特定移动卫星频段的排他使用权，并驳回若干重叠接入请求。\n\n### 核心问题与证据路径\n\n- 建立一位用户一分钟连接的单位经济：可用带宽、波束复用、利用率、卫星和发射摊销、地面网关、频谱成本、运营商分成与客户服务成本。\n- 区分 SOS/短信、窄带数据、语音和宽带；各自的链路预算、终端功耗、容量与愿付价格不同。\n- 把授权卫星数、已部署数、可用容量、覆盖时段和付费用户分开，不用“理论覆盖人口”替代可计费连接。\n- 对自有 MSS、与移动运营商共享 terrestrial spectrum、跨境漫游与区域排他权分别做现金流情景。\n\n### 反方解释\n\n排他频谱可能提高确定性，也可能抬高进入成本、降低竞争；巨额频谱交易流不等于最终收入。地面网络扩张、低轨容量约束、室内覆盖和终端电池消耗，都可能把 D2D 限制为高价值补充服务。\n\n## 候选三：收盘竞价放量是威科夫式“确认”，还是指数资金的机械集中？\n\n### 为什么值得研究\n\n一份提交 SEC 的 NYSE American 规则材料称，2026 年美国股票收盘竞价日均匹配略超 1,000 亿美元，占成交名义金额 9.4%；SEC 市场活动方法同时提醒，收盘竞价、特殊交易代码和跨市交易会影响成交与订单统计。\n\n日线上的“尾盘放量”可能同时包含信息交易、指数跟踪、基金净值基准、做市库存和机械再平衡。若不拆分竞价成交，威科夫量价标签可能把执行机制误认成需求冲击。\n\n### 核心问题与证据路径\n\n- 将全天成交分为连续交易、收盘前订单不平衡披露和 closing auction；分别计算成交量、价差、价格冲击与次日回撤。\n- 用指数调仓、月末/季末、期权到期、ETF 申赎与公司行动标记机械需求，再检验“放量突破”的 1/5/20 日条件收益。\n- 比较 auction imbalance、最终竞价价格与连续盘最后中间价，测试成交量是吸收流动性还是提供新信息。\n- 报告成本后结果、容量和样本外稳定性，禁止只凭日 K 线事后标注 accumulation 或 distribution。\n\n### 反方解释\n\n机械订单也可能携带可预测的短期流动性需求，收盘价仍可能是最深、最具代表性的价格。排除竞价成交可能丢失真正的信息聚合；结论也不能未经验证直接移植到 A 股收盘集合竞价。\n\n## 候选四：代币化货币市场基金是“链上现金”，还是带有赎回与法律时钟的基金份额？\n\n### 为什么值得研究\n\nECB 2026 年研究指出，tokenised money market fund 是以 DLT 发行和登记份额的货币市场基金，代币代表对底层基金的数字权利。技术可带来更快结算、接近 24/7 可用和可编程抵押品，但底层资产流动性、赎回安排与运营脆弱性并未消失。\n\nBIS Project Agorá 的原型说明，代币化不改变央行准备金或商业银行存款的法律性质；跨司法辖区实现 settlement finality 仍需技术、运营与合同安排。链上转移完成，不必然等于投资者已取得可执行底层权利或即时现金。\n\n### 核心问题与证据路径\n\n- 绘制投资者、代币、基金份额登记、转让代理、托管人、底层短债、银行存款、赎回代理与链上协议的权利链。\n- 区分 token transfer finality、基金登记最终性、资产交割最终性和法币到账；测试夜间、周末、链故障和赎回闸门。\n- 比较收益来源、费用、净值频率、赎回 SLA、抵押品折扣、持有人资格、破产隔离和跨链镜像。\n- 对 DeFi 建立压力情景：TMMF 作抵押品时，若底层基金延迟赎回、预言机冻结而链上清算 24/7 运行，谁承担流动性缺口？\n\n### 反方解释\n\n传统货币市场基金同样存在赎回与流动性风险，代币化可能通过更快登记、自动合规和可编程交割降低运营摩擦。风险未必来自 DLT，而可能来自把原有基金权利包装成“即时无风险现金”的营销与协议参数。\n\n## 选择与下一步\n\n优先选择能拿到同口径数据、可建立反事实并会改变真实决策的一项。先写决策问题、数据字典、失败条件与反方解释，再决定是否进入完整研究。任何真实研究文章仍需 Linna 确认，自动任务不会将候选升级为 approved，也不会冒充 Linna 的观点。"
     },
     {
       "id": "briefing-2026-11-13",
