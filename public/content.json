@@ -1,7 +1,118 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-15T09:00:00+08:00",
+  "updatedAt": "2026-11-16T09:00:00+08:00",
   "entries": [
+    {
+      "id": "briefing-2026-11-16",
+      "kind": "briefing",
+      "title": "今日事实简报：欧元区贸易逆差、Firefly 订单质量与稳定币跨境监测",
+      "category": "每日财经简报",
+      "date": "2026-11-16",
+      "summary": "基于 Eurostat、Firefly Aerospace 向 SEC 提交的三季度材料及 FSB 全球稳定币监测说明，核对欧元区能源进口推动的贸易逆差、航天公司收入与 backlog/RPO 的口径差异，以及跨境稳定币风险为何需要多司法辖区的数据字典。",
+      "tags": [
+        "宏观",
+        "欧元区贸易",
+        "能源",
+        "Eurostat",
+        "Firefly Aerospace",
+        "航空航天",
+        "Backlog",
+        "RPO",
+        "现金流",
+        "Crypto",
+        "Stablecoin",
+        "FSB",
+        "跨境监测"
+      ],
+      "status": "curated",
+      "ownerViewpoint": false,
+      "sourceVerified": true,
+      "updatedAt": "2026-11-16T09:00:00+08:00",
+      "sources": [
+        {
+          "title": "Eurostat：Euro area international trade in goods deficit €10.3 bn（13 November 2026）",
+          "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/6-13112026-bp"
+        },
+        {
+          "title": "Firefly Aerospace / SEC Exhibit 99.1：Third Quarter 2026 Financial Results（12 November 2026）",
+          "url": "https://www.sec.gov/Archives/edgar/data/1860160/000186016026000030/fly-ex99_1.htm"
+        },
+        {
+          "title": "Firefly Aerospace / SEC Form 10-Q for quarter ended 30 September 2026（filed 12 November 2026）",
+          "url": "https://www.sec.gov/Archives/edgar/data/1860160/000186016026000031/fly-20260930.htm"
+        },
+        {
+          "title": "Financial Stability Board：Global Stablecoin Arrangements — Cross-Border Vulnerabilities and Financial Stability Monitoring（12 October 2026）",
+          "url": "https://www.fsb.org/2026/10/global-stablecoin-arrangements-cross-border-vulnerabilities-and-financial-stability-monitoring/"
+        }
+      ],
+      "body": "## 更新时间\n\n北京时间 2026 年 11 月 16 日 09:00。以下仅汇总已发布的官方资料，不包含实时行情、买卖建议或 Linna 的个人观点。贸易数据、公司自定义订单口径、会计履约义务与监管监测框架属于不同证据层级。\n\n## 宏观：欧元区 9 月贸易转为逆差，能源与进口增速是主要结构信号\n\nEurostat 11 月 13 日发布的初步估计显示，2026 年 9 月欧元区对世界其他地区的货物贸易逆差为 103 亿欧元，2025 年 9 月为顺差 135 亿欧元。出口同比增长 6.0%至 2,727 亿欧元，进口增长 16.1%至 2,830 亿欧元，进口增速明显高于出口。\n\n能源贸易逆差从上年同期 207 亿欧元扩大至 330 亿欧元；机械和车辆顺差从 100 亿欧元收窄至 30 亿欧元。结构变化说明总差额恶化不仅是单一出口项下降，而与能源进口账单和资本品、车辆类别的相对变化有关。\n\n2026 年 1—9 月欧元区累计逆差 365 亿欧元，上年同期为顺差 1,022 亿欧元；同期出口增长 2.4%，进口增长 9.2%。季节调整后，9 月逆差 87 亿欧元，8 月为 78 亿欧元，表明未经季调的单月同比比较与月度动量不能混为一谈。\n\n贸易差额不是经济强弱的单一评分。进口增长可能来自能源价格、库存补充或内需，也可能压缩净出口；判断宏观含义还要结合进口价格、实际贸易量、汇率、工业产出和国内需求。后续应核验能源金额变化来自价格还是数量，以及机械和车辆顺差收窄是否持续。\n\n## 股票：Firefly 收入大增，但 backlog、RPO 与现金消耗不能用一个数字概括\n\nFirefly Aerospace 三季度收入为 1.10682 亿美元，同比增长 259%；毛利 2,529.7 万美元。季度营业费用 1.26875 亿美元，营业亏损 1.01578 亿美元，净亏损 9,419.8 万美元。高增长收入与较大亏损同时存在，不能只用收入增速判断经营质量。\n\n收入结构高度集中于 Spacecraft Solutions：该板块收入 1.05958 亿美元，Launch 收入 472.4 万美元。公司于 2025 年 10 月 31 日完成约 5.503 亿美元的 SciTec 收购，增长比较包含收购带来的业务结构变化，因此需要区分有机增长、并购贡献与里程碑确认。\n\n公司新闻稿称 backlog 达 17 亿美元，高于上一季度 15 亿美元；10-Q 披露的 remaining performance obligations（RPO）为 5.493 亿美元，其中预计 37.4%在未来 12 个月确认、22.6%在再后 12 个月确认、40.0%更晚确认。Backlog 可包含尚未形成会计履约义务的选项或安排，不能把 17 亿美元全部当作确定的近期收入。\n\n公司还披露与 AST SpaceMobile 签署总额超过 13 亿美元的知识产权、发动机和工程支持合同。合同金额、里程碑付款、收入确认与最终现金回收并非同一件事，后续要看履约条件、客户集中度和项目进度。\n\n截至 9 月末，现金及现金等价物为 4.09285 亿美元，短期投资 1.25447 亿美元；三季度经营活动使用现金约 6,970 万美元，前九个月使用 2.1381 亿美元。公司给出的全年收入指引为 4.40 亿至 4.50 亿美元。验证重点应放在 RPO 转化、毛利率、并购后成本、经营现金流和资本开支，而不是把合同上限等同于已实现销售。\n\n## Crypto：跨境稳定币监测需要统一指标与数据缺口说明\n\nFSB 10 月 12 日发布的监测说明指出，全球稳定币安排天然跨越司法辖区与金融部门，可能在一个或多个地区形成系统重要性。单一监管机构很难独立观察发行、储备、托管、交易、跨链和赎回的完整链条。\n\n监测不应只看 market capitalisation。储备侧需要资产类型、期限、托管权属、集中度、流动性和估值；负债侧需要持有人集中度、赎回条件、实际兑付速度与压力流出；交易侧需要链上转移、中心化平台、自托管钱包、跨链桥和支付用途的可比口径。\n\n地理归属尤其困难。发行实体、储备托管、用户地址、交易平台和最终受益人可能分布在不同司法辖区，链上地址也未必能准确映射现实身份。若数据只能覆盖部分平台或链，任何跨境流量估计都应同时披露覆盖率、重复计算、无法归属比例和方法变化。\n\n风险传导还取决于与银行、货币市场基金、交易平台、托管人、抵押品市场及支付系统的连接。相同市值的两种稳定币，若储备期限、赎回权、用户集中度和关键服务商依赖不同，压力情景可能完全不同。\n\n这份 FSB 文件是监测分析，不是对某一稳定币的安全认证，也不是新法规。后续应把“可获得数据”与“理想指标”分开，跟踪储备与赎回披露、跨司法辖区数据共享、链上与链下身份映射质量，以及监管口径能否避免漏算和重复计算。"
+    },
+    {
+      "id": "lesson-2026-11-16-private-capital-mobilization",
+      "kind": "lesson",
+      "title": "今日金融英语：如何用担保与证券化撬动私人资本？",
+      "category": "金融市场英语",
+      "date": "2026-11-16",
+      "summary": "用世界银行 1 分 23 秒英文视频理解 private capital mobilization、investment gap、institutional investor、guarantee、securitization、risk sharing、crowd in、additionality 与 leverage，并练习区分公共资金、被动跟随资本和真正新增投资。",
+      "tags": [
+        "金融英语",
+        "世界银行",
+        "私人资本",
+        "担保",
+        "证券化",
+        "风险分担",
+        "基础设施",
+        "Additionality"
+      ],
+      "status": "curated",
+      "ownerViewpoint": false,
+      "sourceVerified": true,
+      "videoUrl": "https://www.worldbank.org/en/news/video/2026/09/30/what-is-private-capital-mobilization",
+      "duration": "视频 1 分 23 秒；建议练习 20 分钟",
+      "sources": [
+        {
+          "title": "World Bank：What Is Private Capital Mobilization? | Since You Asked（30 September 2026，video 01:23）",
+          "url": "https://www.worldbank.org/en/news/video/2026/09/30/what-is-private-capital-mobilization"
+        },
+        {
+          "title": "World Bank Group：Mobilizes Record Private Capital for Developing Countries（17 September 2026）",
+          "url": "https://www.worldbank.org/en/news/press-release/2026/09/17/world-bank-group-mobilizes-record-private-capital-for-developing-countries-driving"
+        }
+      ],
+      "body": "## 已核验材料\n\n世界银行英文视频 “What Is Private Capital Mobilization?” 发布于 2026 年 9 月 30 日，官方页面标注时长 01:23，并列出三个章节：00:00 为什么发展议题需要私人部门、00:32 什么是 private capital mobilization、01:05 私人部门除融资外还能提供什么。页面还给出 YouTube 视频编号和发布日期，可交叉核验。\n\n视频说明，发展中经济体每年的投资缺口以万亿美元计，而机构投资者管理的资产约为 280 万亿美元。世界银行集团称其在 2026 财年 mobilized 1,120 亿美元私人资本，并发行超过 250 亿美元担保。数字是机构披露，不代表所有项目均已产生最终发展成效。\n\n## 先懂知识，再听英语\n\nPrivate capital mobilization（PCM）不是简单地把公共资金换成私人资金，而是借助多边开发银行、政府或开发机构的项目、信用增级与协调能力，使商业资本愿意进入原本因风险、期限、信息或项目准备不足而难以融资的领域。\n\nA guarantee 可以覆盖部分信用、政治或履约风险，降低私人投资者的损失暴露；securitization 可把一组现金流资产打包成证券，扩大可参与的投资者范围。两者都在重新分配风险，但不会消灭风险：担保可能形成或有负债，证券化仍依赖底层资产质量、结构透明度和服务机构能力。\n\nTo crowd in private capital 指公共或开发资金吸引额外私人资本进入。Additionality 是关键检验：如果没有这项介入，私人资金是否仍会以相同规模、价格和期限投资？若答案是会，那么“动员”可能只是重新贴标签；若公共支持反而挤出原本愿意承担风险的投资者，则是 crowding out。\n\nA leverage ratio 常用私人资本金额除以公共或开发资金承诺，但高倍数不自动等于高质量。应同时看风险实际由谁承担、项目是否可持续、当地货币融资、收费能力、社会与环境结果，以及私人资本是否真的新增。\n\n## 三段精听\n\n- 00:00–00:31：记下 investment gap 与 institutional investors 的规模对比，并判断讲者为什么先建立“资金存在但没有流到项目”的问题。\n- 00:32–01:04：听出 PCM 的定义以及 guarantees、securitization 如何把风险与资金连接起来。\n- 01:05–01:23：记录私人部门除 financing 之外可能提供的 expertise、technology、discipline 或 jobs，并区分投入与最终结果。\n\n## 关键词\n\n- private capital mobilization — 私人资本动员\n- investment gap — 投资缺口\n- institutional investor — 机构投资者\n- guarantee — 担保\n- credit enhancement — 信用增级\n- securitization — 证券化\n- risk sharing — 风险分担\n- crowd in — 吸引额外私人资本\n- crowd out — 挤出私人资本\n- additionality — 介入带来的新增性\n- leverage ratio — 撬动倍数\n- local-currency financing — 本币融资\n- bankable project — 具备融资可行性的项目\n- contingent liability — 或有负债\n\n## 地道表达\n\n以下均为学习用改写句，不冒充视频逐字引文。\n\n> Public finance can be used to crowd in private capital rather than fund the entire project.\n\n> A guarantee reallocates risk; it does not make the risk disappear.\n\n> The key question is whether the investment would have happened on the same terms without the intervention.\n\n> A high leverage ratio is useful only if the underlying project remains bankable and sustainable.\n\n> Mobilisation should be measured alongside additionality and development outcomes.\n\n## 输出练习\n\n用 90 秒英文回答：\n\n“How can a development bank mobilise private capital without socialising losses?”\n\n至少使用 investment gap、guarantee、securitization、risk sharing、crowd in、additionality、leverage ratio 和 contingent liability；给出一个基础设施例子，并提出一项反方检验。本条不记录或声称你已经完成学习。"
+    },
+    {
+      "id": "weekly-2026-11-16-stablecoins-anonymity",
+      "kind": "weekly",
+      "title": "本周 Crypto 英语精听：稳定币的可追踪性为何决定监管边界？",
+      "category": "Crypto 演讲精听",
+      "date": "2026-11-16",
+      "summary": "精听 BIS 36 分 41 秒英文演讲，理解 stablecoin、self-custody wallet、anonymity、geolocation、KYC、AML/CFT、tax evasion、capital controls、monetary sovereignty 与 cross-border coordination。",
+      "tags": [
+        "Crypto英语",
+        "BIS",
+        "Stablecoin",
+        "Self-custody",
+        "KYC",
+        "AML",
+        "隐私",
+        "跨境支付",
+        "货币主权"
+      ],
+      "status": "curated",
+      "ownerViewpoint": false,
+      "sourceVerified": true,
+      "videoUrl": "https://www.bis.org/speeches/20260628-stablecoins-and-anonymous-money",
+      "duration": "演讲视频 36 分 41 秒；建议精听 45 分钟",
+      "sources": [
+        {
+          "title": "Bank for International Settlements：Stablecoins and anonymous money（Gita Gopinath，28 June 2026）",
+          "url": "https://www.bis.org/speeches/20260628-stablecoins-and-anonymous-money"
+        }
+      ],
+      "body": "## 已核验演讲\n\nBIS 页面收录 Gita Gopinath 于 2026 年 6 月 28 日发表的英文演讲 “Stablecoins and anonymous money”，视频时长标注为 36 分 41 秒，并提供 8 页正式讲稿与演示材料。页面说明演讲表达讲者观点，不必然代表 BIS 或其成员机构。\n\n官方页面没有带时间码的逐字稿，因此本条不编造分钟级引文。精听按论证结构推进，并用正式讲稿核对数字、术语和因果关系。\n\n## 核心知识\n\n演讲把 stablecoin 放在“匿名货币”与跨境可达性的组合中分析。传统账户体系通过 KYC、AML/CFT、制裁筛查和税务报告建立身份链条；self-custody wallet 则由用户直接控制私钥，不必持续依赖中心化平台账户。技术上的公开账本不等于现实身份可识别。\n\n讲稿指出，超过 70%的稳定币持有量位于 self-custody wallets，多数交易也发生在这类钱包之间；但只有约 11%的稳定币交易能够被地理定位。前两个数字说明链外身份边界的重要性，后一个数字说明仅靠链上地址很难完整判断资金来自哪个司法辖区。\n\n匿名性具有两面性。隐私可以保护合法用户免受商业监控、身份盗用或政治压迫，但高度匿名且跨境流通的数字货币也可能降低 tax evasion、sanctions evasion、money laundering 与绕过 capital controls 的成本。政策问题不是简单选择“完全匿名”或“完全透明”，而是决定哪些主体、在什么法律程序下、能访问哪些数据。\n\n若外币稳定币在一国被广泛用于储蓄、支付和定价，可能削弱 monetary sovereignty、资本流动管理和本币政策传导。单一司法辖区难以独立监管跨链、跨平台与跨境活动，因此讲稿强调 international coordination、数据共享和一致的监管周界。\n\n反方解释是，区块链留下可分析的交易轨迹，合规的入口和出口也可连接链上地址与身份；隐私增强技术还可能支持选择性披露。真正需要验证的是覆盖率、误判率、执法程序和跨境协作，而不是把“公开账本”直接等同于“可识别”。\n\n## 精听方法\n\n1. 第一遍不暂停，写下讲者如何连接 stablecoin、anonymity 与 public policy。\n2. 第二遍用正式讲稿核对 self-custody、geolocation、KYC、AML/CFT、tax evasion、capital controls 六个词。\n3. 第三遍画出两条传导链：匿名跨境支付如何影响税收与制裁执行；外币稳定币采用如何影响货币主权。\n4. 第四遍提出反方：链上分析、零知识证明和选择性披露能否同时保护隐私与合规？需要怎样的证据？\n\n## 关键词\n\n- stablecoin — 稳定币\n- self-custody wallet — 自托管钱包\n- anonymity — 匿名性\n- pseudonymity — 假名性\n- geolocation — 地理定位\n- know-your-customer (KYC) — 客户身份识别\n- anti-money laundering (AML) — 反洗钱\n- countering the financing of terrorism (CFT) — 反恐融资\n- tax evasion — 逃税\n- sanctions evasion — 规避制裁\n- capital controls — 资本管制\n- monetary sovereignty — 货币主权\n- selective disclosure — 选择性披露\n- cross-border coordination — 跨境协调\n\n## 地道表达\n\n以下均为学习用改写句，不冒充讲者逐字引文。\n\n> A public ledger is not the same thing as a fully identified payment system.\n\n> Self-custody shifts control away from intermediaries, but it also weakens the identity link.\n\n> The policy challenge is to preserve legitimate privacy without creating an enforcement blind spot.\n\n> Stablecoin adoption can become a monetary-sovereignty issue when it changes how people save and pay.\n\n> Cross-border risks require cross-border coordination and comparable data.\n\n## 输出练习\n\n用两分钟英文回答：\n\n“Should stablecoin users be allowed to transact anonymously?”\n\n至少使用 self-custody wallet、pseudonymity、geolocation、KYC、AML/CFT、capital controls、monetary sovereignty 和 selective disclosure；先复述演讲逻辑，再提出一个保护合法隐私的制度方案，并说明如何检验它。本条不记录或声称你已经完成精听。"
+    },
     {
       "id": "briefing-2026-11-15",
       "kind": "briefing",
