@@ -1,7 +1,102 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-17T09:00:00+08:00",
+  "updatedAt": "2026-11-18T09:00:00+08:00",
   "entries": [
+    {
+      "id": "briefing-2026-11-18",
+      "kind": "briefing",
+      "title": "今日事实简报：美国零售销售、Core AI 增收低毛利与代币化证券场所",
+      "category": "每日财经简报",
+      "date": "2026-11-18",
+      "summary": "基于美国人口普查局 10 月零售销售、Core AI 向 SEC 提交的三季度财务报表，以及 SEC 创新豁免页面，核对名义消费的温和环比变化、AI 标签下广告变现业务的收入与盈利质量，以及代币化 NMS 股票交易场所从申报到实际合规的边界。",
+      "tags": [
+        "宏观",
+        "美国零售销售",
+        "消费",
+        "Core AI",
+        "CHAI",
+        "AI",
+        "广告变现",
+        "毛利率",
+        "持续经营",
+        "Crypto",
+        "RWA",
+        "代币化证券",
+        "SEC",
+        "Innovation Exemption"
+      ],
+      "status": "curated",
+      "ownerViewpoint": false,
+      "sourceVerified": true,
+      "updatedAt": "2026-11-18T09:00:00+08:00",
+      "sources": [
+        {
+          "title": "U.S. Census Bureau：Advance Monthly Sales for Retail and Food Services, October 2026（17 November 2026）",
+          "url": "https://www.census.gov/retail/marts/www/marts_current.pdf?release=20261117"
+        },
+        {
+          "title": "Core AI Holdings / SEC Form 6-K filing index（filed 17 November 2026）",
+          "url": "https://www.sec.gov/Archives/edgar/data/1649009/000149315226052732/0001493152-26-052732-index.htm"
+        },
+        {
+          "title": "Core AI Holdings / SEC Exhibit 99.1：Unaudited interim financial statements for 30 September 2026",
+          "url": "https://www.sec.gov/Archives/edgar/data/1649009/000149315226052732/ex99-1.htm"
+        },
+        {
+          "title": "Core AI Holdings / SEC Exhibit 99.3：Third Quarter 2026 Results（17 November 2026）",
+          "url": "https://www.sec.gov/Archives/edgar/data/1649009/000149315226052732/ex99-3.htm"
+        },
+        {
+          "title": "SEC：Innovation Exemption（last reviewed or updated 9 November 2026）",
+          "url": "https://www.sec.gov/about/divisions-offices/division-trading-markets/innovation-exemption"
+        },
+        {
+          "title": "SEC：Frequently Asked Questions on the Innovation Exemption（20 October 2026）",
+          "url": "https://www.sec.gov/rules-regulations/staff-guidance/trading-markets-frequently-asked-questions/frequently-asked-questions-innovation-exemption"
+        }
+      ],
+      "body": "## 更新时间\n\n北京时间 2026 年 11 月 18 日 09:00。以下仅汇总已发布的官方资料，不包含实时行情、买卖建议或 Linna 的个人观点。名义销售与实际消费、公司收入增长与经济利润、提交豁免通知与获得监管认可需要分别判断。\n\n## 宏观：美国 10 月零售销售环比小幅增长，但统计区间与价格因素限制结论强度\n\n美国人口普查局 11 月 17 日发布的预估显示，2026 年 10 月零售和餐饮服务销售额经季节调整为 7,482 亿美元，环比增长 0.2%，同比增长 6.8%。9 月销售额修订为 7,466 亿美元，环比增长 0.8%。\n\n剔除汽车及零部件经销商后，10 月销售额环比增长 0.6%；再剔除加油站后增长 0.5%。这说明总量的 0.2%并不能代表所有类别同步变化，汽车或汽油相关项目会影响表面动量。\n\n月度环比变化的 90%置信区间为 ±0.4 个百分点，因此 0.2%的点估计区间包含零。换言之，样本误差范围内尚不足以断言实际月度变化显著高于零。同比 6.8%的置信区间为 ±0.5 个百分点，方向更明确，但仍是名义金额。\n\n数据已按季节、假日和交易日差异调整，却没有扣除价格变化。名义销售增长可能来自真实购买量、价格上涨或两者共同作用，不能直接等同于实际个人消费支出增长。预估还会随着更完整样本而修订。\n\n后续应结合零售类别、CPI 商品与服务价格、实际个人消费支出、居民收入和储蓄率、信用卡拖欠及库存变化，判断消费韧性来自实际销量、价格还是提前购买。\n\n## 股票：Core AI 收入增长很快，但毛利率骤降与持续经营披露是核心约束\n\nCore AI Holdings 三季度收入为 2,227.2 万美元，上年同期为 1,554.9 万美元，同比增长 43.2%。公司说明收入主要来自不同广告平台上的广告发布服务，因此“AI infrastructure and technology platform”的公司定位不能替代对实际收入来源的核验。\n\n三季度毛利仅 47.8 万美元，上年同期为 214.7 万美元；按披露数字计算，毛利率约为 2.1%，低于上年同期约 13.8%。营业结果从盈利约 156 万美元转为亏损约 31 万美元，净利润也从约 154 万美元转为净亏损约 31 万美元。收入增长没有同步转化为毛利和净利润。\n\n前九个月收入增长约 9.0%至 4,839.5 万美元，但录得约 260.5 万美元毛损和 556.0 万美元净亏损。单季改善与九个月累计亏损应同时观察，不能只用最新季度的收入增速外推全年盈利能力。\n\n截至 9 月末，现金及现金等价物约 793.7 万美元，高于 2025 年末的 193.1 万美元；营运资金约 160 万美元，前九个月经营活动产生现金约 134 万美元。不过财务报表同时披露累计亏损约 3,752 万美元，并称相关因素对持续经营能力构成重大疑虑。管理层认为现有现金、经营现金流和 ATM 融资工具可支持至少 12 个月，这是一项管理层判断，不是风险已经消失。\n\n公司 2025 年 10 月完成合并，合并前比较期间反映 Core Gaming 的历史结果，合并后才纳入原 Siyata Mobile。同比可比性会受到交易边界变化影响。后续应核对广告变现收入的客户和平台集中度、流量采购成本、毛利恢复路径、应收账款回收、股权融资稀释，以及持续经营假设是否改善。\n\n## Crypto / RWA：代币化股票场所的公开通知不是 SEC 合规认证\n\nSEC 9 月 17 日的 Innovation Exemption Order 为某些分布式账本交易场所交易代币化 NMS 股票提供临时、有条件的交易所定义豁免，也为特定流动性提供者提供经纪自营商定义下的有条件豁免。它不是对所有代币化证券或 DeFi 协议的普遍放行。\n\nSEC 页面截至 11 月 9 日列出四个已提交书面意向通知的主体：TSV LLC、OKXICE TSV、Kephas Corporation d/b/a Perpetuals.com 和 Formation Securities LLC。SEC 明确说明，出现在名单中不代表该主体满足 Tokenized Securities Venue 定义，也不代表其已经证明符合豁免条件；工作人员也不判断其通知内容的准确性或优劣。\n\n场所至少要在开始运营前 30 个日历日，把包含订单要求信息的 TSV Notice 显著发布在公开网站上，并在一个工作日内向 SEC 另行提交意向通知。FAQ 还要求通知使用清晰、简洁、可理解的普通英语，并随业务和准入标准变化保持更新。\n\n若场所拟交易由非发行人关联第三方代币化的 NMS 股票，还要处理发行人通知与 30 日异议期。发行人及时反对时，该代币化股票不能在该场所上线。场所还需在公开通知中识别可交易的代币化 NMS 股票、与其配对的非证券 Crypto 资产和代币化货币市场基金。\n\n研究代币化证券时应区分三层权利：底层股票的法定所有权与股东权利、链上代币持有人对中介或托管人的请求权、交易场所的结算和赎回安排。监管豁免解决的是部分交易所与经纪自营商定义问题，不自动解决公司法、托管、转让代理、破产隔离、市场操纵或跨境适用法律。\n\n后续应阅读每家 TSV 的公开通知，核对实际运营日期、准入规则、发行人异议、链上结算最终性、资产托管和赎回机制，并持续检查 SEC 名单变化与执法或撤回记录。"
+    },
+    {
+      "id": "lesson-2026-11-18-imf-art-of-taxation",
+      "kind": "lesson",
+      "title": "今日金融英语：税收如何在收入、效率、公平与执行之间取舍？",
+      "category": "金融市场英语",
+      "date": "2026-11-18",
+      "summary": "用 IMF 3 分 13 秒英文视频和配套文章学习 tax base、tax mix、tax incidence、domestic revenue mobilization、neutrality、tax expenditure、withholding、compliance gap 与 tax administration，并练习解释宽税基、适中税率和执行能力之间的关系。",
+      "tags": [
+        "金融英语",
+        "IMF",
+        "税收",
+        "财政政策",
+        "Tax Base",
+        "Tax Incidence",
+        "VAT",
+        "税收征管",
+        "Compliance",
+        "公共财政"
+      ],
+      "status": "curated",
+      "ownerViewpoint": false,
+      "sourceVerified": true,
+      "videoUrl": "https://www.imf.org/en/videos/view/6396872093112",
+      "duration": "视频 3 分 13 秒；建议练习 25 分钟",
+      "sources": [
+        {
+          "title": "IMF：Analyze This: Taxation（28 May 2026，video 03:13）",
+          "url": "https://www.imf.org/en/videos/view/6396872093112"
+        },
+        {
+          "title": "IMF Finance & Development：The Art of Taxation（3 March 2026）",
+          "url": "https://www.imf.org/en/Publications/fandd/issues/2026/03/back-to-basics-the-art-taxation-katherine-baer"
+        },
+        {
+          "title": "IMF：Tax Policy（current overview）",
+          "url": "https://www.imf.org/en/topics/fiscal-policies/revenue-portal/tax-policy"
+        }
+      ],
+      "body": "## 已核验材料\n\nIMF 英文视频 “Analyze This: Taxation” 发布于 2026 年 5 月 28 日，官方页面标注时长 03:13。视频把税收描述为同时包含科学分析与政策取舍的 balancing act。配套的 Finance & Development 文章由 IMF 财政事务部 Katherine Baer 和 Ruud de Mooij 撰写，发布于 2026 年 3 月 3 日。\n\n文章把税收能力分成四个相互关联的维度：税收水平、税种组合、税制设计和税收征管。税收是道路、学校、医院、法院和公共安全等公共服务的可持续融资来源，但“能收多少”不能脱离“向谁收、如何收、如何使用以及公众是否信任”来讨论。\n\n## 先懂知识，再听英语\n\nTax base 是适用某项税的收入、消费、利润、财产或交易范围；tax rate 是税率。较宽的税基配合适中的税率通常比大量豁免和高边际税率更接近 neutrality，因为它减少对工作、储蓄、投资与消费选择的扭曲。但宽税基不是简单地给每笔中间交易重复征税，否则可能造成税负层层累积。\n\nTax mix 是一国在增值税、个人所得税、企业所得税、财产税、消费税和关税之间的组合。不同税种的征管难度、稳定性、增长影响和分配效果不同。讨论税率前，应先问法定纳税人是谁、经济负担最终由谁承担，这就是 tax incidence。\n\nDomestic revenue mobilization 指以可持续、有效率且公平的方式在国内筹集公共收入。文章指出，税收不仅是技术问题，也体现 social contract：纳税人是否相信制度公平、公共资金被妥善使用，会影响自愿遵从。\n\nTax expenditure 是通过减免、扣除、优惠税率或特殊制度放弃的税收收入。它可能有合理目标，但若缺少定期评估，会缩小税基、增加复杂度、鼓励避税并使受益者难以追踪。评价一项优惠时，要比较它与直接预算支出能否更低成本地实现同一目标。\n\nTax administration 把法律设计变成实际收入。Withholding 让雇主、银行等中介在支付环节代扣，risk-based audit 把资源集中在高风险纳税人，e-filing、电子支付、实时发票和数据分析降低申报与核验成本。Policy gap 是法律本身造成的理论收入缺口，compliance gap 是应纳税额与实际征收额之间的执行差距。\n\nProgressivity 关注收入越高者是否承担更高的平均税率；horizontal equity 关注处境相似者是否受到相似待遇；vertical equity 关注不同支付能力者如何区别承担。公平和效率并非总是二选一，但需要明确受影响群体、行为反应、执行成本和替代政策。\n\n## 三遍听法\n\n第一遍不暂停，记录视频如何描述 taxation 的目标，以及为什么它不是单纯计算税率。\n\n第二遍听出 revenue、public services、fairness、efficiency、compliance 和 administration 之间的因果关系；把每个词标注为政策目标、设计工具或执行条件。\n\n第三遍用自己的英文解释：为什么 broad tax base and moderate rates 只是一条起点原则，而不是适用于所有税种和所有国家的机械答案。\n\n## 关键词\n\n- taxation — 税收制度与征税\n- tax base — 税基\n- tax rate — 税率\n- tax mix — 税种组合\n- tax incidence — 税负归宿\n- domestic revenue mobilization — 国内收入动员\n- neutrality — 税收中性\n- progressivity — 累进性\n- horizontal equity — 横向公平\n- vertical equity — 纵向公平\n- tax expenditure — 税式支出\n- value-added tax (VAT) — 增值税\n- withholding — 源泉扣缴\n- tax administration — 税收征管\n- voluntary compliance — 自愿遵从\n- compliance gap — 遵从缺口\n- risk-based audit — 风险导向审计\n- social contract — 社会契约\n\n## 地道表达\n\n以下均为学习用改写句，不冒充视频逐字引文。\n\n> Tax policy must balance revenue needs with efficiency, equity, and administrative feasibility.\n\n> A broad base can support lower rates, but poorly designed exemptions may erode both revenue and fairness.\n\n> The statutory taxpayer is not always the person who ultimately bears the economic burden.\n\n> Good tax design achieves little if the administration cannot enforce it consistently.\n\n> Tax incentives should be evaluated against direct spending that pursues the same objective.\n\n## 输出练习\n\n用 90 秒英文回答：\n\n“How should a government raise more revenue without undermining growth or public trust?”\n\n至少使用 tax base、tax mix、tax incidence、neutrality、tax expenditure、withholding、compliance gap 和 tax administration；提出一项改革，说明受益者、承担者、可能的行为反应、执行难点，以及用什么指标验证效果。本条不记录或声称你已经完成学习。"
+    },
     {
       "id": "briefing-2026-11-17",
       "kind": "briefing",
