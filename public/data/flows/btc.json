@@ -4,10 +4,10 @@
   "currency": "USD",
   "status": "ok",
   "error": null,
-  "lastAttemptAt": "2026-11-17T10:50:16.069Z",
-  "lastSuccessAt": "2026-11-17T10:50:16.069Z",
-  "dataAsOf": "2026-11-13",
-  "providerModifiedAt": "2026-11-13T22:00:00Z",
+  "lastAttemptAt": "2026-11-18T10:20:23.663Z",
+  "lastSuccessAt": "2026-11-18T10:20:23.663Z",
+  "dataAsOf": "2026-11-17",
+  "providerModifiedAt": "2026-11-17T22:00:00Z",
   "source": {
     "url": "https://www.tftc.io/bitcoin-etf-flows",
     "dataUrl": "https://www.tftc.io/bitcoin-etf-flows/data.json",
@@ -20,7 +20,7 @@
     "excludedHolidayRows": 16,
     "notes": "第三方汇总；逐基金历史可能有缺口，供应商不追溯修订已存逐基金拆分。总额包含首批十只之外的基金。",
     "incompleteDates": [],
-    "expectedSessions": 714
+    "expectedSessions": 716
   },
   "rows": [
     {
@@ -13619,6 +13619,46 @@
         "IBIT": -143531040,
         "MSBT": 0
       }
+    },
+    {
+      "date": "2026-11-16",
+      "netFlowUsd": 7986219.7,
+      "btcCloseUsd": 65008,
+      "totalNetAssetsUsd": 84315771501.6814,
+      "perEtfUsd": {
+        "BTC": -6608544,
+        "ARKB": -4307488.2,
+        "BITB": 0,
+        "BRRR": 0,
+        "BTCO": -6461695.600000001,
+        "BTCW": 0,
+        "EZBC": -3752265.7,
+        "FBTC": -11299966,
+        "GBTC": -34594530,
+        "HODL": 0,
+        "IBIT": 76500000,
+        "MSBT": -1489290.8
+      }
+    },
+    {
+      "date": "2026-11-17",
+      "netFlowUsd": -239944866.82000002,
+      "btcCloseUsd": 63912,
+      "totalNetAssetsUsd": 79649640510.39108,
+      "perEtfUsd": {
+        "BTC": 1129896,
+        "ARKB": -13118333.86,
+        "BITB": 0,
+        "BRRR": -3596620,
+        "BTCO": 0,
+        "BTCW": 0,
+        "EZBC": 0,
+        "FBTC": 0,
+        "GBTC": -17743716,
+        "HODL": 0,
+        "IBIT": -209542400,
+        "MSBT": 2926307.0399999996
+      }
     }
   ],
   "revisions": [
@@ -14109,6 +14149,13 @@
     },
     {
       "checkedAt": "2026-11-17T10:50:16.069Z",
+      "added": 2,
+      "revisedFields": 0,
+      "changes": [],
+      "truncated": false
+    },
+    {
+      "checkedAt": "2026-11-18T10:20:23.663Z",
       "added": 2,
       "revisedFields": 0,
       "changes": [],
