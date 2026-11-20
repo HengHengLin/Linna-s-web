@@ -1,7 +1,91 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-19T09:00:00+08:00",
+  "updatedAt": "2026-11-20T09:00:00+08:00",
   "entries": [
+    {
+      "id": "briefing-2026-11-20",
+      "kind": "briefing",
+      "title": "今日事实简报：制造业价格压力、GPUS 收入质量与虚假加密平台执法",
+      "category": "每日财经简报",
+      "date": "2026-11-20",
+      "summary": "基于费城联储 11 月制造业调查、Hyperscale Data 的 SEC 申报和 SEC 加密欺诈诉讼公告，核对区域制造业活动与价格扩散、AI 数据中心叙事背后的收入质量和持续经营风险，并识别伪造监管背书的加密平台骗局。",
+      "tags": [
+        "宏观",
+        "费城联储",
+        "制造业",
+        "通胀",
+        "股票",
+        "GPUS",
+        "AI 数据中心",
+        "持续经营",
+        "Crypto",
+        "SEC",
+        "投资诈骗",
+        "来源核验"
+      ],
+      "status": "curated",
+      "ownerViewpoint": false,
+      "sourceVerified": true,
+      "updatedAt": "2026-11-20T09:00:00+08:00",
+      "sources": [
+        {
+          "title": "Federal Reserve Bank of Philadelphia：November 2026 Manufacturing Business Outlook Survey（19 November 2026）",
+          "url": "https://www.philadelphiafed.org/surveys-and-data/regional-economic-analysis/mbos-2026-11"
+        },
+        {
+          "title": "Hyperscale Data / SEC Exhibit 99.1：Third Quarter 2026 Financial Results（19 November 2026）",
+          "url": "https://www.sec.gov/Archives/edgar/data/896493/000121465926014587/ex99_1.htm"
+        },
+        {
+          "title": "Hyperscale Data / SEC Form 10-Q（filed 19 November 2026）",
+          "url": "https://www.sec.gov/Archives/edgar/data/896493/000121465926014565/hd111226110q.htm"
+        },
+        {
+          "title": "SEC：Eight Entities Used Fake Crypto Asset Trading Platforms to Steal More Than $37 Million from U.S. Investors（19 November 2026）",
+          "url": "https://www.sec.gov/newsroom/press-releases/2026-115-sec-eight-entities-used-fake-crypto-asset-trading-platforms-steal-more-37-million-us-investors"
+        }
+      ],
+      "body": "## 更新时间\n\n北京时间 2026 年 11 月 20 日 09:00。以下只汇总已发布的官方资料，不包含实时行情、买卖建议或 Linna 的个人观点。区域调查不是全国硬数据，公司新闻稿要与 10-Q 一起读，执法机关的起诉指控也不等于法院已经作出最终认定。\n\n## 宏观：费城联储制造业活动仍扩张，但订单走弱、价格扩散明显上升\n\n费城联储 11 月 19 日发布的制造业商业前景调查覆盖宾夕法尼亚州东部、新泽西州南部和特拉华州；企业在 11 月 9 日至 16 日作答。当前一般活动扩散指数从 10 月的 20.9 降至 6.3，为 5 月以来最低，但仍高于零。扩散指数是报告“增加”的企业占比减去报告“减少”的占比，不是产出增长率。\n\n需求与生产信号分化：新订单指数从 4.3 降至 -0.4，连续第四个月下降；发货指数则从 15.3 升至 25.7。就业指数从 9.1 升至 11.6，平均工作周从 7.5 升至 11.2，说明受访企业整体仍在增加用工和工时，但订单端尚未给出同步改善。\n\n价格扩散加快。支付价格指数从 43.2 升至 58.2，为 4 月以来最高；收取价格指数从 40.1 升至 47.0，为 2022 年 6 月以来最高。特别问题中，42.3% 的企业称客户比一年前对价格更敏感；在预计行业成本变化的企业中，78.6% 预计竞争者会提价，预计中位时间为三个月。成本压力和提价意愿上升，并不自动等同于最终消费价格会按相同比例上涨。\n\n未来六个月一般活动指数为 33.6，仍显示乐观；未来资本支出指数却从 34.9 降至 18.9。后续应对照全国 ISM、工业生产、PPI、实际订单和该调查的连续数月变化，区分区域性波动、关税或投入品冲击与更广泛的再通胀。\n\n## 股票：GPUS 收入大增，但增长来源、非现金收益和流动性风险必须拆开\n\nHyperscale Data 公布 2026 年第三季度收入 4,484.8 万美元，上年同期为 2,432.8 万美元，增长约 84%；毛利为 1,047.9 万美元，毛利率约 23.4%，低于上年同期约 25.8%。公司称收入增长主要来自 Gresham Worldwide 重新纳入合并、贷款与交易活动增加（主要是未实现的股权投资收益），以及起重机业务改善，并非全部来自 AI 数据中心。\n\n营业费用从 2,032.2 万美元升至 2,988.7 万美元，营业亏损从 1,405.7 万美元扩大至 1,940.8 万美元。净亏损从 1,358.2 万美元收窄至 1,297.9 万美元，但当季包含约 920 万美元加密资产公允价值收益和约 400 万美元嵌入式衍生工具公允价值收益；归属于普通股股东的亏损为 1,795.4 万美元。收入增长、营业亏损和公允价值收益需要分别评价。\n\n公司称密歇根数据中心已于 9 月 1 日停止比特币挖矿，并签订 20 MW neocloud 服务协议，目标在 2026 年 12 月部署首个 10 MW、2027 年 3 月部署另一个 10 MW。公司估计，若二十年延长期全部行使且义务全部履行，合同价值可达 12 亿美元；若未来额外 32 MW 权利也落实并延长，潜在值可达 30 亿美元。这些是有融资、建设、设备、验收、客户部署和续约条件的长期情景，不是已确认收入或无条件订单。\n\n10-Q 显示，9 月末现金约 1,730 万美元，受限现金约 2,780 万美元；流动负债约 2.312 亿美元，超过流动资产约 1.281 亿美元。前九个月净亏损约 6,210 万美元、经营活动使用现金约 840 万美元。公司披露持续经营重大疑虑尚未缓解，需要大量额外融资。11 月出售约 211.6 枚比特币获得约 1,600 万美元，并用约 1,410 万美元偿还可转换票据（含 130 万美元提前还款溢价），同时又取得新的可转换票据融资。评估这家公司应把机房交付、客户集中、融资条款、稀释风险和现金跑道放在新闻稿中的远期合同数字之前。\n\n## Crypto：伪造 SEC 证书和“监管备案”本身就是诈骗信号\n\nSEC 11 月 19 日宣布起诉八家科罗拉多实体，指控其运营四组虚假投资顾问与加密交易平台，在 2024 年 8 月至 2026 年 5 月间从美国投资者处骗取超过 3,700 万美元。SEC 称运营者很可能身处海外；诉状中的内容仍是指控，需由法院裁决。\n\n据 SEC 描述，骗局通常从社交媒体广告开始，把受害者引入群聊或私聊，先提供美国股票建议建立信任，再把资金导向虚假的加密交易平台。平台展示虚构利润，并使用伪造的 SEC 证书、SEC 申报以及声称来自 FINRA 或 FinCEN 的文件制造合规外观。每组“顾问—平台”运行数月后就被弃用，之后换用新品牌。\n\n监管机构名称、注册号截图或看似正式的备案页面都不是背书。核验时应从监管机构官方域名反向查询准确的法律实体、注册状态、地址和关联人员，而不是点击聊天群提供的链接；还应核对资产实际托管方、入金路径、链上转移、提款条件和是否存在只允许继续加钱却无法提现的模式。群聊盈利截图、导师身份和站内余额都不能证明资产真实存在。\n\n## 下一步核验清单\n\n- 宏观：跟踪费城联储未来两期调查、全国制造业订单、工业生产和价格数据，验证订单疲软与价格扩散是否持续。\n- 股票：核对 20 MW 项目的建设和验收里程碑、客户是否按约部署、后续融资成本、可转换证券稀释以及现金流变化。\n- Crypto：任何平台入金前，从 SEC、FINRA、州监管机构或其他适用监管机构的官方查询入口独立核验；小额试提也不能替代法律实体、托管和资金流核查。\n\n以上材料用于研究与学习，不构成投资建议。"
+    },
+    {
+      "id": "lesson-2026-11-20-sovereign-cat-bonds",
+      "kind": "lesson",
+      "title": "英文金融视频：主权巨灾债券如何把灾害风险转移给资本市场",
+      "category": "金融英语与风险管理",
+      "date": "2026-11-20",
+      "summary": "精听世界银行 22 分钟官方视频，理解灾害风险保险平台、巨灾债券、参数触发、风险分层与灾后流动性，并练习用英文解释收益、触发条件和基差风险。",
+      "tags": [
+        "金融英语",
+        "World Bank",
+        "巨灾债券",
+        "Cat Bond",
+        "灾害风险",
+        "保险",
+        "资本市场",
+        "主权风险",
+        "参数触发"
+      ],
+      "status": "curated",
+      "ownerViewpoint": false,
+      "sourceVerified": true,
+      "videoUrl": "https://www.worldbank.org/en/news/video/2026/10/13/mitigating-climate-and-weather-risks-the-world-bank-group-disaster-risk-insurance",
+      "duration": "22 分钟",
+      "sources": [
+        {
+          "title": "World Bank Group：Sovereign Catastrophe Bonds & Disaster Risk Insurance（13 October 2026, 22 minutes）",
+          "url": "https://www.worldbank.org/en/news/video/2026/10/13/mitigating-climate-and-weather-risks-the-world-bank-group-disaster-risk-insurance"
+        },
+        {
+          "title": "World Bank Treasury：Disaster Risk Management",
+          "url": "https://treasury.worldbank.org/en/about/unit/treasury/ibrd-financial-products/disaster-risk-management"
+        },
+        {
+          "title": "World Bank Treasury：Capital at Risk Notes",
+          "url": "https://treasury.worldbank.org/en/about/unit/treasury/ibrd/ibrd-capital-at-risk-notes"
+        }
+      ],
+      "body": "## 材料核验\n\n视频由世界银行集团于 2026 年 10 月 13 日发布，页面标注 22 分钟，介绍其灾害风险保险平台如何为公共部门客户设计保险、衍生工具和巨灾债券，把自然灾害风险转移到保险与资本市场。配套的世界银行财政部页面说明：风险转移工具是预算储备和灾害延期提款选择权等或有融资的补充，而不是所有灾害损失的替代品。\n\n本课程是公开材料整理，不代表 Linna 已完成学习，也不是她的个人总结或投资观点。\n\n## 中文知识说明\n\n主权政府面对地震、台风、洪水等低频高损失事件时，需要的不只是灾后借款，还需要提前设计资金层次。高频、损失较小的事件可由年度预算或储备金吸收；中等冲击可用或有信贷；尾部风险则可能通过保险、再保险或巨灾债券转移给外部投资者。关键不是把所有风险都转移，而是让每一层风险匹配成本和资金到账速度。\n\n巨灾债券把保险保障和资本市场融资连接起来。投资者购买本金可能受损的票据并获得较高票息；若约定期限内没有满足触发条件，通常收回本金。若预先定义的灾害条件被满足，部分或全部本金可被用于向受保护方赔付。世界银行发行结构可让客户与世界银行签订保险或衍生协议，而世界银行再向资本市场转移相应风险。\n\n参数触发常根据地震强度、风速、降雨量或模型损失等客观指标，而不是逐笔核损。优点是条件满足后可更快支付、减少理赔争议；缺点是基差风险：实际损失很大，但参数没有跨过阈值，或者触发金额与真实损失不匹配。快速并不等于完全覆盖。\n\n投资者获得的利差补偿承担灾害尾部风险，但回报要与预期损失、模型不确定性、触发结构、期限、区域和灾种相关性一起看。对政府而言，保费或利差成本必须与预算可承受性、传统保险价格、或有信贷和自留风险比较。巨灾债券不会消灭损失，只是改变谁承担损失、何时提供现金以及风险定价方式。\n\n## 核心词汇\n\n- catastrophe bond / cat bond：巨灾债券；本金会在约定灾害触发时承担损失的资本市场工具。\n- risk transfer：风险转移；把特定损失风险从政府或保险人转给市场参与者。\n- parametric trigger：参数触发；按预设物理指标或模型指标决定是否赔付。\n- basis risk：基差风险；实际损失与触发赔付不一致的风险。\n- principal at risk：风险本金；在触发事件发生时可能被削减或用于赔付的本金。\n- contingent financing：或有融资；只有在预设事件或条件满足后才可提取的资金。\n- risk layering：风险分层；根据事件频率与严重程度配置储备、信贷、保险等工具。\n- premium：保费；受保护方为风险保障支付的价格。\n- payout：赔付；触发条件满足后支付给受保护方的资金。\n- fiscal shock：财政冲击；灾害造成的收入下降、支出激增或融资压力。\n- tail risk：尾部风险；发生概率较低但影响极大的事件风险。\n- expected loss：预期损失；在概率分布下加权计算的平均损失，不等于最坏情景。\n\n## 地道表达\n\n- transfer disaster risk to capital markets：把灾害风险转移给资本市场。\n- provide rapid liquidity after a shock：在冲击后迅速提供流动性。\n- protect the public balance sheet：保护公共部门资产负债表。\n- the payout is tied to a pre-defined trigger：赔付与预先定义的触发条件挂钩。\n- investors put their principal at risk：投资者让本金承担损失风险。\n- complement, rather than replace, budget reserves：补充而非取代预算储备。\n- price low-frequency, high-severity risk：为低频高损失风险定价。\n- a mismatch between modeled and realized losses：模型损失与实际损失之间的不匹配。\n- crowd in institutional investors：吸引机构投资者参与。\n- reduce reliance on post-disaster borrowing：减少对灾后借款的依赖。\n\n## 听力任务\n\n第一遍不暂停，写下平台要解决的三个问题：谁需要保护、风险转移给谁、灾后资金如何到位。\n\n第二遍重点捕捉结构词和因果词，例如 in exchange for、upon the occurrence of、therefore、complement 和 without increasing debt。把每个工具放进“风险自留—或有融资—风险转移”框架。\n\n第三遍核对数字和限定词。特别留意 up to、may、subject to、pre-defined 和 cost-effective；这些词决定某个数字是上限、可能性还是已实现结果。不要把“可提供最高 14 亿美元保障”改写成“已经赔付 14 亿美元”。\n\n## 输出练习\n\n用 90 秒英文向一位财政官员解释巨灾债券，必须包含以下内容：\n\n1. 政府面临的低频高损失风险；\n2. 投资者为什么愿意承担本金风险；\n3. 参数触发如何加快赔付；\n4. 一项基差风险；\n5. 为什么巨灾债券应与储备和或有信贷组合使用。\n\n参考开头：\n\n“A sovereign catastrophe bond is not ordinary borrowing. It is a pre-arranged risk-transfer contract that gives a government access to liquidity when a specified disaster trigger is met.”\n\n再做一组反方练习：用英文提出三个质疑，分别针对模型误差、保费或票息成本和未触发却遭受实际损失的情形。最后用一句有条件的结论收尾，例如：\n\n“A cat bond can strengthen fiscal resilience, provided that the trigger is well calibrated and the coverage is part of a broader risk-layering strategy.”\n\n## 自查问题\n\n- 你能否区分保险赔付、或有贷款提款和灾后新增借款？\n- 你能否解释为什么快速参数赔付会带来基差风险？\n- 你是否把风险转移说成风险消失？\n- 你是否在引用保障金额时保留了 up to 等限定词？\n\n本材料仅用于英语与金融知识学习，不构成投资建议。"
+    },
     {
       "id": "briefing-2026-11-19",
       "kind": "briefing",
