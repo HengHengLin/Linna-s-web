@@ -1,7 +1,91 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-20T09:00:00+08:00",
+  "updatedAt": "2026-11-21T09:00:00+08:00",
   "entries": [
+    {
+      "id": "briefing-2026-11-21",
+      "kind": "briefing",
+      "title": "今日事实简报：美国州级就业、数据中心施工链与比特币矿业利润质量",
+      "category": "每日财经简报",
+      "date": "2026-11-21",
+      "summary": "基于美国劳工统计局 10 月州级就业数据、IES Holdings 的 FY2026 10-K 与业绩材料，以及 BitFuFu 的第三季度 SEC 文件，核对就业增长的地域广度、数据中心需求如何传导到电气与基础设施承包商，并拆解比特币矿企收入收缩与公允价值收益对净利润的影响。",
+      "tags": [
+        "宏观",
+        "美国就业",
+        "BLS",
+        "股票",
+        "IESC",
+        "数据中心",
+        "AI 基础设施",
+        "积压订单",
+        "Crypto",
+        "Bitcoin Mining",
+        "FUFU",
+        "公允价值"
+      ],
+      "status": "curated",
+      "ownerViewpoint": false,
+      "sourceVerified": true,
+      "updatedAt": "2026-11-21T09:00:00+08:00",
+      "sources": [
+        {
+          "title": "U.S. Bureau of Labor Statistics：State Employment and Unemployment — October 2026（20 November 2026）",
+          "url": "https://www.bls.gov/news.release/laus.htm"
+        },
+        {
+          "title": "IES Holdings / SEC Exhibit 99.1：Fiscal 2026 Fourth Quarter and Full Year Results（20 November 2026）",
+          "url": "https://www.sec.gov/Archives/edgar/data/1048268/000104826826000176/q42026pressrelease-septemb.htm"
+        },
+        {
+          "title": "IES Holdings / SEC Form 10-K for fiscal year ended 30 September 2026（filed 20 November 2026）",
+          "url": "https://www.sec.gov/Archives/edgar/data/1048268/000104826826000175/iesc-20260930.htm"
+        },
+        {
+          "title": "BitFuFu / SEC Exhibit 99.1：Third Quarter 2026 Financial Results（20 November 2026）",
+          "url": "https://www.sec.gov/Archives/edgar/data/1921158/000121390026122400/ea031259601ex99-1.htm"
+        }
+      ],
+      "body": "## 更新时间\n\n北京时间 2026 年 11 月 21 日 09:00。以下只汇总已发布的官方资料，不包含实时行情、买卖建议或 Linna 的个人观点。州级“显著变化”受抽样误差影响，积压订单不等于未来利润，比特币矿企的净利润也要与公允价值变动分开阅读。\n\n## 宏观：美国全国失业率稳定，但州级新增就业的统计扩散仍有限\n\n美国劳工统计局 11 月 20 日发布的数据显示，2026 年 10 月全国失业率为 4.1%，较上月变化不大。3 个州和哥伦比亚特区的失业率显著下降，只有科罗拉多州显著上升，其他 46 个州在统计意义上基本稳定。\n\n州际差异仍大：南达科他州失业率最低，为 2.0%，北达科他州为 2.2%；哥伦比亚特区最高，为 5.4%。19 个州的失业率显著低于全国水平，3 个州和哥伦比亚特区显著高于全国水平，28 个州与全国水平没有可辨别差异。“没有显著变化”不等于数值完全没动，而是变化没有超过估计误差所要求的阈值。\n\n非农就业方面，只有 4 个州出现显著月度增长：加利福尼亚增加 47,100 人，印第安纳增加 15,900 人，堪萨斯增加 7,100 人，爱荷华增加 7,000 人；其余 46 个州和哥伦比亚特区基本不变。同比看，12 个州就业显著增加，38 个州和哥伦比亚特区基本不变；增量最大的是得州、加利福尼亚和佛罗里达。\n\n这份发布包含两套口径：失业率主要基于居民所在地的家庭调查模型，非农就业来自按工作场所所在地统计的机构调查，不能把两者当作同一张表直接相减。另一个重要限制是，2025 年 10 月因拨款中断未采集家庭调查，且未追溯补采，所以本期没有通常的州失业率同比变化分析。\n\n结论边界是：全国失业率稳定，且绝大多数州没有显著的月度变化；但州级就业显著增长只集中于少数州，说明增长广度并不强。后续应结合全国就业报告、初领失业金、JOLTS、工时、工资和连续数月州级数据，判断这是温和放缓、地区轮动还是月度统计噪声。\n\n## 股票：IESC 受益于数据中心建设，但订单、利润率和并购需要分开估值\n\nIES Holdings 2026 财年第四季度收入为 13.9 亿美元，同比增长 55%；营业利润为 2.172 亿美元，同比增长 108%；归属于公司的净利润为 1.823 亿美元，同比增长 79%，稀释每股收益为 4.50 美元。全年收入为 44.8 亿美元，同比增长 33%；营业利润为 6.057 亿美元，同比增长 58%；净利润为 5.366 亿美元，同比增长 75%。\n\n数据中心需求是多个分部增长的重要驱动。全年 Communications 分部收入 16.9 亿美元，同比增长 48%，营业利润由 1.665 亿美元升至 2.900 亿美元；Commercial & Industrial 收入 7.995 亿美元，同比增长 83%，营业利润由 4,730 万美元升至 1.631 亿美元；Infrastructure Solutions 收入 8.266 亿美元，同比增长 66%，营业利润为 1.944 亿美元。\n\n截至 9 月末，公司剩余履约义务约 34.8 亿美元；管理层披露的非 GAAP backlog 约 49.6 亿美元。两者口径不同，不能混用：剩余履约义务是依据现有客户合同未来预计确认的 GAAP 收入，backlog 则包含管理层定义下更多合同工作。10 月完成的 DBM Global 收购另带来约 26 亿美元 backlog，但不在 9 月末数字中，也不能直接视为利润。\n\n利润质量需要注意三点。第一，公司称下半年部分大型、周转快的项目具有有利利润率，这种项目组合未必可持续。第二，住宅分部受投入成本、定价能力不足和高借贷成本影响，全年营业利润由 1.038 亿美元降至 4,010 万美元，说明数据中心强势并未覆盖所有终端市场。第三，10-K 明确提示固定价合同估算、技术工人供给、少数客户集中、项目取消、backlog 无法兑现或无法盈利，以及并购整合等风险。\n\n公司在季后完成 DBM Global 收购，把信贷额度由 3 亿美元扩大到 7 亿美元，同时董事会追加授权 3.5 亿美元股票回购。评估资本配置时，应把并购后的债务与整合、营运资金需求、回购实际执行价格和数据中心客户集中度放在同一个框架，而不是只看收入增长。\n\n## Crypto：BitFuFu 自营产币增加，但收入下降 79%，净利润高度依赖币价重估\n\nBitFuFu 2026 年第三季度收入为 3,770 万美元，同比下降 79.1%。其中云挖矿收入由 1.229 亿美元降至 1,380 万美元，设备销售由 3,580 万美元降至 200 万美元，自营挖矿收入由 2,010 万美元降至 1,840 万美元。公司称主要原因包括季度平均比特币价格同比下降 38%、云挖矿需求转弱以及主动优化已部署算力。\n\n收入结构发生明显变化：云挖矿从上年同期收入的 68.0%降至 36.6%，自营挖矿占比升至 48.8%。季度末管理算力由 36.0 EH/s 降至 19.4 EH/s，电力容量由 624 MW 降至 324 MW；客户通过云挖矿产出的比特币由 1,033 枚降至 195 枚。与此同时，公司自营产币由 174 枚增至 258 枚，反映更多平均算力被配置给自营挖矿，但整体平台规模收缩。\n\n当季收入 3,770 万美元，收入成本 3,970 万美元，意味着核心业务在计入经营费用前已经出现约 200 万美元毛损。公司仍报告净利润 2,490 万美元，关键原因是确认了 3,650 万美元数字资产及相关应收应付款公允价值收益，高于上年同期的 1,000 万美元。公允价值收益超过当季净利润，因此不能把净利润增长直接解释为挖矿业务经营改善。\n\n9 月末现金、现金等价物和数字资产合计 1.453 亿美元，低于 2025 年末的 1.771 亿美元；公司称下降部分来自出售比特币支持运营和算力采购，并净偿还 1,150 万美元比特币抵押贷款。公司持有比特币由 1,962 枚降至 1,388 枚。\n\n这组数据说明矿企同时暴露于币价、全网难度、电价、设备效率、资本开支和库存会计。后续应单独跟踪单位产币现金成本、有效算力、机队能效、电力合同、BTC 销售与抵押、云挖矿预收款变化，以及扣除数字资产公允价值变动后的经营利润。\n\n## 下一步核验清单\n\n- 宏观：观察州级新增就业的扩散是否连续扩大，并与全国就业、JOLTS、初领失业金和工资工时交叉验证。\n- 股票：核对 DBM 并购后的净债务、整合成本、数据中心客户集中度、剩余履约义务转化速度和回购实际执行。\n- Crypto：将自营产币、云挖矿客户产币、单位成本和币价重估拆开，避免用 GAAP 净利润替代矿业经营现金流。\n\n以上材料用于研究与学习，不构成投资建议。"
+    },
+    {
+      "id": "lesson-2026-11-21-msme-cash-flow-underwriting",
+      "kind": "lesson",
+      "title": "英文金融视频：没有抵押物的小企业，怎样用现金流数据获得融资？",
+      "category": "金融英语与信贷分析",
+      "date": "2026-11-21",
+      "summary": "精听世界银行 2026 年年会小微企业融资回顾视频，理解交易数据、数字支付、现金流承保、替代数据与风险分担如何缓解小企业融资缺口，并练习用英文同时解释机会、偏差和隐私风险。",
+      "tags": [
+        "金融英语",
+        "World Bank",
+        "MSME",
+        "小微企业",
+        "现金流承保",
+        "Alternative Data",
+        "Digital Payments",
+        "Credit Risk",
+        "Fintech"
+      ],
+      "status": "curated",
+      "ownerViewpoint": false,
+      "sourceVerified": true,
+      "videoUrl": "https://live.worldbank.org/en/event/2026/annual-meetings-finance-for-micro-small-medium-businesses",
+      "duration": "10 分钟回顾视频",
+      "sources": [
+        {
+          "title": "World Bank Live：MSME Finance — Leveraging Data for Jobs（2026 Annual Meetings, 10-minute recap）",
+          "url": "https://live.worldbank.org/en/event/2026/annual-meetings-finance-for-micro-small-medium-businesses"
+        },
+        {
+          "title": "World Bank Group：MSMEs in Developing Countries Face $4 Trillion Finance Gap（17 November 2026）",
+          "url": "https://www.worldbank.org/en/news/press-release/2026/11/17/msmes-in-developing-countries-face-4-trillion-finance-gap"
+        },
+        {
+          "title": "World Bank Group：Finance and Prosperity 2026",
+          "url": "https://www.worldbank.org/en/publication/finance-and-prosperity-2026"
+        }
+      ],
+      "body": "## 材料核验\n\n主视频来自世界银行集团 2026 年年会活动页，页面提供 10 分钟回顾视频，并附完整活动记录与专家问答。讨论参与者包括世界银行集团、银行、金融科技、企业和国际商会代表，主题是如何利用交易数据和数字化扩大微型、小型和中型企业融资。\n\n世界银行 11 月 17 日配套发布的资料称，2019 至 2023 年发展中经济体 MSME 融资缺口约为 4 万亿美元。这个数字是模型估计的潜在信贷需求与现有供给之差，不是某一年已经发生的贷款损失，也不意味着所有缺口都应无条件用债务填满。\n\n本课程是公开材料整理，不代表 Linna 已完成学习，也不是她的个人总结、观点或投资建议。\n\n## 中文知识说明\n\n传统小企业贷款常依赖抵押物、经审计财务报表和长期征信记录。许多真实经营的小店、网商或供应商没有这些材料，因此即使每天有销售，也可能在银行模型里“不可见”。数字支付、电子发票、库存、平台订单和现金流记录可以把经营活动转化为可验证的数据轨迹。\n\n现金流承保关注企业未来产生现金的能力，而不只看可处置抵押物。贷款人可能分析收入稳定性、季节性、客户集中度、退款、库存周转和账户余额变化，再估计还款能力。优势是能服务轻资产企业，并更快更新风险判断；代价是模型可能把平台规则变化、短期促销或一次性高流水误认为持续能力。\n\n替代数据不是天然更公平。没有数字足迹的企业可能被再次排除；女性经营者、农村企业或现金经济参与者也可能因样本不足被低估。数据来源、授权、用途限制、纠错机制和申诉渠道决定“更多数据”是降低信息不对称，还是扩大监控和自动化偏见。\n\n金融科技擅长获客、支付和数据承保，但长期稳定资金、监管资本和风险治理往往来自银行或资本市场。活动中的一个核心逻辑是组合：金融科技提供分销与实时数据，银行提供稳定资金和受监管的资产负债表，担保或风险分担工具吸收部分尾部损失，政府改善身份、支付、征信和破产制度。\n\n融资也不是唯一约束。企业还需要记账、市场连接、数字工具、合规能力和经营技能。贷款若没有匹配真实现金周期，可能扩大杠杆却没有创造可持续就业。因此，研究融资成效不能只看放款额，还要看贷款定价、违约、续贷、销售、利润和就业的持续变化。\n\n## 核心词汇\n\n- MSME：micro, small and medium enterprise，微型、小型和中型企业。\n- financing gap：融资缺口；潜在融资需求与可获得资金之间的估计差额。\n- cash-flow underwriting：现金流承保；基于收入、支出和现金生成能力判断信用风险。\n- collateral：抵押物；违约时可被处置以降低损失的资产。\n- alternative data：替代数据；传统征信之外的交易、支付、库存或行为信息。\n- digital footprint：数字足迹；经营活动在支付、平台和系统中留下的数据记录。\n- thin-file borrower：信用档案较薄的借款人；缺少足够传统征信历史。\n- risk sharing：风险分担；由贷款人、担保方、投资者等共同承担损失。\n- credit scoring：信用评分；用规则或模型估计违约风险。\n- repayment capacity：偿债能力；借款人以未来现金流按时还款的能力。\n- data consent：数据同意；数据主体明确授权数据被收集和用于特定目的。\n- model bias：模型偏差；数据或设计使某些群体被系统性高估或低估风险。\n\n## 地道表达\n\n- make small businesses visible to the financial system：让小企业在金融系统中变得可识别。\n- underwrite against cash flow rather than collateral：依据现金流而非抵押物承保。\n- turn transaction records into a credit profile：把交易记录转化为信用档案。\n- close the information gap between lenders and borrowers：缩小贷款人与借款人之间的信息差。\n- reach thin-file businesses at scale：大规模触达信用档案较薄的企业。\n- pair digital distribution with stable funding：把数字化分销与稳定资金结合。\n- share first-loss risk：分担首损风险。\n- calibrate the model across the credit cycle：跨越信贷周期校准模型。\n- avoid excluding firms with weak digital footprints：避免排除数字足迹较弱的企业。\n- finance alone is not enough：仅有融资并不够。\n\n## 听力任务\n\n第一遍不暂停，回答三个问题：为什么小企业在传统金融系统中不可见？哪些数据可以替代抵押物？哪些机构需要合作？\n\n第二遍按“数据—模型—资金—结果”做四栏笔记。每听到 transaction records、digital payments、cash flow、risk-weighted assets、stable funding 或 partnerships，就记录它在链条中的作用。\n\n第三遍专门抓限定词，例如 can、may、assuming、with consent 和 at scale。它们说明演讲者提出的是条件性机制，不是“只要有数据就一定能降低违约”的结论。\n\n## 输出练习\n\n用 90 秒英文回答：\n\n“How can transaction data expand credit access for a small business that has no traditional collateral?”\n\n必须包含：\n\n1. 两类可用数据；\n2. 现金流承保与抵押物承保的区别；\n3. 一个对贷款人的好处；\n4. 一个偏差或隐私风险；\n5. 银行、金融科技和公共部门各自的角色。\n\n参考开头：\n\n“A small business may be invisible to a traditional lender even when it has steady daily sales. With the owner’s consent, payment and invoice data can help the lender build a cash-flow-based credit profile.”\n\n再做反方练习：假设一家商户最近三个月因平台补贴而流水翻倍，说明为什么模型不能直接把这段增长外推到未来，并提出三项补充核验：补贴依赖、客户集中度和淡旺季历史。\n\n最后用一句有条件结论收尾：\n\n“Alternative data can widen access to finance, provided that the model is transparent, the data are used with consent, and repayment capacity is tested across a full business cycle.”\n\n## 自查问题\n\n- 你是否把融资缺口误写成已经发生的损失？\n- 你能否区分销售流水、利润和可用于还款的自由现金流？\n- 你是否同时说明了数字足迹的覆盖偏差和隐私边界？\n- 你能否解释为什么放款规模增长不等于就业和生产率一定改善？\n\n本材料仅用于英语与金融知识学习，不构成投资建议。"
+    },
     {
       "id": "briefing-2026-11-20",
       "kind": "briefing",
