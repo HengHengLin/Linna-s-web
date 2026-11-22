@@ -1,7 +1,90 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-21T09:00:00+08:00",
+  "updatedAt": "2026-11-22T09:00:00+08:00",
   "entries": [
+    {
+      "id": "briefing-2026-11-22",
+      "kind": "briefing",
+      "title": "今日事实简报：行业生产率分化、Momentus 航天交付与 CME 比特币期货持仓",
+      "category": "每日财经简报",
+      "date": "2026-11-22",
+      "summary": "基于美国劳工统计局 2025 年主要行业全要素生产率、Momentus 最新 10-Q，以及 CFTC 11 月 17 日 CME 比特币期货持仓，区分效率提升与资本投入、航天技术验证与商业化现金流，并正确读取标准与微型比特币合约中的多空和展期仓位。",
+      "tags": [
+        "宏观",
+        "BLS",
+        "TFP",
+        "生产率",
+        "股票",
+        "MNTS",
+        "航空航天",
+        "在轨服务",
+        "Crypto",
+        "Bitcoin Futures",
+        "CFTC",
+        "COT"
+      ],
+      "status": "curated",
+      "ownerViewpoint": false,
+      "sourceVerified": true,
+      "updatedAt": "2026-11-22T09:00:00+08:00",
+      "sources": [
+        {
+          "title": "U.S. Bureau of Labor Statistics：Total Factor Productivity for Major Industries — 2025（20 November 2026）",
+          "url": "https://www.bls.gov/news.release/archives/prod5_11202026.htm"
+        },
+        {
+          "title": "U.S. Bureau of Labor Statistics：Revised Total Factor Productivity 2025（20 November 2026）",
+          "url": "https://www.bls.gov/productivity/notices/2026/revised-total-factor-productivity-2025.htm"
+        },
+        {
+          "title": "Momentus / SEC Form 10-Q for quarter ended 30 September 2026（filed 20 November 2026）",
+          "url": "https://www.sec.gov/Archives/edgar/data/1781162/000162828026075311/mnts-20260930.htm"
+        },
+        {
+          "title": "CFTC：CME Futures Only Commitments of Traders — positions as of 17 November 2026（published 20 November 2026）",
+          "url": "https://www.cftc.gov/dea/futures/deacmesf.htm"
+        }
+      ],
+      "body": "## 更新时间\n\n北京时间 2026 年 11 月 22 日 09:00。以下只汇总已发布的官方资料，不包含实时行情、买卖建议或 Linna 的个人观点。生产率数据是年度、滞后且会修订的统计；航天任务进展不等于成熟商业模式；COT 是持仓快照，不是下一步价格方向预测。\n\n## 宏观：劳动生产率增长不等于全要素生产率普遍改善\n\n美国劳工统计局 11 月 20 日发布的数据显示，2025 年 19 个主要行业中，只有 7 个行业的全要素生产率（TFP）上升，批发贸易以 3.7%的增幅居首。TFP 衡量实际产出相对于资本、劳动、能源、材料和服务等综合投入的效率；它可能反映技术、组织和流程改善，但也是扣除可测投入后的余项，不能简单当成“技术进步率”。\n\n行业分化明显。信息业 TFP 增长 1.9%，产出增长 7.3%，综合投入增长 5.3%；金融和保险业 TFP 增长 1.3%；专业与技术服务业增长 1.9%。制造业 TFP 下降 1.2%，建筑业下降 1.0%，零售贸易下降 2.3%，公用事业下降 1.7%。\n\n劳动生产率在 19 个行业中的 13 个上升，但只有 4 个行业的最大贡献来自 TFP。信息业劳动生产率增长 7.6%，其中资本深化贡献 2.7 个百分点，说明“每小时产出增加”可能来自每位劳动者使用更多资本，而不只是生产流程本身更高效。判断 AI 是否已提高生产率，需要区分资本投入、劳动力结构和 TFP，并观察更长时间。\n\nBLS 还把 2025 年私人商业部门 TFP 增速由此前的 0.8%上修至 1.0%，原因包括 BEA 国民账户年度更新和工时数据修订；产出增速由 2.6%上修至 2.8%，综合投入由 1.7%上修至 1.8%。这提醒我们，早期生产率估计会随底层数据改变。\n\n价格差也不能直接替代效率：2025 年 19 个行业中有 12 个行业的产出价格涨得比综合投入价格快，这一结构与 TFP 下降相一致，但价格、数量和质量调整仍依赖统计方法。后续应关注 2026 年修订、行业资本服务、工时质量、AI 投资扩散以及实际产出，而不是仅凭某一行业的高资本开支断言生产率已经兑现。\n\n## 股票：Momentus 的在轨验证在推进，但收入规模、会计调整和融资稀释仍是核心约束\n\nMomentus 在最新 10-Q 中披露，Vigoride 7 已进行超过 50 次受控降轨操作，轨道高度降低近 20 公里；其水基微波电热推进器自 2023 年以来累计在公司任务中使用超过 400 次。Vigoride 8 计划于 2027 年发射，已安排三个载荷，其中两个来自 NASA、一个为商业客户；公司也已开始 Vigoride 9 的工作并签署初始客户合同。\n\n技术验证与收入确认仍有很大距离。2026 年第三季度报告服务收入包含一项 320 万美元前期差错调整：公司把原本应列为 DARPA 发射服务收入的对价误列为收入成本抵减。调整同时增加收入和收入成本，对毛利、净亏损和现金流没有影响。剔除这项调整，第三季度服务收入约 160 万美元、收入成本为零，主要经营收入仍很小。\n\n第三季度研发费用由上年同期 230 万美元增至 530 万美元，主要因为支持 Vigoride 8、Vigoride 9 等并行项目的工程团队扩大；销售、一般与行政费用由 420 万美元增至 560 万美元。当季净亏损为 853.9 万美元，上年同期为 1,107.4 万美元。前九个月服务收入 805.6 万美元，营业亏损 2,606.2 万美元，净亏损 2,628.8 万美元。\n\n9 月末现金及现金等价物为 1.0866 亿美元，较 2025 年末的 1,280.6 万美元大增，但主要背景是 2026 年融资活动，而非成熟业务自我造血。第三季度公司通过 ATM 发行 200 万股，净筹资约 818.6 万美元；季后又发行 160 万股，募集总额约 300 万美元，仍有最多约 5,300 万美元证券可在 ATM 计划下出售，现有股东面临持续稀释风险。\n\n公司在 10 月 9 日至 11 月 2 日向发射服务商支付 2,200 万美元，包括向 SpaceX 支付 750 万美元作为 Vigoride 8 首付款，以及向 Reprise Space Solutions 支付 1,450 万美元用于两次未来低轨拼车任务。发射槽位是业务必需资源，但预付款也把现金转成受任务延期、取消和供应商条件约束的资产。\n\n商业化还受第三方发射供给制约。公司称 SpaceX 拼车市场价格和条款趋紧，2028 年后的预约可得性存在不确定性，Starship 何时以及以何种条件向第三方拼车载荷开放也不确定。后续应分别跟踪技术在轨表现、客户验收、收入转换、任务毛利、发射预付款、融资频率和每股稀释。\n\n## Crypto：标准 CME 比特币期货仍是非商业净多，但一周内净多明显收窄\n\nCFTC 11 月 20 日发布的交易者持仓报告显示，截至 11 月 17 日，标准 CME 比特币期货未平仓量为 19,257 张，每张合约代表 5 枚比特币，较 11 月 10 日减少 8 张，整体规模基本稳定。\n\n非商业交易者持有 15,125 张多头、13,597 张空头和 2,651 张跨期或价差仓位。只看方向性多头减空头，净多约 1,528 张；一周前为 15,943 张多头减 13,568 张空头，即约 2,375 张净多，所以净多缩小约 847 张。变化主要来自非商业多头减少 818 张，而空头增加 29 张；价差仓位增加 566 张。\n\n商业交易者持有 546 张多头和 1,980 张空头，净空 1,434 张。商业与非商业分类描述交易者报告身份和业务属性，不等于“聪明钱”和“散户”；商业空头也可能是现货、ETF、期权或其他业务敞口的套期保值，不能直接解读为看跌预测。\n\n微型比特币期货每张仅代表 0.1 枚比特币，其未平仓量从 24,941 张降至 22,185 张，减少 2,756 张。非商业交易者持有 14,595 张多头、19,378 张空头和 477 张价差仓位，方向性净空 4,783 张。标准合约与微型合约的单位相差 50 倍，不能直接把两种合约的“张数”相加判断净敞口。\n\nCOT 还有三项限制。第一，它是周二持仓、周五发布的滞后快照；第二，同一机构可能在不同账户、期限和工具上对冲；第三，价差仓位不应简单算进单边方向。因此，这组数据能说明可报告交易者结构和仓位变化，但不能单独回答价格将涨还是跌。若要用于研究，应进一步换算成 BTC 等值、结合期货基差、资金费率、期权偏度、ETF 流量和现货成交。\n\n## 下一步核验清单\n\n- 宏观：跟踪 2026 年行业 TFP 修订，并把 TFP、资本深化、劳动构成和实际产出拆开。\n- 股票：核对 Vigoride 8/9 的发射、客户验收、任务毛利、发射预付款回收性和后续 ATM 稀释。\n- Crypto：把标准与微型合约换算成 BTC 等值，结合基差和现货/ETF 数据检验净多收窄是否只是套保结构变化。\n\n以上材料用于研究与学习，不构成投资建议。"
+    },
+    {
+      "id": "lesson-2026-11-22-public-debt-central-banks",
+      "kind": "lesson",
+      "title": "英文金融视频：公共债务如何改变中央银行的利率选择？",
+      "category": "金融英语与宏观政策",
+      "date": "2026-11-22",
+      "summary": "精听世界银行 ABCDE 2026 斯坦利·费希尔纪念演讲，建立公共债务、再融资成本、期限结构、通胀与中央银行独立性的分析框架，并练习用英文区分财政压力、货币政策目标和条件性推断。",
+      "tags": [
+        "金融英语",
+        "World Bank",
+        "Public Debt",
+        "Central Banks",
+        "利率",
+        "债务可持续性",
+        "Fiscal Dominance",
+        "Yield Curve"
+      ],
+      "status": "curated",
+      "ownerViewpoint": false,
+      "sourceVerified": true,
+      "videoUrl": "https://www.worldbank.org/en/news/video/2026/06/30/abcde-2026-stanley-fischer-memorial-lecture-on-public-debt-and-central-banks",
+      "duration": "约 80 分钟",
+      "sources": [
+        {
+          "title": "World Bank Group：ABCDE 2026 — Stanley Fischer Memorial Lecture on Public Debt and Central Banks（30 June 2026, 4806.844 seconds）",
+          "url": "https://www.worldbank.org/en/news/video/2026/06/30/abcde-2026-stanley-fischer-memorial-lecture-on-public-debt-and-central-banks"
+        },
+        {
+          "title": "World Bank Group：Annual Bank Conference on Development Economics 2026 — Jobs for the Next Generation",
+          "url": "https://www.worldbank.org/en/events/2026/06/16/abcde-2026"
+        },
+        {
+          "title": "World Bank Group：Stanley Fischer Memorial Lecture by David Malpass（16 June 2026 presentation）",
+          "url": "https://thedocs.worldbank.org/en/doc/87aa1234eafd33a9a39c0fee9397be6a-0050012026/stanley-fischer-memorial-lecture-by-david-malpass-day-1-abcde-2026"
+        }
+      ],
+      "body": "## 材料核验\n\n视频由世界银行集团发布，内容为 David Malpass 在 ABCDE 2026 会议所作的斯坦利·费希尔纪念演讲，主题是公共债务与中央银行。官方页面标注时长 4,806.844 秒，约 80 分钟，并注明可查看时间戳和字幕；会议页面同时提供演讲材料入口。\n\n这是一位演讲者对债务与中央银行关系的分析，不等同于世界银行、某一中央银行或学界的一致立场。课程中的公式和概念用于帮助听辨与核验论证，不把演讲者观点冒充为 Linna 的观点，也不代表她已完成学习。\n\n## 中文知识说明\n\n公共债务影响货币政策，首先经过再融资而不是一次性传导。政府已有债务的票息通常不会因政策利率上调立刻全部变化；真正的现金利息压力取决于浮动利率债务比例、平均期限、未来到期量和新债收益率。债务期限越短，利率上升越快进入预算。\n\n常用债务动力学近似式是：\n\n债务率变化 ≈ （实际利率 − 实际经济增速）× 上期债务率 − 基础财政余额。\n\n若实际利率高于实际增速，且政府继续出现基础赤字，债务率更容易上升；若经济增速较高、基础盈余改善或通胀意外抬高名义 GDP，债务率可能下降。但通胀降低旧有名义债务实际价值的同时，也可能推高新发债利率、缩短投资者愿意持有的期限，并损害政策信誉。\n\n财政主导是一个风险状态，而不是“债务一高，央行必然降息”的机械规律。它指财政融资约束开始限制中央银行控制通胀的能力，例如市场担心高利率会使政府融资不可持续，或金融体系因大量持有国债而对收益率上升高度敏感。央行仍可能加息，但金融稳定和财政传导的代价更大。\n\n需要区分债务货币化、量化宽松和二级市场操作。央行购买国债可能服务于利率走廊、市场功能或宏观刺激，并不自动等于永久为财政赤字融资。判断关键是政策目标、规模、退出安排、央行资产负债表风险，以及财政当局是否有可信的中期预算路径。\n\n收益率曲线把预期政策利率、期限溢价、通胀风险和供需共同映射到不同期限。财政发债增加不一定让所有期限收益率同步上升；结果取决于期限结构、投资者基础、央行反应和全球安全资产需求。讨论“债务压低或抬高利率”时，必须说明哪一种利率、哪个期限和什么情景。\n\n## 核心词汇\n\n- public debt：公共债务；政府已发行、尚未偿还的债务。\n- debt service：债务偿付；利息与到期本金的支付。\n- rollover risk：再融资风险；到期债务无法以可接受成本续借的风险。\n- maturity structure：期限结构；不同到期年份债务的分布。\n- primary balance：基础财政余额；不含利息支出的财政收支差额。\n- interest-growth differential：利率与经济增速差，常写作 r − g。\n- fiscal dominance：财政主导；财政约束限制货币政策实现价格稳定的能力。\n- monetary financing：货币融资；中央银行通过货币创造直接或实质性支持财政。\n- term premium：期限溢价；持有长期债券相对滚动短债所要求的额外补偿。\n- financial repression：金融压抑；通过监管、资本控制或利率安排压低政府融资成本。\n- inflation tax：通胀税；通胀降低货币和固定名义债权实际购买力的效果。\n- central bank independence：中央银行独立性；央行在授权范围内作政策决策的制度能力。\n\n## 地道表达\n\n- higher rates feed through to the budget with a lag：更高利率会滞后传导至财政预算。\n- refinance maturing debt at a higher yield：以更高收益率为到期债务再融资。\n- lengthen the maturity profile：拉长债务期限结构。\n- stabilize the debt-to-GDP ratio：稳定债务占 GDP 比率。\n- preserve monetary policy credibility：维护货币政策信誉。\n- fiscal pressures constrain the policy space：财政压力压缩政策空间。\n- distinguish market functioning from deficit financing：区分维护市场功能与赤字融资。\n- anchor inflation expectations：锚定通胀预期。\n- absorb a larger supply of government bonds：吸收更多政府债券供给。\n- avoid a self-reinforcing debt spiral：避免自我强化的债务螺旋。\n\n## 精听安排\n\n视频较长，可分三段完成，而不是一次强行听完。\n\n第一段先抓框架：演讲者如何定义问题，区分公共债务存量、财政赤字、利息成本和中央银行资产负债表。记录所有转折词，如 however、by contrast、the constraint is 和 this does not imply。\n\n第二段专门记录因果链：政策利率如何经过国债收益率、再融资、银行资产负债表和财政预算传导。每一条链都写出至少一个成立条件和一个可能的反方解释。\n\n第三段关注政策主张。把内容分成“可核验事实”“演讲者推断”“规范性建议”三栏。若听到 must、should、inevitable 或 unsustainable，暂停检查它是数据结论、情景判断还是价值选择。\n\n## 输出练习\n\n用 90 秒英文回答：\n\n“Why does a high public-debt ratio make monetary tightening more complicated, but not impossible?”\n\n必须包含：\n\n1. 债务再融资的滞后；\n2. 平均期限的重要性；\n3. r − g 与基础财政余额；\n4. 财政主导风险；\n5. 为什么央行仍需围绕其法定目标作决策。\n\n参考开头：\n\n“A high debt ratio does not mechanically force a central bank to cut rates. The pressure depends on how quickly higher yields pass through to the government’s refinancing cost and the broader financial system.”\n\n再做一个数字练习：假设债务率为 100%，实际利率为 3%，实际增速为 1%，基础财政赤字为 GDP 的 1%。先用近似式计算债务率上升压力，再用英文说明为什么这个静态结果没有计入期限、通胀意外、汇率和政策反应。\n\n最后分别提出一项支持和一项反方解释：\n\n- 支持：短久期债务使加息更快推高财政利息支出。\n- 反方：若债务期限很长、以本币发行且投资者基础稳定，短期传导可能较慢。\n\n## 自查问题\n\n- 你是否把政策利率与政府平均融资成本当成同一个数字？\n- 你能否区分债务存量、当期赤字和基础财政余额？\n- 你是否把央行购债一律称为债务货币化？\n- 你能否说明“高债务限制政策空间”是条件性判断而不是必然结论？\n\n本材料仅用于英语与金融知识学习，不构成投资建议。"
+    },
     {
       "id": "briefing-2026-11-21",
       "kind": "briefing",
