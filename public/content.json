@@ -1,7 +1,144 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-23T09:00:00+08:00",
+  "updatedAt": "2026-11-24T09:00:00+08:00",
   "entries": [
+    {
+      "id": "briefing-2026-11-24",
+      "kind": "briefing",
+      "title": "今日事实简报：美债实际收益率、Agilent 增长质量与 SOL 财库每股口径",
+      "category": "每日财经简报",
+      "date": "2026-11-24",
+      "summary": "基于美联储 11 月 23 日 H.15、Agilent 第四财季 SEC 文件与 DeFi Development 11 月 23 日公告，区分名义收益率与实际利率、广泛业务增长与一次性关税退款，以及总 SOL 增长与完全稀释每股经济权益。",
+      "tags": [
+        "宏观",
+        "Federal Reserve",
+        "美债收益率",
+        "TIPS",
+        "股票",
+        "Agilent",
+        "生命科学",
+        "实验室自动化",
+        "Crypto",
+        "SOL Treasury",
+        "DFDV",
+        "稀释"
+      ],
+      "status": "curated",
+      "ownerViewpoint": false,
+      "sourceVerified": true,
+      "updatedAt": "2026-11-24T09:00:00+08:00",
+      "sources": [
+        {
+          "title": "Federal Reserve Board：H.15 Selected Interest Rates — release dated 23 November 2026",
+          "url": "https://www.federalreserve.gov/releases/h15/"
+        },
+        {
+          "title": "Agilent Technologies / SEC Exhibit 99.1：Fourth-Quarter Fiscal Year 2026 Financial Results（23 November 2026）",
+          "url": "https://www.sec.gov/Archives/edgar/data/1090872/000109087226000082/exhibit991-q426pressrelease.htm"
+        },
+        {
+          "title": "DeFi Development Corp. / SEC Exhibit 99.1：SOL Treasury Update（23 November 2026）",
+          "url": "https://www.sec.gov/Archives/edgar/data/1805526/000180552626000182/dfdv-exx991_112326.htm"
+        },
+        {
+          "title": "DeFi Development Corp. / SEC Form 10-Q for quarter ended 30 September 2026（filed November 2026）",
+          "url": "https://www.sec.gov/Archives/edgar/data/1805526/000180552626000168/dfdv-20260930.htm"
+        }
+      ],
+      "body": "## 更新时间\n\n北京时间 2026 年 11 月 24 日 09:00。以下只整理已发布的官方资料，不包含实时行情、买卖建议或 Linna 的个人观点。美联储 H.15 于 11 月 23 日发布、最新数据截至 11 月 20 日；Agilent 财报与 DeFi Development 披露均发布于 11 月 23 日。\n\n## 宏观：美债名义收益率下行主要伴随实际收益率下行，不能简单解释为通胀预期骤降\n\n美联储 H.15 显示，11 月 20 日有效联邦基金利率仍为 3.88%，与 11 月 16–19 日相同。政策隔夜利率没有变化，但国债二级市场的中长期收益率下行，说明市场定价可以在政策利率不变时调整。\n\n11 月 20 日，两年、十年和三十年期名义国债恒定期限收益率分别为 4.63%、4.92%和 5.31%；前一日分别为 4.76%、5.04%和 5.40%。即两年期下降 13 个基点、十年期下降 12 个基点、三十年期下降 9 个基点。十年减两年期限利差从约 28 个基点小幅变为 29 个基点，曲线形状变化不大，主要是整体水平下移。\n\n同期十年期通胀保值国债实际收益率从 2.88%降至 2.77%，下降 11 个基点。用名义十年收益率减实际十年收益率得到的简单盈亏平衡通胀近似值，从 2.16%变为 2.15%，基本稳定。因此，当日十年名义收益率下降更接近实际利率下行，而非简单的长期通胀补偿大幅下降。\n\n这仍不是对经济原因的唯一识别。实际收益率会同时受增长预期、期限溢价、安全资产需求、供需和市场流动性影响；盈亏平衡通胀也包含通胀风险溢价与 TIPS 流动性差异。若要判断“市场在定价降息、增长走弱还是期限溢价下降”，还需结合联邦基金期货、国债拍卖、通胀互换、期限溢价模型和后续数据。\n\n## 股票：Agilent 增长与利润率改善较广，但关税退款抬高了非 GAAP 利润率\n\nAgilent 向 SEC 提交的第四财季业绩显示，截至 10 月 31 日的季度收入为 20.4 亿美元，同比报告增长 9.6%，核心收入增长 8.3%。GAAP 营业利润率为 25.0%，同比扩大 120 个基点；GAAP 净利润 4.51 亿美元，摊薄每股收益 1.59 美元，同比增长约 4%。\n\n三个业务组均增长：生命科学与诊断业务收入 8.43 亿美元，同比报告增长 12%、核心增长 9%，营业利润率 25.9%；CrossLab 服务业务收入 7.99 亿美元，报告和核心均增长 6%，利润率 34.5%；应用市场业务收入 3.98 亿美元，报告和核心均增长 13%，利润率 29.4%。这比只由单一产品拉动的增长更分散。\n\n公司披露的非 GAAP 营业利润率为 30.0%，同比扩大 280 个基点，但其中约 120 个基点来自关税退款净收益；非 GAAP 净利润中也包含 2,000 万美元关税退款净收益。剔除这项一次性帮助后，经营改善仍存在，但不能把全部非 GAAP 扩张外推为持续效率提升。\n\n2026 财年经营活动现金流为 16.51 亿美元，资本开支 3.54 亿美元，两者简单相减约 12.97 亿美元。这个近似值不是公司正式定义的 GAAP 指标，也未扣除 9.51 亿美元并购与无形资产支出；评价资本配置时需要把收购、回购 3.23 亿美元、分红 2.88 亿美元和新增债务一起看。\n\n公司预计 2027 财年收入 80.0 亿至 81.5 亿美元，核心增长 5%至 7%；该指引不包含未来关税退款收益。管理层提到 AI 和 autonomous labs 的机会，但当前财报并未单独披露其收入、订单或回报，因此这仍是战略叙事，后续需要用产品收入、客户采用和服务续费验证。\n\n## Crypto：总 SOL 增长约 0.2%，但没有同期股本与负债口径，不能直接推出“每股 SOL 增长”\n\nDeFi Development Corp. 11 月 23 日向 SEC 提交的公告称，公司 SOL 及等价物从约 2,619,311 增至 2,624,491，增加 5,180，环比约 0.20%。这连续第 11 周增加总持有量，但“总币数增长”与“每股币数增长”不是同一个指标。\n\n公司同时宣传以 staking、验证者业务和链上机会增加 SOL per share（SPS）。要计算普通股股东可归属的 SPS，需要至少知道最新完全稀释股数、可转债与优先证券对普通股的权利、现金和其他负债，以及 SOL 等价物的具体构成。11 月 23 日这份更新没有提供完整的同期桥接表。\n\n公司第三季度股东信显示，摊薄加权平均股数同比增加 21.7%，而摊薄 EPS 同比下降 2.1%；它还说明 SPS 可采用恒定 SOL 价格、债务按本金计量，或采用日期特定市值等不同方法。不同方法回答的问题不同，也可能产生显著不同的增长率，必须固定口径后比较。\n\n公告还提到 CHAD 优先股当前年化股息率为 14%，按日派发，但同时明确股息率可变、股息累计且只有董事会宣布后才支付。高票息是融资成本，不是无条件收益；若通过发行优先股、普通股或可转换证券购买更多 SOL，需要比较新增 SOL 与新增索偿权、利息/股息义务和稀释。\n\n后续应要求一张可复算的每股桥接表：期初 SOL、购买、staking/validator 收益、处置、期末 SOL；普通股、期权、认股权证、可转债与优先股；现金、债务和应付股息。支持解释是资本市场融资与质押收益可能提高每股暴露；反方解释是总持仓增长被稀释和融资成本抵消。\n\n本简报仅作事实核验与研究线索，不构成投资建议。"
+    },
+    {
+      "id": "lesson-2026-11-24-financial-plumbing-private-capital",
+      "kind": "lesson",
+      "title": "英文金融视频：金融体系的“管道”为什么决定私人资本能否进入？",
+      "category": "金融英语与金融体系",
+      "date": "2026-11-24",
+      "summary": "精听世界银行 45 分 49 秒英文讨论，理解金融深度、可得性、效率、稳定性、本地投资者基础与退出流动性，并练习解释为什么“储蓄充足”仍可能无法转化为生产性投资。",
+      "tags": [
+        "金融英语",
+        "World Bank",
+        "FinData",
+        "私人资本",
+        "金融深度",
+        "资本市场",
+        "NBFI",
+        "退出流动性"
+      ],
+      "status": "curated",
+      "ownerViewpoint": false,
+      "sourceVerified": true,
+      "videoUrl": "https://www.worldbank.org/en/news/video/2026/10/21/what-financial-systems-need-to-mobilize-private-capital",
+      "duration": "45 分 49 秒；建议学习 55 分钟",
+      "sources": [
+        {
+          "title": "World Bank Group：Solving the Plumbing Problem — What Financial Systems Need to Mobilize Private Capital（21 October 2026, 45:49）",
+          "url": "https://www.worldbank.org/en/news/video/2026/10/21/what-financial-systems-need-to-mobilize-private-capital"
+        },
+        {
+          "title": "World Bank Group：Financial Development Data (FinData)",
+          "url": "https://data.worldbank.org/"
+        }
+      ],
+      "body": "## 材料核验\n\n世界银行集团于 2026 年 10 月 21 日发布英文视频 “Solving the Plumbing Problem: What Financial Systems Need to Mobilize Private Capital”，官方页面标注实际时长为 45 分 49 秒。视频由世界银行 Norman Loayza 主持，与欧洲央行监督委员会主席 Claudia Buch、美国银行印度及东盟经济研究负责人 Rahul Bajoria 讨论金融体系如何把储蓄转为生产性投资。\n\n官方页面没有展示带时间码逐字稿，因此本条不编造分钟级引文。页面提供了讨论结构和书面要点，可用于核对概念与数字。本材料不代表 Linna 已完成观看，也不把嘉宾观点当成她的个人观点。\n\n## 中文知识说明\n\n“金融管道”指把家庭、企业和机构的储蓄连接到需要资本的项目与借款人。资金总量充足不等于融资有效：若信息披露不足、法律追索不确定、退出市场不深或机构不愿承担长期风险，储蓄可能停留在短期存款和低风险资产，无法支持长期投资。\n\n世界银行 FinData 从 depth、access、efficiency 和 stability 四个维度观察金融机构与市场。官方页面总结，发达经济体平均金融发展程度约为新兴和发展中经济体的三倍；很多经济体的银行与非银行机构发展快于债券和股票市场，最大缺口往往是深度和可得性，而不只是效率。\n\n银行与资本市场承担不同期限。银行通常短期负债、长期贷款，面临期限错配；养老金和保险等长期机构投资者可以承担更长久期。强大的本地投资者基础还可以为全球投资者提供共同定价和退出信心。讨论者强调，投资者关心退出与进入同样多。\n\n韧性与风险承担不是简单对立。良好治理、风险管理和资本使银行更能承担风险；透明度让投资者和借款人更准确地定价。但过度复杂或分散的规则也会增加摩擦。欧洲即使有单一市场和银行业联盟，跨境存款占比仍低于 2%，说明制度名义统一并不自动产生资金跨境流动。\n\n非银行金融机构可以补充银行，但银行与 NBFI 之间的融资、借贷和抵押联系可能不透明。监管不能只问“银行还是市场更好”，而应识别风险在哪个资产负债表累积、冲击如何传导，以及信息披露能否让参与者和监督者看到真实敞口。\n\n## 核心词汇\n\n- financial plumbing：金融管道；储蓄转化为投资的制度与基础设施。\n- private capital mobilization：私人资本动员。\n- financial depth：金融深度；金融资产、信贷和市场规模相对经济体量。\n- financial access：金融可得性；家庭和企业能否实际获得账户、信贷和市场融资。\n- financial efficiency：金融效率；资金配置与服务的成本和速度。\n- financial stability：金融稳定；体系吸收冲击并持续提供关键服务的能力。\n- local investor base：本地投资者基础。\n- legal recourse：法律追索；合同违约后可执行的救济渠道。\n- exit liquidity：退出流动性。\n- maturity transformation：期限转换；以短期负债支持长期资产。\n- non-bank financial intermediary (NBFI)：非银行金融中介。\n- interconnectedness：相互关联性。\n- risk-bearing capacity：风险承担能力。\n- market fragmentation：市场分割。\n- proportional regulation：比例适当的监管。\n\n## 地道表达\n\n- channel savings into productive investment：把储蓄导向生产性投资。\n- investors care about the exit as much as the entrance：投资者同样在意退出与进入。\n- build a deep local investor base：建立深厚的本地投资者基础。\n- borrow short and lend long：短借长贷。\n- price risk with better information：利用更充分的信息为风险定价。\n- strengthen resilience without choking off investment：增强韧性但不压制投资。\n- reduce fragmentation across markets：降低市场之间的分割。\n- make legal recourse predictable：使法律追索具有可预期性。\n- trace exposures across banks and non-banks：追踪银行与非银行机构之间的敞口。\n- avoid treating banks and markets as a binary choice：避免把银行与市场视为二选一。\n\n## 精听方法\n\n第一遍回答：为什么“有储蓄”仍可能“缺投资”？记录所有关于回报、治理、法律追索和退出的表达。\n\n第二遍按四维度做笔记：depth、access、efficiency、stability。把嘉宾提到的每个障碍放入一栏，并说明它影响项目端、投资者端还是中介端。\n\n第三遍画一条资金链：储蓄者 → 银行/养老金/基金 → 债券或股权市场 → 企业和项目。为每个节点写出一个摩擦和一个风险。\n\n第四遍做反方检验：更多透明度可能变成过度披露吗？更深资本市场是否会把风险转移到更难监督的 NBFI？金融一体化是否会增强跨境传染？\n\n## 输出练习\n\n用两分钟英文回答：\n\n“Why can a country have abundant savings but insufficient productive investment?”\n\n必须使用 financial depth、exit liquidity、legal recourse、local investor base、maturity transformation、NBFI 和 market fragmentation。\n\n参考开头：\n\n“Abundant savings do not automatically finance productive investment. Capital needs institutions, transparent information and credible exit channels before investors are willing to take long-term risk.”\n\n再做一个结构练习：比较银行贷款、债券市场和养老金资金在 20 年基础设施项目中的优势与约束；最后提出一个支持改革的解释和一个反方解释。\n\n本材料仅用于金融英语和金融体系知识学习，不构成投资建议。"
+    },
+    {
+      "id": "topic-2026-11-24-frontier-research",
+      "kind": "topic",
+      "title": "本期研究候选：AI 自主实验室、空间天气、场外量价与 Crypto 财库稀释",
+      "category": "研究选题候选",
+      "date": "2026-11-24",
+      "summary": "按 2026-10-10 固定锚点的第十个五日周期，提供 4 个不重复候选题，覆盖 AI×生物医疗、航空航天、威科夫与量价分析、Crypto；每题列明研究价值、核心问题、证据路径和反方解释。",
+      "tags": [
+        "研究选题",
+        "AI生物医疗",
+        "Autonomous Lab",
+        "航空航天",
+        "Space Weather",
+        "威科夫",
+        "场外成交",
+        "Crypto Treasury",
+        "SOL",
+        "稀释"
+      ],
+      "status": "curated",
+      "ownerViewpoint": false,
+      "sourceVerified": true,
+      "sources": [
+        {
+          "title": "NIH：Major investments in human-based research infrastructure and Bio Genesis Autonomous Human Biology Laboratory（21 September 2026）",
+          "url": "https://beta.nih.gov/news-and-media/news/nih-makes-major-investments-advance-human-based-research-infrastructure-and-technologies"
+        },
+        {
+          "title": "Agilent Technologies / SEC Exhibit 99.1：Fourth-Quarter Fiscal Year 2026 Financial Results（23 November 2026）",
+          "url": "https://www.sec.gov/Archives/edgar/data/1090872/000109087226000082/exhibit991-q426pressrelease.htm"
+        },
+        {
+          "title": "NOAA：SOLAR-1 enters new era of space weather monitoring（10 June 2026）",
+          "url": "https://www.noaa.gov/news-release/noaas-solar-1-enters-new-era-of-space-weather-monitoring"
+        },
+        {
+          "title": "NASA Johnson Space Center：Spaceflight Operations — Radiation Monitoring, Protection and Exposure Analysis",
+          "url": "https://www.nasa.gov/reference/jsc-spaceflight-operations/"
+        },
+        {
+          "title": "SEC：Proposed Rule — Trade-Through Rule and Locked and Crossed Markets Provisions of Regulation NMS（2026）",
+          "url": "https://www.sec.gov/files/rules/proposed/2026/34-105655.pdf"
+        },
+        {
+          "title": "SEC：Research and Analysis — Market Structure",
+          "url": "https://www.sec.gov/featured-topics/market-structure-analytics/research-analysis-market-structure"
+        },
+        {
+          "title": "DeFi Development Corp. / SEC Form 10-Q for quarter ended 30 September 2026",
+          "url": "https://www.sec.gov/Archives/edgar/data/1805526/000180552626000168/dfdv-20260930.htm"
+        },
+        {
+          "title": "DeFi Development Corp. / SEC Exhibit 99.1：SOL Treasury Update（23 November 2026）",
+          "url": "https://www.sec.gov/Archives/edgar/data/1805526/000180552626000182/dfdv-exx991_112326.htm"
+        }
+      ],
+      "body": "## 日期与定位\n\n本期锚点为北京时间 2026 年 11 月 24 日，距固定锚点 2026 年 10 月 10 日正好 45 天。11 月 19 日是上一期，本次只补最近到期的一期。以下四项是待 Linna 选择和确认的研究候选，不是已完成研究、个人观点、批准文章或投资建议。\n\n## 候选一：AI 自主实验室能否把“实验速度”转成更高的临床预测力？\n\n### 为什么值得研究\n\nNIH 2026 年宣布建设 Bio Genesis Autonomous Human Biology Laboratory，把标准化人类类器官、机器人、AI 与高级数据能力接入闭环实验平台；同一批计划还包括超过 8,800 万美元的人源研究基础设施投入。Agilent 最新财报也把 AI 与 autonomous labs 列为增长机会，但没有单独披露收入。\n\n投资与产业价值不只在机械臂或模型，而在能否形成可复现的人源实验、缩短假设—实验—分析循环，并把结果转化为药物安全性和有效性的更好预测。\n\n### 核心问题与证据路径\n\n- 闭环系统的目标函数是什么：实验吞吐量、可重复性、毒性预测、靶点验证，还是候选药物成功率？\n- 画出价值链：类器官标准、样本制备、仪器、机器人、实验调度软件、数据平台、AI 模型与验证服务；判断谁拥有数据和切换成本。\n- 用盲法复现实验比较自主实验室与人工流程的批间差异、失败率、周转时间和单位有效数据成本。\n- 把更快实验与更好决策分开；最终验证应连接到前瞻性临床结果或至少跨中心外部验证。\n- 对上市公司跟踪 autonomous lab 相关订单、递延收入、服务续费、耗材拉动和毛利，而不是只统计产品发布。\n\n### 反方解释\n\n实验自动化可能只提高吞吐量，却以更快速度复制有偏的类器官和标签；标准化也可能牺牲生物多样性。仪器、软件和模型的价值还可能被大型平台整合，单点供应商难以保留定价权。\n\n## 候选二：空间天气预警是卫星与电网的“保险基础设施”，还是难以商业化的公共品？\n\n### 为什么值得研究\n\nNOAA 的 SOLAR-1 于 2026 年进入运行，是美国首颗专门用于持续业务化空间天气观测的卫星。其日冕仪图像目标是在捕获后 30 分钟内送达预报员和用户，而研究型观测此前可能需要最长约 8 小时。NOAA 列出的风险暴露包括电网、卫星、通信、航空、GPS、国家安全与载人航天。\n\n更快预警可能减少卫星损伤、导航误差和运营中断，但“数据更快”只有在能够改变操作时才产生经济价值。\n\n### 核心问题与证据路径\n\n- 建立因果链：太阳活动观测 → CME 到达预测 → 运营决策 → 避免损失；分别测量预警提前量、误报率、漏报率和用户反应时间。\n- 对卫星运营商、电网、航空、保险和载人航天分别估计一次预警能改变的动作与成本。\n- 比较公共 NOAA 数据、商业空间天气服务、机载/星载传感器和运营软件的收费位置。\n- 用历史太阳风暴回放，测试若提前获得 SOLAR-1 级别数据，是否会改变卫星安全模式、轨道机动、航线或电网调度。\n- 追踪服务合同、保险定价、停机时间和卫星异常，而不是只看太阳活动次数。\n\n### 反方解释\n\n空间天气预报误差可能仍大于额外 7.5 小时数据时效带来的收益；运营商为防误报频繁进入安全模式也有机会成本。核心观测是公共基础设施，商业公司可能难以捕获大部分价值。\n\n## 候选三：当场外成交超过一半，威科夫“放量”还代表公开订单簿上的供需吗？\n\n### 为什么值得研究\n\nSEC 2026 年 Reg NMS 提案指出，自 2024 年末起，美国股票场外成交占比经常超过总成交量 50%；截至 2026 年 1 月，Nasdaq 上市股票场外占比约 51.9%，NYSE 上市股票约 47%。场外包括 ATS、单一交易商平台和批发商；交易所内部也存在隐藏流动性。\n\n日线成交量把公开交易所、暗池、批发商内化、零股和竞价混合在一起。若把总量直接解释为威科夫式吸筹或派发，可能把执行场所变化误当成方向性需求。\n\n### 核心问题与证据路径\n\n- 把成交量拆分为交易所显示、交易所隐藏、ATS、非 ATS 场外、开收盘竞价和零股；固定每类口径。\n- 检验同一价涨量增信号在不同 off-exchange share 下的未来 1/5/20 日收益、价差、冲击和回撤。\n- 加入订单成交比、撤单率、报价寿命和有效价差，区分真实流动性消耗与成交内部化。\n- 对大盘股、小盘股、ETF、财报日和指数调仓分层，做 walk-forward 样本外检验并计入交易成本。\n- 将 Wyckoff 标签事前程序化，不允许看到未来走势后重新定义 accumulation 或 distribution。\n\n### 反方解释\n\n场外成交仍会报告到成交记录，汇总成交量可能继续反映真实交易意愿；零售批发成交还可能提供价格改善。场外占比高不等于价格发现失效，真正问题可能是不同场所的交易者类型和信息含量不同。\n\n## 候选四：Crypto 财库公司的“每股币数增长”能否经受股本、债务与优先权的完整稀释检验？\n\n### 为什么值得研究\n\nDeFi Development 11 月 23 日披露总 SOL 及等价物增加约 5,180 至 2,624,491，但更新没有同时给出完整的普通股、可转债、优先股和负债桥接。公司第三季度材料显示摊薄加权平均股数同比增加 21.7%，并提供不止一种 SPS 计算方法。\n\n这类公司把融资、质押和验证者收入包装成“每股加密资产增长”。真正需要研究的是普通股的可归属经济权益是否增长，而不是公司钱包中的币数是否增长。\n\n### 核心问题与证据路径\n\n- 定义三种指标：总持币、基本每股持币、完全稀释并扣除净负债后的每股净资产；固定 SOL 价格和债务处理。\n- 为每次融资建立桥接：发行价格、费用、新增股数/索偿权、买入 SOL、staking 收益与股息/利息义务。\n- 对可转债、认股权证、ATM、优先股和质押锁定分别建情景，避免只用当期流通股。\n- 区分会计公允价值收益、真实现金流、staking/validator 收入和 SOL 价格变动；计算资本成本后的增厚。\n- 比较股票对 SOL 净资产的溢价、融资能力和下行情景，测试“高溢价发行—买币—每股增厚”的循环何时失效。\n\n### 反方解释\n\n若公司能长期高于净资产发行股票或低成本融资，并把资金快速转为高收益资产，稀释仍可能带来每股增厚；反过来，使用完全稀释口径也可能把深度价外权证或低概率转换过度计入。应同时报告多种透明口径，而不是选择最有利的一种。\n\n## 选择与下一步\n\n优先选择能取得同口径数据、建立反事实且会改变真实决策的一项。先写决策问题、数据字典、失败条件和反方解释，再决定是否进入完整研究。任何真实研究文章仍需 Linna 确认，自动任务不会把候选升级为 approved，也不会冒充 Linna 的观点。"
+    },
     {
       "id": "briefing-2026-11-23",
       "kind": "briefing",
