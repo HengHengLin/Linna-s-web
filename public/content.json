@@ -1,7 +1,91 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-24T09:00:00+08:00",
+  "updatedAt": "2026-11-25T09:00:00+08:00",
   "entries": [
+    {
+      "id": "briefing-2026-11-25",
+      "kind": "briefing",
+      "title": "今日事实简报：美国货币总量、Dell AI 订单质量与 Crypto 运营资本",
+      "category": "每日财经简报",
+      "date": "2026-11-25",
+      "summary": "基于美联储 11 月 24 日 H.6、Dell 第三财季 SEC 文件与 CFTC 11 月 23 日工作人员公告，区分广义货币增长与风险资产流入、AI backlog 与现金收入，以及可计入运营资源的 Crypto 与现金流动性要求。",
+      "tags": [
+        "宏观",
+        "Federal Reserve",
+        "M1",
+        "M2",
+        "股票",
+        "Dell",
+        "AI服务器",
+        "营运资金",
+        "Crypto",
+        "CFTC",
+        "监管资本",
+        "Stablecoin"
+      ],
+      "status": "curated",
+      "ownerViewpoint": false,
+      "sourceVerified": true,
+      "updatedAt": "2026-11-25T09:00:00+08:00",
+      "sources": [
+        {
+          "title": "Federal Reserve Board：H.6 Money Stock Measures — release dated 24 November 2026",
+          "url": "https://www.federalreserve.gov/releases/H6/current/"
+        },
+        {
+          "title": "Dell Technologies / SEC Exhibit 99.1：Third Quarter Fiscal 2027 Financial Results（24 November 2026）",
+          "url": "https://www.sec.gov/Archives/edgar/data/1571996/000157199626000050/exhibit991earnings8kq3fy27.htm"
+        },
+        {
+          "title": "CFTC Release 9331-26：Staff Advisory on Crypto Assets and Financial Resources Requirements（23 November 2026）",
+          "url": "https://www.cftc.gov/PressRoom/PressReleases/9331-26"
+        },
+        {
+          "title": "CFTC Staff Letter 26-31（23 November 2026）",
+          "url": "https://www.cftc.gov/csl/26-31/download"
+        }
+      ],
+      "body": "## 更新时间\n\n北京时间 2026 年 11 月 25 日 09:00。以下仅整理已发布的官方资料，不包含实时行情、买卖建议或 Linna 的个人观点。宏观数据来自美联储 11 月 24 日 H.6，最新月度口径为 2026 年 10 月；Dell 财报与 CFTC 公告分别发布于 11 月 24 日和 11 月 23 日。\n\n## 宏观：M1、M2 继续扩张，但货币总量不能单独证明资金正在涌向风险资产\n\n美联储 H.6 显示，经季节调整的 M1 从 9 月的 20.0617 万亿美元升至 10 月的 20.1669 万亿美元，单月增加 1,052 亿美元；M2 从 23.4143 万亿美元升至 23.5328 万亿美元，增加 1,185 亿美元。与 2025 年 12 月相比，M1 和 M2 分别增加约 1.0944 万亿美元和 1.2040 万亿美元。\n\n同口径下，10 月货币基础为 5.4602 万亿美元，较 9 月增加 104 亿美元，较 2025 年 12 月增加 865 亿美元。货币基础增长明显慢于 M1、M2 存量增长，说明不能把广义货币变化简单等同于央行基础货币等比例投放。\n\nM2 的构成是 M1 加小额定期存款与零售货币市场基金，再扣除其中估算的 IRA/Keogh 余额。10 月小额定期存款为 1.5325 万亿美元，零售货币市场基金为 3.0716 万亿美元，IRA/Keogh 估算为 1.2382 万亿美元。组成变化可能来自存款重新配置、利率选择和统计重分类，而不只是新增信贷。\n\n支持解释是更高的名义货币余额可为支出与资产配置提供资金条件；反方解释是货币需求、名义收入、存款结构和银行资产负债表同时变化，新增余额可能停留在存款或货币基金。若要判断流动性是否进入股票和 Crypto，还需结合银行信贷、金融条件、基金流量、成交与价格，而不能只看 M2。\n\n## 股票：Dell 的 AI 服务器推动收入与利润跃升，但积压订单、库存和融资需求必须一起看\n\nDell 11 月 24 日向 SEC 提交的财报显示，截至 10 月 30 日的第三财季净收入为 549.37 亿美元，同比增长 103%；GAAP 营业利润 74.42 亿美元，同比增长 251%；经营活动现金流 44.59 亿美元。公司披露 AI 优化服务器收入 220.31 亿美元，同比增长 291%。\n\nInfrastructure Solutions Group 收入 419.74 亿美元，同比增长 198%，营业利润 71.18 亿美元，同比增长 308%，营业利润率由 12.4%升至 17.0%。相比之下，Client Solutions Group 收入 128.86 亿美元，仅增长 3%，营业利润 7.04 亿美元，下降 6%。利润增长高度集中在基础设施业务，不能把集团增速外推到 PC 业务。\n\n公司称季末 AI backlog 为 1,323 亿美元，本季度 AI 订单 602 亿美元，并把 2027 财年 AI 优化服务器收入指引从 740 亿美元上调至 780 亿美元。backlog 是已预订但尚未确认为收入的订单，不等于已经收现或最终可无风险交付；管理层特别提到对客户资本、土地和电力进行审查，也反映 AI 基础设施项目依赖融资与能源条件。\n\n资产负债表同时快速扩张：库存从 2026 年 1 月末的 104.37 亿美元升至 10 月末的 294.44 亿美元，应收账款从 175.85 亿美元升至 289.48 亿美元，短期与长期融资应收款合计约 209.40 亿美元。应付账款也从 336.30 亿美元增至 577.99 亿美元。库存和应收增长可支持放量交付，也会增加执行、客户信用和营运资金风险。\n\n支持解释是 AI 订单、收入、利润率和现金流同步改善，且 ISG 利润增长快于收入；反方解释是高增长集中在资本密集、供应链复杂的服务器项目，backlog 转化速度、客户融资、组件供应、毛利率与库存周转可能波动。后续应跟踪取消率、订单转收入、库存天数、融资应收损失、现金转换和非 AI 业务利润。\n\n## Crypto：CFTC 工作人员允许部分加密资产计入运营资源，但没有把它们等同于现金\n\nCFTC 市场监督部与清算风险部 11 月 23 日发布工作人员公告，说明 SEF、DCM 和 DCO 可在满足运营成本的 financial resources requirement 时，把比特币、以太币和符合定义的支付稳定币作为可接受资源，但必须计入 haircut 和相关限制。\n\n公告给出的工作人员不异议口径包括：BTC 和 ETH 最低 20% haircut，支付稳定币 2%；不易交易且不属于支付稳定币的加密资产通常需要 100% haircut。haircut 表示监管计量价值低于市场价值，用于覆盖价格、信用或流动性风险，并不保证实际压力时期能够按该折扣变现。\n\n这些资产不计入单独的“现金或高流动性证券”最低要求。SEF 的一年运营资源中至少三个月需满足这一流动性要求；DCM 和 DCO 的相应最低期为六个月。公告还要求考虑 wrong-way risk，例如交易平台经营损失与所持加密资产价格下跌同时发生。\n\n范围也必须准确：公告讨论的是一般经营成本资源，不处理 DCO 的违约资源要求；它只是工作人员观点，不是新规则、可执行权利或 no-action position，也不必然代表委员会立场。因此，它降低了一部分合规解释的不确定性，却没有把 Crypto 变成与现金同等的监管资产。\n\n支持解释是允许 BTC、ETH 和合格稳定币进入运营资本框架，表明受监管市场基础设施对加密资产的制度接受度提高；反方解释是高 haircut、流动性排除和错向风险限制了实际资本效率。后续应观察注册实体是否采用、持仓集中度、压力期变现、稳定币储备质量及委员会是否形成正式规则。\n\n本简报仅作事实核验与研究线索，不构成投资建议。"
+    },
+    {
+      "id": "lesson-2026-11-25-financial-resilience-systemic-risk",
+      "kind": "lesson",
+      "title": "英文金融视频：市场有韧性，为什么仍可能积累系统性风险？",
+      "category": "金融英语与金融稳定",
+      "date": "2026-11-25",
+      "summary": "精听 IMF《全球金融稳定报告》英文发布会，区分风险触发因素、结构性脆弱点与系统性传导，掌握 AI 循环融资、主权债券收益率冲击、NBFI 杠杆和流动性错配。",
+      "tags": [
+        "金融英语",
+        "IMF",
+        "GFSR",
+        "金融稳定",
+        "AI融资",
+        "主权债券",
+        "NBFI",
+        "杠杆",
+        "流动性错配"
+      ],
+      "status": "curated",
+      "ownerViewpoint": false,
+      "sourceVerified": true,
+      "videoUrl": "https://www.youtube.com/watch?v=babRXh6zMSY",
+      "duration": "官方完整英文发布会；页面未标注可稳定核验的精确时长；建议选段精听 30 分钟",
+      "sources": [
+        {
+          "title": "IMF：Global Financial Stability Report Press Briefing | October 2026（official YouTube channel, 12 October 2026）",
+          "url": "https://www.youtube.com/watch?v=babRXh6zMSY"
+        },
+        {
+          "title": "IMF：Press Briefing Transcript — Global Financial Stability Report, Annual Meetings 2026（13 October 2026）",
+          "url": "https://www.imf.org/en/news/articles/2026/10/13/tr-101326-press-briefing-transcript-global-financial-stability-report-annual-meetings-2026"
+        },
+        {
+          "title": "IMF：Global Financial Stability Report, October 2026 — Resilience, Risk, and Transformation",
+          "url": "https://www.imf.org/en/publications/gfsr/issues/2026/10/13/global-financial-stability-report-october-2026/"
+        }
+      ],
+      "body": "## 材料核验\n\n本课使用 IMF 官方 YouTube 频道发布的英文视频 “Global Financial Stability Report Press Briefing | October 2026”，发布时间为 2026 年 10 月 12 日（曼谷发布会在 10 月 13 日举行）。IMF 同时发布了 10 月 13 日英文逐字稿和《Global Financial Stability Report: Resilience, Risk, and Transformation》，可交叉核对发言与数字。\n\n官方检索页没有给出可稳定核验的精确视频时长，因此本条不编造分钟数或时间戳。建议先精听发布会开场和关于 AI 融资、主权债券、NBFI 的问答，再用官方逐字稿复核。本材料不代表 Linna 已完成观看，也不把 IMF 工作人员判断写成她的观点。\n\n## 中文知识说明\n\nFinancial resilience 不是“价格不会跌”，而是市场与机构在冲击后仍能继续融资、清算、支付和提供信贷。IMF 的核心区分是：risk 是可能触发压力的冲击，vulnerability 是会放大冲击的资产负债表或市场结构弱点，systemic risk 则是压力开始损害金融中介和实体经济。\n\n报告列出三个显著触发因素。第一，若 AI 投资和盈利兑现弱于预期，AI 相关股票与信用资产可能重估。第二，通胀、财政担忧或期限溢价上升可能推高主权债券收益率，并通过折现率和抵押品价值传导到其他市场。第三，网络事件可能直接中断支付、交易或关键第三方服务。\n\nIMF 分析的 14 笔公开 AI 生态交易包括约 3,000 亿美元股权、6,500 亿美元债务，以及 1.4 万亿美元未来收入承诺。这些数字不是已经实现的收入，也不是全部 AI 行业融资。若未来需求兑现不足，股权估值、偿债能力与收入承诺可能同时承压，形成 negative feedback loop。\n\nNBFI 包括保险、养老金、私募信贷和对冲基金等非银行金融机构。它们可以提供长期资金和市场流动性，但流动性错配、杠杆与 crowded trades 可能在压力中放大抛售。银行与 NBFI 的融资和对手方联系使风险并未简单“离开”银行体系。\n\n压力测试的含义也需要准确表达：IMF 认为全球银行体系在严峻情景下整体仍有资本韧性，但存在一批可能资本不足的机构，并且这些机构与 NBFI 的联系更深。aggregate resilience 不能掩盖 tail risk。\n\n## 核心词汇\n\n- resilience：韧性；受冲击后仍能维持关键功能。\n- vulnerability：脆弱性；会放大冲击的结构弱点。\n- systemic risk：系统性风险。\n- tightening of financial conditions：金融条件收紧。\n- AI-related market correction：AI 相关资产价格回调。\n- sovereign bond yield shock：主权债券收益率冲击。\n- circular financing：循环融资；生态参与者之间相互投资、借贷和承诺采购。\n- future revenue commitment：未来收入承诺。\n- leverage：杠杆。\n- non-bank financial institution (NBFI)：非银行金融机构。\n- liquidity mismatch：流动性错配。\n- crowded positioning：拥挤持仓。\n- prime broker：主经纪商。\n- amplification channel：放大渠道。\n- tail risk：尾部风险。\n- operational resilience：运营韧性。\n\n## 地道表达\n\n- resilience is not the same as safety：韧性不等于绝对安全。\n- a shock can crystallize existing vulnerabilities：冲击可能使既有脆弱性显现。\n- higher yields reprice assets through the discount rate：更高收益率通过折现率重估资产。\n- leverage can amplify an otherwise manageable correction：杠杆会把原本可控的调整放大。\n- future revenue commitments may fail to materialize：未来收入承诺可能无法兑现。\n- liquidity mismatches can force asset sales under stress：流动性错配可能在压力下迫使机构卖出资产。\n- crowded trades can spill over to prime brokers：拥挤交易可能向主经纪商传导。\n- aggregate resilience can conceal a vulnerable tail：整体韧性可能掩盖脆弱的尾部机构。\n- strengthen buffers before the next shock hits：在下一次冲击前增强缓冲。\n- trace the transmission channel from trigger to real activity：追踪从触发因素到实体经济的传导链。\n\n## 精听方法\n\n第一遍只抓结构：发言人列出的三个 trigger 是什么？每个 trigger 对应哪一种 vulnerability？\n\n第二遍聚焦 AI 融资。记录 equity、debt、future revenue commitments、monetization 和 negative feedback loop，画出“资本支出—供应商收入—债务偿付—估值”的循环。\n\n第三遍聚焦主权债券与 NBFI。区分 yield shock、collateral repricing、liquidity mismatch、crowded positioning 和 bank–NBFI interconnectedness。\n\n第四遍用官方逐字稿复核数字和上下文。不要把压力测试中的“整体有韧性”改写成“所有银行安全”，也不要把风险情景写成确定预测。\n\n## 输出练习\n\n用两分钟英文回答：\n\n“Why can resilient markets still contain rising systemic risk?”\n\n必须使用 resilience、vulnerability、sovereign bond yield shock、leverage、liquidity mismatch、NBFI 和 amplification channel。\n\n参考开头：\n\n“Resilient markets can absorb ordinary shocks, but resilience is not safety. A trigger becomes systemic when leverage, liquidity mismatches and interconnected balance sheets amplify it.”\n\n再做一个反方练习：先说明 AI 融资为何可能是生产性资本形成，而不是泡沫；再说明哪些证据会改变这个判断，例如资本回报、自由现金流、债务服务覆盖率和真实客户收入。本材料仅用于金融英语与金融稳定知识学习，不构成投资建议。"
+    },
     {
       "id": "briefing-2026-11-24",
       "kind": "briefing",
