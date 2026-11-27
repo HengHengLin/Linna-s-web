@@ -1,7 +1,93 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-26T09:00:00+08:00",
+  "updatedAt": "2026-11-27T09:00:00+08:00",
   "entries": [
+    {
+      "id": "briefing-2026-11-27",
+      "kind": "briefing",
+      "title": "今日事实简报：美国增长修订、Tempus 并购融资与 DeSci 代币监管边界",
+      "category": "每日财经简报",
+      "date": "2026-11-27",
+      "summary": "基于 BEA 11 月 25 日 GDP 二次估计、Tempus AI 11 月 25 日 SEC 文件与 SEC 11 月 24 日 Molecule AG 不采取行动函，区分年化增长与季度增量、并购战略与融资结构，以及个案监管立场与普遍法律结论。",
+      "tags": [
+        "宏观",
+        "BEA",
+        "GDP",
+        "企业利润",
+        "股票",
+        "Tempus AI",
+        "Personalis",
+        "AI生物医疗",
+        "并购融资",
+        "Crypto",
+        "DeSci",
+        "Molecule",
+        "监管"
+      ],
+      "status": "curated",
+      "ownerViewpoint": false,
+      "sourceVerified": true,
+      "updatedAt": "2026-11-27T09:00:00+08:00",
+      "sources": [
+        {
+          "title": "U.S. Bureau of Economic Analysis：GDP (Second Estimate) and Corporate Profits, 3rd Quarter 2026（25 November 2026）",
+          "url": "https://www.bea.gov/news/2026/gdp-second-estimate-and-corporate-profits-3rd-quarter-2026"
+        },
+        {
+          "title": "Tempus AI / SEC Form 8-K：Cash Election and Ares Credit Agreement（filed 25 November 2026）",
+          "url": "https://www.sec.gov/Archives/edgar/data/1717115/000119312526478564/d51820d8k.htm"
+        },
+        {
+          "title": "SEC Division of Corporation Finance：Molecule AG No-Action Letter（24 November 2026）",
+          "url": "https://www.sec.gov/rules-regulations/no-action-interpretive-exemptive-letters/division-corporation-finance-no-action/molecule-ag-112426"
+        },
+        {
+          "title": "SEC：Crypto@SEC index（last reviewed 24 November 2026）",
+          "url": "https://www.sec.gov/featured-topics/crypto-task-force/cryptosec"
+        }
+      ],
+      "body": "## 更新时间\n\n北京时间 2026 年 11 月 27 日 09:00。以下只整理截至该时点已发布的官方资料，不包含实时行情、买卖建议或 Linna 的个人观点。宏观资料为 BEA 11 月 25 日发布的第三季度 GDP 二次估计；股票资料为 Tempus AI 11 月 25 日提交的 Form 8-K；Crypto 资料为 SEC 11 月 24 日发布并更新的 Molecule AG 不采取行动函。\n\n## 宏观：第三季度实际 GDP 上修，但必须区分年化增速与单季增长\n\nBEA 的二次估计显示，美国 2026 年第三季度实际 GDP 按季节调整年率增长 4.3%，高于第二季度的 2.2%，也比初值 3.4%上修 0.9 个百分点。这里的 4.3%是把单季变化年化后的速度；BEA 同时给出未经年化的季度增幅约 1.1%，不能把 4.3%理解为经济在一个季度扩大了 4.3%。\n\n上修主要来自投资和消费支出。BEA 指出，投资上修由知识产权产品、尤其软件带动；商品消费上修部分被服务消费下修抵消。衡量私人国内最终需求的实际私人国内最终销售增长 5.8%，也较初值上修 0.9 个百分点。\n\n收入侧的实际 GDI 增长 4.4%，GDP 与 GDI 的平均值同样增长 4.4%。产出和收入两种口径本期方向一致，但均会在后续资料到齐后修订。企业当期生产利润增加 2,060 亿美元，低于第二季度增加 3,840 亿美元；利润水平上升不等于利润增量加速。\n\n价格方面，国内总购买价格指数增长 2.7%，较初值下修 0.3 个百分点；PCE 价格指数增长 2.1%，核心 PCE 增长 2.5%，两者均与初值一致。这些也是季度年化口径，不应与月度同比直接混用。\n\n支持解释是私人最终需求、实际 GDI 与利润均增长，软件投资和商品消费上修提高了增长质量；反方解释是出口下降、进口增加，且高频就业与消费数据可能已经偏离第三季度平均状态。后续应看 12 月 23 日第三次估计、第四季度数据、实际工资和投资明细，而不是把一次上修外推成长期趋势。\n\n## 股票：Tempus 为 Personalis 交易选择现金加股票，并引入最高 5 亿美元担保融资\n\nTempus AI 11 月 24 日选择以约 6 亿美元现金加约 9 亿美元 Tempus A 类普通股，支付此前公告收购 Personalis 的合并对价。文件以合并前 Personalis 约 1.087 亿股流通股为假设，现金份额数量及最终对价仍可能按协议条件调整。\n\n为部分支持现金对价，Tempus 11 月 25 日与 Ares 等签订高级担保信贷协议，包括 3.85 亿美元定期贷款承诺与 1.15 亿美元循环额度，总承诺最高 5 亿美元。资金用途包括收购对价、交易费用、营运资本和一般公司用途。\n\n这使交易分析不能只看“AI 与精准医疗协同”。约 9 亿美元股票对价会把交易价值的一部分转移为合并后股价与稀释问题；最高 5 亿美元的担保融资则引入利息、契约和抵押品约束。8-K 没有证明整笔循环额度已提款，也不等于并购已经完成。\n\n文件明确，交易仍需 Personalis 股东通过及其他惯常交割条件。支持解释是现金加股票分散单一支付方式，并获得明确融资承诺；反方解释是杠杆、股权稀释、整合成本和协同兑现时间可能降低收购回报。后续应核对最终融资提款、利率和契约、交割日股本、整合费用、Personalis 收入留存与新增检测量。\n\n## Crypto：Molecule 个案获得“不建议执法”立场，但不是对 DeSci 代币的普遍豁免\n\nSEC 公司融资部 11 月 24 日回复 Molecule AG：基于来函所述事实，并依赖律师意见，如果 LabsCo 按所述方式发行和销售 Project Tokens，工作人员不会建议委员会依据《证券法》第 5 条或《交易法》第 12(g)条采取执法行动。\n\n这是一封 no-action letter，核心含义是工作人员在特定事实和陈述下的执法立场。SEC 同时明确，事实或条件不同可能导致不同结论，而且回函只表达是否建议执法，不构成对法律问题的正式结论。因此不能把它概括为“所有科研代币都不是证券”或“DeSci 已获得全面许可”。\n\n对 DeSci 与研发融资研究，更重要的是拆分三层价值：代币是否只提供项目访问、治理或使用功能；持有人是否拥有实验室公司股权、收入或知识产权收益；发行方是否以持续经营努力与升值预期营销代币。只有把权利、现金流、控制权与发行陈述逐项核对，才能判断个案边界。\n\n支持解释是 SEC 提供了可观察的个案路径，可能降低符合条件项目的监管不确定性；反方解释是 no-action letter 依赖陈述、适用范围窄且可因事实变化失效，不能替代法条、法院判断或正式规则。后续应取得并逐条阅读来函全文、代币条款、DAO 与 LabsCo 关系、资金用途、二级市场限制和对购买者的宣传。\n\n本简报仅作事实核验与研究线索，不构成投资、法律或税务建议。"
+    },
+    {
+      "id": "lesson-2026-11-27-yields-risk-appetite",
+      "kind": "lesson",
+      "title": "英文金融视频：收益率上行，为什么风险偏好仍能保持韧性？",
+      "category": "金融英语与跨资产市场",
+      "date": "2026-11-27",
+      "summary": "学习 BIS 32 分 36 秒英文媒体简报，用 term premium、fiscal burden、risk appetite、valuation、credit spread 与 sector rotation 解释长端收益率、AI 估值和信用市场如何同时变化。",
+      "tags": [
+        "金融英语",
+        "BIS",
+        "债券",
+        "收益率",
+        "期限溢价",
+        "财政",
+        "风险偏好",
+        "AI估值",
+        "信用利差",
+        "跨资产"
+      ],
+      "status": "curated",
+      "ownerViewpoint": false,
+      "sourceVerified": true,
+      "videoUrl": "https://www.youtube.com/watch?v=w4PPDSY9cc8",
+      "duration": "32 分 36 秒（BIS 官方页面标注 00:32:36）；建议学习 35 分钟",
+      "sources": [
+        {
+          "title": "Bank for International Settlements：Media briefing on the BIS Quarterly Review, September 2026（video, 11 September 2026, 00:32:36）",
+          "url": "https://www.bis.org/media/videos"
+        },
+        {
+          "title": "BIS Quarterly Review, September 2026（published 14 September 2026）",
+          "url": "https://www.bis.org/publications/qr-202609"
+        },
+        {
+          "title": "BIS：Yields climb, yet risk appetite holds firm",
+          "url": "https://www.bis.org/publications/qr-202609/yields-climb-yet-risk-appetite-holds-firm"
+        }
+      ],
+      "body": "## 材料核验\n\n本课使用国际清算银行 2026 年 9 月 11 日发布的英文视频 “Media briefing on the BIS Quarterly Review, September 2026”。BIS 官方视频目录标注时长 00:32:36，演讲者为 Frank Smets 与 Gaston Gelos；季度评论页面说明，两人总结市场发展、全球经济与财政政策并回答记者提问。\n\n本课依据官方视频目录、季度评论总览与配套市场章节整理，不复制完整字幕，也不虚构逐秒时间戳。它是每日金融英语材料，不重复本周已发布的 Crypto 精听；不代表 Linna 已完成观看或形成个人观点。\n\n## 中文知识说明\n\n标题 “Yields climb, yet risk appetite holds firm” 把两个看似冲突的市场现象放在一起：政府债券收益率上升通常提高贴现率并压低风险资产估值，但风险偏好仍可能因为盈利预期、资金再配置和信用供给而保持韧性。\n\n收益率上升要拆成预期短端利率和 term premium。期限溢价是投资者持有长期债券而要求的额外补偿。BIS 认为本期长端压力不仅来自货币政策预期，也与财政负担、发债供给和不确定性有关；长期通胀补偿相对稳定，说明实际期限溢价与财政因素可能更重要。\n\n风险偏好不是“所有资产一起上涨”。AI 相关股票动能减弱后，资金可转向小盘股、其他地区或银行等板块，这叫 sector rotation。指数波动率不高，也可能掩盖单股分化和杠杆产品造成的局部脆弱性。\n\n信用市场同样需要分层。总体 credit spreads 仍接近历史较窄区间，但投资者偏向高评级借款人；大型科技公司长期债券发行增加，而高收益债、杠杆贷款和私人信贷活动变弱。看似平静的平均利差，可能同时包含质量迁移和低评级融资受阻。\n\nAI 估值的关键不只是收入增速，还包括资本开支回报、债务融资、长期合同和表外义务。当贴现率上升时，越依赖远期现金流的估值越敏感；但如果市场相信生产率和盈利会补偿融资成本，风险偏好可以暂时维持。\n\n## 核心词汇\n\n- sovereign yield：主权债券收益率。\n- long end of the yield curve：收益率曲线长端。\n- term premium：期限溢价。\n- fiscal burden：财政负担。\n- debt sustainability：债务可持续性。\n- risk appetite：风险偏好。\n- valuation：估值。\n- sector rotation：板块轮动。\n- credit spread：信用利差。\n- investment-grade borrower：投资级借款人。\n- high-yield bond：高收益债券。\n- leveraged loan：杠杆贷款。\n- idiosyncratic risk：特质风险。\n- off-balance-sheet obligation：表外义务。\n- risk compensation：风险补偿。\n\n## 地道表达\n\n- yields extended their upward march：收益率延续上行。\n- risk appetite held firm：风险偏好保持韧性。\n- fiscal concerns added to the pressure：财政担忧增加了压力。\n- valuations remained elevated：估值仍处高位。\n- investors reallocated their bets：投资者重新配置押注。\n- credit markets were relatively unscathed：信用市场总体受冲击较小。\n- spreads remained compressed：利差仍被压缩在较窄水平。\n- risks were building beneath the surface：风险在表面之下累积。\n- distinguish aggregate calm from pockets of stress：区分整体平静与局部压力。\n- demand greater compensation for duration risk：要求更高的久期风险补偿。\n\n## 精听方法\n\n第一遍只记录三条因果链：财政压力如何进入长端收益率，AI 估值如何受贴现率影响，风险偏好如何通过板块与地区再配置维持。\n\n第二遍按资产分类记词：government bonds、equities、credit、gold、foreign exchange。每类各写一句“价格变化—可能原因—反方解释”。\n\n第三遍聚焦连接词 yet、while、despite、by contrast、on the whole。它们帮助表达“总体韧性与局部脆弱性并存”，比简单说 bullish 或 bearish 更准确。\n\n第四遍做口径核验：区分收益率水平、期限溢价、信用利差、指数波动率和单股分散度，不把一个指标替代整个市场。\n\n## 输出练习\n\n用 90 秒英文回答：\n\n“How can sovereign yields rise while risk appetite remains resilient?”\n\n必须使用 term premium、fiscal burden、valuation、sector rotation、credit spread、investment-grade 和 idiosyncratic risk。\n\n参考开头：\n\n“Rising sovereign yields do not automatically imply a broad retreat from risk. A higher term premium may reflect fiscal uncertainty, while investors can preserve risk appetite through sector rotation and a preference for investment-grade credit.”\n\n再用 60 秒英文提出反方解释：狭窄信用利差和低指数波动率为何可能低估局部杠杆、单股分化与低评级融资压力。本材料用于金融英语与跨资产知识学习，不构成投资建议。"
+    },
     {
       "id": "briefing-2026-11-26",
       "kind": "briefing",
